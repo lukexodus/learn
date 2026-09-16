@@ -1,8 +1,5 @@
-# Obsidian transient state (regenerate automatically)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspaces.json
-.obsidian/hotkeys.json.bak
+# Obsidian app state (device-local, regenerated automatically)
+.obsidian/
 **/*.sync-conflict-*
 
 # OS junk
