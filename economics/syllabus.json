@@ -1,0 +1,819 @@
+{
+  "topic": "Economics",
+  "topic_slug": "economics",
+  "generated_at": "2026-09-05T19:41:30.434217",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Scope of Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "What Economics Studies: Scarcity, Choice, and Opportunity Cost"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positive versus Normative Economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Economic Way of Thinking: Models, Assumptions, Ceteris Paribus"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Production Possibilities Frontier and Trade-offs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Absolute and Comparative Advantage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gains from Trade and Specialization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Economic Systems: Market, Command, Mixed, Traditional"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Circular Flow of Income and Expenditure"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Marginal Analysis and Rational Decision-Making"
+        },
+        {
+          "item_index": 10,
+          "item_title": "History of Economic Thought: Classical, Marxist, Neoclassical, Keynesian, Monetarist, Institutionalist Schools"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Microeconomics: Demand and Supply",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Law of Demand and Demand Curve Derivation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Law of Supply and Supply Curve Derivation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Market Equilibrium and Price Determination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Shifts versus Movements Along Curves"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price Elasticity of Demand and Determinants"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Income Elasticity and Cross-Price Elasticity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Elasticity of Supply"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Consumer and Producer Surplus"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Price Controls: Ceilings and Floors"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Taxes, Subsidies, and Tax Incidence"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Deadweight Loss Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Consumer Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Utility Theory: Total and Marginal Utility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Diminishing Marginal Utility and Consumer Equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Indifference Curves and Budget Constraints"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Income and Substitution Effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deriving the Individual Demand Curve"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consumer Choice Under Risk and Uncertainty"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Economics: Bounded Rationality and Heuristics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Prospect Theory and Framing Effects"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Intertemporal Choice and Time Preference"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Production and Cost Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Production Function: Total, Average, Marginal Product"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Law of Diminishing Marginal Returns"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short-Run versus Long-Run Cost Curves"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economies and Diseconomies of Scale"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Isoquants, Isocosts, and Optimal Input Combination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Returns to Scale"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Profit Maximization: Marginal Revenue Equals Marginal Cost"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Shutdown Point and Break-Even Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Market Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Perfect Competition: Assumptions and Equilibrium"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monopoly: Sources of Market Power and Price Discrimination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monopolistic Competition and Product Differentiation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Oligopoly: Interdependence and Collusion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Game Theory: Nash Equilibrium and the Prisoner's Dilemma"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Repeated Games and Cooperative Strategies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contestable Markets Theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Antitrust and Competition Policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Factor Markets and Income Distribution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Labor Market Supply and Demand"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marginal Revenue Product and Wage Determination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Labor Unions and Collective Bargaining"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Minimum Wage Effects and Empirical Debates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital Markets and the Rate of Return"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Land Markets and Economic Rent"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Personal Income Distribution and the Lorenz Curve"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Gini Coefficient and Measures of Inequality"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Poverty Measurement and Policy Responses"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Market Failure and the Role of Government",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Externalities: Positive and Negative"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coase Theorem and Property Rights Solutions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Public Goods and the Free-Rider Problem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common Resources and the Tragedy of the Commons"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asymmetric Information: Adverse Selection and Moral Hazard"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Signaling and Screening"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Public Choice Theory and Government Failure"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cost-Benefit Analysis for Policy Evaluation"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Regulation versus Market-Based Instruments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Introduction to Macroeconomics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Macroeconomic Goals: Growth, Employment, Price Stability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gross Domestic Product: Measurement Approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nominal versus Real GDP and GDP Deflator"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Limitations of GDP as a Welfare Measure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "National Income Accounting Identities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Business Cycles: Phases and Indicators"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Unemployment and Inflation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Measuring Unemployment: Labor Force Participation and Rates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Types of Unemployment: Frictional, Structural, Cyclical"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Natural Rate of Unemployment and Full Employment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Measuring Inflation: Consumer Price Index and GDP Deflator"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Causes of Inflation: Demand-Pull and Cost-Push"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Costs of Inflation and Hyperinflation Case Studies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Phillips Curve: Short-Run and Long-Run"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Inflation Expectations and Adaptive versus Rational Expectations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Aggregate Demand and Aggregate Supply",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Aggregate Demand Curve and Its Components"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aggregate Supply: Short-Run and Long-Run"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Equilibrium in the AD-AS Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Demand-Side and Supply-Side Shocks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Multiplier Effect"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Keynesian Cross Model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Say's Law versus Keynesian Demand-Side Theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Money, Banking, and Financial Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functions and Types of Money"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Money Supply Definitions: M0, M1, M2"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Banking System and Fractional Reserve Banking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Money Creation and the Money Multiplier"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Money Market and Interest Rate Determination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bond Markets and the Yield Curve"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Financial Intermediation and Systemic Risk"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Financial Crises: Causes and Historical Case Studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Monetary Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Central Bank Structure and Mandates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tools of Monetary Policy: Open Market Operations, Reserve Requirements, Discount Rate"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transmission Mechanisms of Monetary Policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inflation Targeting and Policy Rules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Taylor Rule"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quantitative Easing and Unconventional Monetary Policy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Central Bank Independence and Credibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Fiscal Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Government Spending and Taxation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expansionary versus Contractionary Fiscal Policy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Automatic Stabilizers versus Discretionary Policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Budget Deficits and the National Debt"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Crowding Out and Ricardian Equivalence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiscal Multipliers and Their Determinants"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Debt Sustainability Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Economic Growth Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of Long-Run Economic Growth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Solow-Swan Growth Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capital Accumulation, Depreciation, and the Steady State"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Endogenous Growth Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Total Factor Productivity and Technological Change"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Human Capital and Growth"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Convergence Hypothesis and Cross-Country Growth Patterns"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Institutions and Long-Run Development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "International Trade",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ricardian Model of Trade"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heckscher-Ohlin Model and Factor Endowments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trade Barriers: Tariffs, Quotas, and Non-Tariff Measures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Effects of Trade Policy on Welfare"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trade Agreements and Economic Integration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The World Trade Organization and Dispute Resolution"
+        },
+        {
+          "item_index": 7,
+          "item_title": "New Trade Theory and Intra-Industry Trade"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Globalization: Benefits, Costs, and Criticisms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "International Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Balance of Payments Accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exchange Rate Systems: Fixed, Floating, and Managed"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Determinants of Exchange Rates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Purchasing Power Parity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interest Rate Parity and Covered Interest Arbitrage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Mundell-Fleming Model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Currency Crises and Speculative Attacks"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Capital Controls and Financial Globalization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Development Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Measuring Development: Beyond GDP per Capita"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Theories of Underdevelopment and Dependency"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Poverty Trap and Big Push Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Foreign Aid Effectiveness Debates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Microfinance and Financial Inclusion"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Institutions, Governance, and Corruption"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Randomized Controlled Trials in Development Economics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Structural Transformation and Industrialization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Public Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Taxation: Equity and Efficiency"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tax Structures: Progressive, Regressive, Proportional"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Optimal Taxation Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Insurance and Welfare Programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public Debt and Intergenerational Equity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiscal Federalism and Local Public Finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Environmental and Resource Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Valuing Environmental Goods and Externalities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pigouvian Taxes and Cap-and-Trade Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Renewable versus Non-Renewable Resource Economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Economics of Climate Change"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sustainable Development and Green Accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Financial and Behavioral Economics Extensions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Efficient Market Hypothesis and Anomalies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Asset Pricing and Risk-Return Tradeoffs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behavioral Finance: Bubbles and Herding"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nudge Theory and Choice Architecture"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neuroeconomics: Decision-Making and the Brain"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Econometrics and Quantitative Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Descriptive Statistics for Economic Data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Simple and Multiple Linear Regression"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hypothesis Testing and Confidence Intervals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Time Series Analysis and Forecasting Basics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Causal Inference: Instrumental Variables and Natural Experiments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Panel Data Methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Model Specification and Common Econometric Pitfalls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Contemporary Issues and Applied Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Economics of Technology and Digital Platforms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Automation, Artificial Intelligence, and the Future of Work"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Healthcare Economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Urban and Regional Economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Economics of Education"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cryptocurrency and Digital Currency Economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Universal Basic Income Debates"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Comparative Economic Systems in Practice"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "topic": "Managerial Economics",
+  "topic_slug": "managerial_economics",
+  "generated_at": "2026-09-09T20:19:20.389176",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Managerial Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nature, scope, and significance of managerial economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managerial economics in relation to microeconomics, macroeconomics, and allied disciplines"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The theory of the firm and its objectives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Profit maximization and alternative theories of the firm"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Principal-agent problems and managerial objectives"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Incremental and marginal analysis in decision making"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Opportunity cost and economic versus accounting profit"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Time perspective and the discounting principle"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The equimarginal principle"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Role and responsibilities of the managerial economist"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Quantitative Tools for Managerial Decision Making",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functional relationships and economic models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marginal analysis using differential calculus"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Unconstrained optimization techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Constrained optimization and Lagrange multipliers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Linear programming formulation and graphical solution"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The simplex method and duality in linear programming"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sensitivity analysis in linear programming"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Regression analysis fundamentals for business decisions"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Correlation, hypothesis testing, and statistical significance in economic analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Market Equilibrium and the Price Mechanism",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Demand, supply, and the determination of market equilibrium"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative statics: shifts in demand and supply curves"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Price elasticity of supply"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consumer surplus, producer surplus, and market efficiency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Effects of taxes and subsidies on market outcomes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deadweight loss and welfare analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Theory of Consumer Demand",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Law of demand and determinants of demand"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Consumer preferences and utility theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Indifference curve analysis and consumer equilibrium"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Income and substitution effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Individual versus market demand curves"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Revealed preference and behavioral foundations of demand"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Exceptions to the law of demand"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Demand Elasticity and Estimation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Price elasticity of demand and its determinants"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Elasticity and total revenue relationships"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Income elasticity of demand and product classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cross-price elasticity and substitute-complement relationships"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Advertising and promotional elasticity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consumer surveys and market experiments for demand estimation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Regression-based demand estimation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The identification problem in demand estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Demand Forecasting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purpose and levels of demand forecasting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Qualitative forecasting methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trend analysis and time-series smoothing techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Barometric and leading indicator methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Econometric forecasting models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forecasting demand for new products"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Evaluating and improving forecast accuracy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Theory of Production",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Production function concepts and assumptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Short-run production and the law of variable proportions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Total, average, and marginal product relationships"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stages of production and the rational stage of operation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Isoquants, isocost lines, and producer equilibrium"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Long-run production and returns to scale"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Cobb-Douglas and other production functions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Technological change and productivity growth"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Cost Theory and Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost concepts: explicit, implicit, and opportunity costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Short-run cost curves and their relationships"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long-run average cost and the envelope curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economies and diseconomies of scale"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economies of scope and multi-product cost structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Learning curves and experience effects"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Statistical and engineering cost estimation methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Break-even analysis and operating leverage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Perfect Competition and Monopoly",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics and assumptions of perfect competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Short-run and long-run equilibrium under perfect competition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Characteristics and sources of monopoly power"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monopoly price and output determination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price discrimination: first, second, and third degree"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Natural monopoly and welfare considerations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Measuring market power and market concentration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Monopolistic Competition and Oligopoly",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics of monopolistic competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Product differentiation and non-price competition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interdependence and behavior under oligopoly"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cournot and Bertrand models of oligopoly"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Stackelberg leadership model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The kinked demand curve model of price rigidity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cartels, collusion, and price leadership"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Contestable markets and potential competition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Game Theory and Strategic Interaction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basic concepts: players, strategies, and payoffs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Simultaneous-move games and Nash equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dominant strategies and iterated elimination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sequential-move games and extensive form representation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The prisoner's dilemma and cooperative outcomes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Repeated games and sustaining cooperation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mixed strategy equilibria"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Entry deterrence, limit pricing, and credible commitment"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Auction theory and mechanism design fundamentals"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Bargaining theory and negotiation strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Pricing Strategies and Practices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost-plus and markup pricing methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Value-based and demand-based pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Price discrimination strategies in practice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bundling and tying strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Two-part tariffs and multi-part pricing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Peak-load pricing in capacity-constrained markets"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Transfer pricing across business units"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Penetration versus skimming pricing for new products"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Psychological and behavioral pricing tactics"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Dynamic pricing and revenue management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Decision Making Under Risk and Uncertainty",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Distinguishing risk from uncertainty"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Probability distributions and expected value analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Decision trees for sequential decision problems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Expected utility theory and risk attitudes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Certainty equivalents and risk premiums"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sensitivity and scenario analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Monte Carlo simulation in managerial decisions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The value of information"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Capital Budgeting and Investment Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Time value of money and discounted cash flow analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The net present value method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The internal rate of return method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Payback period and profitability index"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Estimating the cost of capital"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital rationing decisions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Real options analysis in investment decisions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Risk-adjusted discount rates in capital budgeting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Information Economics and Contract Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asymmetric information and market failure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adverse selection and the market for lemons"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Moral hazard in business relationships"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Signaling mechanisms and credible information transfer"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Screening mechanisms and self-selection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Principal-agent problems in organizations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Incentive contract design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Government, Regulation, and Business",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for government intervention in markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Externalities and their managerial implications"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Public goods and the free-rider problem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Antitrust law and competition policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price controls: ceilings, floors, and market distortions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulation of natural monopolies and public utilities"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Environmental regulation and market-based instruments"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Deregulation and its effects on market structure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Behavioral Economics for Managers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded rationality and satisficing behavior"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heuristics and cognitive biases in business decisions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prospect theory and reference-dependent choice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Loss aversion and framing effects in pricing and negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nudge theory and choice architecture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Behavioral biases in consumer decision making"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Macroeconomic Environment and Business Cycles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Business cycles and their impact on managerial decisions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inflation, interest rates, and business planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fiscal policy effects on business decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monetary policy transmission to business activity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leading economic indicators for business forecasting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Exchange rates and their effect on domestic business"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "International Managerial Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparative advantage and global business strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exchange rate risk and hedging decisions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Foreign direct investment decision analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global market entry mode selection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multinational transfer pricing considerations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trade policy, tariffs, and their business implications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Organizational Economics and Corporate Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Make-or-buy and outsourcing decisions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vertical integration and its economic rationale"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Diversification strategy and economic analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mergers and acquisitions: economic motives and evaluation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transaction cost economics and firm boundaries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Network effects and platform economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Economics of innovation and research and development decisions"
+        }
+      ]
+    }
+  ]
+}

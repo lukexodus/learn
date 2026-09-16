@@ -1,0 +1,1493 @@
+{
+  "topic": "Geospatial & Environmental Science",
+  "topic_slug": "geospatial_environmental_science",
+  "generated_at": "2026-09-13T18:39:44.347118",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Geospatial Thinking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spatial Concepts and Geographic Reasoning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scale and Levels of Spatial Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "History and Evolution of Geospatial Science"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spatial Relationships and Topology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Types and Sources of Geospatial Data"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Absolute and Relative Location Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Spatial Thinking in Scientific Problem Solving"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Mathematical and Statistical Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Trigonometry and Vector Mathematics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Linear Algebra for Spatial Transformations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Descriptive and Inferential Statistics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Probability Theory Fundamentals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Calculus Concepts for Environmental Modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Matrix Operations in Geospatial Computing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Earth Geometry, Geodesy, and Coordinate Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Shape and Size of the Earth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geodetic Datums and Reference Frames"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Geographic and Projected Coordinate Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Map Projections and Distortion Properties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selecting Appropriate Projections"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Vertical Datums and Elevation Reference Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Geodetic Surveying Fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Cartographic Principles and Map Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and Evolution of Cartography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Map Elements and Layout Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Map Scale and Generalization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thematic Mapping Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Color Theory and Map Symbology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Typography and Labeling in Cartography"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Visual Hierarchy and Map Communication"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Interactive and Animated Cartography"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "GIS Fundamentals and Data Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vector Data Model Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Raster Data Model and Grid Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "TIN and Surface Data Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Object-Based and Network Data Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Attribute Data and Data Tables"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Topology and Spatial Relationships in GIS"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Vector-Raster Data Conversion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Spatial Databases and Data Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Relational Database Concepts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geodatabase Architecture and Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "SQL and Spatial Query Languages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spatial Indexing Methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Data Normalization and Schema Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi-User Editing and Version Control"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cloud-Based Spatial Data Storage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "GIS Software and Platforms",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Desktop GIS Software Overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Open-Source Versus Proprietary GIS Tools"
+        },
+        {
+          "item_index": 3,
+          "item_title": "GIS Interface and Workflow Fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Extensions and Plugin Ecosystems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Enterprise GIS Architecture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mobile GIS Applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Geoprocessing and Spatial Analysis Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Buffer, Clip, and Overlay Operations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spatial Join and Proximity Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Map Algebra and Raster Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Model Building and Workflow Automation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Batch Processing and Script-Based Geoprocessing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi-Criteria Spatial Decision Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Spatial Data Quality and Metadata",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of Spatial Data Error and Uncertainty"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positional and Attribute Accuracy Assessment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Lineage and Provenance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Metadata Standards and Documentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fitness-for-Use Evaluation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Uncertainty Propagation in Spatial Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Positioning, Surveying, and GNSS",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of GPS and GNSS Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Satellite Positioning Error Sources"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Differential GPS and RTK Positioning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Traditional and Modern Surveying Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Total Stations and Leveling Instruments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Coordinate Transformation and Datum Conversion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Field Data Collection and Mobile Mapping",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Field Survey Design Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mobile GIS Data Collection Workflows"
+        },
+        {
+          "item_index": 3,
+          "item_title": "GNSS Field Data Capture Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Volunteered Geographic Information and Citizen Science"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ground-Truthing and Field Validation Methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sensor-Based Field Data Logging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Principles of Remote Sensing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electromagnetic Spectrum and Energy Interactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Passive and Active Remote Sensing Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Spectral, Spatial, Temporal, and Radiometric Resolution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Atmospheric Effects on Remote Sensing Data"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sensor and Platform Overview"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Image Acquisition Geometry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Satellite and Aerial Sensor Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Optical and Multispectral Satellite Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hyperspectral Imaging Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermal Infrared Remote Sensing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Radar and Synthetic Aperture Radar"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Aerial Photography and Photogrammetry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Satellite Constellations and Open Data Archives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "UAV and Drone Remote Sensing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "UAV Platform Types and Sensor Payloads"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Flight Planning and Mission Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drone Regulations and Airspace Considerations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Structure from Motion Photogrammetry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "UAV Data Processing Workflows"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Applications of Drone-Based Mapping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "LiDAR and 3D Geospatial Data",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "LiDAR Principles and System Components"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Airborne, Terrestrial, and Mobile LiDAR"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Point Cloud Processing and Classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Digital Surface and Terrain Model Generation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "3D Visualization and Modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Integrating LiDAR with Other Geospatial Data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Digital Image Processing and Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Radiometric and Geometric Image Correction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Atmospheric Correction Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Image Enhancement Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supervised and Unsupervised Classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Object-Based Image Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Accuracy Assessment of Classified Imagery"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Change Detection and Multitemporal Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Spatial Statistics and Geostatistics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spatial Autocorrelation and Pattern Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Point Pattern Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interpolation Methods and Kriging"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Variogram Modeling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hot Spot and Cluster Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Spatial Regression Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Terrain Analysis and Digital Elevation Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DEM Sources and Creation Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Slope, Aspect, and Curvature Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hydrological Terrain Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Watershed Delineation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Viewshed and Line-of-Sight Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Terrain-Derived Indices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Network Analysis and Spatial Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Network Dataset Construction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Shortest Path and Routing Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Location-Allocation Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Service Area and Accessibility Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cellular Automata and Agent-Based Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Spatial Simulation Modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Programming for Geospatial Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Python Fundamentals for Geospatial Workflows"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Core Geospatial Python Libraries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Automating GIS Workflows with Scripts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "R for Spatial Data Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Working with Geospatial APIs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Version Control for Geospatial Code"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Cloud Computing and Big Geospatial Data",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cloud Geospatial Platform Overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Big Data Concepts for Geospatial Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cloud-Native Geospatial Data Formats"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distributed Processing of Large Raster Datasets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cloud-Based Satellite Data Catalogs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scalable Geospatial Data Pipelines"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Real-Time Geospatial Data Streaming"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Machine Learning and AI for Geospatial Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Machine Learning Fundamentals for Spatial Data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Feature Engineering for Geospatial Datasets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deep Learning for Image Classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Convolutional Neural Networks in Remote Sensing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Semantic Segmentation of Satellite Imagery"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geospatial Foundation Models and Embeddings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Generative AI for Geospatial Reasoning"
+        },
+        {
+          "item_index": 8,
+          "item_title": "AI-Assisted Environmental Monitoring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Web GIS and Geospatial Application Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Web Mapping Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Web Map Services and APIs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "JavaScript Mapping Libraries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cloud GIS Hosting Platforms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interactive Dashboards and Story Maps"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mobile Geospatial App Development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Geospatial Data Infrastructure and Standards",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spatial Data Infrastructure Concepts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "OGC Standards and Interoperability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "SpatioTemporal Asset Catalog and Data Discovery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Open Data Policies and Portals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "National and Global Geospatial Frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data Sharing, Licensing, and Governance"
+        },
+        {
+          "item_index": 7,
+          "item_title": "FAIR Data Principles for Geospatial Data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Earth System Science Overview",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Earth's Spheres and System Interactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Global Energy Balance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Biogeochemical Cycles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Earth System Feedback Loops"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Plate Tectonics and Geological Processes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Systems Thinking in Environmental Science"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Ecology and Ecosystem Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Ecology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Population and Community Ecology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ecosystem Structure and Function"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ecosystem Services"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Biomes and Ecological Zonation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Succession and Disturbance Ecology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Landscape Ecology Principles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Atmospheric Science and Meteorology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Atmospheric Composition and Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Weather Systems and Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Atmospheric Circulation Patterns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Air Quality Fundamentals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Climate Versus Weather Distinctions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Remote Sensing of Atmospheric Variables"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Climatology and Climate Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Climate Classification Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Climate Drivers and Variability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Paleoclimatology and Climate Proxies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Data and Reanalysis Products"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regional and Global Climate Patterns"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate Modeling Fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Hydrology and Water Resources",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Hydrological Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Surface Water Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Groundwater Hydrology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Watershed and Drainage Basin Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Water Budget and Balance Modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Floodplain and Flood Risk Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Water Quality Fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Soil Science and Geomorphology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Soil Formation and Classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Soil Properties and Digital Soil Mapping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Erosion Processes and Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Landform Classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fluvial Geomorphology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Coastal and Aeolian Geomorphology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Environmental Chemistry and Pollution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fundamentals of Environmental Chemistry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sources and Fate of Pollutants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Air Contamination and Monitoring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Water and Soil Contamination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Toxicology Basics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Solid and Hazardous Waste Management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pollution Remediation Approaches"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Biodiversity and Conservation Biology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Biodiversity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Habitat Fragmentation and Connectivity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Species Distribution Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Protected Area Planning and Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Invasive Species and Ecological Threats"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Conservation Genetics Basics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Climate Change Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Physical Basis of Climate Change"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Greenhouse Gas Dynamics and the Carbon Cycle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Satellite-Based Emissions Detection and Monitoring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Change Impacts on Ecosystems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Climate Change Impacts on Human Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate Projections and Scenario Modeling"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mitigation and Adaptation Strategies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Carbon Monitoring, Reporting, and Verification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Natural Hazards and Disaster Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of Natural Hazards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hazard Mapping and Risk Assessment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Earthquake and Seismic Hazard Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Flood and Wildfire Hazard Modeling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Landslide Susceptibility Mapping"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Early Warning Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Geospatial Technology in Disaster Response"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Land Use and Land Cover Change Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Land Use Versus Land Cover Concepts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Land Cover Classification Schemes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Change Detection and Monitoring Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Urbanization and Sprawl Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Land Change Modeling and Prediction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Global Land Cover Datasets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Urban and Regional Planning with GIS",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban Spatial Analysis Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Zoning and Land Use Planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transportation and Accessibility Planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Urban Heat Island Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Smart City and Digital Twin Applications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Participatory GIS in Planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Natural Resource Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Sustainable Resource Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forest Resource Assessment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Water Resource Allocation and Planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mineral and Energy Resource Mapping"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Renewable Energy Site Suitability Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rangeland and Grassland Management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Resource Management Decision Support Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Agriculture and Precision Farming",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Precision Agriculture Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Crop Monitoring and Yield Estimation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vegetation Indices and Canopy Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Soil and Irrigation Management Technologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Agricultural Risk and Food Security Assessment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Remote Sensing for Farm Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Forestry and Vegetation Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Forest Inventory and Mensuration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forest Health Monitoring"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vegetation Classification and Mapping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Biomass and Carbon Stock Estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deforestation and Forest Change Detection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wildfire Fuel and Risk Mapping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Marine and Coastal Environmental Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Oceanographic Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coastal Processes and Shoreline Change"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Marine Remote Sensing Applications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bathymetric Mapping Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coral Reef and Marine Habitat Mapping"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sea Level Rise Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Environmental Monitoring and Impact Assessment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Environmental Monitoring Network Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Remote Sensing for Environmental Change Detection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental Impact Assessment Process"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Baseline Data Collection and Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cumulative Impact Assessment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Monitoring and Reporting Frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Environmental Policy, Law, and Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "International Environmental Agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "National Environmental Regulations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental Justice and Equity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land Tenure and Resource Governance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Policy Analysis Using Geospatial Evidence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stakeholder Engagement in Environmental Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Geospatial Ethics and Data Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Privacy Considerations in Geospatial Data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data Sovereignty and Indigenous Data Rights"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ethical Use of Location and Surveillance Data"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bias and Equity in Spatial Algorithms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Responsible AI Use in Geospatial Applications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Professional Codes of Conduct"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Environmental Economics and Sustainability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Environmental Economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ecosystem Services Valuation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost-Benefit Analysis for Environmental Projects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sustainable Development Goals and Indicators"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Green Infrastructure Planning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Circular Economy Concepts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Emerging Technologies and Future Trends",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital Twins for Environmental and Urban Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geospatial Foundation Models and Agentic Reasoning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Internet of Things Environmental Sensor Networks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Real-Time Earth Observation Constellations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Blockchain for Environmental Data Verification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Citizen Science and Crowdsourced Monitoring"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Natural Language Interfaces for Geospatial Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "Research Methods and Scientific Communication",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Research Design in Geospatial and Environmental Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hypothesis Testing and Experimental Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Visualization and Map-Based Storytelling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Scientific Writing and Technical Reporting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Peer Review and Publication Process"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Grant Writing and Proposal Development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 47,
+      "chapter_title": "Capstone Project and Career Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capstone Project Planning and Scoping"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Portfolio Development for Geospatial Professionals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Professional Certifications and Credentials"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Career Pathways in Geospatial and Environmental Science"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Industry Trends and Emerging Job Roles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Professional Networking and Development"
+        }
+      ]
+    }
+  ]
+}

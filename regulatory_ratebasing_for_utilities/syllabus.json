@@ -1,0 +1,811 @@
+{
+  "topic": "Regulatory Rate-Basing (For Utilities)",
+  "topic_slug": "regulatory_ratebasing_for_utilities",
+  "generated_at": "2026-09-13T23:16:03.663037",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Public Utility Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Natural Monopoly Rationale and the Regulatory Compact"
+        },
+        {
+          "item_index": 2,
+          "item_title": "History and Evolution of U.S. Utility Regulation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Public Utility Economics vs. Competitive Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost-of-Service vs. Incentive Regulation Overview"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Investor-Owned, Municipal, and Cooperative Utility Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Obligation to Serve and Franchise Exclusivity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Introduction to the Revenue Requirement Concept"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Legal and Constitutional Framework of Ratemaking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Smyth v. Ames and the Fair Value Doctrine"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Federal Power Commission v. Hope Natural Gas Co."
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bluefield Waterworks v. Public Service Commission"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Duquesne Light Co. v. Barasch"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulatory Takings and Due Process Limits"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The End Result Doctrine vs. Methodology Review"
+        },
+        {
+          "item_index": 7,
+          "item_title": "State Constitutional and Statutory Ratemaking Standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Regulatory Institutions and Jurisdiction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "State Public Utility Commissions and Their Authority"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FERC Jurisdiction over Wholesale and Transmission Rates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Federal Power Act and Natural Gas Act"
+        },
+        {
+          "item_index": 4,
+          "item_title": "NARUC and Interstate Regulatory Coordination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Municipal and Cooperative Rate Setting Bodies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Federal State Jurisdictional Boundaries and Preemption"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Consumer Advocate Offices and Intervenor Standing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Regulatory Accounting and Financial Statement Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The FERC Uniform System of Accounts (USoA)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regulatory Accounting vs. GAAP Differences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capitalization Policy: Capital vs. Expense"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reading Utility Balance Sheets and Income Statements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulatory Assets, Liabilities, and Deferred Accounts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Credit Metrics and Rating Agency Treatment of Rate Base"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "The Revenue Requirement Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Revenue Requirement Formula and Its Components"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Test Year Selection: Historical, Future, and Hybrid"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Attrition Years and Forecasted Test Years"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pro Forma and Known and Measurable Adjustments"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Normalizing and Annualizing Test Year Data"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rate Base, Expenses, and Return Components Overview"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building Block Methodology Across Jurisdictions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Rate Base Components and Determination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Plant in Service and Gross Utility Plant"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Accumulated Depreciation and Net Plant"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Construction Work in Progress (CWIP)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Allowance for Funds Used During Construction (AFUDC)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Working Capital Allowance and Lead Lag Studies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Materials, Supplies, and Prepayments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contributions in Aid of Construction and Customer Advances"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Regulatory Assets and Liabilities in Rate Base"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Rate Base Valuation and the Used and Useful Standard",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Original Cost (Historical Cost) Methodology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fair Value and Reproduction Cost Doctrines"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trended Original Cost Approaches"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Used and Useful Test"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Prudent Investment Standard and Prudence Reviews"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Disallowances and Imprudence Findings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Excess Capacity and Stranded Asset Treatment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Depreciation, Amortization, and Asset Retirement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Straight Line and Group Depreciation Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Depreciation Studies and Life and Survivor Curve Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Iowa Curves and Actuarial Retirement Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Net Salvage and Removal Cost Estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Amortization of Regulatory Assets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Asset Retirement Obligations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Book vs. Tax Depreciation Divergence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Income Taxes and Deferred Tax Accounting in Rate Base",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Federal and State Income Tax in the Revenue Requirement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Accumulated Deferred Income Taxes (ADIT) as a Rate Base Offset"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Depreciation Normalization Requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bonus Depreciation Effects on ADIT and Rate Base"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Excess ADIT from Tax Rate Changes and Amortization Methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Flow Through vs. Normalization Accounting"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Deferred Tax Treatment of Credits and Repair Deductions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Cost of Capital and Capital Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Determining the Ratemaking Capital Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Embedded Cost of Long Term Debt"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of Preferred and Hybrid Securities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Weighted Average Cost of Capital (WACC)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Double Leverage and Holding Company Capital Structure Issues"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Business Risk vs. Financial Risk"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Credit Ratings and Capital Market Access"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Estimating the Cost of Equity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Discounted Cash Flow (DCF) Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital Asset Pricing Model (CAPM)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Risk Premium and Bond Yield Plus Risk Premium Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Comparable Earnings Approach"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Proxy Group Selection and Screening Criteria"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Flotation Costs and Financial Flexibility Adjustments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Zone of Reasonableness and ROE Benchmarking"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Authorized ROE Trends and Market Evidence Disputes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Operating Expenses and Revenue Requirement Adjustments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Operations and Maintenance Expense Review"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fuel and Purchased Power Cost Treatment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Payroll, Incentive Compensation, and Benefits Costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pension and Other Post Employment Benefit Expense"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rate Case Expense and Its Recovery"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Affiliate Transactions and Cost Allocation Manuals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Disallowed Expense Categories: Advertising, Lobbying, Fines"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Cost Allocation and Cost of Service Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functionalization of Utility Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classification into Demand, Energy, and Customer Components"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Peak Demand Allocation Methods: Coincident and Non-Coincident"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Embedded Cost of Service Study Methodology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Marginal and Incremental Cost of Service Studies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Class Revenue to Cost Ratios and Rate Gradualism"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Interclass Subsidization Debates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Rate Design and Tariff Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Customer, Demand, and Energy Charge Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inclining and Declining Block Rate Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Time of Use and Dynamic Pricing Tariffs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Demand Charges for Commercial and Industrial Customers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Low Income and Lifeline Rate Programs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Net Metering and Distributed Generation Compensation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Special Contracts and Negotiated Service Agreements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "The Rate Case Process and Regulatory Procedure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Filing Requirements and Minimum Filing Standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regulatory Lag and Its Financial Effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Discovery, Data Requests, and Testimony"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intervention and Party Status"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Settlement Negotiations and Stipulations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Evidentiary Hearings and Cross Examination"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Commission Orders and Rehearing Procedures"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Judicial Review of Rate Orders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Alternative and Performance Based Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for Moving Beyond Cost of Service Regulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Revenue Decoupling Mechanisms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Performance Incentive Mechanisms (PIMs) and Metric Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multi Year Rate Plans (MYRPs)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Earnings Sharing Mechanisms and Off Ramps"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Price Cap and Revenue Cap Regulation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Total Factor Productivity and Efficiency Benchmarking"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Trackers, Riders, and Single Issue Ratemaking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fuel and Purchased Power Adjustment Clauses"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Infrastructure Replacement Riders and Capital Trackers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Storm Cost and Vegetation Management Trackers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Grid Modernization and AMI Cost Recovery Mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Renewable Energy and Environmental Compliance Riders"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interim Rate Relief and Surcharge Mechanisms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Securitization and Extraordinary Cost Recovery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ratepayer Backed Bond Financing Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Financing Orders and Statutory Authorization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Storm Cost and Catastrophic Wildfire Securitization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stranded Cost and Asset Retirement Securitization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fixed Recovery Charges and Bondable Property"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ratepayer Protections and Shareholder Contribution Mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Credit Rating and Capital Market Treatment of Recovery Bonds"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Transmission Rate Base and Cost Allocation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FERC Formula Rate Mechanics for Transmission"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transmission Incentive Rate Treatments and ROE Adders"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regional Transmission Planning and Cost Allocation Reform"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Highway/Byway and Other Allocation Methodologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interconnection Cost Responsibility"
+        },
+        {
+          "item_index": 6,
+          "item_title": "State vs. Regional Cost Allocation Disputes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Large Load and Data Center Ratemaking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Load Growth Forecasting and System Planning Implications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dedicated Large Load and Data Center Tariff Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Minimum Demand and Take or Pay Contract Provisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Collateral Requirements and Cost Ring Fencing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interconnection Queue Reform for Large Loads"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cost Shifting Analysis and Ratepayer Protection Studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Sector Specific Rate Basing Considerations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electric Utility Rate Base Characteristics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Natural Gas Utility Rate Base and Pipeline Safety Cost Recovery"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Water and Wastewater Utility Rate Base and Infrastructure Charges"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consolidation and Acquisition Adjustments in Water Utilities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Telecommunications Rate Base Legacy Considerations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi Jurisdictional and Holding Company Allocation Issues"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Regulatory Advocacy, Testimony, and Stakeholder Roles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Utility Rate Case Preparation and Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Commission Staff Analysis and Recommendations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Consumer and Industrial Intervenor Advocacy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Expert Witness Testimony: Direct and Rebuttal Practice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross Examination Technique and Discovery Strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Public Comment and Participation Processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Media Coverage and Affordability Narratives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Emerging Issues and the Future of Rate Basing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Grid Modernization and Resilience Investment Recovery"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Climate Risk, Wildfire Mitigation, and Hardening Costs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Beneficial Electrification and Rate Base Growth"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distributed Energy Resources and Rate Base Disintermediation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Affordability Pressures and Rising Capital Expenditure Trends"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Federal Tax Policy Shifts and Normalization Implications"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Comparative International Models: UK RIIO and Australian Frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Applied Mastery: Modeling and Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building a Revenue Requirement Model from Financial Statements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Constructing a Rate Base Schedule with Adjustments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Analyzing a Real General Rate Case Filing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mock Rate Case Simulation and Settlement Negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interpreting Commission Orders and Dissents"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Career Paths in Utility Regulation and Rate Consulting"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "topic": "Earth Science",
+  "topic_slug": "earth_science",
+  "generated_at": "2026-09-07T07:41:20.245846",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Earth Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "What Is Earth Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "History and Philosophy of Earth Science"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Scientific Method in Earth Science"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Earth as an Integrated System"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spheres of the Earth System"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scales of Space and Time"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Measurement and Data in Earth Science"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Careers and Applications of Earth Science"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Earth in the Solar System",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origin of the Solar System"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Sun and Solar Energy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structure and Motion of the Solar System"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Earth and Moon System"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Earth's Rotation and Revolution"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Seasons and Solstices"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Tides and Tidal Forces"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Eclipses"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Comparative Planetology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Origin and Internal Structure of the Earth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formation and Differentiation of Early Earth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Earth's Interior Layers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Seismic Evidence for Earth's Structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Geodynamo and Earth's Magnetic Field"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gravity and Isostasy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Heat Flow and the Geothermal Gradient"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Mineralogy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Properties of Minerals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Crystal Structure and Symmetry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mineral Classification Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Silicate Mineral Groups"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nonsilicate Mineral Groups"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Physical and Optical Identification Properties"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mineral Identification Techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Gemstones and Economic Minerals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Petrology and the Rock Cycle",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Rock Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Magma Generation and Igneous Textures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Classification of Igneous Rocks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sedimentary Processes and Depositional Environments"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Classification of Sedimentary Rocks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diagenesis and Lithification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Metamorphism and Metamorphic Grade"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Classification of Metamorphic Rocks"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Rock Identification in the Field"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Plate Tectonics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Continental Drift Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Seafloor Spreading"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Paleomagnetism and Polar Wander"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Types of Plate Boundaries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Divergent Boundaries and Rifting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Convergent Boundaries and Subduction Zones"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Transform Boundaries"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Mantle Convection and Plate Motion Forces"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Hotspots and Mantle Plumes"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Terranes and Continental Growth"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Structural Geology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stress and Strain in Rocks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Brittle versus Ductile Deformation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Folds and Fold Geometry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Faults and Fault Classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Joints and Fracture Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Unconformities"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Orogenesis and Mountain Building"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Structural Mapping and Cross Sections"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Geologic Time and Stratigraphy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Relative Dating"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Radiometric and Absolute Dating Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Geologic Time Scale"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stratigraphic Principles and Correlation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sequence Stratigraphy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Biostratigraphy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Interpreting the Rock Record"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Paleontology and the History of Life",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fossilization Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Taxonomy and the Fossil Record"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Origin of Life and Precambrian Biota"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Cambrian Explosion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Evolution of Marine Life"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Evolution of Terrestrial Life"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mass Extinction Events"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Paleoecology and Paleoenvironmental Reconstruction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Seismology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Causes and Mechanisms of Earthquakes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Seismic Waves and Wave Propagation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Earthquake Location and Magnitude Scales"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Seismographs and Seismic Networks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Earthquake Hazards and Ground Effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tsunami Generation and Behavior"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Earthquake Forecasting and Early Warning"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Seismic Design and Building Codes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Volcanology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Magma Types and Formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Styles of Volcanic Eruption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Volcano Types and Morphology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Volcanic Hazards and Pyroclastic Phenomena"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Volcanic Gases and Ash Dispersal"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Monitoring and Forecasting Eruptions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Volcanism and Climate Interactions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Geomorphology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Weathering Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mass Wasting and Slope Stability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fluvial Landforms and Drainage Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Karst Topography and Cave Formation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Eolian Processes and Desert Landforms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Coastal Landforms and Shoreline Processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Glacial Landforms"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Landscape Evolution and Denudation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Soil Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Factors of Soil Formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Soil Horizons and Profile Development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Soil Classification Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Soil Physical and Chemical Properties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nutrient Cycling and Soil Fertility"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Soil Erosion Processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Soil Conservation Practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Hydrology and the Hydrosphere",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Global Water Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Drainage Basins and River Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stream Flow and Fluvial Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lakes and Wetlands"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Groundwater and Aquifer Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Groundwater Flow and Contamination"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Floods and Flood Hazards"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Water Resource Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Oceanography",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ocean Basin Formation and Seafloor Topography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Seawater Composition and Properties"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ocean Circulation and Currents"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Waves and Tidal Dynamics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ocean and Atmosphere Interactions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Marine Ecosystems and Biological Oceanography"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Coastal and Estuarine Environments"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Ocean Resources and Exploration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Cryosphere and Glaciology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Glacier Formation and Types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Glacial Mass Balance and Movement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Glacial Erosion and Deposition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ice Sheets and Ice Cores"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sea Ice Dynamics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Permafrost and Periglacial Processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Glaciers and Global Sea Level"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Atmospheric Science and Meteorology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Composition and Structure of the Atmosphere"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solar Radiation and the Greenhouse Effect"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Atmospheric Pressure and Wind Patterns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global Atmospheric Circulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Air Masses and Frontal Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cloud Formation and Precipitation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Severe Weather and Storm Systems"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Weather Observation and Forecasting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Climatology and Climate Change",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Climate Classification Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Factors Controlling Regional Climate"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Paleoclimate Proxies and Reconstruction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Natural Climate Variability and Oscillations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Greenhouse Gases and Radiative Forcing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Anthropogenic Climate Change"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Climate Modeling and Projections"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Climate Change Impacts and Mitigation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Geochemistry and Biogeochemical Cycles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Elemental Composition of the Earth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Isotope Geochemistry and Tracers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Carbon Cycle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Nitrogen and Phosphorus Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Hydrologic and Rock Cycles Revisited"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Environmental and Trace Element Geochemistry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Geophysics and Subsurface Exploration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gravity Surveys and Anomalies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Magnetic Surveys and Interpretation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Seismic Reflection and Refraction Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electrical and Electromagnetic Methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Well Logging Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Applications in Resource Exploration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Natural Resources and Economic Geology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formation of Fossil Fuels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fossil Fuel Extraction and Processing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ore Deposits and Mineral Resources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mining Methods and Mineral Processing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Renewable Energy Resources"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geothermal and Nuclear Energy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sustainable Resource Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Engineering and Environmental Geology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Soil and Rock Mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Foundation and Slope Engineering"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Geologic Hazards in Construction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land Use Planning and Geology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Groundwater and Soil Contamination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Waste Disposal and Site Remediation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Environmental Impact Assessment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Natural Hazards and Risk Assessment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of Natural Hazards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Compound and Cascading Hazards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Landslide and Mass Movement Hazards"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Flood and Storm Hazards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Drought and Desertification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wildfire Hazards"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hazard Risk Assessment Methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Disaster Preparedness and Emergency Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Remote Sensing and Geospatial Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Remote Sensing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Satellite Platforms and Sensors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Aerial Photography and Photogrammetry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geographic Information Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global Navigation Satellite Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Digital Elevation Models and Terrain Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Applications in Environmental Monitoring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Field and Laboratory Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Topographic Map Interpretation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geologic Field Mapping Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rock and Mineral Sample Collection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Core Drilling and Sample Description"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Analytical Laboratory Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data Analysis and Interpretation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Fieldwork Safety and Ethics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Planetary Science and Astrobiology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparative Geology of Terrestrial Planets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lunar Geology and Exploration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Geology of Mars"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Outer Planets and Their Moons"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asteroids, Comets, and Meteorites"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Impact Cratering Processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Astrobiology and the Search for Life"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Earth System Science and the Future",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrated Earth System Modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Feedback Loops Across Earth Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Anthropocene Concept"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geoengineering Approaches"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global Earth Observation Networks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Frontiers in Earth Science Research"
+        }
+      ]
+    }
+  ]
+}

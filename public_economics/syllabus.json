@@ -1,0 +1,1003 @@
+{
+  "topic": "Public Economics",
+  "topic_slug": "public_economics",
+  "generated_at": "2026-09-10T13:10:57.883231",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Scope of Public Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Public Economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positive versus Normative Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rationale for Government Intervention in Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Historical Development of Public Economics Thought"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Methodological Approaches in Public Economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overview of Government Revenue and Expenditure Trends"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Welfare Economics and Efficiency",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Consumer and Producer Surplus Review"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pareto Efficiency and Competitive Equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "First Fundamental Theorem of Welfare Economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Second Fundamental Theorem of Welfare Economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Social Welfare Functions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kaldor-Hicks and Scitovsky Compensation Criteria"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Utility Possibility Frontiers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Overview of Market Failure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Taxonomy of Market Failures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Public Goods and Non-Excludability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Externalities and Spillover Effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Imperfect Competition and Market Power"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asymmetric Information"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Missing and Incomplete Markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Theory of Public Goods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Pure versus Impure Public Goods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Samuelson Condition for Efficient Provision"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Free-Rider Problem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lindahl Equilibrium and Lindahl Pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Private Provision and Voluntary Contributions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Club Goods and the Theory of Clubs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Tiebout Model of Local Public Goods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Externalities and Corrective Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Positive and Negative Externalities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pigouvian Taxes and Subsidies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Coase Theorem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Property Rights and Transaction Costs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Command-and-Control Regulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tradable Permits and Cap-and-Trade Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Network Externalities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Environmental and Natural Resource Public Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Optimal Environmental Taxation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Carbon Pricing Mechanisms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common-Pool Resources and the Tragedy of the Commons"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Double Dividend Hypothesis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Regulation under Uncertainty"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Intergenerational Equity in Resource Use"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Growth and Size of Government",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wagner's Law of Expanding State Activity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Baumol's Cost Disease in Public Services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Government Size and the Median Voter Framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Niskanen Model of Budget-Maximizing Bureaucracy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leviathan Hypothesis of Government Growth"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Privatization and Contracting Out of Public Services"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cross-Country Patterns in Government Size"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Public Choice and Political Economy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Median Voter Theorem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Arrow's Impossibility Theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Voting Rules and Mechanism Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Logrolling and Agenda Setting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rent-Seeking and Directly Unproductive Activities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interest Groups and Lobbying"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Political Agency and Electoral Accountability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Cost-Benefit Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles and Steps of Project Evaluation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Shadow Prices and Social Opportunity Cost"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Choosing a Social Discount Rate"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Valuing Non-Market Goods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk, Uncertainty, and Option Value"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distributional Weighting in Cost-Benefit Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Theory of Tax Incidence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Statutory versus Economic Incidence"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Partial Equilibrium Incidence in Competitive Markets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incidence under Imperfect Competition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "General Equilibrium Tax Incidence and the Harberger Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Incidence in Factor Markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tax Capitalization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Excess Burden of Taxation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Deadweight Loss and the Harberger Triangle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marginal Excess Burden"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Marginal Cost of Public Funds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Determinants of Excess Burden"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Excess Burden with Pre-Existing Distortions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Optimal Commodity Taxation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ramsey Rule for Optimal Commodity Taxes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inverse Elasticity Rule"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corlett-Hague Rule"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diamond-Mirrlees Production Efficiency Theorem"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Design of Value-Added and Sales Taxes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Uniform versus Differentiated Commodity Taxation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Information Economics and Mechanism Design Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Adverse Selection and Signaling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Moral Hazard and Principal-Agent Problems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Revelation Principle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Screening and Self-Selection Mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Incentive Compatibility and Participation Constraints"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Optimal Income Taxation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mirrlees Model of Optimal Nonlinear Income Taxation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Equity-Efficiency Tradeoff in Tax Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Elasticity of Taxable Income"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Optimal Marginal Tax Rates at the Top"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Optimal Marginal Tax Rates at the Bottom"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tagging and the Use of Observable Characteristics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Taxation and Labor Supply",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Static Labor Supply Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Income and Substitution Effects of Taxation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intensive and Extensive Margin Responses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Empirical Estimates of Labor Supply Elasticities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Household and Life-Cycle Labor Supply Responses"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Taxation of Savings and Capital Income",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Effects of Taxation on Household Saving"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Life-Cycle Consumption and Saving under Taxation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Taxation of Capital Gains"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wealth Taxation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Estate and Inheritance Taxation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Income Tax versus Consumption Tax Debate"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Corporate Taxation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for Taxing Corporations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Corporate Tax Incidence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Effects on Investment and the Cost of Capital"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Debt-Equity Tax Bias"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate Tax Avoidance and Profit Shifting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Tax Competition and International Taxation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tax Competition among Jurisdictions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Race-to-the-Bottom Hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transfer Pricing and Profit Shifting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International Tax Coordination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Taxation of Multinational Enterprises"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Digital Economy Taxation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Tax Administration, Evasion, and Avoidance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Distinction between Evasion and Avoidance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Allingham-Sandmo Model of Tax Evasion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Determinants of Tax Compliance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Enforcement, Audits, and Third-Party Reporting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Administrative and Compliance Costs of Taxation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bunching Responses to Tax Administration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Income Distribution and Inequality Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lorenz Curve and Gini Coefficient"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Alternative Inequality Indices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Poverty Measurement and Poverty Lines"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trends in Income and Wealth Inequality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Intergenerational Mobility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Theories of Distributive Justice and Redistribution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Utilitarianism and Social Welfare Maximization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rawlsian Justice and the Maximin Criterion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Libertarian Perspectives on Redistribution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Equality of Opportunity versus Equality of Outcome"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Optimal Redistribution in the Mirrleesian Tradition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Principles and Design of Social Insurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for Social versus Private Insurance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Moral Hazard in Social Insurance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Adverse Selection in Insurance Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consumption Smoothing Objectives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Optimal Social Insurance Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Unemployment Insurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for Public Unemployment Insurance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Optimal Unemployment Benefit Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Effects on Job Search and Unemployment Duration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Experience Rating and Financing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-Country Unemployment Insurance Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Social Security and Pension Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Pay-as-You-Go versus Fully Funded Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Demographic Transition and Old-Age Dependency"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Effects on Saving and Retirement Decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Security Reform Debates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Notional Defined Contribution Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Health Insurance and Health Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Market Failures in Healthcare Markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adverse Selection in Health Insurance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Moral Hazard and Health Insurance Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Public versus Private Provision of Healthcare"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public Health Insurance Programs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Health Insurance Mandates and Exchanges"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Disability Insurance and Related Programs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale and Design of Disability Insurance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Screening and Eligibility Determination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Work Disincentive Effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cross-Country Disability Insurance Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interaction between Disability Insurance and Other Social Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Poverty Alleviation and Welfare Programs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Means-Tested Cash Transfers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "In-Kind Transfers versus Cash Transfers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Negative Income Tax and Universal Basic Income"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Earned Income Tax Credit and Work-Conditional Transfers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Welfare Program Work Incentives and Poverty Traps"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Conditional Cash Transfer Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Education Economics and Public Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Human Capital Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rationale for Public Provision of Education"
+        },
+        {
+          "item_index": 3,
+          "item_title": "School Finance Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "School Choice, Vouchers, and Charter Schools"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Returns to Education and Externalities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Fiscal Federalism",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Assignment of Functions across Government Levels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Decentralization Theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intergovernmental Grants and Transfers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fiscal Competition and Yardstick Competition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tiebout Sorting and Local Public Finance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Property Taxation and Local Government Finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Government Budgeting, Debt, and Deficits",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Government Budget Process"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Government Debt Dynamics and Sustainability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ricardian Equivalence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deficit Financing versus Tax Financing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Automatic Stabilizers and Countercyclical Fiscal Policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiscal Rules and Fiscal Institutions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Generational Accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Behavioral Public Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Behavioral Biases Relevant to Public Policy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Present Bias and Commitment Devices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nudges, Defaults, and Libertarian Paternalism"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tax Salience and Framing Effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral Welfare Economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Public Economics in Developing Countries",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Taxation and the Informal Sector"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building State Tax Capacity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Foreign Aid and Public Finance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Natural Resource Revenue Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Decentralization in Developing Economies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Empirical Methods in Public Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Natural Experiments and Quasi-Experimental Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Difference-in-Differences Estimation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regression Discontinuity Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Instrumental Variables Applications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bunching Estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structural versus Reduced-Form Modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Frontiers and Contemporary Debates in Public Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Universal Basic Income Debates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wealth Tax Proposals and Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Taxation of the Digital Economy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Policy and Carbon Taxation Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Automation and the Future of Taxation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiscal Impacts of Immigration"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Public Economics of the Platform Economy"
+        }
+      ]
+    }
+  ]
+}

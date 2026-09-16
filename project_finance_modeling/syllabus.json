@@ -1,0 +1,933 @@
+{
+  "topic": "Project Finance Modeling",
+  "topic_slug": "project_finance_modeling",
+  "generated_at": "2026-09-13T00:53:24.967125",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Project Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Core Characteristics of Project Finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Non-Recourse and Limited-Recourse Financing Explained"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Project Finance Versus Corporate Finance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Project Finance Versus Structured and Asset-Backed Finance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Special Purpose Vehicle Structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Advantages and Limitations of the Project Finance Model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Market Evolution and Global Project Finance Trends"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "The Project Life Cycle and Key Parties",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Development, Construction, Operations, and Exit Phases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Role of Sponsors and Equity Investors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Role of Commercial Lenders and Loan Syndication"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Role of Export Credit Agencies and Multilateral Institutions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Role of Offtakers, Suppliers, and Contractors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Role of Government and Public Sector Counterparties"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Financial, Legal, and Technical Advisors in the Deal Team"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Legal and Contractual Risk Allocation Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Overview of the Project Contract Web"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Principles of Risk Identification and Allocation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Construction Risk and the EPC Contract"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Operating Risk and the O&M Contract"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Market Risk and Offtake Agreements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Concession Agreements and Government Support Instruments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Political, Regulatory, and Force Majeure Risk"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Insurance Structures in Project Finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Financial Modeling Standards and Excel Best Practices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Core Principles of Project Finance Financial Modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FAST and SMART Modeling Standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Model Layout, Color Coding, and Formatting Conventions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Workbook and Worksheet Structure Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Naming Conventions and Cell Referencing Discipline"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Version Control and Model Change Logs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common Modeling Errors and Quality Pitfalls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Model Architecture, Timelines, and Assumptions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building the Model Timeline and Date Logic"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monthly, Quarterly, and Annual Periodicity Conventions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Handling Stub Periods and Period-End Conventions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Structuring the Assumptions and Inputs Sheet"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Flags, Switches, and Scenario Selectors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Linking the Construction and Operating Period Timelines"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Indexation and Escalation Mechanics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Construction Phase Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Construction Budget and Uses of Funds"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sources of Funds and the Financing Plan"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drawdown Schedules and S-Curve Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sequencing of Equity and Debt Drawdowns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interest During Construction and Capitalized Interest"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Construction Contingency and Cost Overrun Modeling"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Commitment and Arrangement Fee Modeling"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Transition From Construction to Commercial Operations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Revenue Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Contracted Revenue Under Offtake Agreements and Power Purchase Agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Availability-Based Payment Mechanisms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Demand-Based and Merchant Revenue Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity Payments Versus Energy or Usage Payments"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price Escalation and Indexation of Revenue"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Modeling Revenue Deductions, Penalties, and Bonuses"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Volume Risk and Price Risk Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Operating Costs and Lifecycle Capital Expenditure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fixed and Variable Operating Cost Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost Escalation and Inflation Assumptions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Major Maintenance and Lifecycle Capex Reserves"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Insurance and Operating Contingency Costs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Working Capital Modeling in Project Finance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Modeling Operating Cost Overruns and Downside Cases"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Capital Structure and Debt Instruments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Determining the Optimal Gearing Ratio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Senior Debt: Term Loans and Project Bonds"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Subordinated and Mezzanine Debt Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Export Credit Agency-Backed Debt"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shareholder Loans and Equity Bridge Financing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi-Tranche and Multi-Currency Debt Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Debt Sizing and Repayment Structuring",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Debt Sizing Based on Target Debt Service Coverage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Debt Sculpting Versus Annuity-Style Repayment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bullet and Balloon Repayment Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Grace Periods and Repayment Holidays"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fixed, Floating, and Hedged Interest Rate Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interest Rate Swap Modeling in Project Finance"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Iterative Debt Sizing Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Cash Flow Waterfall and Reserve Accounts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structuring the Cash Flow Waterfall"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Debt Service Reserve Account Mechanics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Maintenance Reserve Account Mechanics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Other Reserve Accounts and Trapped Cash Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cash Sweep and Excess Cash Flow Mechanisms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distribution Tests and Lock-Up Conditions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Dividend Trap and Equity Distribution Modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Managing Circularity in Project Finance Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Sources of Circular References"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Interest During Construction Circularity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cash Sweep and Revolver Circularity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Using Iterative Calculation Settings"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Circuit Breaker and Copy-Paste Macro Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Auditing and Preventing Circular Reference Errors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Credit Ratios and Covenant Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Debt Service Coverage Ratio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Loan Life Coverage Ratio"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Project Life Coverage Ratio"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gearing and Leverage Ratios"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Minimum, Average, and Backward or Forward-Looking Ratios"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Covenant Structuring and Default Triggers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Distribution Lock-Up and Cash Trap Covenants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Valuation and Returns Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Project Internal Rate of Return Versus Equity Internal Rate of Return"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Net Present Value in Project Finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Weighted Average Cost of Capital Construction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost of Debt Estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost of Equity and Required Return Benchmarks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nominal Versus Real Discount Rates"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Blended and Portfolio-Level Returns Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Sensitivity, Scenario, and Risk Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "One-Way and Two-Way Sensitivity Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building Base, Downside, and Upside Cases"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Tables and Scenario Managers in Excel"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monte Carlo Simulation for Project Finance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Break-Even Analysis Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stress Testing Key Risk Variables"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Presenting Sensitivity Outputs to Stakeholders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Tax and Accounting Considerations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Depreciation Methods and Tax Shields"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tax Equity Partnership Flip Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Preferred Equity, Sale-Leaseback, and Inverted Lease Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tax Credit Transferability and Direct Pay Mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Withholding Tax and Cross-Border Structuring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Value Added Tax in Project Cash Flows"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Accounting for Special Purpose Vehicles and Consolidation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Contractual Risk Allocation in Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "EPC Contract Structures: Fixed-Price, Turnkey, and Cost-Plus"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liquidated Damages and Performance Guarantees"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long-Term Operation and Maintenance Agreements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Power Purchase Agreement Structuring in Depth"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Availability Payment Regimes in Concession Agreements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Step-In Rights and Direct Agreements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Financing Documentation and Security",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common Terms Agreement and Facility Agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Intercreditor Agreements and Creditor Hierarchy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Security Package and Collateral Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Direct Agreements With Project Counterparties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Conditions Precedent and Conditions Subsequent"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Representations, Warranties, and Events of Default"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Refinancing, Restructuring, and Exit Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale and Timing for Refinancing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Refinancing Gain Sharing Mechanisms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Debt Restructuring in Distressed Projects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Secondary Market Sale of Project Equity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Portfolio Recycling and Asset Rotation Strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Modeling Refinancing Scenarios"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Credit Ratings, Capital Markets, and the Lender Landscape",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rating Agency Methodologies for Project Finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Project Business Risk and Financial Risk Frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Project Bonds and Institutional Investor Financing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wrapped Versus Unwrapped Bond Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Basel III and Basel IV Capital Impact on Project Lending"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Rise of Infrastructure Debt Funds and Private Credit"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Multilateral, Export Credit, and Development Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Role of Multilateral Development Banks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Export Credit Agency Financing Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Blended and Concessional Finance Instruments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Political Risk Insurance and Guarantees"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Co-Financing and B-Loan Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Power and Renewable Energy Project Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conventional Thermal Power Project Finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solar Photovoltaic Project Finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Onshore and Offshore Wind Project Finance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Battery Energy Storage System Financing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hydropower Project Finance Considerations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Merchant Price Risk and Corporate Power Purchase Agreements"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Repowering and Hybrid Renewable Project Financing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Infrastructure, Transportation, and Public-Private Partnerships",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Toll Road and Availability-Based Road Financing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Airport and Seaport Project Finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rail and Rapid Transit Financing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Infrastructure and PPP Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Water and Wastewater Project Finance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "PPP Procurement, Value for Money, and the Public Sector Comparator"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Oil, Gas, Mining, and Natural Resource Project Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Upstream Oil and Gas Project Finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "LNG Project Finance Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Midstream Pipeline Financing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mining Project Finance and Streaming or Royalty Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Commodity Price Risk and Offtake Hedging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Digital Infrastructure and Emerging Asset Classes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Telecommunications Tower Project Finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fiber and Broadband Network Financing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Center Project Finance Fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Power and Interconnection Risk in Data Center Financing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Securitization and Asset-Backed Structures in Digital Infrastructure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hydrogen and Emerging Energy Technology Financing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Carbon Capture and Storage Project Finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Islamic Project Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Sharia-Compliant Project Financing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ijarah Lease-Based Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Istisna Construction-Phase Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hybrid Istisna-Ijarah Structures for Greenfield Projects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Musharakah and Profit-Sharing Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Infrastructure Sukuk and Capital Markets Issuance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "ESG, Sustainability, and Climate Risk in Project Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Equator Principles and IFC Performance Standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Green Bonds and Sustainability-Linked Loans"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental and Social Impact Assessment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Risk and Physical Asset Resilience"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Just Transition and Community Engagement Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Model Auditing, Governance, and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Model Review and Quality Assurance Procedures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Independent Technical Advisor and Model Audit Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reconciling Banking Case, Base Case, and Sponsor Case"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Model Documentation and Handover Packages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Communicating Model Outputs to Lenders and Investors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Case Studies and Capstone Modeling Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Case Study: Renewable Energy Independent Power Producer"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Case Study: Toll Road Public-Private Partnership"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Case Study: LNG Export Terminal Financing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Case Study: Social Infrastructure PPP Hospital"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Case Study: Data Center Portfolio Financing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capstone: Building a Full Project Finance Model From Scratch"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Capstone: Presenting and Defending Model Assumptions"
+        }
+      ]
+    }
+  ]
+}

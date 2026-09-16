@@ -1,0 +1,837 @@
+{
+  "topic": "Tax Equity & Incentives",
+  "topic_slug": "tax_equity_incentives",
+  "generated_at": "2026-09-13T01:08:17.397389",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Tax Equity and Incentives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "What Tax Equity Is and Why It Exists"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Tax Capacity Gap Between Developers and Investors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "History of United States Energy Tax Incentives Since 1978"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Market Participants and Their Roles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tax Equity Compared with Debt and Common Equity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Core Deal Vocabulary and Terminology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Statutory and Regulatory Architecture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Internal Revenue Code Provisions Governing Energy Credits"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Treasury Regulations, Notices, and Revenue Rulings"
+        },
+        {
+          "item_index": 3,
+          "item_title": "IRS Private Letter Rulings and Their Precedential Limits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Partnership Taxation Fundamentals Under Subchapter K"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Passive Activity Loss and At-Risk Rules"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tax-Exempt Use Property Restrictions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Investment Tax Credit Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Section 48 Legacy Credit Versus Section 48E Technology-Neutral Credit"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Eligible Basis and Qualifying Property"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Placed-in-Service Requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Base Rate Versus Bonus Rate Structure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Five-Year Vesting and Recapture Schedule"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Storage and Interconnection Property Eligibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Production Tax Credit Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Section 45 Legacy Credit Versus Section 45Y Technology-Neutral Credit"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Per-Kilowatt-Hour Calculation and Inflation Adjustment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ten-Year Credit Period Mechanics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Choosing Between the Investment and Production Credit"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Metering, Measurement, and Production Verification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Depreciation and Cost Recovery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Modified Accelerated Cost Recovery System for Energy Assets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bonus Depreciation and the Return to One Hundred Percent"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Basis Reduction for Claimed Tax Credits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Depreciation Recapture on Disposition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interaction Between Depreciation and Partnership Allocations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "The Inflation Reduction Act Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Expansion of Eligible Technologies and Credit Values in 2022"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Introduction of the Technology-Neutral Credit Regime"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Creation of Transferability Under Section 6418"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Creation of Elective Pay Under Section 6417"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Original Design of the Bonus Adders"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deal Volume and Market Growth from 2022 to 2025"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "The One Big Beautiful Bill Act Overhaul",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Legislative History and the July 2025 Enactment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Accelerated Phase-Out of Wind and Solar Credits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Placed-in-Service Cliff and Construction Deadlines"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Termination of Clean Vehicle Credits"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Changes to the Advanced Manufacturing Production Credit"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Carbon Capture Credit Rate Increase"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Clean Hydrogen Credit Termination Timeline"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Clean Fuel Production Credit Extension and Sourcing Rules"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The July 2025 Executive Order on Enforcement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Foreign Entity of Concern and Material Assistance Compliance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Prohibited Foreign Entities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Taxpayer-Focused, Facility-Focused, and Product-Focused Rules"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Material Assistance Cost Ratio Calculation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Applicable Threshold Percentages and Their Escalation Schedule"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Safe Harbor Tables and Notice 2026-15"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Effective Control, Licensing, and Financial Arrangement Limits"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Supplier Certification and Procurement Diligence"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Effects on Credit Buyers in Transfer Transactions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Beginning of Construction and Safe Harbor Doctrine",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Physical Work Test"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Five Percent Safe Harbor and Its Elimination for New Projects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Four-Year Continuity Safe Harbor"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Notice 2025-42 and Its Interaction with Prior Guidance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Documentation Standards for Establishing Construction Start"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Grandfathering Rules by Construction-Start Date"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Bonus Credit Adders",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Prevailing Wage and Apprenticeship Requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Domestic Content Bonus and the Adjusted Percentage Rule"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Energy Community Bonus Criteria"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Low-Income Communities Bonus Under Section 48E"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stacking Multiple Adders in Practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Core Tax Equity Deal Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "How Structure Choice Depends on Credit Type and Investor Profile"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparing Partnership Flip, Sale-Leaseback, and Inverted Lease"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Single-Investor Versus Multi-Investor Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leveraged Versus Unleveraged Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structuring Around Recapture and Basis Risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Partnership Flip Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Pre-Flip and Post-Flip Allocation Mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fixed Flip Versus Target-Yield Flip"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Flip Date Calculations and Internal Rate of Return Targets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sponsor Call Options and Fair Market Value Purchase Rights"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Minimum Gain Chargebacks and Regulatory Allocations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Curative Allocations and Reallocation Mechanisms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Sale-Leaseback and Inverted Lease Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sale-Leaseback Mechanics and Timing Requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rent Structuring and Lease Term Considerations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inverted Lease Pass-Through Election Mechanics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Master Tenant and Owner Lessor Roles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparative Use Cases by Project Size and Technology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Credit Monetization Through Transferability and Direct Pay",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Section 6418 Transfer Election Mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Eligible Transferors, Transferees, and Credit Types"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pricing Conventions in the Transfer Market"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Registration, Recapture, and Excessive Credit Transfer Penalties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Elective Pay for Tax-Exempt and Governmental Entities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Insurance Products for Transfer and Recapture Risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Hybrid and Preferred Equity Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Combined Flip and Transfer Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Allocating Credits Between Sale and Partnership Retention"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Preferred Equity as an Alternative to Traditional Flip Partnerships"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Structuring Around Tax Capacity Constraints"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Negotiating Investor Share of Depreciation and Cash Flow"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Partnership Allocations and Capital Accounts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Substantial Economic Effect Rules Under Section 704(b)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital Account Maintenance and Book-Ups"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Special Allocations of Credits, Income, and Loss"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Built-In Gain Allocations Under Section 704(c)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Target Capital Account Allocation Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Financial Modeling for Tax Equity Transactions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building the Sources and Uses Schedule"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modeling the Flip Date and Investor Return"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sculpting Debt Service Around Tax Equity Cash Flows"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sensitivity Analysis on Production, Pricing, and Credit Value"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Modeling Compliance and Recapture Risk Scenarios"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Managing Circular References in Tax Equity Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Accounting Treatment for Tax Equity Investments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hypothetical Liquidation at Book Value Method"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Proportional Amortization Method Under ASU 2023-02"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Choosing Between Accounting Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Financial Statement Presentation and Disclosure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Effect of Accounting Treatment on Investor Appetite"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Legal Documentation and Deal Papering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Limited Liability Company and Partnership Operating Agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Membership Interest Purchase Agreements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tax Credit Transfer Agreements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Guarantees, Indemnities, and Support Agreements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interaction with Interconnection, Construction, and Offtake Agreements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consents, Opinions, and Closing Deliverables"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Due Diligence Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tax Due Diligence and Opinion Letters"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Technical and Engineering Due Diligence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Title, Real Property, and Site Control Review"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Permitting and Environmental Diligence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Foreign Entity of Concern Supply Chain Diligence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Insurance and Credit Support Review"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Risk Allocation, Indemnities, and Insurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Construction and Completion Risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Change-in-Law Risk and Legislative Uncertainty"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tax Insurance for Recapture and Qualification Risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Indemnification Structures Between Sponsor and Investor"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Force Majeure and Curtailment Risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Recapture Risk and Ongoing Compliance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Five-Year Recapture Schedule"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Recapture-Triggering Events and Ownership Changes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ongoing Ownership and Reporting Rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monitoring Bonus Adder Compliance Over Time"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Post-Closing Covenants and Reporting Obligations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Investor Landscape and Capital Providers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bank Tax Equity Investors and Their Motivations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Corporate and Insurance Company Investors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regulatory Capital Treatment for Bank Investors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "New Entrants Since the Transfer Market Opened"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Investor Concentration and Market Capacity Constraints"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Sector-Specific Applications and Technology Credits",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Utility-Scale and Distributed Solar"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Onshore and Offshore Wind"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Standalone and Co-Located Battery Storage"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon Capture and Sequestration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Clean Hydrogen Production"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nuclear, Geothermal, and Other Firm Clean Generation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Advanced Manufacturing Credits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Adjacent Federal Tax Credit Programs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Low-Income Housing Tax Credit Structuring"
+        },
+        {
+          "item_index": 2,
+          "item_title": "New Markets Tax Credit Structuring"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Qualified Opportunity Zone Funds After the 2025 Reforms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Federal Historic Rehabilitation Tax Credit"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-Program Layering and Twinning Strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "State and Local Incentive Programs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "State Renewable Portfolio Standards and Credit Markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Property Tax Abatements and Payment-in-Lieu-of-Tax Agreements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "State-Level Tax Credits and Grant Programs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sales and Use Tax Exemptions for Energy Equipment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interaction Between State Incentives and Federal Basis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Secondary Markets, Syndication, and Exit Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Flip-Date Buyouts and Fair Market Value Purchase Options"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rights of First Refusal and Sponsor Repurchase Rights"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Secondary Sales of Tax Equity Interests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fund Syndication and Multi-Project Portfolios"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Portfolio Refinancing After Flip"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Market Practice, Negotiation, and Deal Execution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Term Sheet Priorities for Sponsors and Investors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deal Timeline from Term Sheet to Funding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Coordinating Counsel, Accountants, and Engineers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common Points of Negotiation Friction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a Career in Tax Equity and Project Finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Policy Outlook and Continuing Education",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tracking Treasury and IRS Guidance in Real Time"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Anticipated Rulemakings and Open Comment Periods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Legislative Risk Monitoring Beyond the 2025 Overhaul"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Industry Conferences, Publications, and Data Sources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a Personal Reference Library"
+        }
+      ]
+    }
+  ]
+}

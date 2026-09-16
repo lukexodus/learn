@@ -1,0 +1,925 @@
+{
+  "topic": "Labor Economics",
+  "topic_slug": "labor_economics",
+  "generated_at": "2026-09-09T15:02:05.157295",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Labor Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scope and Methodology of Labor Economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stylized Facts About Labor Markets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Labor Market Data Sources and Measurement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "National Income Accounting and Labor's Share"
+        },
+        {
+          "item_index": 5,
+          "item_title": "History of Labor Economic Thought"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Institutions Shaping Modern Labor Markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Empirical Methods in Labor Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Difference in Differences Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Instrumental Variables in Labor Research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regression Discontinuity Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Synthetic Control Methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structural Estimation of Labor Market Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Field Experiments in Labor Economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Static Labor Supply Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Labor Leisure Choice Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Income and Substitution Effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reservation Wages and the Participation Decision"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Backward Bending Labor Supply Curve"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nonlinear Budget Constraints and Taxation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Labor Supply Elasticities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Dynamic and Life Cycle Labor Supply",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Intertemporal Substitution in Labor Supply"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Life Cycle Models of Labor Supply"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Retirement and Social Security Incentives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Added Worker and Discouraged Worker Effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Savings, Wealth, and Labor Supply Interactions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Household and Family Labor Supply",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Household Production Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unitary Models of the Family"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Collective Household Bargaining Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fertility and Female Labor Force Participation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Childcare Policy and Parental Labor Supply"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Marriage, Divorce, and Labor Market Outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Labor Demand Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Firm's Profit Maximization Problem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Short Run and Long Run Labor Demand"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Marginal Productivity Theory of Wages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Marshall's Rules of Derived Demand"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Elasticities of Labor Demand"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quasi Fixed Labor Costs and Adjustment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Capital Labor Substitution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Competitive Labor Market Equilibrium",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Equilibrium Wage and Employment Determination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative Statics of Labor Market Shocks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short Run Versus Long Run Equilibrium Adjustment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Labor Market Clearing Across Sectors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "General Equilibrium Extensions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Compensating Wage Differentials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of Compensating Differentials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hedonic Wage Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Value of a Statistical Life"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Workplace Safety and Risk Premiums"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nonwage Job Amenities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Human Capital Theory and Returns to Schooling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Becker's Model of Human Capital Investment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Mincer Earnings Function"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Estimating Returns to Schooling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ability Bias and Instrumental Variable Approaches"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Human Capital and Economic Growth"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Health as Human Capital"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Signaling, Screening, and Education",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spence's Job Market Signaling Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Signaling Versus Human Capital Explanations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Screening and Sorting Equilibria"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credentialism and Sheepskin Effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "School Quality and Labor Market Outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "On the Job Training and Firm Specific Human Capital",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "General Versus Specific Human Capital"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Training Investment and Wage Tenure Profiles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Employer Sponsored Training"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Apprenticeships and Vocational Training"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Human Capital Depreciation and Obsolescence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Wage Determination and Wage Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Wage Setting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rent Sharing and Firm Level Wage Premiums"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interindustry Wage Differentials"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Superstar Effects and Winner Take All Markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Task Based Models of the Labor Market"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Wage Inequality and Its Evolution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Long Run Trends in Wage Inequality"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Skill Biased Technical Change"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Polarization of Employment and Wages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Top Income Shares and the Labor Market"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Decomposing Sources of Wage Inequality"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Technology, Automation, and the Labor Market",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Routine Biased Technical Change"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Task Displacement and Reinstatement Effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Robots and Local Labor Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Artificial Intelligence and Labor Demand"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Automation and Occupational Change"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Globalization, Trade, and Labor Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Trade Theory and Labor Market Outcomes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Offshoring and Domestic Employment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Import Competition and Local Labor Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global Value Chains and Wages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trade Adjustment Assistance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Theories of Labor Market Discrimination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Taste Based Discrimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Statistical Discrimination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monopsony Based Theories of Discrimination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Occupational Segregation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Anti Discrimination Law and Policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Empirical Analysis of Wage Gaps",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Gender Wage Gap"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Racial Wage Gap"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Oaxaca Blinder Decomposition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Audit and Correspondence Studies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Intersectionality in Labor Market Outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Monopsony and Imperfectly Competitive Labor Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical Monopsony Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modern Dynamic Monopsony Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Labor Market Concentration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Employer Market Power and Wage Suppression"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Noncompete Agreements and Mobility Frictions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Search and Matching Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The McCall Search Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Diamond Mortensen Pissarides Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Matching Function"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wage Posting Versus Bargaining"
+        },
+        {
+          "item_index": 5,
+          "item_title": "On the Job Search and Job Ladders"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Directed Search Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Unemployment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Frictional, Structural, and Cyclical Unemployment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Beveridge Curve"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Natural Rate of Unemployment and NAIRU"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Duration Dependence and Long Term Unemployment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hysteresis in Unemployment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross Country Unemployment Comparisons"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Efficiency Wages and Insider Outsider Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Shirking Models of Efficiency Wages"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gift Exchange and Fair Wage Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Turnover Cost Models of Efficiency Wages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Insider Outsider Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wage Rigidity and Unemployment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Labor Unions and Collective Bargaining",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Union Objectives and Membership Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Monopoly Union Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Efficient Bargaining Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Right to Manage Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Union Wage and Employment Effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strikes and Bargaining Theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Trends in Union Density"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Minimum Wage Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Competitive Model Predictions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monopsony Model Predictions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Empirical Minimum Wage Studies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Card Krueger Debate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Minimum Wage Effects on Employment Dynamics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Living Wage Policies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Labor Market Regulation and Social Insurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Employment Protection Legislation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unemployment Insurance Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Payroll Taxes and Mandated Benefits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Occupational Licensing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Disability Insurance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Workers' Compensation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Active Labor Market Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Job Training Programs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Job Search Assistance Programs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wage Subsidies and Hiring Credits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Public Employment Programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Evaluating Active Labor Market Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Personnel Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principal Agent Theory in Employment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Piece Rates Versus Fixed Wages"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tournament Theory and Promotions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Team Production and Free Riding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deferred Compensation and Career Concerns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Internal Labor Markets and Careers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Internal Labor Market Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Promotion Ladders and Job Assignment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Employee Turnover and Retention"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Structure and Wage Setting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mentorship and Career Trajectories"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Immigration Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Labor Market Effects of Immigration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Skill Composition of Immigrant Flows"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Complementarity and Substitutability with Native Workers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Immigration Policy Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Brain Drain and Brain Gain"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Immigrant Assimilation and Wage Convergence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Behavioral Labor Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded Rationality in Job Search"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reference Dependence and Loss Aversion in Labor Supply"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Present Bias in Retirement and Savings Decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fairness Norms in Wage Setting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral Interventions in Labor Market Policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "The Gig Economy and Nonstandard Work",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Platform Based and Gig Work"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Independent Contractor Versus Employee Classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Algorithmic Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nonstandard Employment Arrangements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Portable Benefits Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Macroeconomics of the Labor Market",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Business Cycles and Labor Market Fluctuations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nominal and Real Wage Rigidity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Worker and Job Flows"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Okun's Law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Labor Market Dynamics Over the Business Cycle"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Comparative and International Labor Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cross Country Labor Market Institutions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "European Versus United States Labor Market Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Informal Labor Markets in Developing Countries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Labor Market Dualism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparative Welfare State Regimes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Frontiers in Labor Economics Research",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Labor Market Concentration and Monopsony Power"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Artificial Intelligence and the Future of Work"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Algorithmic Hiring and Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Remote Work and Geographic Labor Markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Climate Change and Labor Market Transitions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Administrative Big Data in Labor Research"
+        }
+      ]
+    }
+  ]
+}

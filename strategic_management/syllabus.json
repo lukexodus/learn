@@ -1,0 +1,791 @@
+{
+  "topic": "Strategic Management",
+  "topic_slug": "strategic_management",
+  "generated_at": "2026-09-11T19:52:09.024743",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Strategic Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Strategic Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Evolution and History of Strategic Management Thought"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Strategic Management Process"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Levels of Strategy: Corporate, Business, and Functional"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vision, Mission, and Organizational Purpose"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stakeholder Theory and Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Corporate Governance and the Board's Strategic Role"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Business Ethics in Strategic Decision-Making"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Strategic Thinking and Schools of Thought",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mintzberg's Ten Schools of Strategic Thought"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Design School and Planning School"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Positioning School and Porter's Contributions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Learning School and Emergent Strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deliberate versus Emergent Strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Systems Thinking in Strategy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Critical and Creative Thinking for Strategists"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "External Environment Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "PESTEL Analysis Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Macroeconomic Analysis for Strategic Planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Political, Legal, and Regulatory Risk Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sociocultural and Demographic Trend Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Technological Environment Scanning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scenario Planning and Environmental Forecasting"
+        },
+        {
+          "item_index": 7,
+          "item_title": "External Factor Evaluation Matrix"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Industry and Competitive Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Porter's Five Forces Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Industry Life Cycle Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic Group Mapping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Competitor Analysis and Competitive Intelligence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Competitive Profile Matrix"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Game Theory in Competitive Strategy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hypercompetition and Temporary Advantage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Internal Environment and Resource Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Resource-Based View of the Firm"
+        },
+        {
+          "item_index": 2,
+          "item_title": "VRIO Framework for Resource Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Core Competencies and Distinctive Capabilities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Value Chain Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Dynamic Capabilities Theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Internal Factor Evaluation Matrix"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Financial Statement Analysis for Strategy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "SWOT Analysis and Strategic Synthesis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Business-Level Competitive Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Porter's Generic Competitive Strategies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost Leadership Strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Differentiation Strategy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Focus and Niche Strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Blue Ocean Strategy and Value Innovation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategic Positioning and Trade-offs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Business Model Design and Innovation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Responding to Competitive Disruption"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Corporate-Level Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Corporate Strategy in Multi-Business Firms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Related and Unrelated Diversification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vertical Integration and Transaction Cost Economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The BCG Growth-Share Matrix"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The GE-McKinsey Nine-Box Matrix"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Ansoff Growth Matrix"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Corporate Parenting Theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Restructuring, Divestment, and Turnaround Strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Mergers, Acquisitions, and Strategic Alliances",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategic Rationale for Mergers and Acquisitions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "M&A Process and Strategic Due Diligence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Post-Merger Integration Strategy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Strategic Alliances and Joint Ventures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coopetition and the Value Net"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Managing Alliance Portfolios and Networks"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Evaluating Alliance and Acquisition Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Global and International Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories and Drivers of Globalization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Porter's Diamond Model of National Advantage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Modes of International Market Entry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Integration-Responsiveness Framework"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global Value Chain Configuration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emerging Market Strategy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Geopolitical Risk and Geoeconomic Strategy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cross-Cultural Strategic Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Innovation and Technology Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Innovation Strategy Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Disruptive Innovation Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Innovation Portfolios"
+        },
+        {
+          "item_index": 4,
+          "item_title": "R&D Strategy and Open Innovation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Technology Life Cycle Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Intellectual Property Strategy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Knowledge Management for Strategic Advantage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Digital, Platform, and AI Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital Transformation Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Platform Business Models and Network Effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ecosystem Strategy and Multi-Sided Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Data-Driven Strategic Decision-Making"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Artificial Intelligence Strategy for Competitive Advantage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Algorithmic Governance and Strategic Risk"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cybersecurity as a Strategic Consideration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Functional-Level Strategy and Alignment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Marketing Strategy Alignment with Corporate Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Operations and Supply Chain Strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Financial Strategy and Capital Allocation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Human Resource Strategy Alignment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Information Systems and Technology Strategy Alignment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross-Functional Strategic Integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Strategic Decision-Making and Behavioral Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rational and Bounded Rationality Decision Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cognitive Biases in Strategic Decision-Making"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behavioral Strategy Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Microfoundations of Strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Groupthink and Strategic Decision Pitfalls"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Real Options Reasoning in Strategy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Decision-Making Under Uncertainty and Ambiguity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Strategy Formulation Tools and Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategic Planning Process Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The McKinsey 7S Framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Balanced Scorecard for Strategy Formulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Strategy Maps"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quantitative Strategic Planning Matrix"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Advanced Scenario Planning Techniques"
+        },
+        {
+          "item_index": 7,
+          "item_title": "War Gaming and Competitive Simulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Strategy Implementation and Execution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Translating Strategy into Actionable Plans"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aligning Organizational Structure with Strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resource Allocation and Strategic Budgeting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cross-Functional Coordination for Execution"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overcoming Strategic Implementation Barriers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategic Initiative and Program Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Organizational Structure and Design for Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structural Forms and Strategic Fit"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Centralization versus Decentralization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Matrix and Network Organizational Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Design for Strategic Agility"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Governance Structures for Strategy Execution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Human Capital and Talent Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategic Workforce Planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Talent as a Source of Competitive Advantage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Aligning Human Resource Strategy with Business Strategy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Learning Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Change Readiness and Employee Engagement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Strategic Leadership and Culture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Role of the Strategic Leader"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Upper Echelons Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building and Shaping Organizational Culture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Strategic Communication and Narrative"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leading Strategic Change"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Succession Planning and Leadership Pipelines"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Performance Measurement and Strategic Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Key Performance Indicators for Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Strategic Control Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic Auditing and Review Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Benchmarking Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economic Value Added and Value-Based Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Continuous Improvement and Feedback Loops"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Strategic Risk Management and Resilience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying and Categorizing Strategic Risks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Enterprise Risk Management Frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Crisis Management and Strategic Resilience"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Black Swan Events and Strategic Preparedness"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supply Chain and Operational Risk in Strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building Organizational Antifragility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Sustainability, ESG, and Stakeholder Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ESG Integration into Corporate Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sustainable Business Model Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Circular Economy Strategy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Corporate Social Responsibility Strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shared Value Creation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stakeholder Capitalism and Purpose-Driven Strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Entrepreneurial and Corporate Venture Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategy for Startups and New Ventures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lean Startup Methodology and Strategic Iteration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Scaling Strategy for Growth Ventures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Corporate Entrepreneurship and Intrapreneurship"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate Venture Capital Strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategy in Family and Founder-Led Businesses"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Contemporary and Emerging Strategic Issues",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategic Agility and Adaptive Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Non-Market and Political Strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategy in the Gig and Creator Economy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geoeconomics and Strategic Supply Chain Realignment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Agentic AI and the Future of Strategic Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategy in Platform-Disrupted and Regulated Industries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Applied Strategy: Cases, Simulation, and Capstone",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classic Strategic Management Case Studies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Industry-Specific Strategic Analysis Projects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic Management Simulation Exercises"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Writing a Comprehensive Strategic Plan"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Presenting and Defending Strategic Recommendations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capstone Strategic Analysis Project"
+        }
+      ]
+    }
+  ]
+}

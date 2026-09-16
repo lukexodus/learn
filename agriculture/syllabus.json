@@ -1,0 +1,899 @@
+{
+  "topic": "Agriculture",
+  "topic_slug": "agriculture",
+  "generated_at": "2026-09-06T11:46:07.925079",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Agricultural Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and evolution of agriculture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Major agricultural systems worldwide"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Agriculture and the global food system"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agroecosystems and ecological principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sustainability and stewardship in farming"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agricultural economics fundamentals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Career pathways in agriculture"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Soil Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Soil formation and classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Soil physical properties"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Soil chemistry and nutrient cycles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Soil biology and microbial ecology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Soil testing and analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Soil fertility management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Soil erosion and conservation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Soil health assessment"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Composting and organic matter management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Plant Science and Physiology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Plant anatomy and morphology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Photosynthesis and respiration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Plant growth and development stages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Plant reproduction and pollination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Plant nutrition and mineral uptake"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Water relations in plants"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Plant hormones and growth regulators"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmental stress physiology"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Taxonomy and plant identification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Crop Production Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Field crop production principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cereal grain production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Legume and oilseed production"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Root and tuber crop production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Forage crop production"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiber crop production"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Crop rotation and cropping systems"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Intercropping and polyculture"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Planting density and spacing decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Horticulture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vegetable crop production"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fruit and orchard management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Viticulture fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nut crop production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ornamental horticulture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Greenhouse and protected cultivation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nursery propagation techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Postharvest handling of produce"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Urban and container gardening"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Plant Genetics and Breeding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Mendelian genetics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Plant breeding methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hybridization techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Marker-assisted selection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Genetically modified crops"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gene editing in agriculture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Seed production and certification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Germplasm conservation and genebanks"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Intellectual property in plant breeding"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Irrigation and Water Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Water sources and hydrology basics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Irrigation system types"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drip and micro-irrigation design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Irrigation scheduling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Drainage systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Water use efficiency"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Water quality and salinity management"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Drought management strategies"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Water rights and allocation policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Weed Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Weed biology and identification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Weed life cycles and dispersal"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cultural weed control methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mechanical weed control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chemical weed control and herbicides"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Herbicide resistance management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Integrated weed management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Entomology and Insect Pest Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Insect anatomy and classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Beneficial insects and pollinators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Major crop insect pests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Insect life cycles and monitoring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Biological control agents"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Insecticide types and application"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Integrated pest management principles"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Pest scouting and economic thresholds"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Plant Pathology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fungal diseases of crops"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bacterial plant diseases"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Viral plant diseases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nematode pests"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Disease diagnosis techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Disease cycles and epidemiology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Fungicide and bactericide use"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Disease-resistant cultivar selection"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Biosecurity and quarantine practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Agricultural Chemistry and Inputs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fertilizer types and formulations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nutrient management planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pesticide classification and modes of action"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pesticide safety and regulations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Soil amendments and biostimulants"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Precision nutrient application"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Environmental fate of agrochemicals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Farm Machinery and Equipment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tractor systems and operation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tillage equipment and practices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Planting and seeding equipment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Harvesting machinery"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Irrigation equipment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Equipment maintenance and safety"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Farm shop tools and fabrication"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Machinery economics and selection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Precision Agriculture and AgTech",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "GPS and GNSS guidance systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Remote sensing and satellite imagery"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drones in agriculture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Variable rate technology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Farm management software"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sensors and IoT in agriculture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Agricultural data management"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Artificial intelligence applications in farming"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Robotics and automation in farming"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Animal Science Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Livestock anatomy and physiology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Animal genetics and breeding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Animal nutrition principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Animal reproduction and breeding management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Animal behavior and welfare"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Animal health and disease prevention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Livestock and Poultry Production",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Beef cattle production"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dairy cattle production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Swine production"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sheep and goat production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Poultry production"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aquaculture systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Apiculture and beekeeping"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Feedlot and grazing management"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Livestock housing and facilities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Pasture and Rangeland Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Grassland ecology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Grazing systems and rotational grazing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pasture establishment and renovation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rangeland monitoring and health assessment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Carrying capacity calculations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Silvopasture and agroforestry integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Agroforestry and Forestry Integration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Agroforestry system design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Windbreaks and shelterbelts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Alley cropping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Forest farming"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Woodlot management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Timber and non-timber forest products"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Organic and Regenerative Agriculture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Organic certification standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cover cropping strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "No-till and reduced tillage systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regenerative soil practices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Biodynamic farming principles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Permaculture design principles"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Carbon sequestration in agriculture"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Biological pest and disease suppression"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Climate and Environmental Interactions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Agrometeorology and weather monitoring"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Climate change impacts on agriculture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Climate-smart agriculture practices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Greenhouse gas emissions from farming"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Biodiversity conservation on farms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Pollinator habitat management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Watershed and riparian management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Food Science and Postharvest Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Postharvest physiology of crops"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Storage and preservation methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Food processing fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Food safety and sanitation standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cold chain management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Value-added product development"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Packaging and labeling requirements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Agribusiness and Farm Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Farm business planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agricultural finance and budgeting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Farm record keeping and accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Risk management and crop insurance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Agricultural marketing strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supply chain and logistics in agriculture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Commodity markets and futures trading"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Land tenure and lease agreements"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Labor management on farms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Agricultural Policy and Trade",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Domestic agricultural policy frameworks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "International agricultural trade"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Subsidies and support programs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Food security policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental regulations affecting agriculture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agricultural cooperatives and organizations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Rural Sociology and Extension",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rural community development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agricultural extension methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Technology adoption and diffusion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Smallholder farming systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gender and equity in agriculture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Indigenous and traditional agricultural knowledge"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Emerging Frontiers in Agriculture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vertical farming systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Controlled environment agriculture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Aquaponics and hydroponics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cellular agriculture and alternative proteins"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Synthetic biology in agriculture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Big data and machine learning in crop science"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Gene-edited livestock and crops"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Space and extreme-environment agriculture research"
+        }
+      ]
+    }
+  ]
+}

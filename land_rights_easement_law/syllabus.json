@@ -1,0 +1,913 @@
+{
+  "topic": "Land Rights & Easement Law",
+  "topic_slug": "land_rights_easement_law",
+  "generated_at": "2026-09-13T22:40:55.062807",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Property and Land Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Concept and Theories of Property"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Historical Development of Land Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Real Property versus Personal Property"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Bundle of Rights Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sources of Property Law: Common Law, Equity, and Statute"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common Law and Civil Law Traditions in Land Law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Estates in Land and Future Interests",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fee Simple Absolute"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Defeasible Fees"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Life Estates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reversions and Remainders"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Executory Interests"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Rule Against Perpetuities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Concurrent Ownership of Land",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tenancy in Common"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Joint Tenancy and Right of Survivorship"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tenancy by the Entirety"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rights and Duties Among Cotenants"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Partition Actions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Introduction to Servitudes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Purpose of Servitudes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Taxonomy of Servitudes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Historical Evolution of Servitude Doctrine"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Restatement Third of Property on Servitudes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Policy Rationales for Servitude Law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Nature and Classification of Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Essential Characteristics of an Easement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Affirmative versus Negative Easements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Easements Appurtenant versus Easements in Gross"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dominant and Servient Estates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Exclusive versus Nonexclusive Easements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Easements Distinguished from Other Land Interests"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Creation of Easements by Express Act",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Express Grant of an Easement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Express Reservation of an Easement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Statute of Frauds and Writing Requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Drafting Essential Terms in an Easement Instrument"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Recording and Notice Requirements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Creation of Easements by Implication and Operation of Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Easements Implied from Prior Use"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Easements by Necessity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Easements by Estoppel"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Easements Implied from a Recorded Plat or Map"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Statutory and Common Law Ways of Necessity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Prescriptive Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Elements of Adverse Use for Prescription"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Open, Notorious, and Continuous Use Requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tacking of Successive Periods of Use"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Defenses Against Prescriptive Claims"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public Prescriptive Rights and Custom"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Scope, Use, and Extent of Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Determining Permitted Use and Purpose"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Changes in Use and Technological Evolution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Overburdening and Misuse of an Easement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Repair and Maintenance Obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Relocation of Easements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Subdivision of the Dominant Estate"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Transfer and Apportionment of Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Assignability of Easements Appurtenant"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Assignability of Easements in Gross"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Apportionment and Divisibility of Easements in Gross"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Running of Easement Benefits and Burdens to Successors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Effect of Estate Division on Easement Rights"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Modification and Termination of Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Termination by Merger of Estates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Termination by Release"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Termination by Abandonment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Termination by Expiration of Purpose or Term"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Extinguishment by Prescription"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Judicial Modification of Easement Terms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Profits a Prendre",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Distinction from Easements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Common and Several Profits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Creation and Termination of Profits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Profits in Natural Resource Extraction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Licenses and Revocable Land Use Rights",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Characteristics of a License"
+        },
+        {
+          "item_index": 2,
+          "item_title": "License Distinguished from Easement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Revocability of Licenses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Irrevocable Licenses and Estoppel"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Real Covenants",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Requirements for Covenants to Run with the Land"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Horizontal and Vertical Privity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Touch and Concern Requirement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Running of Benefits and Burdens at Law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Termination and Modification of Real Covenants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Equitable Servitudes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins in Equity and the Notice Principle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Requirements for Enforcement in Equity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common Scheme and Reciprocal Negative Servitudes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Defenses to Enforcement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Relationship Between Real Covenants and Equitable Servitudes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Common Interest Communities",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Homeowners Associations and Governance Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Declarations, Bylaws, and Restrictive Covenants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Enforcement of Community Restrictions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Condominium and Cooperative Ownership"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shared Amenities and Common Area Easements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Adverse Possession",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Elements of Adverse Possession"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Color of Title and Constructive Possession"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tacking and Privity Among Successive Possessors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Adverse Possession Against Government Land"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Boundary Disputes and Adverse Possession Claims"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Boundaries and Land Surveying",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Metes and Bounds Descriptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Government Survey and Plat Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Boundary by Acquiescence and Agreement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Encroachments and Available Remedies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Role of Surveys in Resolving Easement Disputes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Lateral and Subjacent Support",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Right to Lateral Support of Land"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Right to Subjacent Support"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Liability for Excavation and Support Damage"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Statutory Modification of Support Rights"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Water Rights and Land",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Riparian Rights Doctrine"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Prior Appropriation Doctrine"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Groundwater Rights"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Surface Water Drainage Rights"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Water Access Easements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Mineral, Subsurface, and Airspace Rights",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Severance of the Mineral Estate"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Surface Use Rights for Mineral Extraction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Oil and Gas Leases and Easements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Airspace Rights and the Ad Coelum Doctrine"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overflight and Aviation Easements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Public and Private Rights of Way",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Public Roads and Highway Easements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Private Roadway Easements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Access Easements for Landlocked Parcels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pedestrian and Recreational Easements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rail Corridors and Rail Trail Conversions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Utility and Infrastructure Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electric, Gas, and Pipeline Easements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Telecommunications and Broadband Easements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drainage and Sewer Easements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Condemnation of Easements for Public Utilities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Renewable Energy Easements for Wind and Solar"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Conservation and Environmental Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purpose and Legal Basis of Conservation Easements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Perpetuity and Enforcement Challenges"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tax Incentives for Conservation Easements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land Trusts and Stewardship Obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Regulation and Land Use Restriction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Nuisance and Land Use Conflicts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Private Nuisance Doctrine"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Public Nuisance and Land Use"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Coming to the Nuisance Defense"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Remedies: Injunctions and Damages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interaction Between Nuisance and Easement Rights"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Zoning and Land Use Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Zoning Ordinances and Comprehensive Plans"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Variances and Special Use Permits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nonconforming Uses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Subdivision Regulations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interaction of Zoning with Easements and Servitudes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Eminent Domain and Regulatory Takings",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Constitutional Basis for Eminent Domain"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Public Use Requirement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Just Compensation Principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regulatory Takings Doctrine"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Condemnation of Easement Interests"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Inverse Condemnation Claims"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Title Records, Recording Systems, and Due Diligence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Recording Acts: Race, Notice, and Race Notice Statutes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Chain of Title Examination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Title Insurance and Easement Disclosure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Marketable Title Acts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Curative Title Procedures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Comparative Land Registration and Tenure Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Torrens Title Registration System"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deeds Registration versus Title Registration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Civil Law Approaches to Land Registration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cadastral Systems and Land Administration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Indigenous and Customary Land Rights",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Aboriginal Title and Native Land Claims"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Customary Land Tenure Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Land Restitution and Historical Dispossession"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Treaty Rights and Easements on Indigenous Lands"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Comparative and International Servitude Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Servitude Law in Civil Law Jurisdictions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Easement Concepts in English and Commonwealth Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "International Land Rights Frameworks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transboundary Resources and Cross Border Land Use"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Drafting and Negotiating Easement Agreements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Key Clauses in Easement Instruments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Negotiating Scope, Duration, and Compensation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Indemnification and Insurance Provisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Due Diligence Before Granting or Acquiring an Easement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common Drafting Pitfalls and How to Avoid Them"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Easement and Land Rights Litigation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common Causes of Action in Easement Disputes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quiet Title Actions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Declaratory Judgment Actions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Injunctive Relief in Land Rights Disputes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Alternative Dispute Resolution for Land Conflicts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Real Estate Transactions Involving Easements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Easements in Purchase and Sale Agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Easement Due Diligence in Commercial Transactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Easements in Development and Construction Projects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lender Considerations and Easement Subordination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Emerging Issues in Land Rights and Easement Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Climate Change and Land Use Adaptation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Renewable Energy Development and Easement Demand"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drones, Airspace, and Emerging Technology Questions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land Rights in the Context of Urbanization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Digital Recording and Blockchain Land Registries"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "topic": "Energy Conversion & Thermodynamics (for Power)",
+  "topic_slug": "energy_conversion_thermodynamics_for_power",
+  "generated_at": "2026-09-13T01:55:17.197910",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Thermodynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basic Concepts: Systems, Properties, and States"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Processes, Paths, and Cycles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermodynamic Equilibrium and the Zeroth Law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Temperature Scales and Thermometry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Work and Heat as Modes of Energy Transfer"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Units and Dimensional Analysis in Thermodynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Properties of Pure Substances",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Phase Behavior and P-v-T Surfaces"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Saturation States and Quality of Two-Phase Mixtures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Property Tables and Charts for Steam and Refrigerants"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Ideal Gas Equation of State"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Compressibility Factor and Real Gas Behavior"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Generalized Equations of State"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The First Law of Thermodynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Energy Balance for Closed Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Specific Heats and Internal Energy Relations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Energy Balance for Control Volumes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Steady-Flow Energy Equation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applications to Nozzles, Diffusers, and Throttling Devices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Unsteady-Flow Processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "The Second Law of Thermodynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Heat Engines, Refrigerators, and Heat Pumps"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kelvin-Planck and Clausius Statements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reversible and Irreversible Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Carnot Cycle and Carnot Principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Entropy as a Property and the Clausius Inequality"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Increase-of-Entropy Principle"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Isentropic Processes and Isentropic Efficiencies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Entropy and Exergy Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Entropy Generation and Irreversibility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exergy of a System and of a Flow Stream"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reversible Work and the Exergy Balance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Second-Law (Exergetic) Efficiency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Exergy Destruction in Power System Components"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Introduction to Exergoeconomics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Vapor Power Cycles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Carnot Vapor Cycle and Its Limitations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Ideal Rankine Cycle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Actual Vapor Power Cycles and Component Irreversibilities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Reheat Rankine Cycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Regenerative Rankine Cycle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supercritical and Ultra-Supercritical Steam Cycles"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Binary Vapor Cycles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Gas Power Cycles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Air-Standard Assumptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Otto Cycle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Diesel and Dual Cycles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Stirling and Ericsson Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Brayton Cycle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Brayton Cycle with Regeneration, Intercooling, and Reheating"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Refrigeration and Heat Pump Cycles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Reversed Carnot Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Ideal Vapor-Compression Refrigeration Cycle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Actual Vapor-Compression Cycles and Refrigerant Selection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cascade and Multistage Compression Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Absorption Refrigeration Cycles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Heat Pump Systems and Applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Combined Cycles and Cogeneration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Combined Gas-Vapor Power Cycles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heat Recovery Steam Generators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Combined-Cycle Performance and Part-Load Behavior"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cogeneration and Combined Heat and Power"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trigeneration Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Topping and Bottoming Cycle Arrangements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Combustion and Fuels",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fuel Types: Solid, Liquid, and Gaseous Fuels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stoichiometric and Actual Combustion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Air-Fuel Ratio and Excess Air"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Enthalpy of Formation and Enthalpy of Combustion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adiabatic Flame Temperature"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Flue Gas Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Combustion-Generated Pollutants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Heat Transfer Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conduction and Fourier's Law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Thermal Resistance Networks and Composite Walls"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Extended Surfaces and Fin Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Forced and Natural Convection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Boiling and Condensation Heat Transfer"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermal Radiation and the Stefan-Boltzmann Law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Heat Exchangers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of Heat Exchangers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Log Mean Temperature Difference Method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Effectiveness-NTU Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Shell-and-Tube and Compact Heat Exchanger Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fouling and Its Effect on Performance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Condensers and Evaporators as Heat Exchangers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Steam Generators and Boiler Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Boiler Classification: Fire-Tube and Water-Tube Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Boiler Mountings and Accessories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Superheaters, Reheaters, and Economizers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Air Preheaters and Draft Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fuel Handling and Ash Handling Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fluidized-Bed Combustion Boilers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Boiler Water Chemistry and Feedwater Treatment"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Boiler Efficiency and Heat Balance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Steam Turbines",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Impulse Turbine Principles and Velocity Diagrams"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reaction Turbine Principles and Stage Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Turbine Staging and Compounding"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Steam Nozzles and Steam Path Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Turbine Losses and Efficiency"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Governing and Control Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Turbine Blade Materials and Design Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Gas Turbines",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gas Turbine Components and Configurations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Axial and Centrifugal Compressor Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Combustor Design and Operation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gas Turbine Performance Parameters"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Single-Shaft and Multi-Shaft Configurations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Turbine Blade Cooling and High-Temperature Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Condensers, Cooling Systems, and Feedwater Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Surface and Direct-Contact Condensers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Condenser Vacuum and Air Extraction Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cooling Towers: Wet, Dry, and Hybrid Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Open and Closed Feedwater Heaters"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deaerators and Feedwater Treatment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Boiler Feed Pump Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Turbomachinery: Compressors, Pumps, and Hydraulic Turbines",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Centrifugal and Axial Compressor Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Centrifugal and Positive-Displacement Pumps"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pelton, Francis, and Kaplan Hydraulic Turbines"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Similarity Laws and Specific Speed"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cavitation and Its Prevention"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Performance Curves and Off-Design Operation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Internal Combustion Engines",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spark-Ignition Engine Operation and Components"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Compression-Ignition Engine Operation and Components"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Engine Performance Parameters"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Two-Stroke and Four-Stroke Engine Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supercharging and Turbocharging"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Engine Emissions and Aftertreatment Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Electromechanical Energy Conversion and Generators",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Magnetic Circuits and Electromechanical Energy Conversion Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synchronous Generator Construction and Operation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Generator Excitation Systems and Voltage Regulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Real and Reactive Power Control in Synchronous Generators"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Induction and Permanent-Magnet Generators"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Power Electronic Converters for Variable-Speed Generation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Generator Protection and Synchronization to the Grid"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Nuclear Power Generation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nuclear Fission and Chain Reactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reactor Types: PWR, BWR, and Heavy-Water Reactors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Nuclear Fuel Cycle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reactor Thermal-Hydraulics and Heat Removal"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nuclear Safety Systems and Containment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Small Modular Reactors and Advanced Reactor Designs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Solar Energy Conversion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Solar Radiation Fundamentals and Solar Geometry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Flat-Plate and Evacuated-Tube Solar Collectors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Concentrated Solar Power Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Photovoltaic Cell Principles and Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Solar PV System Design and Performance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermal Energy Storage for Solar Power Plants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Wind Energy Conversion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wind Resource Assessment and Site Selection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aerodynamics of Wind Turbine Blades"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Betz Limit and Power Curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Horizontal- and Vertical-Axis Wind Turbines"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wind Turbine Drivetrains and Generator Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Offshore Wind Energy Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Hydropower and Ocean Energy Conversion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hydropower Plant Classification and Components"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hydraulic Turbine Selection and Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pumped-Storage Hydropower"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tidal Energy Conversion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wave Energy Conversion"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ocean Thermal Energy Conversion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Geothermal and Biomass Energy Conversion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Geothermal Resource Types and Reservoirs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dry-Steam, Flash, and Binary Geothermal Power Plants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Enhanced Geothermal Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Biomass Feedstocks and Conversion Pathways"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Biomass Combustion, Gasification, and Pyrolysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Biogas and Anaerobic Digestion Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Direct Energy Conversion Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fuel Cell Principles and Types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fuel Cell System Design and Balance of Plant"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermoelectric Power Generation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thermionic Energy Conversion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Magnetohydrodynamic Power Generation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Piezoelectric and Triboelectric Energy Harvesting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Energy Storage Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Pumped-Hydro Energy Storage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Compressed Air Energy Storage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Battery Energy Storage Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thermal Energy Storage: Sensible, Latent, and Thermochemical"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Flywheel Energy Storage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hydrogen Production and Storage for Power Applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Power Plant Design, Operation, and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Site Selection and Plant Layout"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Plant Efficiency, Heat Rate, and Capacity Factor"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Load Curves, Dispatch, and Part-Load Operation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Power Plant Control and Instrumentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Commissioning, Operation, and Maintenance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economic Analysis and the Levelized Cost of Electricity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reliability, Availability, and Maintainability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Emissions Control and Environmental Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Particulate Control: Electrostatic Precipitators and Baghouses"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Flue Gas Desulfurization Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "NOx Control Technologies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon Capture, Utilization, and Storage"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Life-Cycle Assessment of Power Generation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Environmental Regulations and Emission Standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Grid Integration and Power Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fundamentals of Electric Power Transmission"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Grid Stability, Frequency, and Voltage Regulation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Integration of Variable Renewable Energy Sources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Energy Storage for Grid Support"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Smart Grids and Demand-Side Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Microgrids and Distributed Generation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Emerging and Advanced Topics in Power Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Green Hydrogen Production and Power-to-X"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supercritical CO2 Power Cycles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Advanced Nuclear Fuel Cycles and Fusion Energy Prospects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Waste Heat Recovery and Organic Rankine Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Digital Twins and AI for Power Plant Optimization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decarbonization Pathways for the Power Sector"
+        }
+      ]
+    }
+  ]
+}

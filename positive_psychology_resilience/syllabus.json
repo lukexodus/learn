@@ -1,0 +1,993 @@
+{
+  "topic": "Positive Psychology & Resilience",
+  "topic_slug": "positive_psychology_resilience",
+  "generated_at": "2026-09-12T08:35:32.784582",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and History of Positive Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "From pathology-focused psychology to the science of flourishing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Martin Seligman's 1998 APA presidency and the founding of the field"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Humanistic psychology precursors: Maslow, Rogers, and self-actualization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Landmark publications and founding conferences of the field"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The three pillars: positive experience, positive traits, positive institutions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distinguishing positive psychology from self-help and positive thinking"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Growth of research centers, journals, and the field's global expansion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Philosophical and Conceptual Roots",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Aristotle's eudaimonia and the concept of the good life"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hedonism versus eudaimonism across the history of philosophy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stoic and Epicurean conceptions of well-being"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Buddhist, Confucian, and other Eastern contributions to flourishing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Defining happiness, well-being, and flourishing as constructs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Virtue ethics as a foundation for character strengths"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Core Theoretical Models of Well-Being",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Seligman's PERMA model and its five pillars"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Extensions to PERMA: PERMA-V and physical vitality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hedonic well-being and the tripartite model of subjective well-being"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Eudaimonic well-being and psychological functioning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ryff's six-factor model of psychological well-being"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Self-Determination Theory: autonomy, competence, and relatedness"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Broaden-and-build theory of positive emotions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Hedonic adaptation, the happiness set-point, and sustainable happiness models"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Comparing and integrating competing models of flourishing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Positive Emotions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The function and evolutionary significance of positive emotions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Broaden-and-build theory in depth: broadening cognition and building resources"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The positivity ratio debate and its critiques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Discrete positive emotions: joy, awe, interest, contentment, pride, love"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Savoring and capitalizing on positive experiences"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emotional granularity and the regulation of positive affect"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Humor, playfulness, and positive emotion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Character Strengths and Virtues",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The VIA Classification of 24 character strengths and six virtues"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying and measuring signature strengths"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strengths overuse, underuse, and the golden mean"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Strengths-based interventions and strengths-spotting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Character strengths in leadership, teams, and relationships"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross-cultural universality of character strengths"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Grit: perseverance and passion for long-term goals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Flow and Engagement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Csikszentmihalyi's concept of flow and optimal experience"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The challenge-skill balance and conditions for flow"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The autotelic personality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Flow in work, sport, art, and creativity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Engagement as a component of PERMA"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Barriers to flow and designing environments for engagement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Meaning and Purpose",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Viktor Frankl, logotherapy, and the will to meaning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sources and dimensions of meaning in life"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Meaning-making, narrative identity, and life stories"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Purpose, goal pursuit, and long-term life direction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Meaning in suffering, adversity, and existential crisis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Measuring meaning: the Meaning in Life Questionnaire and related instruments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Positive Relationships and Social Connection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Social connection as a pillar of well-being"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Active-constructive responding and capitalizing on good news"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Attachment theory and its links to flourishing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Love, intimacy, and the science of close relationships"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Compassion, kindness, and prosocial behavior"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Loneliness, social isolation, and their effects on well-being"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building community and belonging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Optimism, Hope, and Future-Mindedness",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Learned optimism and explanatory style"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Learned helplessness and its reversal"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Snyder's Hope Theory: pathways thinking and agency thinking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Realistic optimism versus unbridled optimism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Optimism, physical health, and longevity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Future-mindedness and prospection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Gratitude",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The science and structure of gratitude as an emotion and trait"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gratitude journaling and the three good things exercise"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The gratitude visit and letter-writing interventions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gratitude's effects on relationships and prosocial behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gratitude and physical and mental health outcomes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Limits and cultural variation in gratitude practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Mindfulness, Self-Compassion, and Acceptance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mindfulness-based approaches within positive psychology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Self-compassion: self-kindness, common humanity, and mindfulness"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Self-compassion versus self-esteem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Acceptance and Commitment Therapy's connection to flourishing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Non-judgmental awareness and present-moment focus"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Integrating mindfulness with resilience and emotion regulation practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Positive Psychology Interventions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and classifying positive psychology interventions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The evidence base and meta-analyses of intervention effectiveness"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Best possible self and future-visioning exercises"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Positive psychotherapy and Seligman's PPT protocol"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Person-activity fit and moderators of intervention effectiveness"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Limitations, null findings, and the hedonic treadmill problem"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Delivering interventions at scale through apps, workshops, and coaching"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Foundations of Resilience Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining resilience: trait, process, and outcome perspectives"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Historical development from Garmezy, Rutter, and Werner to Masten"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resilience versus related constructs: hardiness, coping, and recovery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ordinary magic: Masten's view of resilience as commonplace"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multisystemic and ecological models of resilience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resilience as a dynamic, developmental process across time"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bonanno's trajectories of adjustment following loss and trauma"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Risk, Protective Factors, and Ecological Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Risk factor accumulation and cumulative risk models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Protective factors at individual, family, and community levels"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bronfenbrenner's ecological systems theory applied to resilience"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Compensatory, protective, and challenge models of resilience"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Differential susceptibility and biological sensitivity to context"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Adverse Childhood Experiences research and its implications"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Self-efficacy and mastery beliefs in resilient functioning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Neuroscience and Biology of Resilience and Well-Being",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The HPA axis and the neurobiology of the stress response"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Allostasis and allostatic load"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neuroplasticity and its role in resilient adaptation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Genetic and epigenetic contributions to resilience"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neural correlates of positive affect and well-being"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Biomarkers used in resilience and well-being research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Stress, Coping, and Emotion Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lazarus and Folkman's cognitive appraisal model of stress"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Problem-focused versus emotion-focused coping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cognitive reappraisal and reframing strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stress inoculation training"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Emotion regulation strategies and their links to resilience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distinguishing everyday coping from resilience to major adversity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Post-Traumatic Growth and Adversarial Growth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tedeschi and Calhoun's model of post-traumatic growth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The five domains of post-traumatic growth"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Distinguishing post-traumatic growth from resilience and recovery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The role of narrative disclosure and cognitive processing of trauma"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vicarious and collective post-traumatic growth"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Critiques and measurement challenges in post-traumatic growth research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Resilience-Building Programs and Interventions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Penn Resiliency Program for youth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comprehensive Soldier and Family Fitness and military resilience training"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trauma-informed approaches to resilience building"
+        },
+        {
+          "item_index": 4,
+          "item_title": "School-based resilience and social-emotional learning programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Workplace resilience training programs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Community-based and disaster resilience initiatives"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Evaluating the effectiveness of resilience interventions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Resilience Across the Lifespan",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Resilience in early childhood development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Resilience in adolescence and identity formation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resilience during adult life transitions and midlife challenges"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Resilience and healthy, successful aging"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Family resilience frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Intergenerational transmission of resilience and risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Resilience in Special Populations and Contexts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Military, veteran, and first-responder resilience"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Resilience among trauma and disaster survivors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resilience in chronic illness and disability"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Resilience in marginalized, minority, and refugee communities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Organizational and community-level resilience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Compassion fatigue, vicarious trauma, and resilience in caregivers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Positive Psychology in Education",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The positive education movement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Character education and social-emotional learning frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Whole-school well-being models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Teacher well-being and classroom emotional climate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Academic buoyancy and student resilience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Growth mindset and its relationship to resilience and achievement"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Well-being curricula and national school well-being initiatives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Positive Psychology in the Workplace and Organizations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Positive organizational scholarship and positive organizational behavior"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Employee engagement, thriving, and flourishing at work"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strengths-based management and talent development"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational resilience and change adaptation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Positive leadership styles and their effects on teams"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Burnout prevention and sustainable high performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Positive Psychology in Clinical and Therapeutic Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrating positive psychology into psychotherapy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Well-being therapy and its clinical protocol"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Positive psychology alongside treatment for depression and anxiety"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Recovery-oriented and strengths-based clinical practice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality of life considerations in chronic and clinical populations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethical considerations when combining positive psychology and therapy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Positive Psychology in Sport, Performance, and Physical Health",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mental toughness and psychological resilience in athletes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Flow states and peak performance in sport"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Growth mindset and performance under pressure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Positive health and the physical correlates of well-being"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Exercise, positive emotion, and resilience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Applying positive psychology in coaching and talent development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Measurement and Assessment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Subjective well-being scales: life satisfaction and affect measures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Psychological well-being measures: Ryff's scales"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resilience scales: the Connor-Davidson and Brief Resilience Scales"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Character strengths assessment: the VIA Inventory of Strengths"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Flourishing and well-being composite indices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Methodological challenges in self-report well-being measurement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Research Methods and Critical Perspectives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Experimental, longitudinal, and diary study designs in well-being research"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The replication crisis and its implications for positive psychology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The toxic positivity critique and its boundaries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "WEIRD samples and generalizability concerns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Publication bias and effect-size inflation in intervention research"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distinguishing correlational claims from causal claims about happiness"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Luthar's critique of resilience as a static trait and the call for developmental specificity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Second Wave Positive Psychology and the Positive-Negative Dialectic",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Paul Wong's PP 2.0 and existential positive psychology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The dialectical principles: appraisal, co-valence, complementarity, evolution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Integrating negative emotions and suffering into flourishing models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self-transcendence and meaning under adverse conditions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Indigenous psychology as a pillar of second-wave thought"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Reconciling first-wave and second-wave positive psychology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Cultural and Global Perspectives on Flourishing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cross-cultural conceptions of happiness and the good life"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Individualist versus collectivist models of well-being"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Indigenous and non-Western resilience frameworks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Religion, spirituality, and well-being across cultures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gross National Happiness and other national well-being frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Adapting positive psychology interventions across cultural contexts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Well-Being at the Societal Level: Policy and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The economics of happiness and the Easterlin paradox"
+        },
+        {
+          "item_index": 2,
+          "item_title": "National well-being indices and the OECD Better Life Index"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Well-being-informed public policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Income, inequality, and subjective well-being"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Community design, urban planning, and flourishing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Well-being budgeting and government well-being frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Applied Practice: Building Personal Resilience and Flourishing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conducting a personal well-being and strengths audit"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Designing a personalized flourishing and resilience plan"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Habit formation and behavior change for sustained well-being"
+        },
+        {
+          "item_index": 4,
+          "item_title": "A practical toolkit of daily resilience-building practices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Positive psychology coaching skills and facilitation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Integrating well-being and resilience practice into daily and organizational life"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Emerging Directions and the Future of the Field",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Technology, apps, and digital well-being interventions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Artificial intelligence and personalized well-being support"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Positive psychology's role in public health and prevention science"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate change, eco-anxiety, and ecological resilience"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Antifragility and stress-adapted systems as a counterpart to resilience science"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Precision and personalized approaches to well-being interventions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Open questions and the ongoing evolution of positive psychology and resilience science"
+        }
+      ]
+    }
+  ]
+}

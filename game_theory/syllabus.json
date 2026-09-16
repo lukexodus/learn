@@ -1,0 +1,825 @@
+{
+  "topic": "Game Theory",
+  "topic_slug": "game_theory",
+  "generated_at": "2026-09-12T01:01:30.846993",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Mathematical Prerequisites",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Set Theory and Logic for Game Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Probability Theory and Random Variables"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Expected Utility Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Optimization and Calculus Foundations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fixed Point Theorems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decision Theory Under Uncertainty"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Introduction to Strategic Thinking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and Origins of Game Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Defining Players Strategies and Payoffs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common Knowledge and Rationality Assumptions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Classifying Games by Structure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Normal Form and Extensive Form Representations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Strategic Form Games and Dominance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Normal Form Game Representation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Strictly and Weakly Dominated Strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Iterated Elimination of Dominated Strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Best Response Correspondences"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rationalizability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Maxmin and Minimax Strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Nash Equilibrium",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Nash Equilibrium"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pure Strategy Nash Equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mixed Strategy Nash Equilibrium"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Existence Theorems for Nash Equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Computing Nash Equilibria"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Equilibrium Selection and Multiplicity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Correlated Equilibrium"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Trembling Hand Perfection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Canonical Games and Strategic Paradoxes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Prisoner's Dilemma"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Battle of the Sexes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Stag Hunt"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Game of Chicken"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Matching Pennies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Traveler's Dilemma"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Volunteer's Dilemma"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Trust Game"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The Dictator Game"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Extensive Form Games",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Game Trees and Information Sets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Perfect and Imperfect Information"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Backward Induction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Subgame Perfect Nash Equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Centipede Game"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Ultimatum Game"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Strategies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Kuhn's Theorem"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Zermelo's Theorem"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Zero-Sum Games",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Minimax Theorem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Saddle Points and the Value of a Game"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Solving Games with Linear Programming"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Applications to Conflict and Security"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Repeated Games",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Finitely Repeated Games"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Infinitely Repeated Games and Discounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trigger Strategies and Punishment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Folk Theorems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reputation Effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Renegotiation Proofness"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Games of Incomplete Information",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bayesian Games"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Harsanyi Transformation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bayesian Nash Equilibrium"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Perfect Bayesian Equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sequential Equilibrium"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Signaling Games"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Screening and Self-Selection"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cheap Talk Games"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Global Games and Equilibrium Selection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Combinatorial Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Impartial Games and Nim"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Sprague-Grundy Theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Partisan Games"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Surreal Numbers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hackenbush and Related Games"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Cooperative Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Transferable Utility Games"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Core"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Shapley Value"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Nucleolus and Kernel"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Non-Transferable Utility Games"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bargaining Sets and Stable Sets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Bargaining Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Axiomatic Bargaining and the Nash Solution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Kalai-Smorodinsky Solution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rubinstein Alternating Offers Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Outside Options and Threats"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multilateral Bargaining"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Mechanism Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Social Choice Functions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Revelation Principle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incentive Compatibility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Individual Rationality Constraints"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Myerson's Optimal Mechanism"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Vickrey-Clarke-Groves Mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Arrow's Impossibility Theorem"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Gibbard-Satterthwaite Theorem"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Dynamic Mechanism Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Auction Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "First-Price and Second-Price Auctions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "English and Dutch Auctions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Private Value and Common Value Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Revenue Equivalence Theorem"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Winner's Curse"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Optimal Auction Design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Combinatorial Auctions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Position and Ad Auctions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Matching Theory and Market Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Stable Matching Problem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Gale-Shapley Algorithm"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deferred Acceptance Mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Many-to-One Matching Markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "School Choice Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kidney Exchange Markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Evolutionary Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Evolutionarily Stable Strategies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Replicator Dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Population Games"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stability and the Relation to Nash Equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applications to Biology and Social Behavior"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Behavioral Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded Rationality Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Level-k and Cognitive Hierarchy Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quantal Response Equilibrium"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Preferences and Fairness Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Psychological Game Theory and Belief-Dependent Preferences"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Experimental Methods in Game Theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Empirical Anomalies from Nash Predictions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Algorithmic Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Computational Complexity of Equilibria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "PPAD-Completeness"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Potential Games and Congestion Games"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Price of Anarchy and Price of Stability"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Learning in Games"
+        },
+        {
+          "item_index": 6,
+          "item_title": "No-Regret Learning and Fictitious Play"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Stochastic and Dynamic Games",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Markov Games"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stochastic Games"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Differential Games"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mean Field Games"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Large Population Games"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Network and Graphical Games",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Network Formation Games"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Graphical Games"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Selfish Routing and Braess's Paradox"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diffusion Games on Social Networks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Epistemic Foundations of Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common Knowledge and Interactive Epistemology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Epistemic Conditions for Nash Equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rationalizability Foundations Revisited"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Robustness and Ambiguity in Games"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Foundational Debates and Critiques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interpreting Mixed Strategies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Chain Store Paradox"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Paradox of Backward Induction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Critiques of Rational Choice Assumptions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Philosophical Foundations of Game Theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Applications in Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cournot Competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bertrand Competition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stackelberg Leadership Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Principal-Agent Problems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contract Theory Foundations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Public Goods and Externality Games"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Applications in Business Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Competitive Strategy and Game Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Co-opetition and Value Net Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "First-Mover and Second-Mover Advantage"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Signaling in Business Negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Real Options as Strategic Games"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Applications in Political Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Voting Theory and Social Choice"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Median Voter Theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Coalition Formation in Legislatures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conflict and War Bargaining Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Game Models in International Relations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate Negotiations and Environmental Agreements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Applications in Computer Science and AI",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Multi-Agent Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Security Games and Stackelberg Defense"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Game Theory in Machine Learning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Game Theory in Blockchain and Cryptoeconomics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adversarial Games in AI Safety"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Tools and Applied Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Game Theory Software and Solvers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modeling Real-World Strategic Situations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Case Studies in Applied Game Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reading and Analyzing Research Papers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Designing Original Game Models"
+        }
+      ]
+    }
+  ]
+}

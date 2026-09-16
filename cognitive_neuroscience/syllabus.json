@@ -1,0 +1,1023 @@
+{
+  "topic": "Cognitive Neuroscience",
+  "topic_slug": "cognitive_neuroscience",
+  "generated_at": "2026-09-10T21:29:51.278943",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and History of Cognitive Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical roots from phrenology to modern neuroscience"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Localizationism versus holism debates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Landmark case studies including Phineas Gage and HM"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hemispheric lateralization and split brain research"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The cognitive revolution and information processing models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emergence of cognitive neuroscience as an interdisciplinary field"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Marr's levels of analysis"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Modularity versus distributed processing theories"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Embodied and situated cognition perspectives"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Philosophy of mind and the mind body problem"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Neuroanatomy Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Organization of the central and peripheral nervous systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cerebral cortex lobes and cytoarchitecture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Basal ganglia, thalamus, and hypothalamus"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Limbic system structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cerebellum anatomy and connections"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Brainstem nuclei and functions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Major white matter tracts and connectivity"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cerebral vasculature and the blood brain barrier"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Neuroanatomical planes and imaging orientation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Cellular and Molecular Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neuron types and structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Glial cell functions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resting membrane potential and ion channels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Action potential generation and propagation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chemical and electrical synaptic transmission"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Major neurotransmitter systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Receptor types and intracellular signaling"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Synaptic plasticity, long term potentiation, and depression"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Cortical reorganization and experience dependent plasticity"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Neurotrophic factors and neuronal survival"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Genetics, Epigenetics, and Neurodevelopment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basics of gene expression in the nervous system"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Epigenetic mechanisms in neural function"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neural induction and patterning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Neurogenesis and neuronal migration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Synaptogenesis and synaptic pruning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gene environment interactions in cognition"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Genetic approaches in cognitive neuroscience research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Systems Level Neurophysiology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neural oscillations and brain rhythms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Neural synchrony and communication through coherence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Population coding and neural ensembles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Excitation inhibition balance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neuromodulatory systems and arousal"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resting state networks and the default mode network"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Structural and functional connectivity concepts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Structural and Functional Neuroimaging Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of magnetic resonance imaging"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural MRI and morphometry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Functional MRI and the BOLD signal"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diffusion imaging and white matter tractography"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Positron emission tomography"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Functional near infrared spectroscopy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Neuroimaging experimental design"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Statistical analysis and thresholding in neuroimaging"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Multivariate pattern analysis and decoding"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Electrophysiology and Neurostimulation Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electroencephalography principles and event related potentials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Magnetoencephalography"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Single unit and multiple unit recording"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Local field potentials and intracranial recording"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transcranial magnetic stimulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transcranial direct current and alternating current stimulation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Optogenetics and chemogenetics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Lesion studies and neuropsychological methods"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Deep brain stimulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Computational and Data Analysis Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Signal processing fundamentals for neural data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Statistical inference in neuroscience research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Machine learning approaches in cognitive neuroscience"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Computational modeling of neural systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Connectomics and graph theory network analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Representational similarity analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Open science, reproducibility, and preregistration"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Naturalistic and big data neuroscience"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Visual Perception",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Retinal processing and early visual pathways"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Primary visual cortex organization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ventral stream and object recognition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dorsal stream and spatial vision"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Face perception and recognition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Color, motion, and depth perception"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Visual illusions and perceptual constancy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Computational models of visual processing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Auditory and Other Sensory Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Auditory pathway from cochlea to cortex"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sound localization and pitch processing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neuroscience of music perception and production"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Somatosensory system and cortical body maps"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pain processing and modulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Olfactory system organization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Gustatory processing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Vestibular system and balance"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Multisensory integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Attention",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of selective and divided attention"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dorsal and ventral attention networks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Spatial, feature, and object based attention"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Attention and perceptual awareness"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neural mechanisms of attentional control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Disorders of attention including neglect and ADHD"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Learning and Memory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Taxonomy of memory systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hippocampal formation and encoding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Systems consolidation theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Working memory and prefrontal circuits"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Synaptic basis of memory formation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Episodic and semantic memory distinctions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Amnesia and memory disorders"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Memory reconsolidation and updating"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Implicit and procedural memory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Spatial Cognition and Navigation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Place cells and grid cells"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cognitive maps and spatial representation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Entorhinal hippocampal circuitry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Path integration and dead reckoning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spatial memory and navigation disorders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Language and Neurolinguistics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical language areas and the dual stream model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Speech perception and production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reading and the visual word form area"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Syntax and semantic processing in the brain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bilingualism and multilingual brain organization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Language acquisition and development"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Aphasia and language disorders"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Computational and neural network models of language"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Executive Function and Cognitive Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Prefrontal cortex organization and subdivisions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cognitive control and task switching"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inhibitory control mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Working memory and executive interactions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Goal directed behavior and planning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Performance monitoring and error detection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cognitive flexibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Reasoning, Problem Solving, and Numerical Cognition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Deductive and inductive reasoning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Problem solving and insight"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Creativity and divergent thinking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Numerical cognition and the parietal cortex"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Analogical reasoning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fluid and crystallized intelligence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Decision Making and Reward",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neuroeconomics fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reward circuitry and dopaminergic signaling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Value based decision making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Risk and uncertainty processing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Prospect theory and neural correlates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Somatic markers and emotion in decision making"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Impulsivity, delay discounting, and self control"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Emotion and Affective Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basic, appraisal, and constructionist theories of emotion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Amygdala function in emotional processing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fear conditioning and extinction circuits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Emotion regulation neural mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interoception and the body brain connection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stress physiology and the HPA axis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Social Cognition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of mind and the mentalizing network"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mirror neuron system and action understanding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Empathy and its neural substrates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Face and biological motion perception"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Moral cognition and judgment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Social decision making and cooperation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Consciousness and Awareness",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Global workspace theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Integrated information theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neural correlates of consciousness"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Attention and consciousness dissociations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Altered states of consciousness"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Disorders of consciousness"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Anesthesia and the neural basis of unconsciousness"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Motor Control and Action",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Primary motor cortex and the motor homunculus"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Basal ganglia contributions to movement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cerebellar motor learning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Motor planning and preparation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Action observation and imitation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Brain computer interfaces for motor restoration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Developmental Cognitive Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Prenatal brain development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synaptogenesis and pruning across childhood"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Critical and sensitive periods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cognitive milestones across development"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adolescent brain maturation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Autism and neurodevelopmental disorders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Aging and Cognitive Decline",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Normal cognitive aging trajectories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural and functional brain changes with age"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cognitive reserve and compensation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Alzheimer's disease neurobiology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Parkinson's disease and cognition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mild cognitive impairment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Sleep and Circadian Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sleep architecture and stages"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Neural circuits regulating sleep and wakefulness"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sleep dependent memory consolidation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Circadian rhythms and the suprachiasmatic nucleus"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sleep disorders and cognitive consequences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Clinical and Translational Cognitive Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Traumatic brain injury and cognitive outcomes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stroke and neurorehabilitation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neurobiology of depression and anxiety"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Neurobiology of schizophrenia"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neurobiology of addiction and substance use"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Placebo effects and the neuroscience of expectation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Computational psychiatry approaches"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Neuropsychological assessment methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Comparative and Evolutionary Cognitive Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparative neuroanatomy across species"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Animal models in cognitive neuroscience research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Evolution of the human brain and cognition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Primate social cognition studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Artificial Intelligence and Computational Models of Cognition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neural network models of brain function"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deep learning models and visual cortex alignment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Large language models and human language processing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Predictive coding and the Bayesian brain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Brain inspired computing architectures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Neuroethics and Societal Implications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ethics of neuroimaging and mental privacy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cognitive enhancement debates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neurolaw and criminal responsibility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dual use concerns in neurotechnology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Equity and access in neuroscience research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Emerging Frontiers in Cognitive Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The human connectome project and large scale brain mapping"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Naturalistic neuroscience and real world cognition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Brain organoids and in vitro neural models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Closed loop neurotechnology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Precision psychiatry and biomarker discovery"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Research Practice and Professional Skills",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Experimental design principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scientific writing and publication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Grant writing fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reproducibility and preregistration practices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Science communication"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Responsible conduct of research"
+        }
+      ]
+    }
+  ]
+}

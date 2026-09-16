@@ -1,0 +1,771 @@
+{
+  "topic": "Microeconomics",
+  "topic_slug": "microeconomics",
+  "generated_at": "2026-09-06T02:08:55.305849",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Economic Thinking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scarcity, choice, and opportunity cost"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positive vs normative economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The economic problem and resource allocation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Production possibilities frontier"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparative advantage and gains from trade"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Marginal analysis and rational decision-making"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Economic models and their assumptions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Circular flow of income"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Demand",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Law of demand and the demand curve"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determinants of demand"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Movements along vs shifts of the demand curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Individual vs market demand"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consumer surplus"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Supply",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Law of supply and the supply curve"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determinants of supply"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Movements along vs shifts of the supply curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Individual vs market supply"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Producer surplus"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Market Equilibrium",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Equilibrium price and quantity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Excess demand and excess supply"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparative statics of demand and supply shifts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Market efficiency and total surplus"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price ceilings and price floors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deadweight loss from price controls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Elasticity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Price elasticity of demand"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determinants of price elasticity of demand"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Elasticity and total revenue"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Price elasticity of supply"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Income elasticity of demand"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross-price elasticity of demand"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Applications of elasticity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Government Intervention in Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Taxes and tax incidence"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Subsidies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quotas and quantity controls"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tariffs and trade restrictions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deadweight loss of taxation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Who bears the burden of a tax"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Consumer Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Utility and marginal utility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Law of diminishing marginal utility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Budget constraints"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Indifference curves and their properties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Marginal rate of substitution"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consumer equilibrium"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Income and substitution effects"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Deriving the demand curve from utility maximization"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Normal, inferior, and Giffen goods"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Revealed preference theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Production Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Production function and inputs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Total, average, and marginal product"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Law of diminishing marginal returns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Short-run vs long-run production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Isoquants and isocosts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Marginal rate of technical substitution"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Returns to scale"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cost-minimizing input combination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Costs of Production",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Explicit vs implicit costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Economic profit vs accounting profit"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fixed, variable, and total cost"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Average and marginal cost curves"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Short-run cost curves"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Long-run cost curves"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Economies and diseconomies of scale"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sunk costs and their irrelevance to decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Perfect Competition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics of perfectly competitive markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The firm as a price taker"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short-run profit maximization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Shutdown decision and shutdown point"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Short-run supply curve of the firm"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Long-run equilibrium and zero economic profit"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Entry, exit, and market adjustment"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Efficiency in perfectly competitive markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Monopoly",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and barriers to entry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monopoly demand and marginal revenue"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Profit maximization under monopoly"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monopoly pricing and output vs competitive markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deadweight loss of monopoly"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Price discrimination"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Natural monopoly"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Antitrust and regulation of monopoly"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Monopolistic Competition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics of monopolistic competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Product differentiation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short-run profit maximization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Long-run equilibrium and excess capacity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Advertising and brand competition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Efficiency comparisons with perfect competition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Oligopoly and Strategic Behavior",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics of oligopoly"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Concentration ratios and measuring market power"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cournot competition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bertrand competition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stackelberg leadership model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kinked demand curve model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cartels and collusion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Price wars and competitive dynamics"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Contestable markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Game Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Simultaneous vs sequential games"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Payoff matrices and strategic form games"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dominant and dominated strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nash equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Prisoner's dilemma"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Repeated games and cooperation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sequential games and extensive form"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Backward induction"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Mixed strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Factor Markets and Income Distribution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Derived demand for factors of production"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marginal revenue product of labor"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Labor supply and the labor-leisure tradeoff"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Competitive labor markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monopsony in labor markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital markets and interest rates"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Land markets and economic rent"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Wage differentials and human capital"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "General Equilibrium and Welfare Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Partial vs general equilibrium analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Edgeworth box and exchange efficiency"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Efficiency in production and the production possibilities frontier"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pareto efficiency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "First and second welfare theorems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Social welfare functions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Equity vs efficiency tradeoffs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Market Failure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conditions for market failure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positive and negative externalities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Coase theorem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pigouvian taxes and subsidies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public goods and the free-rider problem"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common resources and the tragedy of the commons"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Property rights and market solutions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Information Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asymmetric information"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adverse selection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Moral hazard"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Signaling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Screening"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Market for lemons"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Principal-agent problem"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Behavioral Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded rationality"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heuristics and cognitive biases"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prospect theory and loss aversion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Time inconsistency and present bias"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Framing effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nudges and choice architecture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral critiques of rational choice theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Risk and Uncertainty",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Expected value and expected utility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk aversion, risk neutrality, and risk loving"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Insurance markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diversification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "State-preference theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "International Trade Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Absolute vs comparative advantage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ricardian trade model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Heckscher-Ohlin model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Terms of trade"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Winners and losers from trade"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trade policy and protectionism"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Applied Microeconomics and Policy Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost-benefit analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regulatory economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental economics applications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Health economics applications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Industrial organization applications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Auction theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mechanism design basics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Empirical methods in microeconomics"
+        }
+      ]
+    }
+  ]
+}

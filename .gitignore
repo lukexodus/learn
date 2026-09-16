@@ -1,0 +1,10 @@
+# Obsidian transient state (regenerate automatically)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/hotkeys.json.bak
+**/*.sync-conflict-*
+
+# OS junk
+.DS_Store
+Thumbs.db

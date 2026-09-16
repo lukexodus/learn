@@ -1,0 +1,921 @@
+{
+  "topic": "Law and Economics",
+  "topic_slug": "law_and_economics",
+  "generated_at": "2026-09-07T19:54:33.918416",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Origins of Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical origins of the law and economics movement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ronald Coase and the founding insights of the field"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Positive versus normative law and economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Efficiency as a normative criterion in law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pareto efficiency and Kaldor-Hicks efficiency"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wealth maximization as a legal norm"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The role of economic reasoning in judicial decision-making"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Critiques and limits of the economic approach to law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Microeconomic Tools for Legal Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rational choice theory and modeling legal behavior"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supply, demand, and market equilibrium in legal contexts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Marginal analysis applied to legal rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost-benefit analysis for legal policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Externalities and market failure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Public goods and the free-rider problem"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Asymmetric information and adverse selection"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Risk, uncertainty, and insurance theory"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Elasticity and behavioral response to legal rules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Coase Theorem and Transaction Cost Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formulation and proof of the Coase Theorem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The zero transaction cost benchmark"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sources and types of transaction costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bargaining and the allocation of entitlements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transaction cost economics and Oliver Williamson"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Empirical tests and critiques of the Coase Theorem"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Implications for the design of legal rules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Economic Theory of Property Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic functions and justifications of property rights"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Property rules versus liability rules"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The tragedy of the commons and common property regimes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The tragedy of the anticommons and fragmentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Numerus clausus and the standardization of property rights"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Adverse possession and economic efficiency"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nuisance law and the economics of land use conflicts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Eminent domain, takings, and just compensation"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Zoning and land use regulation economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Economic Theory of Contract Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic functions of enforceable contracts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Default rules, mandatory rules, and gap-filling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Efficient breach theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Expectation, reliance, and restitution damages compared"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Specific performance versus monetary damages"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Incomplete contracts and renegotiation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Unconscionability, duress, and paternalistic limits"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Standard form contracts and boilerplate terms"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Contracting under asymmetric information"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Relational contracts and long-term business relationships"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Economic Theory of Tort Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic goals and functions of tort law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Learned Hand Formula and the negligence standard"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strict liability versus negligence regimes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bilateral precaution and activity-level effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contributory and comparative negligence rules"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Products liability and manufacturer incentives"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Vicarious liability and enterprise liability"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Joint and several liability among multiple tortfeasors"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Punitive damages and deterrence theory"
+        },
+        {
+          "item_index": 10,
+          "item_title": "The interaction between tort law and insurance markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Economic Theory of Family Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic models of marriage formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bargaining theory within the household"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Economic incentives created by divorce law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Child custody and child support as economic problems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Premarital agreements and contractual freedom"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economic analysis of domestic partnership and cohabitation law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Economic Theory of Wills, Trusts, and Inheritance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic rationale for freedom of testation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Limits on testamentary freedom"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trusts as instruments of economic planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intergenerational wealth transfer and efficiency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Intestacy rules as default allocations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Economic Theory of Criminal Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Becker model of crime and optimal enforcement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Probability of detection versus severity of punishment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Marginal deterrence and the structure of criminal sanctions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Public enforcement versus private enforcement of law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economics of plea bargaining"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economic analysis of incarceration and alternative sanctions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "White-collar crime and corporate criminal liability"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Economic analysis of criminal procedure and policing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Economics of Civil Procedure and the Litigation Process",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The decision to litigate versus settle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Asymmetric information and settlement bargaining"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The American rule versus fee-shifting rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Class actions and aggregate litigation economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Discovery rules and their economic function"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Alternative dispute resolution mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Precedent, stare decisis, and legal evolution"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Appellate review and error correction economics"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Frivolous litigation and sanctions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Constitutional Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic theories of constitutional design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Separation of powers and economic efficiency"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Federalism as a mechanism for jurisdictional competition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economic analysis of judicial review"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economic analysis of individual rights protections"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Takings Clause and regulatory takings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Public Choice Theory and Legislation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of collective action and interest groups"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rent-seeking and its social costs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The economic theory of legislation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Median voter theorem and political equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Arrow's impossibility theorem and social choice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulatory capture and bureaucratic behavior"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Logrolling and legislative bargaining"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Constitutional constraints on rent-seeking"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Economic Analysis of Regulation and Administrative Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Public interest versus capture theories of regulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Command-and-control versus market-based regulatory instruments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost-benefit analysis in administrative rulemaking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rate-of-return versus incentive-based regulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Judicial review of administrative action"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deregulation and regulatory reform"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Antitrust Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Goals and history of antitrust law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Market definition and measurement of market power"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Horizontal restraints and cartel behavior"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vertical restraints and their competitive effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Merger analysis and concentration measures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Predatory pricing and exclusionary conduct"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Monopolization and abuse of dominant position"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Antitrust analysis of digital platforms and network markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Environmental and Natural Resource Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Externalities and the economic case for environmental regulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pigouvian taxes and subsidies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cap-and-trade systems and tradable permits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Liability rules for environmental harm"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost-benefit analysis of environmental standards"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common pool resources and natural resource management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Climate change law and economic policy instruments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Corporate Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The theory of the firm and the nexus of contracts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agency costs and the separation of ownership and control"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Limited liability and its economic consequences"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fiduciary duties and their economic rationale"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mergers, acquisitions, and takeover defenses"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Shareholder primacy versus stakeholder theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Close corporations and minority shareholder protection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Financial Regulation, Securities, and Bankruptcy Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic rationale for financial market regulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Banking regulation and systemic risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Securities law and mandatory disclosure economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Efficient capital markets hypothesis and securities regulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate bankruptcy and the reorganization process"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Priority rules and creditor bargaining in bankruptcy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Consumer financial protection and behavioral regulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Labor and Employment Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic theory of labor markets and wage determination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Minimum wage laws and employment effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Employment-at-will and statutory exceptions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economic analysis of employment discrimination law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Collective bargaining and union economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Workplace safety regulation and OSHA economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Tax Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of optimal taxation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tax incidence and the shifting of tax burdens"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Efficiency-equity trade-offs in tax design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economic analysis of corporate taxation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tax avoidance, evasion, and enforcement economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Intellectual Property Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic rationale for intellectual property protection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Patent law and incentives to innovate"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Optimal patent scope, length, and breadth"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Copyright law and incentives for creative production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trademark law and consumer search costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trade secret law and economic analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Compulsory licensing and IP exceptions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Health Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic characteristics of health care markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Medical malpractice liability and defensive medicine"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Health insurance markets and adverse selection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pharmaceutical regulation and drug approval economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public health regulation and economic analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Behavioral Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded rationality and departures from the rational actor model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heuristics and cognitive biases in legal decision-making"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prospect theory and risk assessment in legal contexts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hindsight bias and its effect on legal judgments"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nudges and libertarian paternalism in legal policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Behavioral analysis of contract and consumer protection law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Game Theory and Strategic Analysis in Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Static games and the design of legal rules"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Repeated games and cooperative behavior under law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bargaining theory and legal negotiation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Signaling and screening in legal relationships"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mechanism design and the structure of legal institutions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Empirical Legal Studies and Econometric Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Research design in empirical legal scholarship"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Natural experiments in legal research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Difference-in-differences estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Instrumental variables and endogeneity in legal studies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regression discontinuity designs in legal contexts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data sources and measurement challenges in legal research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Comparative and International Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common law versus civil law efficiency debates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Legal origins theory and economic development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Law and finance across legal traditions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International trade law and economic analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparative corporate governance systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross-border insolvency and international economic law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Law, Economics, and Emerging Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic analysis of digital platform regulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data privacy law and economic trade-offs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Artificial intelligence and legal liability frameworks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Blockchain, smart contracts, and economic analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Network effects and technology market regulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Schools of Thought and Contemporary Debates in Law and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Chicago School of law and economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The New Haven School and its critique of Chicago"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Virginia School and public choice foundations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Institutional and neo-institutional law and economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Critical legal studies critique of economic analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Feminist and distributive critiques of law and economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contemporary debates and future directions in the field"
+        }
+      ]
+    }
+  ]
+}

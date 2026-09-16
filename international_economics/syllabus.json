@@ -1,0 +1,1239 @@
+{
+  "topic": "International Economics",
+  "topic_slug": "international_economics",
+  "generated_at": "2026-09-09T15:04:36.250252",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of International Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of international economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mercantilism and pre classical trade thought"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Absolute advantage and Adam Smith's contribution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade theory versus international monetary economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Globalization: historical waves and measurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Openness indicators and trade to GDP ratios"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The gains from trade: an overview"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Positive versus normative analysis in international economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "The Ricardian Model and Comparative Advantage",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Labor productivity and unit labor requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Opportunity cost and the production possibility frontier"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Relative prices and wages under autarky"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Comparative advantage versus absolute advantage"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pattern of trade in the Ricardian model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gains from trade and the distribution of gains"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common misconceptions about comparative advantage"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Dornbusch Fischer Samuelson continuum of goods model"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Heckscher Ohlin Model and Factor Proportions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Factor endowments and factor intensity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Heckscher Ohlin theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Factor price equalization theorem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Stolper Samuelson theorem"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Rybczynski theorem"
+        },
+        {
+          "item_index": 6,
+          "item_title": "General equilibrium trade and the Edgeworth box"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Leontief paradox and empirical tests"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Extensions to many goods and many factors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Specific Factors and the Distribution of Income",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Setup of the specific factors model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Short run versus long run factor mobility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Effects of trade on returns to specific and mobile factors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade and the distribution of income within a country"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Political implications of the specific factors model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The debate over who loses from trade"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "The Standard Trade Model, Terms of Trade, and Growth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Relative supply and relative demand for goods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determination of the terms of trade"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Economic growth and its effect on trade"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Immiserizing growth"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Effects of international transfers on the terms of trade"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Effects of tariffs and subsidies on the terms of trade"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Offer curves and trading equilibrium"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Economies of Scale, Imperfect Competition, and New Trade Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Internal versus external economies of scale"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monopolistic competition and intra industry trade"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Grubel Lloyd index of intra industry trade"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Home market effects and economic geography"
+        },
+        {
+          "item_index": 5,
+          "item_title": "External economies and industry agglomeration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dumping and pricing to market under imperfect competition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Firm Heterogeneity and the New New Trade Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Productivity differences across firms within an industry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Melitz model of selection into export markets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Extensive versus intensive margins of trade"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Offshoring and the fragmentation of production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Task based models of trade and offshoring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trade liberalization and within industry reallocation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Empirical Trade Patterns and the Gravity Model",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theoretical foundations of the gravity equation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Estimating trade elasticities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Border effects and the McCallum puzzle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade costs: distance, tariffs, and trade facilitation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structural gravity and general equilibrium trade models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Counterfactual policy analysis using gravity models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "International Factor Movements: Migration and Capital",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Causes and patterns of international labor migration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Effects of migration on wages in sending and receiving countries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Brain drain and remittances"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International capital mobility and the Mundell equivalence result"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Foreign direct investment versus portfolio capital flows"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Welfare effects of international factor mobility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Tariffs and the Instruments of Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Specific, ad valorem, and compound tariffs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Partial equilibrium effects of a tariff"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The effective rate of protection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tariffs in small versus large countries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The optimum tariff argument"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consumer surplus, producer surplus, and deadweight loss"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Import Quotas, Subsidies, and Non Tariff Barriers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Import quotas and the allocation of quota rents"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Voluntary export restraints"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Local content requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Export subsidies and their welfare effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Production and consumption subsidies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Technical barriers to trade and regulatory measures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Dumping, Trade Remedies, and Contingent Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "International price discrimination and dumping"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predatory dumping versus persistent dumping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Antidumping duties and investigation procedures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Countervailing duties and subsidy disputes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Safeguard measures and emergency protection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategic and political use of trade remedy law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "The Political Economy of Trade Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The national welfare case for free trade"
+        },
+        {
+          "item_index": 2,
+          "item_title": "National welfare arguments for protection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Income distribution arguments for protection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Median voter models of trade policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The protection for sale model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rent seeking and lobbying in trade policy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reciprocity and international trade negotiations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Trade Policy and Economic Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Import substitution industrialization: theory and experience"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Export oriented industrialization strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Infant industry protection and its critiques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade liberalization and structural adjustment programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Industrial policy and trade in East Asia"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dependency theory and unequal exchange debates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Regional Integration and Preferential Trade Agreements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Free trade areas, customs unions, and common markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Trade creation versus trade diversion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rules of origin"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regionalism versus multilateralism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deep integration and regulatory harmonization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative cases: the EU, USMCA, ASEAN, Mercosur, and RCEP"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "The Multilateral Trading System and the WTO",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History of the GATT and founding of the WTO"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Most favored nation and national treatment principles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The WTO dispute settlement mechanism"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multilateral trade rounds and negotiations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Special and differential treatment for developing countries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contemporary challenges to the multilateral trading system"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Balance of Payments Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The current account, capital account, and financial account"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Double entry bookkeeping in the balance of payments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The balance of payments identity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The net international investment position"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interpreting current account surpluses and deficits"
+        },
+        {
+          "item_index": 6,
+          "item_title": "National saving, investment, and the current account"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Foreign Exchange Markets and Instruments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spot and forward foreign exchange markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exchange rate quotations and cross rates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Foreign exchange swaps, futures, and options"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Arbitrage in the foreign exchange market"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Market participants and market microstructure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The carry trade"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Exchange Rate Determination: Parity Conditions and Asset Approaches",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Absolute and relative purchasing power parity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The real exchange rate and deviations from PPP"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Covered interest parity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Uncovered interest parity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The monetary approach to exchange rate determination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Empirical tests of purchasing power parity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Exchange Rate Dynamics, Overshooting, and Expectations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sticky prices and short run versus long run adjustment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Dornbusch overshooting model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rational expectations in the foreign exchange market"
+        },
+        {
+          "item_index": 4,
+          "item_title": "News, surprises, and exchange rate volatility"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The forward premium puzzle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The portfolio balance approach to exchange rates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Open Economy Macroeconomic Policy: The Mundell Fleming Model",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The IS LM BP framework in an open economy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monetary policy under floating exchange rates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fiscal policy under floating exchange rates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monetary and fiscal policy under fixed exchange rates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital mobility and the effectiveness of policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The impossible trinity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "National Income, the Current Account, and Intertemporal Trade",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "National income identities in an open economy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Saving, investment, and the current account balance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The intertemporal approach to the current account"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consumption smoothing and current account dynamics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stages of the balance of payments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The twin deficits hypothesis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Exchange Rate Regimes: Fixed, Floating, and In Between",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classifying exchange rate regimes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adjustable pegs and crawling pegs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managed floating and dirty floats"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Currency boards and dollarization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Choosing an exchange rate regime"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The mechanics of central bank intervention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "The International Monetary System: History and Evolution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The classical gold standard"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The interwar period and competitive devaluation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Design and operation of the Bretton Woods system"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The collapse of Bretton Woods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The post 1973 non system"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Special drawing rights and IMF quota governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Optimal Currency Areas and the Economics of Monetary Union",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mundell's optimal currency area criteria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Costs and benefits of adopting a common currency"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Labor mobility and fiscal transfers as adjustment mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Symmetric versus asymmetric shocks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Endogeneity of the optimal currency area criteria"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Historical examples of monetary unions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "The Eurozone: Design, Crisis, and Reform",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Institutional architecture of the euro area"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The European Central Bank's mandate and toolkit"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Origins of the eurozone sovereign debt crisis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fiscal rules and the Stability and Growth Pact"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Banking union and financial integration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ongoing debates over eurozone reform"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Currency and Balance of Payments Crises",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "First generation currency crisis models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Second generation models and self fulfilling crises"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Third generation models and balance sheet effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Speculative attacks and the depletion of reserves"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contagion across currencies and asset markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital controls as a crisis prevention tool"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Sovereign Debt, Default, and International Lending",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sovereign borrowing and the problem of enforcement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Debt sustainability analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sovereign default and debt renegotiation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The IMF as a lender of last resort"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Odious debt and debt relief initiatives"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mechanisms for sovereign debt restructuring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Global Financial Crises: Comparative Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Latin American debt crisis of the 1980s"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The 1994 Mexican peso crisis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The 1997 to 1998 Asian financial crisis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The 1998 Russian default and the LTCM episode"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The 2008 global financial crisis and its international transmission"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The European sovereign debt crisis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "International Capital Markets and Financial Globalization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Benefits and risks of capital account liberalization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Lucas paradox and capital flows to developing countries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sudden stops and capital flow reversals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global imbalances and reserve accumulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital controls in theory and practice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Macroprudential policy in open economies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Multinational Enterprises and Foreign Direct Investment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Horizontal versus vertical foreign direct investment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The ownership location internalization framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Determinants of FDI location choice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transfer pricing and profit shifting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "FDI and international technology transfer"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Investment treaties and investor state dispute settlement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Global Value Chains and Production Networks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fragmentation of production across national borders"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Measuring trade in value added"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Upstream and downstream linkages in production networks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Governance structures within global value chains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reshoring, nearshoring, and supply chain resilience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Upgrading and development within global value chains"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "International Economic Institutions and Global Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The International Monetary Fund's mandate and surveillance role"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The World Bank Group and development finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The WTO's role in global economic governance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Bank for International Settlements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The G7, the G20, and international policy coordination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Debates over reforming global economic governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Trade, Growth, and Economic Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theoretical channels linking trade openness and growth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Empirical evidence on trade and economic growth"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trade and the diffusion of technology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The natural resource curse and commodity dependence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trade and structural transformation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Foreign aid, trade, and development strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Trade, Labor Markets, and Inequality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Trade and wage inequality: the Stolper Samuelson channel revisited"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The China shock and local labor market adjustment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Skill biased technological change versus trade as drivers of inequality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade adjustment assistance programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trade and job polarization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trade, automation, and the future of work"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Trade and the Environment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The pollution haven hypothesis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The environmental Kuznets curve"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental standards in trade agreements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon border adjustment mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trade in environmental goods and services"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate policy and international competitiveness concerns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Services Trade, Digital Trade, and the Modern Economy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The four modes of services supply under the GATS"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Barriers to trade in services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cross border data flows and digital trade rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "E commerce and platform based international trade"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Intellectual property protection in the digital economy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Taxing the digital economy across borders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Geoeconomics, Industrial Policy, and Strategic Trade",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategic trade policy under imperfect competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Export subsidies as strategic instruments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The rationale for and critique of industrial policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economic statecraft and the use of sanctions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Export controls and technology competition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Friend shoring and economic security policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Globalization, Deglobalization, and Supply Chain Realignment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical waves of globalization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Measuring deglobalization and slowbalization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The United States China trade conflict"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reshoring and supply chain diversification trends"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Political backlash and populism against trade openness"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scenarios for the future international economic order"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Quantitative and Empirical Methods in International Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Computable general equilibrium trade models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural estimation of trade models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Panel data methods in international economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Event study approaches to trade policy changes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Using firm level and transaction level trade data"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Natural experiments in international economics research"
+        }
+      ]
+    }
+  ]
+}

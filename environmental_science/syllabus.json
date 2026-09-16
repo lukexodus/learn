@@ -1,0 +1,965 @@
+{
+  "topic": "Environmental Science",
+  "topic_slug": "environmental_science",
+  "generated_at": "2026-09-08T06:42:24.037693",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Environmental Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Environmental Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Interdisciplinary Nature of the Field"
+        },
+        {
+          "item_index": 3,
+          "item_title": "History and Evolution of Environmental Thought"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Environmental Movements and Milestones"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Scientific Method in Environmental Research"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Systems Thinking in Environmental Science"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Matter, Energy, and the Laws of Thermodynamics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmental Worldviews and Paradigms"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Core Principles of Sustainability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Earth System Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structure and Composition of the Earth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Plate Tectonics and Geologic Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Rock Cycle and Mineral Resources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Carbon Cycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Nitrogen Cycle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Phosphorus and Sulfur Cycles"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Hydrologic Cycle"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Energy Flow Through Earth Systems"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Interactions Among Atmosphere, Hydrosphere, Lithosphere, and Biosphere"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Principles of Ecology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Levels of Ecological Organization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Population Ecology and Growth Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Community Ecology and Species Interactions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ecosystem Structure and Function"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy Flow and Trophic Levels"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Food Webs and Food Chains"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ecological Succession and Disturbance"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Carrying Capacity and Limiting Factors"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Major Terrestrial Biomes"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Freshwater and Aquatic Ecosystems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Biodiversity and Conservation Biology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Levels and Value of Biodiversity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Measuring and Mapping Biodiversity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Causes and Patterns of Species Extinction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Habitat Loss and Fragmentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Invasive Species and Biological Threats"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Principles of Conservation Biology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Protected Areas and Reserve Design"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Wildlife Population Management"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Restoration Ecology"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Rewilding and Landscape Connectivity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Atmospheric Science and Meteorology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Composition and Structure of the Atmosphere"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solar Radiation and the Planetary Heat Balance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Weather Systems and Air Masses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global Atmospheric Circulation Patterns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Climate Classification and Controls"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stratospheric Ozone Formation and Depletion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Air Quality Indices and Standards"
+        },
+        {
+          "item_index": 8,
+          "item_title": "El Niño, La Niña, and Climate Oscillations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Climate Change Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Greenhouse Effect and Radiative Forcing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Evidence and Indicators of Climate Change"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Paleoclimatology and Historical Climate Records"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Models and Future Projections"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Climate Feedback Loops and Tipping Points"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Impacts on Ecosystems and Biodiversity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Impacts on Human Systems and Livelihoods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Climate Change Mitigation Strategies"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Climate Change Adaptation Strategies"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Nature Based Solutions for Climate Resilience"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Climate Justice and Equity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Hydrology and Water Resources",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Surface Water Systems and Watersheds"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Groundwater and Aquifer Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Water Quality Parameters and Standards"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global Water Scarcity and Water Stress"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Water Pollution Sources and Impacts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Water Treatment and Purification Technologies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Wetlands and Their Ecological Functions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Integrated Water Resource Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Soil Science and Land Resources",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Soil Formation and Composition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Soil Classification Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Soil Fertility and Nutrient Cycling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Soil Erosion Causes and Control Methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Land Degradation and Desertification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Land Use Change and Planning"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sustainable Land Management Practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Environmental Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Chemical Fundamentals for Environmental Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fate and Transport of Pollutants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Heavy Metals and Toxic Elements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Persistent Organic Pollutants"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Endocrine Disrupting Chemicals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "PFAS and Emerging Persistent Contaminants"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Environmental Analytical Techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Principles of Green Chemistry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Pollution and Waste Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and Types of Air Pollution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Air Pollution Control Technologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sources and Types of Water Pollution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wastewater Treatment Processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Soil and Land Contamination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bioremediation and Environmental Microbiology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Municipal Solid Waste Management"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Hazardous Waste Handling and Disposal"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Electronic Waste and Emerging Waste Streams"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Plastics Pollution and Microplastics"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Recycling Systems and Circular Waste Design"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Noise and Light Pollution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Environmental Health and Toxicology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Environmental Toxicology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Routes of Exposure and Dose Response Relationships"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental Epidemiology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Human Health Risk Assessment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Emerging Contaminants and Health Effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Occupational and Community Environmental Hazards"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Environmental Justice in Health Outcomes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "One Health and Ecosystem Health Approaches"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Natural Resource Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Renewable and Nonrenewable Resource Classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forest Ecosystems and Sustainable Forestry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fisheries Science and Marine Resource Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mineral and Mining Resource Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rangeland and Grassland Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resource Economics and Sustainable Yield"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Energy Systems and Sustainability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fossil Fuel Extraction and Environmental Impacts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nuclear Energy Systems and Safety"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Solar Energy Technologies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wind Energy Technologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hydropower Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geothermal Energy Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bioenergy and Biofuels"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Energy Storage Technologies"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Energy Efficiency and Conservation"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Energy Policy and the Global Energy Transition"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Life Cycle Assessment of Energy Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Agriculture and Food Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Agroecosystems and Modern Agricultural Practices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Green Revolution and Its Environmental Legacy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sustainable and Organic Farming Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agroecology and Permaculture"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pesticides and Their Environmental Impacts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fertilizers and Nutrient Pollution"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Genetically Modified Organisms in Agriculture"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Livestock Production and Environmental Impact"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Aquaculture Systems and Sustainability"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Global Food Security and Distribution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Human Population and Demography",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Population Growth Dynamics and Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Demographic Transition Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Human Carrying Capacity Debates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Urbanization Trends and Patterns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Migration and Displacement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Population Policy and Family Planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Urban Environmental Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban Ecosystems and Urban Ecology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Principles of Sustainable City Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Green Infrastructure and Urban Green Space"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sustainable Transportation Planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Urban Heat Island Effect"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Smart Growth and Land Use Zoning"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Green Building and Sustainable Architecture"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Marine and Coastal Environmental Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ocean Structure and Circulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marine Biodiversity and Ecosystems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Coral Reef Ecology and Threats"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ocean Acidification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coastal Zone Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Marine Plastic Pollution and Debris"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Overfishing and Fisheries Collapse"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Blue Carbon and Ocean Based Climate Solutions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Environmental Hazards and Disaster Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Natural Hazards and Disaster Types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vulnerability and Resilience Assessment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Disaster Risk Reduction Frameworks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Related Disaster Trends"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Technological and Industrial Hazards"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emergency Preparedness and Response Planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Environmental Policy, Law, and Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foundations of Environmental Law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Command and Control Versus Market Based Policy Instruments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental Impact Assessment Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International Environmental Agreements and Treaties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global Environmental Governance Institutions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "National and Regional Regulatory Frameworks"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Indigenous Rights and Traditional Ecological Knowledge"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmental Justice and Policy Equity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Environmental Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ecological Versus Neoclassical Economic Perspectives"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuing Ecosystem Services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Externalities and Market Failures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost Benefit Analysis in Environmental Decision Making"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Green National Accounting and Alternative Indicators"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Carbon Pricing and Emissions Trading"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sustainable Finance and Green Investment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Environmental Ethics and Philosophy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Anthropocentrism, Biocentrism, and Ecocentrism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Land Ethic and Deep Ecology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Animal Rights and Welfare Perspectives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intergenerational and Intragenerational Equity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Justice Theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cultural and Religious Perspectives on Nature"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Sustainability and the Circular Economy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Sustainable Development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Triple Bottom Line Framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Planetary Boundaries Framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Circular Economy Models and Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Life Cycle Assessment Methodology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corporate Sustainability and ESG Reporting"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sustainable Consumption and Production Patterns"
+        },
+        {
+          "item_index": 8,
+          "item_title": "United Nations Sustainable Development Goals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Environmental Monitoring, GIS, and Data Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Environmental Field Sampling Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Remote Sensing Fundamentals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Geographic Information Systems Applications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Environmental Statistics and Data Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Modeling and Simulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Citizen Science and Community Monitoring Networks"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Artificial Intelligence in Environmental Science"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Environmental Communication, Education, and Advocacy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Science Communication"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental Education Pedagogy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Media Framing and Public Perception"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Environmental Movements and Grassroots Activism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavior Change Strategies for Sustainability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corporate and Political Environmental Advocacy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Research Methods and Capstone Application",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Environmental Research Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Field and Laboratory Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Writing Environmental Impact Statements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Case Studies in Environmental Problem Solving"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interdisciplinary Capstone Project Development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Careers and Professional Pathways in Environmental Science"
+        }
+      ]
+    }
+  ]
+}

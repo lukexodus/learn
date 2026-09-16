@@ -1,0 +1,811 @@
+{
+  "topic": "Negotiation Theory",
+  "topic_slug": "negotiation_theory",
+  "generated_at": "2026-09-12T05:42:17.862768",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations, Scope, and Evolution of Negotiation Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Negotiation and Its Core Elements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Negotiation Compared With Mediation, Arbitration, and Adjudication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Negotiation Process: Phases and Stages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distributive and Integrative Paradigms Compared"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core Vocabulary: BATNA, ZOPA, Reservation Price, and Aspiration Point"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Historical Milestones in Negotiation Scholarship"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Major Schools of Thought in Negotiation Theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Negotiation as an Interdisciplinary Field of Study"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Game-Theoretic Foundations of Bargaining",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Introduction to Game Theory for Negotiators"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cooperative Versus Non-Cooperative Games"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Nash Bargaining Solution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rubinstein's Alternating-Offers Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Prisoner's Dilemma and Strategic Interdependence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Signaling, Screening, and Information Games"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Coalition Games and the Shapley Value"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Foundations of Auction Theory and Mechanism Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Economic Models of Bargaining and Surplus Allocation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Zone of Possible Agreement and Bargaining Range"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reservation Prices and Surplus Division"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structural Determinants of Bargaining Power"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asymmetric Information and Adverse Selection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transaction Cost Perspectives on Negotiated Exchange"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Efficient Versus Inefficient Bargaining Outcomes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Outside Options and Their Strategic Effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Behavioral and Cognitive Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Anchoring and Adjustment in Offer-Making"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Framing Effects and Prospect Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Loss Aversion and Risk Preferences at the Table"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Overconfidence and the Illusion of Transparency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Heuristics and Biases in Judgment Under Uncertainty"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Winner's Curse and Reactive Devaluation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Game Theory: Ultimatum and Dictator Games"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Bounded Rationality in Negotiated Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Emotional and Social-Psychological Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Emotion as Information in Negotiation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positive and Negative Affect and Their Strategic Effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trust Formation, Maintenance, and Repair"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reciprocity and Social Exchange Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Perception, Misperception, and Attribution Bias"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Empathy and Perspective-Taking"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Anger, Anxiety, and Stress at the Table"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Neuroscience and Physiology of Negotiated Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Preparation, Planning, and Strategic Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interest, Position, and Priority Mapping"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying and Strengthening Your BATNA"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Setting Aspiration and Reservation Points"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multi-Issue Trade-off and Utility Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stakeholder and Counterpart Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agenda Design and Issue Sequencing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Scenario Planning and Contingency Strategy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Rehearsal and Simulation-Based Preparation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Distributive Negotiation and Competitive Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Positional Bargaining Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "First-Offer Strategy and Anchoring Tactics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Concession Patterns and Pacing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Claiming Value Under Competitive Conditions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Probing the Counterpart's Reservation Price"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Recognizing and Countering Hardball Tactics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Impasse and Walk-Away Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Integrative Negotiation and Value Creation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principled Negotiation: Interests Over Positions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expanding the Pie Before Dividing It"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Logrolling and Cross-Issue Trade-offs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Joint Problem-Solving Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structured Brainstorming and Option Generation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contingent Contracts and Future-Based Agreements"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Balancing Value Creation With Value Claiming"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Communication, Framing, and Persuasion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Verbal and Nonverbal Signals in Negotiation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Active Listening and Diagnostic Questioning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Framing and Reframing Proposals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Principles of Persuasion and Social Influence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rhetorical and Argumentation Strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Strategic Use of Silence and Pacing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cross-Cultural Communication Pitfalls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Power, Leverage, and Influence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and Bases of Negotiation Power"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural, Relational, and Informational Power"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building and Sustaining Leverage"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing and Offsetting Power Asymmetries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Alliance and Coalition-Building for Advantage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethical Boundaries of Influence Tactics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Trust, Ethics, and Fairness in Negotiation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ethical Frameworks for Bargaining Behavior"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deception, Bluffing, and Strategic Misrepresentation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fairness Norms and Equity Judgments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reputation Effects Across Repeated Interactions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional Codes of Conduct in Negotiation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rebuilding Trust After a Breach"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Negotiator Styles, Personality, and Individual Differences",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Thomas-Kilmann Conflict Mode Instrument"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Competing, Collaborating, Compromising, Avoiding, and Accommodating Styles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Personality Traits and Negotiation Outcomes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gender Dynamics in Negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cultural Identity and Negotiator Self-Concept"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Self-Efficacy and Confidence at the Table"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Adapting Style to Context and Counterpart"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Multi-Party Negotiation and Coalition Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Complexity and Coordination in Multi-Party Talks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coalition Formation and Stability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Voting Rules and Collective Decision Mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Competing Factions and Side Deals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Facilitation Techniques for Group Negotiation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sequential Versus Simultaneous Multi-Party Processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Cross-Cultural and International Negotiation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cultural Dimensions Frameworks Applied to Negotiation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "High-Context Versus Low-Context Communication Styles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cross-Cultural Trust-Building and Rapport"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Language, Translation, and Interpretation Challenges"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparative Regional Negotiation Styles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diplomatic Protocol and International Bargaining Norms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Cross-Cultural Misunderstanding and Conflict"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Advanced Negotiation Frameworks and Methodologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Seven Elements Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Mutual Gains Approach"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Negotiator's Dilemma: Creating Versus Claiming Value"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Getting Past No: Handling Difficult Counterparts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Whole-Brain and Interest-Based Negotiation Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Principled Negotiation in Complex Environments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Frameworks for Repeated and Relational Deals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Difficult Negotiations, Impasses, and Hardball Countermeasures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Diagnosing the Sources of Impasse"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Negotiating With Difficult or Irrational Counterparts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Countering Manipulative and Hardball Tactics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Ultimatums and Deadlines"
+        },
+        {
+          "item_index": 5,
+          "item_title": "De-escalation Techniques for Stalled Talks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Using Third-Party Intervention to Break Impasse"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "High-Stakes, Crisis, and Hostage Negotiation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Crisis and Hostage Negotiation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Behavioral Change Stairway Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tactical Empathy Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Negotiating Under Extreme Time Pressure and Threat"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Communication Protocols in High-Risk Situations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Post-Crisis Debriefing and Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Negotiation Across Professional, Legal, and Sector-Specific Domains",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Labor Relations and Collective Bargaining"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mergers, Acquisitions, and Corporate Deal-Making"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sales, Procurement, and Vendor Negotiation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Legal Settlement and Litigation Negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Salary, Compensation, and Employment Negotiation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Real Estate and Property Negotiation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Public Policy, Regulatory, and Environmental Negotiation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Contract Drafting and Legal Enforceability Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Mediation, Arbitration, and Dispute Resolution Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Roles and Techniques of Mediators"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Arbitration Procedures and Award Enforceability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Alternative Dispute Resolution Program Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dispute Systems Design Principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Facilitated Negotiation and Third-Party Roles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Choosing Among Negotiation, Mediation, and Arbitration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Technology, Analytics, and Computational Negotiation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "E-Negotiation Platforms and Virtual Bargaining"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Negotiation Support Systems and Decision Aids"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Analytics for Negotiation Preparation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Autonomous Negotiation Agents in Procurement and Supply Chains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Large Language Model-Based Negotiation Agents"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Benchmarking and Evaluating AI Negotiation Capabilities"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Online Dispute Resolution Technologies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Negotiating Across Digital and Remote Communication Channels"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Classic Case Studies and Applied Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Camp David Accords and Principled Negotiation in Practice"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Cuban Missile Crisis as Crisis Bargaining"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Landmark Labor Disputes and Collective Bargaining Outcomes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Notable Mergers and Acquisitions Negotiations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Historic Trade and Treaty Negotiations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Simulation Exercises Used in Negotiation Pedagogy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Negotiation Research Methods and Empirical Findings",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Experimental Designs in Negotiation Research"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Laboratory Versus Field Studies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Meta-Analytic Findings on Negotiation Tactics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Measuring Negotiation Outcomes and Effectiveness"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Longitudinal Studies of Negotiated Relationships"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emerging Research Frontiers in Negotiation Theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Post-Agreement Implementation and Relationship Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Drafting Clear and Enforceable Agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monitoring Compliance and Performance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing the Relationship After the Deal Closes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Renegotiation Triggers and Processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Handling Breach and Non-Performance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Feedback Loops for Improving Future Negotiations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Mastery, Practice, and Continuous Skill Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Self-Assessment of Negotiation Strengths and Weaknesses"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deliberate Practice Through Simulation and Role-Play"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structured Debriefing and Feedback Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building a Personal Negotiation Playbook"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Recognizing and Correcting Personal Biases"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lifelong Learning Pathways in Negotiation Expertise"
+        }
+      ]
+    }
+  ]
+}

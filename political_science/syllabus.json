@@ -1,0 +1,1305 @@
+{
+  "topic": "Political Science",
+  "topic_slug": "political_science",
+  "generated_at": "2026-09-09T15:13:08.839489",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Political Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Politics, Power, and Authority"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Political Science as an Academic Discipline"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Subfields and Scope of Political Science"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Normative and Empirical Approaches to Political Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core Concepts: Freedom, Equality, and Justice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Legitimacy and Political Obligation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioralism and the Scientific Study of Politics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Ancient and Medieval Political Thought",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Political Thought in Ancient Greece"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Plato and the Ideal State"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Aristotle and the Politics of the Polis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Roman Republicanism and Cicero"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Augustine and the Two Cities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thomas Aquinas and Natural Law"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Islamic Political Philosophy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Confucian and Legalist Political Thought"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Modern Political Thought and the Enlightenment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Machiavelli and Political Realism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Thomas Hobbes and the Social Contract"
+        },
+        {
+          "item_index": 3,
+          "item_title": "John Locke and Liberal Constitutionalism"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Jean-Jacques Rousseau and the General Will"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Montesquieu and the Separation of Powers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kant and Perpetual Peace"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Federalist Papers and Constitutional Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Contemporary Political Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Utilitarianism and its Political Applications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marx and Historical Materialism"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Max Weber on Power and Authority"
+        },
+        {
+          "item_index": 4,
+          "item_title": "John Rawls and the Theory of Justice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Robert Nozick and Libertarian Theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Communitarian Critiques of Liberalism"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Deliberative and Participatory Democratic Theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Feminist and Postcolonial Political Theory"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Foucault and Poststructuralist Power"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Political Ideologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical and Modern Liberalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conservatism and Traditionalism"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Socialism and Democratic Socialism"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Communism and Marxist-Leninist Thought"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fascism and the Radical Right"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Anarchism"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nationalism as Ideology"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmentalism and Green Political Thought"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Populism, Left and Right"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "The State, Sovereignty, and Nationhood",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of State Formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sovereignty in Theory and Practice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Nation and National Identity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Welfare State"
+        },
+        {
+          "item_index": 5,
+          "item_title": "State Capacity and Fragility"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Failed and Fragile States"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Globalization and the Transformation of the State"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Constitutions and Constitutional Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Constitutionalism and the Rule of Law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Written and Unwritten Constitutions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Constitutional Amendment Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bills of Rights and Constitutional Protections"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Institutional Choice in Constitutional Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative Constitutional Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "The Executive",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Presidential Systems of Government"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Parliamentary Systems and the Cabinet"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Semi-Presidential Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Executive Power and Emergency Authority"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Heads of State and Heads of Government"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Executive-Legislative Relations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "The Legislature",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functions and Powers of Legislatures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bicameralism and Unicameralism"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Legislative Committees and Organization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Legislative Behavior and Roll-Call Voting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Representation and Constituency Service"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative Legislative Institutions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "The Judiciary and Judicial Politics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Judicial Review and Constitutional Courts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative Judicial Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Judicial Independence and Accountability"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Judicial Behavior and Decision-Making"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Courts as Political Actors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Civil Liberties and Rights Adjudication"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Electoral Systems and Elections",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Majoritarian and Plurality Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Proportional Representation Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mixed and Hybrid Electoral Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Duverger's Law and Electoral Effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Redistricting and Gerrymandering"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Election Administration and Integrity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Referendums and Direct Democracy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Political Parties and Party Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins and Functions of Political Parties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Party Organization and Membership"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Classifying Party Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cleavage Theory and Party Formation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coalition Politics and Government Formation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Party System Change and Realignment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Federalism and Multilevel Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Federalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Federal and Unitary Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Division of Powers in Federal Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fiscal Federalism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Decentralization and Devolution"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multilevel Governance in Practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "The Public Policy Process and Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stages of the Policy Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agenda-Setting and Problem Definition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Models of Policy Formulation and Decision-Making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Policy Implementation and Street-Level Bureaucracy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Policy Evaluation and Impact Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative Public Policy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cost-Benefit Analysis in Policy Evaluation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Public Administration and Bureaucracy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Bureaucratic Organization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Weberian Bureaucracy and its Critics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Public Sector Management and Reform"
+        },
+        {
+          "item_index": 4,
+          "item_title": "New Public Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Civil Service Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bureaucratic Accountability and Oversight"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Political Behavior, Political Culture, and Public Opinion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Political Socialization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Formation and Measurement of Public Opinion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Voting Behavior and Electoral Choice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Political Culture in Comparative Perspective"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Political Trust and Efficacy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Political Psychology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Polarization and Partisan Identity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Interest Groups, Civil Society, and Social Movements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Interest Group Politics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lobbying and Political Influence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Civil Society and its Political Role"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Movement Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Collective Action and Free-Rider Problems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Protest Politics and Contentious Politics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Democracy and Democratic Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and Measuring Democracy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classical Theories of Democracy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Procedural and Substantive Democracy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Direct, Representative, and Deliberative Democracy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Democratic Legitimacy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Critiques of Liberal Democracy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Democratization and Regime Transition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Waves of Democratization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Theories of Democratic Transition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pathways from Authoritarian Rule"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Democratic Consolidation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Democratic Backsliding and Erosion"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Civil Resistance and Nonviolent Transitions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Authoritarianism and Hybrid Regimes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classifying Authoritarian Regimes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Personalist, Military, and Single-Party Rule"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Totalitarianism"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Competitive Authoritarianism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Authoritarian Resilience and Durability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electoral Authoritarianism"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Approaches to Comparative Politics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Comparative Method"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Most Similar and Most Different Systems Designs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structural-Functionalism in Comparative Politics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rational Choice Approaches"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Historical Institutionalism"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Area Studies and Regional Expertise"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Comparative Political Economy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Varieties of Capitalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Political Economy of Advanced Industrial Democracies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Political Economy of Redistribution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Political Business Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Institutions and Economic Performance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative Welfare State Regimes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Political Development and Modernization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Modernization Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dependency Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Developmental State"
+        },
+        {
+          "item_index": 4,
+          "item_title": "State-Building and Nation-Building"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Institutions and Development Outcomes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Political Development in the Global South"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Research Methods and Political Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Research Design in Political Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Qualitative Methods and Process Tracing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Case Study Methodology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quantitative Methods and Statistical Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Game Theory and Formal Modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Survey Research and Experimental Design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Research Ethics in Political Science"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "International Relations Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Realism and Neorealism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liberalism and Neoliberal Institutionalism"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Constructivism in International Relations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Marxist and Critical International Relations Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Feminist International Relations Theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The English School and International Society"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Levels of Analysis in International Relations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Foreign Policy Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Foreign Policy Decision-Making"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bureaucratic Politics and Foreign Policy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Public Opinion and Foreign Policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Comparative Foreign Policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Diplomacy and Diplomatic Practice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Soft Power and Public Diplomacy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "International Security and Strategic Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of the Causes of War"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deterrence Theory and Nuclear Strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Alliance Formation and the Balance of Power"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Arms Control and Nonproliferation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Terrorism and Counterterrorism"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cyber Conflict and Emerging Security Domains"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "War, Conflict, and Peacebuilding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interstate War"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Civil War and Intrastate Conflict"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ethnic and Communal Conflict"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Peacekeeping and Peace Operations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Conflict Resolution and Mediation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Post-Conflict Reconstruction and Peacebuilding"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "International Political Economy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of International Trade Politics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Globalization and its Political Consequences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "International Monetary and Financial Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multinational Corporations and Global Production"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global Inequality and North-South Relations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sanctions and Economic Statecraft"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "International Law and International Organizations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foundations and Sources of International Law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The United Nations System"
+        },
+        {
+          "item_index": 3,
+          "item_title": "International Courts and Tribunals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Treaty Law and State Obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regional International Organizations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Compliance and Enforcement in International Law"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Global Governance and International Cooperation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Global Governance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "International Regimes and Institutions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Collective Action Problems in World Politics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global Public Goods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Non-State Actors in Global Governance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Reforming Global Governance Institutions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Human Rights and Global Justice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foundations of International Human Rights"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Human Rights Institutions and Enforcement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Humanitarian Intervention and the Responsibility to Protect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Theories of Global Distributive Justice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transitional Justice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Human Rights and State Sovereignty"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Migration and Diaspora Politics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of International Migration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Migration Policy and Border Control"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Refugee Politics and Asylum Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diaspora Communities and Homeland Politics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Migration and National Identity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Global Governance of Migration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Nationalism, Ethnicity, and Identity Politics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Nationalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ethnic Identity and Political Mobilization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ethnic Conflict and Power-Sharing Arrangements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Secessionism and Self-Determination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multiculturalism and Political Accommodation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Identity Politics and its Critics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Gender and Politics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Feminist Theory and Political Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Women's Political Representation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gender and Political Behavior"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gender Quotas and Electoral Reform"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gender and Public Policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Masculinity and Politics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Political Communication, Media, and Propaganda",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Media Effects on Politics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Political Campaigns and Strategic Communication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Framing and Political Rhetoric"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Propaganda and Persuasion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Misinformation and Disinformation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative Media Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Digital Politics and Technology Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Social Media and Political Participation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Digital Campaigning and Microtargeting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Internet Governance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Artificial Intelligence and Political Governance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Surveillance, Privacy, and the State"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Digital Authoritarianism"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Environmental Politics and Climate Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Environmental Political Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative Environmental Policy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Global Climate Governance and the UNFCCC Process"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate Justice and North-South Politics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental Movements and Green Parties"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Politics of Energy Transition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Political Geography and Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foundations of Political Geography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classical Geopolitical Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Borders, Territory, and Sovereignty"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Critical Geopolitics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Resource Politics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geopolitics of Great Power Competition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Corruption, Governance, and Accountability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and Measuring Corruption"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Causes and Consequences of Political Corruption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Clientelism and Patronage Politics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Anti-Corruption Reform"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Governance Indicators and Quality of Government"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transparency and Accountability Mechanisms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Applied Political Science and Policy Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Political Risk Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Writing Policy Memos and Briefs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Political Campaign Strategy and Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Careers in Government and Public Service"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Careers in International Organizations and NGOs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Political Consulting and Advocacy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Political Science in Think Tanks and Academia"
+        }
+      ]
+    }
+  ]
+}

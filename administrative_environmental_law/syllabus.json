@@ -1,0 +1,1447 @@
+{
+  "topic": "Administrative & Environmental Law",
+  "topic_slug": "administrative_environmental_law",
+  "generated_at": "2026-09-13T22:28:03.253945",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Theoretical and Historical Foundations of the Administrative State",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins and growth of the modern regulatory state"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Theories of regulation: public interest, capture, and public choice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The New Deal settlement and its administrative law legacy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Types of agencies: executive departments, independent agencies, and government corporations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Legitimacy debates: expertise, technocracy, and democratic accountability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The rule-of-law critique of broad administrative discretion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Administrative law traditions in comparative perspective"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Constitutional Structure and the Nondelegation Doctrine",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The three vesting clauses and the separation of powers framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Legislative versus executive lawmaking distinguished"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The nondelegation doctrine and the intelligible principle test"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Historical nondelegation cases: Panama Refining and Schechter Poultry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The modern nondelegation revival and Gundy v United States"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overlap between nondelegation and the major questions doctrine"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Private nondelegation and delegation to nongovernmental bodies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Agency Design, Appointments, and Removal Power",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Appointments Clause: principal officers, inferior officers, and employees"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Recess appointments and their constitutional limits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Removal power historically: Myers v United States and Humphrey's Executor"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Structural protections for multimember independent commissions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trump v Slaughter and the overruling of Humphrey's Executor"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trump v Cook and the Federal Reserve removal protection carve out"
+        },
+        {
+          "item_index": 7,
+          "item_title": "For cause protection for administrative law judges after Free Enterprise Fund and Lucia v SEC"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Political appointees, career civil servants, and civil service reclassification debates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "The Administrative Procedure Act: Architecture and Definitions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and purposes of the 1946 Administrative Procedure Act"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Core definitions: agency, rule, order, license, and sanction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The procedural taxonomy of rulemaking versus adjudication"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Relationship between the APA and agency organic statutes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Statutory exemptions from APA procedures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Amendment, repeal, and sunset of existing rules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Notice and Comment Rulemaking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Section 553 procedural requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adequacy of notice and the logical outgrowth doctrine"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building the rulemaking record and responding to significant comments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ex parte contacts in informal rulemaking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The concise general statement of basis and purpose"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Direct final rules, interim final rules, and the good cause exception"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Effective dates, delayed effectiveness, and retroactivity limits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Formal Rulemaking, Hybrid Procedures, and Non Legislative Rules",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formal on the record rulemaking under Sections 556 and 557"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hybrid rulemaking procedures created by organic statutes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Legislative rules versus interpretive rules versus general statements of policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Guidance documents and the problem of de facto binding effect"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Negotiated rulemaking and consensus based rule development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Petitions for rulemaking and review of agency refusals to act"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Regulatory Review, Cost Benefit Analysis, and OIRA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Executive Order 12866 and centralized White House regulatory review"
+        },
+        {
+          "item_index": 2,
+          "item_title": "OIRA interagency review and return letters"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost benefit analysis methodology and its critics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Paperwork Reduction Act and information collection review"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Regulatory Flexibility Act and small entity impact analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Unfunded Mandates Reform Act"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Retrospective review and regulatory lookback initiatives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Administrative Adjudication and Due Process",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formal adjudication under Sections 554, 556, and 557"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Administrative law judges: appointment, tenure, and decisional independence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Informal adjudication, licensing, and benefits determinations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mass adjudication systems: Social Security disability and immigration proceedings"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constitutional due process and the Mathews v Eldridge balancing test"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bias, ex parte contacts, and separation of prosecutorial and adjudicative functions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "SEC v Jarkesy and Article III limits on agency adjudication"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Administrative res judicata and collateral estoppel"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Agency Investigations and Enforcement Powers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Administrative subpoenas and compelled production of records"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Administrative searches, inspections, and Fourth Amendment limits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The required records doctrine and self incrimination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Civil penalty assessment and settlement practice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consent decrees and judicial enforcement of agency orders"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Referral of matters for criminal prosecution"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Whistleblower protections and qui tam style enforcement incentives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Transparency, Participation, and Access to Information",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Freedom of Information Act: exemptions and litigation strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Government in the Sunshine Act and open meeting requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Federal Advisory Committee Act"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Privacy Act and government data protection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public participation theory and notice and comment as democratic input"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Congressional and public access to agency data and methodology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Reviewability and Justiciability of Agency Action",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The presumption of judicial reviewability under the APA"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Preclusion of review by statute"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Action committed to agency discretion by law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The final agency action requirement and Bennett v Spear"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ripeness and the Abbott Laboratories framework"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Exhaustion of administrative remedies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The primary jurisdiction doctrine"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Standing and the Timing of Judicial Review",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Constitutional standing: injury in fact, causation, and redressability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The zone of interests test under Section 702"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Associational and organizational standing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sovereign immunity and its waiver for APA claims"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Statutes of limitations for facial challenges to agency rules"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corner Post v Board of Governors and claim accrual for as applied challenges"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Standards and Scope of Judicial Review",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Arbitrary and capricious review and the State Farm factors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Substantial evidence review in formal proceedings"
+        },
+        {
+          "item_index": 3,
+          "item_title": "De novo review of agency action"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reasoned decision making and changed agency positions after FCC v Fox Television"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The administrative record rule and limits on record supplementation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Harmless error analysis in administrative litigation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Judicial Deference to Agency Interpretation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Chevron USA v NRDC and the two step deference framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Chevron's domain: United States v Mead and the force of law limitation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Skidmore deference and persuasive weight"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Loper Bright Enterprises v Raimondo and the end of Chevron deference"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Statutory interpretation methodology in the post Loper Bright landscape"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deference to agencies' interpretations of their own regulations: Auer, Seminole Rock, and Kisor v Wilkie"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Retroactive effects of Loper Bright on previously settled agency interpretations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Reliance interests and stare decisis in administrative doctrine shifts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "The Major Questions Doctrine",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Early formulations: FDA v Brown and Williamson and Utility Air Regulatory Group"
+        },
+        {
+          "item_index": 2,
+          "item_title": "West Virginia v EPA and the clear congressional authorization requirement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Application to pandemic era action: eviction moratoria and vaccine mandates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Biden v Nebraska and student loan cancellation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Learning Resources v Trump and Trump v VOS Selections: tariffs, IEEPA, and presidential action"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The doctrine's relationship to nondelegation and to Chevron's demise"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Critiques: judicial policymaking, significance triggers, and predictability concerns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Presidential Control of Administration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Unitary executive theory and its critics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Executive orders, memoranda, and proclamations as governance tools"
+        },
+        {
+          "item_index": 3,
+          "item_title": "OIRA review as a mechanism of presidential control"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Impoundment and control over appropriated funds"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Political control of formerly independent agencies after Trump v Slaughter"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Directive authority over enforcement discretion and litigation positions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Congressional Control of the Administrative State",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Delegation drafting choices and statutory design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Oversight hearings, investigations, and the congressional subpoena power"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Appropriations riders and the power of the purse"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Congressional Review Act and expedited disapproval of rules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sunset provisions and report and wait mechanisms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Inspectors general and independent oversight structures"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Legislative veto history after INS v Chadha"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Remedies and the Scope of Relief in Administrative Litigation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Section 706 remedies: compelling agency action and setting aside unlawful action"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vacatur versus remand without vacatur"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Preliminary injunctions and stays pending review"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nationwide and universal injunctions before Trump v CASA"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trump v CASA and the narrowing of universal injunctive relief"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Class actions and associational relief as alternatives to universal injunctions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Severability of unlawful rule provisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "State Administrative Law and Comparative Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Model State Administrative Procedure Act"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Variation in state rulemaking, adjudication, and review procedures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interstate compacts and cooperative administration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "EU administrative law: comitology, subsidiarity, and judicial review"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global administrative law and transnational regulatory networks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Civil law administrative traditions and the conseil d'état model"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Foundations, History, and Theory of Environmental Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins of the modern environmental movement and the first Earth Day"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental ethics: anthropocentrism, ecocentrism, and sustainability theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Command and control regulation versus market based instruments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The precautionary principle and the polluter pays principle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The public trust doctrine and its modern revival"
+        },
+        {
+          "item_index": 6,
+          "item_title": "State constitutional environmental rights and Green Amendments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Common Law and Constitutional Foundations of Environmental Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Public and private nuisance actions for environmental harm"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Trespass, negligence, and strict liability theories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Property law tools: easements, servitudes, and conservation restrictions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regulatory takings: Penn Central, Lucas, and Nollan and Dolan"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Commerce Clause as the basis for federal environmental regulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dormant Commerce Clause limits on state environmental measures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Cooperative Federalism in Environmental Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Federal floor and state ceiling models of regulatory design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "State program primacy and delegation of federal authority"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interstate pollution and good neighbor obligations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tribal environmental regulatory authority and treatment as a state provisions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Preemption doctrines across environmental statutes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Local and municipal environmental authority under home rule"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Environmental Impact Assessment and NEPA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "NEPA's procedural mandate versus substantive environmental outcomes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental assessments, findings of no significant impact, and categorical exclusions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental impact statements and the hard look doctrine"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Scope of review: direct, indirect, and cumulative effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Alternatives analysis and the range of alternatives requirement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Historic and cultural resource review under Section 106 of the National Historic Preservation Act"
+        },
+        {
+          "item_index": 7,
+          "item_title": "CEQ's historical coordinating role and the 2025 rescission of government wide NEPA regulations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Seven County Infrastructure Coalition v Eagle County and deference to agency scoping decisions"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Permitting reform proposals and one federal decision coordination models"
+        },
+        {
+          "item_index": 10,
+          "item_title": "State mini NEPA statutes and environmental review at the state level"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Clean Air Act: Ambient Standards and State Implementation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "National Ambient Air Quality Standards and the criteria pollutants"
+        },
+        {
+          "item_index": 2,
+          "item_title": "State implementation plans and federal implementation plans"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nonattainment area classifications and attainment planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interstate transport and the Good Neighbor Provision"
+        },
+        {
+          "item_index": 5,
+          "item_title": "New Source Review and Prevention of Significant Deterioration permitting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Title V operating permits"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hazardous air pollutants and maximum achievable control technology standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Clean Air Act: Mobile Sources, Climate, and the Endangerment Finding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Massachusetts v EPA and greenhouse gases as regulable air pollutants"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The 2009 Endangerment Finding and its regulatory chain of consequences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vehicle emissions standards and coordination with fuel economy regulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "California's Clean Air Act waiver authority and state adoption of California standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The 2026 rescission of the Endangerment Finding and motor vehicle greenhouse gas standards"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Anticipated litigation over the rescission and its effect on stationary source authority"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Power plant carbon regulation from the Clean Power Plan to current approaches"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Stratospheric ozone protection under Title VI and the Montreal Protocol"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Clean Water Act: Permitting and Water Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The NPDES permitting program and effluent limitations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Technology based standards versus water quality based standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Total Maximum Daily Loads and impaired waters listing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The regulatory gap for nonpoint source pollution"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Concentrated animal feeding operations and agricultural discharges"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Section 401 state water quality certification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Citizen suits and enforcement mechanisms under the Clean Water Act"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Clean Water Act: Wetlands and Jurisdictional Scope",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Section 404 dredge and fill permitting and the Corps EPA division of authority"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Early jurisdictional tests: Riverside Bayview Homes and SWANCC"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rapanos v United States and the competing plurality and Kennedy tests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sackett v EPA and the continuous surface connection standard"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The 2023 Conforming Rule and the resulting split in state by state implementation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The 2025 to 2026 WOTUS rulemaking proceedings and proposed definitional options"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Wetlands mitigation banking and in lieu fee programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Safe Drinking Water Act and Groundwater Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Maximum contaminant levels and treatment technique standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Underground Injection Control program"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sole source aquifer designation and source water protection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Lead and Copper Rule and drinking water infrastructure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulation of PFAS and other emerging contaminants"
+        },
+        {
+          "item_index": 6,
+          "item_title": "State primacy and enforcement of drinking water standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Hazardous Waste Regulation: RCRA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The cradle to grave regulatory structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Listed wastes, characteristic wastes, and waste identification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Generator, transporter, and treatment storage disposal facility requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Permitting and corrective action obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Municipal solid waste regulation under Subtitle D"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Imminent hazard authority and RCRA citizen suits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Contaminated Sites: CERCLA and Superfund Liability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strict, joint and several, and retroactive liability under CERCLA"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Categories of potentially responsible parties"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The National Priorities List and the remediation process"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost recovery and contribution actions among responsible parties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Innocent landowner, bona fide prospective purchaser, and brownfields defenses"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Natural resource damages claims"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Settlement tools: consent decrees and de minimis settlements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Toxic Substances and Pesticide Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Toxic Substances Control Act framework before and after the Lautenberg Act reforms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "New chemical review and existing chemical risk evaluation under TSCA"
+        },
+        {
+          "item_index": 3,
+          "item_title": "FIFRA registration, labeling, and use restriction requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cancellation, suspension, and emergency use proceedings under FIFRA"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coordination between TSCA, FIFRA, and food safety statutes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulatory science controversies over emerging chemical contaminants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Endangered Species Act and Biodiversity Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Listing criteria, delisting, and critical habitat designation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Section 7 interagency consultation and jeopardy determinations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Section 9's take prohibition and the historical scope of harm"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Habitat conservation plans and incidental take permits"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Endangered Species Committee exemption process"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The 2026 rescission of the regulatory definition of harm and its effect on habitat protection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The 2025 to 2026 rollback of Section 4 listing and Section 7 consultation regulations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Related wildlife statutes: the Migratory Bird Treaty Act, the Marine Mammal Protection Act, and the Lacey Act"
+        },
+        {
+          "item_index": 9,
+          "item_title": "International wildlife trade regulation under CITES"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Public Lands, Natural Resources, and Extractive Industries",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Federal land management agencies and their organic statutes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Multiple use and sustained yield management mandates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mining law and the General Mining Act framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Oil and gas leasing onshore and on the Outer Continental Shelf"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Grazing rights and rangeland management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wilderness, monument, and other conservation designations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Coastal zone management and marine protected areas"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Water Rights and Allocation Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Prior appropriation systems in the western United States"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Riparian rights systems in the eastern United States"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interstate water compacts and equitable apportionment litigation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Groundwater regulation and conjunctive management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tribal reserved water rights under the Winters doctrine"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Water markets, transfers, and drought contingency planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Energy Law and the Energy Transition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FERC jurisdiction over wholesale electricity and natural gas markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transmission siting, interconnection, and grid reliability regulation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nuclear regulation and NRC independence questions after Trump v Slaughter"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Renewable energy permitting and offshore wind development"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pipeline siting and fossil fuel infrastructure approval"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Carbon capture, hydrogen, and other emerging energy technologies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Domestic Climate Change Law and Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The absence of comprehensive federal climate legislation and its regulatory consequences"
+        },
+        {
+          "item_index": 2,
+          "item_title": "State and regional climate programs and California's climate framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corporate climate disclosure rules and related litigation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The social cost of carbon in regulatory cost benefit analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adaptation law: resilience standards, floodplain management, and managed retreat"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Just transition policy and stranded asset considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "International and Comparative Environmental Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The structure and enforcement of multilateral environmental agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The UNFCCC, the Kyoto Protocol, and the Paris Agreement architecture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nationally Determined Contributions and international compliance mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The 2025 International Court of Justice advisory opinion on state climate obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The European Union's environmental law and Green Deal framework"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trade and environment linkages and biodiversity treaties"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Climate Change Litigation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Constitutional and public trust climate claims: Juliana v United States and Held v Montana"
+        },
+        {
+          "item_index": 2,
+          "item_title": "State law tort claims against fossil fuel companies in municipal climate suits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Causation and attribution science in climate litigation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Securities and disclosure based climate claims"
+        },
+        {
+          "item_index": 5,
+          "item_title": "International and cross border climate tribunal cases"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategic litigation design, forum selection, and post judgment implementation challenges"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Environmental Justice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins and core claims of the environmental justice movement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Disparate impact theory and Title VI of the Civil Rights Act"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cumulative impact analysis in permitting decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Executive and agency environmental justice initiatives and their subsequent rollback"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental justice mapping tools and data driven advocacy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Community engagement, consultation, and consent based siting practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Environmental Enforcement and Corporate Compliance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Civil and criminal enforcement authority across the major environmental statutes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Self disclosure policies and the audit privilege"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corporate and individual officer liability for environmental violations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Environmental compliance management systems and auditing practice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ESG disclosure frameworks and greenwashing liability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supplemental environmental projects and penalty mitigation policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Environmental Litigation and Standing Doctrine",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lujan v Defenders of Wildlife and injury in fact for environmental plaintiffs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Citizen suit provisions across the major environmental statutes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Diligent prosecution bars and statutory notice requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fee shifting and attorney's fees under environmental citizen suit provisions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Intervention and amicus practice in environmental litigation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consent decrees, settlement practice, and sue and settle controversies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Administrative Law Doctrine Applied to Environmental Agencies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Deference debates in environmental rulemaking after Loper Bright Enterprises v Raimondo"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Major questions doctrine challenges to EPA and sister agency rules"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Judicial review of technical and scientific agency judgments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost benefit analysis controversies in environmental rulemaking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Guidance documents and enforcement discretion in environmental agency practice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interagency consultation requirements and coordination across environmental statutes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Science, Risk, and Uncertainty in Regulatory Decision Making",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Risk assessment methodology and dose response modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Peer review and the Information Quality Act"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Precautionary versus sound science framings in rulemaking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The role and limits of scientific advisory committees"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Discounting, co benefits, and the valuation of statistical life in cost benefit analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emerging monitoring technology and artificial intelligence in environmental compliance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Current Deregulatory Realignment and Emerging Frontiers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mapping the 2025 to 2026 wave of administrative and environmental deregulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural change to independent agencies after Slaughter and Cook and its implications for environmental regulators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The endangerment finding repeal, WOTUS rulemaking, and ESA rollbacks as a coordinated deregulatory pattern"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Anticipated Supreme Court and circuit court dockets to monitor"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Divergence between federal rollback and state or international regulatory trajectories"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building a continuing education practice for tracking the Federal Register, agency dockets, and court filings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Capstone synthesis: applying administrative law doctrine to a live environmental rulemaking controversy"
+        }
+      ]
+    }
+  ]
+}

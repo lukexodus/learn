@@ -1,0 +1,883 @@
+{
+  "topic": "Urban and Regional Economics",
+  "topic_slug": "urban_and_regional_economics",
+  "generated_at": "2026-09-10T13:41:08.742165",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Urban and Regional Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of urban economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Definition and scope of regional economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Why cities exist: agglomeration and the urbanization puzzle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Historical development of urban and regional economic thought"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core methodological tools: spatial equilibrium and comparative statics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data sources and units of spatial analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Relationship to economic geography and regional science"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Location Theory and Spatial Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Von Thunen's model of agricultural land use"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Weber's theory of industrial location"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hotelling's model of spatial competition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Christaller's central place theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Losch's economic landscape model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transport costs and the firm location decision"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bid-rent theory and land rent gradients"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Spatial pricing and regional demand theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Agglomeration Economies and Economic Geography",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Marshallian externalities: labor pooling, input sharing, and knowledge spillovers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Localization economies versus urbanization economies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Increasing returns to scale and spatial concentration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "New Economic Geography and the core-periphery model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Home market effects and market access"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Industry clusters and regional specialization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Knowledge spillovers and the geography of innovation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Firm location and plant-size decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "The Monocentric City Model and Urban Spatial Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Alonso-Muth-Mills monocentric city model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Land rent and population density gradients"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparative statics of the monocentric model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Open city versus closed city equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Polycentric city models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Urban sprawl: causes and consequences"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Edge cities and employment decentralization"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Drivers of suburbanization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Housing Economics and Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics of housing as an economic good"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Housing demand and household choice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Housing supply, construction costs, and elasticity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Filtering models of the housing stock"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hedonic pricing and housing valuation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Homeownership versus renting decisions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Housing affordability and cost burden"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Housing policy: rent control, subsidies, and vouchers"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Housing market cycles and bubbles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Real Estate Economics and Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Real estate as an asset class"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The DiPasquale-Wheaton four-quadrant model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Commercial real estate markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Real estate valuation and appraisal methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Real estate investment trusts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Real estate cycles and market bubbles"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mortgage markets and housing finance"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Office and retail real estate transformation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Urban Land Use and Zoning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Land use regulation and zoning ordinances"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Economic effects of zoning restrictions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Growth controls and urban growth boundaries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land value taxation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Brownfield redevelopment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mixed-use development economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Eminent domain and land assembly"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Urban Transportation Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interaction between transportation and land use"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Economics of traffic congestion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Congestion pricing and Pigouvian road tolls"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Public transit economics and subsidies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transportation infrastructure investment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Commuting behavior and the wage-commuting tradeoff"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Parking economics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Induced demand and automobile dependence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Urban Labor Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban wage premium and agglomeration effects on productivity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spatial mismatch hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Commuting, job search, and search frictions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Local labor market adjustment mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Human capital externalities in cities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Labor market pooling and matching"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Remote work and the spatial reorganization of labor markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Local Public Finance and Fiscal Federalism",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tiebout model of local public goods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Property taxation and local revenue systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fiscal federalism and intergovernmental transfers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Local public goods provision and congestion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Municipal fragmentation and consolidation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiscal zoning and exclusionary practices"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Municipal debt and infrastructure finance"
+        },
+        {
+          "item_index": 8,
+          "item_title": "School quality capitalization and Tiebout sorting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Urban Poverty, Inequality, and Segregation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Residential segregation models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Neighborhood effects and social interactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Concentrated urban poverty"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gentrification and neighborhood change"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Housing discrimination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Racial and economic segregation patterns"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Spatial inequality and access to opportunity"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Siting decisions for affordable housing development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Urban Crime Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic models of criminal behavior in cities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spatial distribution of crime"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Crime, property values, and neighborhood effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Policing economics and law enforcement allocation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Social disorganization and urban crime"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Regional Growth Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neoclassical regional growth models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Export base theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regional income determination and the Keynesian regional multiplier"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cumulative causation in Myrdal and Kaldor"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Endogenous growth theory in a regional context"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regional convergence and divergence"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Growth pole and polarized development theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Path dependence and regional lock-in"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Regional Analysis Methods and Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Input-output analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Shift-share analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Location quotients"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economic base multipliers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regional econometric models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Computable general equilibrium models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Social accounting matrices"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Regional economic impact analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Interregional Trade and Factor Mobility",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interregional trade theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative advantage across regions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regional specialization patterns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capital mobility across regions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economic integration and regional effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interregional input-output linkages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Migration Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Determinants of internal migration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Harris-Todaro model of migration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Migration and regional labor market adjustment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Brain drain and brain gain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Amenity-driven migration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Migration and housing market interactions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Urban Systems and City Size Distribution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Zipf's law and the rank-size rule"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gibrat's law of proportionate growth"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Urban hierarchy and systems of cities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Optimal city size"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Primate cities and urban concentration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Determinants of city formation and growth"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Urban Environmental Economics and Sustainability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban externalities: pollution and congestion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental justice in cities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Climate change adaptation and urban areas"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Green space and urban amenity valuation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy use and the built environment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sustainable urban development strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Spatial Econometrics and Empirical Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spatial autocorrelation and spatial weights matrices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spatial lag and spatial error models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hedonic pricing and discrete choice models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Random utility models of location choice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Difference-in-differences in spatial settings"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geographic information systems in economic analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Natural experiments in urban and regional economics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Satellite and mobile-phone data in spatial analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Urbanization and Economic Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urbanization patterns in developing countries"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rural-urban migration in developing economies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Informal settlements and slums"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Primate city formation in developing regions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Urbanization and economic growth linkages"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Infrastructure gaps in rapidly urbanizing cities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Innovation, Entrepreneurship, and Regional Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Innovation districts and knowledge clusters"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Startup ecosystems and urban entrepreneurship"
+        },
+        {
+          "item_index": 3,
+          "item_title": "University-industry linkages in regional innovation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Venture capital geography"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The creative class thesis and urban development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Urban and Regional Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban renewal and redevelopment programs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Place-based policies and enterprise zones"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regional development policy design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Smart growth and compact city policies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Infrastructure investment policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Affordable housing policy design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Evaluating place-based policy effectiveness"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Global and Comparative Urban Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Global city networks and urban hierarchy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative urbanization across countries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cross-national housing market comparisons"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International migration and global cities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparative regional policy approaches"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Remote Work, Technology, and the Changing City",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Remote work and the theory of city structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Residential sorting and housing price gradients under hybrid work"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Office-to-residential conversion and downtown recovery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Proptech and the digitalization of real estate markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Smart cities and urban technology platforms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sharing economy platforms and urban space"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Automation, artificial intelligence, and regional labor markets"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The fifteen-minute city concept"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Urban Resilience and Contemporary Challenges",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban resilience and disaster economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Climate risk and coastal city adaptation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pandemics, public health, and urban density"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Infrastructure vulnerability and recovery"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Real-time big data applications in urban measurement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Research Methods and Capstone Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formulating research questions in urban and regional economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying causal effects in spatial data"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Designing an original empirical study"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Policy evaluation and cost-benefit analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Writing and presenting urban and regional economics research"
+        }
+      ]
+    }
+  ]
+}

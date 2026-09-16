@@ -1,0 +1,1365 @@
+{
+  "topic": "Materials Science & Civil Engineering Fundamentals",
+  "topic_slug": "materials_science_civil_engineering_fundamentals",
+  "generated_at": "2026-09-13T01:13:24.421665",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Introduction to Materials Science and Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structure-Processing-Property-Performance Relationships"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classification of Engineering Materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Materials Selection in Civil and Structural Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Historical Evolution of Construction Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Materials Science and Sustainability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overview of Relevant Standards Organizations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Atomic Structure and Interatomic Bonding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Atomic Structure and Electron Configuration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ionic Bonding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Covalent Bonding"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Metallic Bonding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Van der Waals and Hydrogen Bonding"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bonding Energy and Interatomic Spacing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Influence of Bonding Type on Material Properties"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Crystal Structures and Crystallographic Concepts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crystalline Versus Amorphous Solids"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unit Cells and Bravais Lattices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common Metallic Crystal Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Crystallographic Directions and Planes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Linear and Planar Atomic Density"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Polymorphism and Allotropy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "X-Ray Diffraction Fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Imperfections and Defects in Solids",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Point Defects: Vacancies and Interstitials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Substitutional and Interstitial Solid Solutions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Edge and Screw Dislocations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Grain Boundaries and Twin Boundaries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bulk and Volume Defects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Role of Defects in Strength and Failure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Diffusion in Solids",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Diffusion Mechanisms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fick's First Law and Steady-State Diffusion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fick's Second Law and Non-Steady-State Diffusion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Factors Influencing Diffusion Rate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Diffusion in Materials Processing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Mechanical Behavior of Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stress and Strain Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Elastic Deformation and Hooke's Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Tensile Test and Stress-Strain Curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Yielding, Ductility, and Toughness"
+        },
+        {
+          "item_index": 5,
+          "item_title": "True Stress and True Strain"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hardness Testing Methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Strengthening Mechanisms in Metals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Fracture, Fatigue, and Creep",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ductile Versus Brittle Fracture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fracture Mechanics and Stress Concentration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Impact Testing and the Ductile-to-Brittle Transition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fatigue Mechanisms and S-N Curves"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Factors Affecting Fatigue Life"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Creep Behavior at Elevated Temperature"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Failure Analysis Case Studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Phase Diagrams and Phase Transformations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Solid Solubility and Phase Equilibria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Binary Isomorphous Phase Diagrams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Eutectic and Eutectoid Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Iron-Iron Carbide Phase Diagram"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transformation Kinetics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "TTT and CCT Diagrams"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Thermal Processing and Heat Treatment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Annealing Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quenching and Hardening"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tempering of Steel"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Case Hardening Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Precipitation Hardening"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Effects of Heat Treatment on Microstructure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Thermal, Electrical, and Physical Properties of Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Thermal Expansion and Conductivity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Specific Heat and Thermal Shock Resistance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Electrical Conductivity and Resistivity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Density and Specific Gravity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fire Resistance and Thermal Degradation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Acoustic Properties Relevant to Construction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Ferrous Metals and Alloys",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Iron Production and Steelmaking Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classification of Carbon and Alloy Steels"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structural Steel Grades and Designations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stainless Steels"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cast Irons: Gray, Ductile, White, and Malleable"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Weldability of Steels"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Non-Ferrous Metals and Alloys",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Aluminum and Aluminum Alloys"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Copper and Copper Alloys"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Zinc and Galvanizing Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Titanium Alloys"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applications in Civil and Structural Work"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Polymers and Plastics in Construction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Polymer Structure and Classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Thermoplastics Versus Thermosets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mechanical and Thermal Behavior of Polymers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Polymer Degradation and Weathering"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geosynthetics and Geomembranes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sealants, Adhesives, and Protective Coatings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Ceramics and Glass",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structure and Bonding in Ceramics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mechanical Behavior of Ceramic Materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Traditional Ceramics: Brick and Tile"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Refractory and Advanced Ceramics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Glass Composition and Structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Architectural and Structural Glass Applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Composite Materials and Fiber-Reinforced Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of Composite Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fiber-Reinforced Polymer Composites"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Particle-Reinforced Composites"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rule of Mixtures and Property Prediction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "FRP for Structural Strengthening and Retrofitting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Durability of Composites in Civil Applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Corrosion and Environmental Degradation of Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electrochemical Principles of Corrosion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Uniform, Galvanic, Pitting, and Crevice Corrosion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corrosion of Reinforcing Steel in Concrete"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Chloride Ingress and Carbonation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corrosion Protection and Prevention Methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Weathering and Durability Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Materials Testing and Characterization Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Destructive Testing Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Non-Destructive Testing Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Optical and Electron Microscopy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Standard Test Methods and Specifications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sampling and Statistical Evaluation of Test Data"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality Control in Materials Testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Aggregates for Construction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and Classification of Aggregates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Physical and Mechanical Properties of Aggregates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gradation and Sieve Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Specific Gravity, Absorption, and Moisture Content"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deleterious Substances and Soundness"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aggregate Testing Standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Cement and Cementitious Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Portland Cement Manufacturing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cement Chemistry and Hydration Reactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Types and Classification of Portland Cement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supplementary Cementitious Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Setting Time, Soundness, and Fineness Testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cement Standards and Specifications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Concrete Mix Design and Fresh Properties",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mix Design Principles and Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Water-Cement Ratio and Its Effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Workability and Slump Testing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Chemical and Mineral Admixtures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Batching, Mixing, and Placing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Curing Methods and Their Influence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Hardened Concrete Properties and Durability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Compressive, Tensile, and Flexural Strength"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modulus of Elasticity and Creep"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Shrinkage and Cracking Mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Permeability and Durability Mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Special Concretes: High-Strength, Lightweight, Self-Compacting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality Control and Acceptance Testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Reinforcing Steel and Prestressing Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reinforcing Bar Types and Grades"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bond and Development Length Concepts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Welded Wire and Fiber Reinforcement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Prestressing Strand and Tendon Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pretensioning and Post-Tensioning Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corrosion Protection of Reinforcement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Asphalt and Bituminous Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asphalt Binder Sources and Properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Asphalt Mix Design Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hot Mix and Warm Mix Asphalt Production"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pavement Material Testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common Pavement Distress Mechanisms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Timber and Engineered Wood Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wood Structure and Anatomy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mechanical Properties and Grading of Lumber"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Moisture Content and Dimensional Stability"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Engineered Wood Products"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wood Preservation and Treatment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Durability of Timber Connections"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Masonry Materials and Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Clay Brick Manufacturing and Properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Concrete Masonry Units"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Natural Stone as a Building Material"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mortar Types and Composition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Masonry Wall Assemblies and Reinforcement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Sustainable, Recycled, and Emerging Construction Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Life Cycle Assessment of Construction Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Recycled and Reclaimed Materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supplementary and Alternative Binders"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Smart and Self-Healing Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nanomaterials in Civil Engineering"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Additive Manufacturing of Construction Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Engineering Mechanics: Statics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Force Systems and Vector Operations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Equilibrium of Particles and Rigid Bodies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Free Body Diagrams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Analysis of Trusses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Analysis of Frames and Machines"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Centroids and Moments of Inertia"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Friction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Mechanics of Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Axial Loading and Deformation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Torsion of Circular Shafts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Shear Force and Bending Moment Diagrams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bending Stress in Beams"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shear Stress in Beams"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Combined Stresses and Stress Transformation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Column Buckling"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Beam Deflection Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Structural Loads and Load Combinations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dead Loads and Live Loads"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wind Load Determination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Seismic Load Determination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Snow, Rain, and Environmental Loads"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Load Combinations per Design Codes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Load Paths and Structural Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Structural Analysis of Determinate Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Determinacy and Stability of Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Analysis of Statically Determinate Beams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Analysis of Statically Determinate Trusses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Analysis of Determinate Frames"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Influence Lines for Determinate Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Structural Analysis of Indeterminate Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Force Method of Consistent Deformations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Slope-Deflection Method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Moment Distribution Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Approximate Methods for Indeterminate Frames"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Introduction to Matrix Stiffness Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Reinforced Concrete Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Design Philosophy and Limit States"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Flexural Design of Beams and Slabs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Shear and Torsion Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Column Design Under Axial Load and Bending"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Serviceability: Deflection and Crack Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Detailing Requirements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Structural Steel Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Load and Resistance Factor Design Specifications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tension Member Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Compression Member and Column Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Beam and Beam-Column Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bolted and Welded Connection Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Composite Steel-Concrete Construction Basics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Timber Structure Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Timber Design Codes and Adjustment Factors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Design of Sawn Lumber Beams and Columns"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Design of Engineered Wood Members"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Connections in Timber Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lateral Load Resisting Systems in Wood Construction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Foundation and Retaining Wall Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Design Loads for Foundation Elements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Isolated and Combined Footing Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mat Foundation Design Basics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pile Cap Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cantilever and Gravity Retaining Wall Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Waterproofing and Drainage Detailing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Soil Mechanics Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Soil Formation, Composition, and Classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Index Properties and Atterberg Limits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Soil Compaction Principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Permeability and Seepage Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Effective Stress Principle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Consolidation and Settlement"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Shear Strength of Soils"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Site Investigation and Foundation Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Subsurface Exploration Methods and Boring Logs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Standard Penetration and Cone Penetration Testing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bearing Capacity Theories"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Settlement Estimation for Shallow Foundations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pile Capacity: Skin Friction and End Bearing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ground Improvement Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Slope Stability and Earth Retaining Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lateral Earth Pressure Theories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Slope Stability Analysis Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Factors of Safety and Slope Failure Mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Retaining Wall Types: Gravity, Cantilever, MSE, Sheet Pile"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geosynthetic Reinforcement in Earth Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dewatering and Slope Drainage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Fluid Mechanics and Hydraulics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Properties of Fluids"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fluid Statics and Pressure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Continuity, Momentum, and Energy Equations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Flow in Pipes and Pipe Networks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Open Channel Flow"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Pumps, Turbines, and Hydraulic Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Hydrology and Water Resources Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Hydrologic Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Precipitation Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Runoff Estimation and Unit Hydrographs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Flood Frequency Analysis and Routing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Groundwater Hydrology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Reservoir, Dam, and Water Supply System Basics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Environmental Engineering Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Water Quality Parameters and Standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Water Treatment Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wastewater Collection and Treatment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Solid Waste Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Air Quality and Pollution Control Basics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Environmental Impact Assessment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Transportation Engineering Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Highway Geometric Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pavement Design Principles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Traffic Flow Theory and Capacity Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Traffic Control Devices and Signal Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Highway Drainage Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Introduction to Railway and Airport Engineering"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Surveying and Geomatics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Surveying Principles and Error Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Leveling and Elevation Determination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Traversing and Triangulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total Station and GNSS Surveying"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geographic Information Systems Basics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Construction Layout and As-Built Surveying"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Construction Engineering and Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Construction Project Planning and Delivery Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scheduling Techniques: CPM and PERT"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost Estimation and Budgeting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Contracts, Specifications, and Procurement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Construction Quality Control and Assurance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Construction Safety Management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Equipment Selection and Construction Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Codes, Standards, and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Overview of Building Codes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Material and Design Standards Organizations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Engineering Drawings and Documentation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Risk and Reliability in Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional Licensure and Ethics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Introduction to Building Information Modeling"
+        }
+      ]
+    }
+  ]
+}

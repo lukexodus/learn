@@ -1,0 +1,1159 @@
+{
+  "topic": "Development Economics",
+  "topic_slug": "development_economics",
+  "generated_at": "2026-09-06T11:59:03.062779",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Definitions of Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining economic development versus economic growth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Measuring development: GDP, GNI, and their limitations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Human Development Index and its components"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multidimensional Poverty Index"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capability approach and Amartya Sen's contributions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Basic needs approach to development"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Millennium Development Goals and Sustainable Development Goals"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Classifying countries: developed, developing, least developed"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The Global South and North-South divide framework"
+        },
+        {
+          "item_index": 10,
+          "item_title": "History of development economics as a discipline"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Classical and Early Development Theories",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Adam Smith and classical growth theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Marx and stages of historical development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rostow's stages of economic growth"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Harrod-Domar growth model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lewis dual-sector model of development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structural change theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Balanced versus unbalanced growth theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Big push theory and Rosenstein-Rodan"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Nurkse's theory of the vicious circle of poverty"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Hirschman's linkages and unbalanced growth strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Dependency and World-Systems Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins of dependency theory in Latin America"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Prebisch-Singer thesis on terms of trade"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Core-periphery framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Andre Gunder Frank and underdevelopment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "World-systems theory and Wallerstein"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Critiques of dependency theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Import substitution industrialization"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Legacy of dependency theory in modern debates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Neoclassical Growth and Convergence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Solow-Swan growth model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Convergence hypothesis and empirical evidence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Endogenous growth theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Human capital in growth models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Total factor productivity and growth accounting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Institutions and long-run growth"
+        },
+        {
+          "item_index": 7,
+          "item_title": "New growth theory and technology diffusion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cross-country growth regressions methodology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Institutions and Political Economy of Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining institutions: formal and informal rules"
+        },
+        {
+          "item_index": 2,
+          "item_title": "North's institutional economics framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Acemoglu and Robinson on extractive versus inclusive institutions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Colonial origins of comparative development"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Property rights and economic development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rule of law and contract enforcement"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Corruption and its effects on development"
+        },
+        {
+          "item_index": 8,
+          "item_title": "State capacity and development outcomes"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Political economy of reform"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Rent-seeking and the resource curse"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Democracy versus authoritarianism and growth"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Poverty Measurement and Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Absolute versus relative poverty concepts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Poverty lines and international poverty thresholds"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Headcount ratio, poverty gap, and squared poverty gap"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Foster-Greer-Thorbecke poverty measures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multidimensional poverty measurement methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Chronic versus transient poverty"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Poverty traps: theory and evidence"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Vulnerability and risk in poverty dynamics"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Consumption versus income-based poverty measures"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Data sources for poverty measurement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Inequality in Developing Economies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Measuring inequality: Gini coefficient and Lorenz curve"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kuznets curve hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inequality of opportunity versus outcome"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wealth inequality versus income inequality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spatial and regional inequality"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gender inequality in development contexts"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ethnic and social group inequality"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Inequality and growth relationship"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Redistribution policies and their tradeoffs"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Top income shares in developing countries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Population, Demography, and Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Demographic transition theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Population growth and economic development debates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Malthusian theory and its critiques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fertility decline determinants"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Demographic dividend concept"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Population aging in developing economies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Urbanization patterns and drivers"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Rural-urban migration models"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Family planning policy interventions"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Population policy case studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Human Capital: Education Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Returns to education in developing countries"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Education production functions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "School enrollment and attainment trends"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gender gaps in education"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality of education versus access"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Teacher incentives and accountability"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Conditional cash transfers for education"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Early childhood development interventions"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Higher education and skills mismatch"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Vocational training and labor market outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Human Capital: Health Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Health and economic development linkages"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nutrition, stunting, and human capital formation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Disease burden in developing countries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Health systems in low-income settings"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Maternal and child health interventions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Health insurance and financing mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sanitation and water access"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Mental health in development contexts"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Health shocks and household welfare"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Global health initiatives and aid effectiveness"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Agricultural Economics and Rural Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Role of agriculture in structural transformation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Green Revolution: origins and impacts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Land tenure systems and land reform"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agricultural productivity constraints"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Farm size and productivity relationship"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agricultural technology adoption"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Rural credit and financial constraints"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Agricultural markets and price volatility"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Smallholder farming and commercialization"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Climate change effects on agriculture"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Food security and famine economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Labor Markets in Developing Economies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formal versus informal sector employment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Labor market dualism theories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Underemployment and disguised unemployment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Minimum wage effects in developing countries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Labor migration: internal and international"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Remittances and household welfare"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Child labor: causes and policy responses"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Gender and labor force participation"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Skills, wages, and labor market signaling"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Labor market institutions and regulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Credit Markets and Microfinance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Information asymmetries in rural credit markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adverse selection and moral hazard in lending"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Group lending and joint liability models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Grameen Bank model and its evolution"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Microfinance impact evaluation evidence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Microcredit versus microsavings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Digital financial inclusion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Informal credit and moneylenders"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Financial literacy interventions"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Critiques and limits of microfinance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Insurance, Risk, and Household Behavior",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Risk-coping strategies of poor households"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Informal insurance and risk-sharing networks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Index-based weather insurance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consumption smoothing evidence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral responses to uninsured risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Social protection and safety nets"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cash transfer programs: conditional and unconditional"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Public works programs as insurance"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Shock persistence and poverty dynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Behavioral Development Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded rationality among the poor"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Present bias and time-inconsistent preferences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behavioral constraints to savings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nudges and default effects in development policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Psychology of poverty and scarcity mindset"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aspirations and poverty traps"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Social norms and behavior change"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Limited attention and take-up of programs"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Behavioral biases in agricultural decision-making"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Industrialization and Structural Transformation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Manufacturing-led development strategies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Export-oriented industrialization versus import substitution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "East Asian miracle: policies and debates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Special economic zones and industrial policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Premature deindustrialization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Global value chains and development"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Firm dynamics and productivity in developing countries"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Small and medium enterprise development"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Infrastructure and industrial competitiveness"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Technology adoption and diffusion at the firm level"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Trade, Globalization, and Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparative advantage and trade theory applications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Trade liberalization and poverty impacts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Terms of trade for commodity exporters"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade policy and infant industry protection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regional trade agreements and developing countries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Foreign direct investment and development"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Multinational corporations in developing economies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Globalization and inequality debates"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Trade and structural transformation linkages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Finance and Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Financial deepening and economic growth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Banking sector development in low-income countries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capital markets in developing economies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Financial repression and liberalization debates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital flows and financial crises"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sovereign debt and debt sustainability"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Exchange rate regimes for developing countries"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Dollarization and currency substitution"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Financial inclusion beyond microfinance"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Fintech and mobile money innovations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Foreign Aid and Development Assistance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and evolution of foreign aid"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aid effectiveness debates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Aid and economic growth empirical evidence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conditionality and structural adjustment programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bilateral versus multilateral aid architecture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Humanitarian aid versus development aid"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Aid dependency and governance effects"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Randomized evaluation of aid programs"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Role of NGOs in development"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Emerging donors and South-South cooperation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Governance, Corruption, and State Capacity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and measuring governance quality"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bureaucratic effectiveness in developing states"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corruption measurement methodologies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Causes and consequences of corruption"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Anti-corruption interventions and evidence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decentralization and local governance"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Public service delivery constraints"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Elite capture and clientelism"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Tax capacity and fiscal state building"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Community-driven development approaches"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Environment, Resources, and Sustainable Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Natural resource curse theory and evidence"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental degradation and poverty linkages"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Climate change adaptation in developing countries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Climate finance mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deforestation and land use change economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Renewable energy transitions in developing economies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Water resource management"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmental policy and enforcement challenges"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Green growth versus degrowth debates"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Sustainable Development Goals and environmental targets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Gender and Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gender gaps across economic domains"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Intrahousehold bargaining models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Women's empowerment measurement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Female labor force participation determinants"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gender-based violence and economic outcomes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Women's land and property rights"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Political representation and gender quotas"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Gender-targeted development programs"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Missing women and sex ratio imbalances"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Conflict, Fragility, and Post-Conflict Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic causes and consequences of civil conflict"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Resource conflicts and civil war"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fragile and failed states framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Post-conflict reconstruction economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Refugee and forced displacement economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Peacebuilding and development interventions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Conflict's effects on human capital"
+        },
+        {
+          "item_index": 8,
+          "item_title": "State building in fragile contexts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Urbanization and Spatial Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urban primacy and city-size distributions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Slum formation and informal settlements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Urban infrastructure and service delivery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agglomeration economies in developing cities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spatial mismatch and urban labor markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Housing policy in developing countries"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Urban planning challenges in rapid urbanization"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Secondary cities and regional development"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Research Methods in Development Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Randomized controlled trials methodology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Instrumental variables approach"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Difference-in-differences estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regression discontinuity design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Matching methods and propensity scores"
+        },
+        {
+          "item_index": 6,
+          "item_title": "External validity and generalizability debates"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Structural versus reduced-form approaches"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Survey design and measurement error"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Big data and satellite data in development research"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Ethics of field experiments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Contemporary Debates and Future Directions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Randomista revolution and its critics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Systems thinking versus RCT-based approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Development economics and artificial intelligence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Digital technology and leapfrogging"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Universal basic income debates in developing contexts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decolonizing development economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Middle income trap"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Development economics in a post-pandemic world"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Localization of development practice"
+        }
+      ]
+    }
+  ]
+}

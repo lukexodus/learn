@@ -1,0 +1,715 @@
+{
+  "topic": "Geopolitical Risk Analysis",
+  "topic_slug": "geopolitical_risk_analysis",
+  "generated_at": "2026-09-14T18:33:12.668609",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Geopolitical Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining geopolitics, political risk, and geopolitical risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geopolitical risk versus country and sovereign risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Historical evolution of geopolitical risk as a discipline"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key stakeholders: states, corporations, investors, and institutions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The analytical mindset and toolkit of a risk analyst"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geopolitical risk versus geopolitical uncertainty"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Classical and Modern Geopolitical Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mackinder's Heartland Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mahan's sea power and maritime strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Spykman's Rimland Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "German Geopolitik and its historical legacy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Critical geopolitics and post-structuralist critiques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geoeconomics as an evolution of geopolitical thought"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "International Relations Theory for Risk Analysts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Realism and structural neorealism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liberal institutionalism and interdependence theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Constructivism and the role of ideas and identity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Marxist and world-systems perspectives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The English School and international society"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Power transition and hegemonic stability theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Applying IR theory to real-world risk scenarios"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Core Concepts and Vocabulary",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hard power, soft power, and smart power"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spheres of influence and buffer states"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sovereignty, self-determination, and non-intervention"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Alliances, blocs, and multilateral coalitions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deterrence, coercion, and compellence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Grey-zone conflict and hybrid warfare"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Balance of power versus bandwagoning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Global Governance and International Institutions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The United Nations system and Security Council dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "International financial institutions: IMF and World Bank"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regional organizations: EU, ASEAN, African Union, and NATO"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The World Trade Organization and multilateral trade rules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "International law as a constraint on state behavior"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Institutional gridlock and reform debates"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Informal groupings: G7, G20, and BRICS"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Political Risk Assessment Frameworks and Methodology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Qualitative versus quantitative risk assessment approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Major political risk indices and their methodologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structured analytic techniques for risk assessment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Probabilistic risk scoring and likelihood-impact matrices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Early warning systems and indicator-based monitoring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building a custom geopolitical risk framework"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common pitfalls and biases in risk assessment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Intelligence Analysis Tradecraft",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The intelligence cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Analysis of competing hypotheses"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structured analytic techniques and devil's advocacy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cognitive bias mitigation in analytic judgment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Net assessment methodology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Open-source intelligence collection and verification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Writing analytic assessments and policy memos"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Forecasting and Scenario Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of forecasting under geopolitical uncertainty"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scenario development and axes of uncertainty"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Morphological analysis and alternative futures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wargaming and simulation exercises"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Superforecasting and calibrated probability judgment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tail-risk and black swan analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Tracking and improving forecast accuracy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Data, Indices, and Quantitative Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Geopolitical risk datasets and event databases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Geopolitical Risk Index and related measures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Geospatial and GIS-based risk analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Network analysis of alliances and trade relationships"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Natural language processing for event detection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Machine learning applications in risk forecasting"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building a geopolitical risk monitoring dashboard"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "State Stability and Regime Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Regime type classification and stability implications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Authoritarian resilience and fragility indicators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Leadership succession and transition risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "State capacity and institutional strength assessment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coup risk factors and historical patterns"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Civil conflict onset and escalation indicators"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Failed and fragile state dynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Economic Statecraft and Geoeconomics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sanctions design, enforcement, and evasion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Trade wars, tariffs, and export controls"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Currency and financial warfare"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Weaponized interdependence and chokepoint control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sovereign wealth funds as geopolitical instruments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Infrastructure diplomacy and debt-related leverage"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Resource nationalism and expropriation risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Security Studies and Conflict Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of interstate war and conflict causation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Civil war and insurgency dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Non-state armed actors and transnational terrorism"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nuclear proliferation and deterrence theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Security dilemmas and arms race dynamics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Proxy warfare and third-party intervention"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cyber conflict and digital-domain warfare"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Great Power Competition and Alliance Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "US-China strategic rivalry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Russia and post-Soviet geopolitical dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The evolving transatlantic relationship"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Middle powers and strategic hedging behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Alliance cohesion and burden-sharing debates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multipolarity and the changing balance of power"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Regional Risk Landscapes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Middle East and Gulf geopolitics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "South Asia: India-Pakistan and China-India dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "East Asia and the Indo-Pacific"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sub-Saharan Africa's geopolitical landscape"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Latin America's shifting alignments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Arctic as an emerging strategic frontier"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Europe's eastern periphery"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Energy and Resource Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Oil and gas geopolitics and OPEC dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Critical minerals and supply chain competition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The geopolitics of the energy transition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Water security and transboundary resource disputes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Food security and agricultural geopolitics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resource-driven conflict patterns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Technology and Digital Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Semiconductor supply chains and chip competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The global AI race and technology sovereignty"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data governance and digital sovereignty"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cybersecurity as a geopolitical risk domain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Information warfare and disinformation campaigns"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Space as a contested geopolitical domain"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Geopolitical Risk in Financial Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Transmission channels from geopolitical events to asset prices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sovereign credit ratings and risk premiums"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Political risk insurance markets and underwriting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geopolitical hedging strategies for investors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Integrating geopolitical risk into ESG frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Historical market reactions to geopolitical shocks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Corporate Geopolitical Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Enterprise risk management for geopolitical exposure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geopolitical due diligence in market entry and M&A"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supply chain resilience and de-risking strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Scenario-based corporate strategic planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Crisis management and business continuity planning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building an internal geopolitical risk function"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Communicating and Reporting Geopolitical Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structuring an effective geopolitical risk report"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Executive briefing and stakeholder communication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Visualizing risk through maps and risk matrices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Communicating uncertainty and confidence levels"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Maintaining analytical rigor and avoiding politicization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tailoring analysis for government, corporate, and investor audiences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Case Studies in Applied Geopolitical Risk Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Cuban Missile Crisis as a deterrence case study"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Soviet collapse and transition risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Arab Spring and regional contagion dynamics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The 2008 financial crisis and its geopolitical spillovers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sanctions regimes and adaptation in modern conflicts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Escalation risk in contested maritime and border zones"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Career Pathways and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Career paths in government and intelligence"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Opportunities in think tanks and academia"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corporate and financial-sector risk roles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leading geopolitical risk consultancies and their methodologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building an analytical portfolio and public track record"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Key publications, journals, and information sources"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ethics and objectivity in geopolitical risk analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Emerging Trends and the Future of Geopolitical Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The fragmentation of globalization and friend-shoring"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Climate change as a geopolitical risk multiplier"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Demographic shifts and their strategic implications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "AI-driven information warfare and synthetic media"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contested futures: multipolarity versus renewed bipolarity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Anticipating the next generation of geopolitical risks"
+        }
+      ]
+    }
+  ]
+}

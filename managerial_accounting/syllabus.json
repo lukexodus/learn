@@ -1,0 +1,963 @@
+{
+  "topic": "Managerial Accounting",
+  "topic_slug": "managerial_accounting",
+  "generated_at": "2026-09-11T14:03:52.494536",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Introduction to Managerial Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Managerial Accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managerial Accounting versus Financial Accounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Role and Responsibilities of the Management Accountant"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Value Chain and Business Functions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Strategic Role of Management Accounting in Organizations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Certified Management Accountant Credential and Professional Pathways"
+        },
+        {
+          "item_index": 7,
+          "item_title": "IMA Statement of Ethical Professional Practice"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Enterprise Sustainability and the Modern Accounting Function"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Cost Concepts and Classifications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Direct Costs versus Indirect Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Manufacturing Costs (Direct Materials, Direct Labor, Manufacturing Overhead)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prime Costs and Conversion Costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Product Costs versus Period Costs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Variable, Fixed, and Mixed Cost Behavior"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cost Objects, Cost Pools, and Cost Drivers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Relevant Costs versus Irrelevant Costs"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sunk Costs and Opportunity Costs"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Differential and Incremental Costs and Revenues"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Controllable versus Noncontrollable Costs"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Cost Classification Across Manufacturing, Merchandising, and Service Firms"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Schedule of Cost of Goods Manufactured"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Cost Behavior and Estimation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fixed Cost Behavior (Committed versus Discretionary)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Variable Cost Behavior and the Relevant Range"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mixed Cost Behavior and the Linear Cost Function"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High Low Method"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Scattergraph and Visual Fit Method"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Least Squares Regression Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Account Analysis and Engineering Methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Contribution Margin Income Statement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Job Order Costing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost Flows in a Job Order Costing System"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Job Cost Sheets and Subsidiary Ledgers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Predetermined Overhead Rates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Normal Costing versus Actual Costing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applying Manufacturing Overhead to Jobs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overapplied and Underapplied Overhead"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Disposing of Overhead Variances"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Job Order Costing in Service and Nonmanufacturing Firms"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Plantwide versus Departmental Overhead Rates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Process Costing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Characteristics of Process Costing Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Equivalent Units of Production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Weighted Average Method of Process Costing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "FIFO Method of Process Costing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost of Production Reports"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Process Costing with Sequential Departments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Accounting for Spoilage, Waste, and Rework"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Hybrid and Operation Costing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Activity Based Costing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Limitations of Traditional Volume Based Costing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Designing an Activity Based Costing System"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Identifying Activities and Cost Pools"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Selecting Activity Cost Drivers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Unit Level, Batch Level, Product Level, and Facility Level Activities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Calculating and Applying Activity Rates"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Comparing Activity Based and Traditional Costing Results"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Activity Based Management"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Time Driven Activity Based Costing"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Implementation Challenges of Activity Based Costing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Cost Allocation and Support Departments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purposes of Cost Allocation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Direct Method of Support Department Allocation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Step Down Method of Support Department Allocation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reciprocal Method of Support Department Allocation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Single Rate versus Dual Rate Allocation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Allocating Common Corporate Costs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Joint Products and By Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Joint Cost Characteristics and the Split Off Point"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Physical Units Method of Joint Cost Allocation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sales Value at Split Off Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Net Realizable Value Method"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constant Gross Margin Percentage Method"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Accounting for By Products"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sell or Process Further Decisions for Joint Products"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Cost Volume Profit Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Contribution Margin and Contribution Margin Ratio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Break Even Point in Units and Sales Dollars"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Target Profit Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Margin of Safety"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Degree of Operating Leverage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cost Volume Profit Analysis with Multiple Products and Sales Mix"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Assumptions and Limitations of Cost Volume Profit Analysis"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sensitivity and What If Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Variable and Absorption Costing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Absorption Costing Income Statement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Variable Costing Income Statement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reconciling Absorption and Variable Costing Net Income"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Effect of Production and Sales Levels on Reported Income"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Impact on Inventory Valuation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Managerial Use and Criticism of Each Method"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Throughput Costing Overview"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Budgeting and the Master Budget",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purposes and Benefits of Budgeting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Budgeting Process and Its Participants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sales Forecasting and the Sales Budget"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Production Budget"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Direct Materials Purchases Budget"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Direct Labor Budget"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Manufacturing Overhead Budget"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Selling and Administrative Expense Budget"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Cash Budget"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Budgeted Income Statement and Balance Sheet"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Zero Based Budgeting"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Rolling Forecasts and Continuous Budgeting"
+        },
+        {
+          "item_index": 13,
+          "item_title": "Behavioral Aspects of Budgeting and Budgetary Slack"
+        },
+        {
+          "item_index": 14,
+          "item_title": "Participative versus Imposed Budgeting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Standard Costs and Variance Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Setting Direct Materials, Labor, and Overhead Standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Direct Materials Price and Quantity Variances"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Direct Labor Rate and Efficiency Variances"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Variable Overhead Spending and Efficiency Variances"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fixed Overhead Budget and Volume Variances"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Variance Investigation and Management by Exception"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Implications of Standard Costing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Recording Standard Costs and Variances in the Ledger"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Flexible Budgets and Overhead Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Static Budgets versus Flexible Budgets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Preparing a Flexible Budget"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Flexible Budget Variances versus Sales Volume Variances"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Overhead Flexible Budgets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capacity Concepts (Theoretical, Practical, Normal, Master Budget)"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fixed Overhead Volume Variance and Capacity Utilization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Responsibility Accounting and Decentralization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost Centers, Revenue Centers, Profit Centers, and Investment Centers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Advantages and Disadvantages of Decentralization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Designing Responsibility Accounting Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Return on Investment and the DuPont Formula"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Residual Income"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economic Value Added"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Goal Congruence and Managerial Incentives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Transfer Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Objectives of Transfer Pricing Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Market Based Transfer Prices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost Based Transfer Prices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Negotiated Transfer Prices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transfer Pricing and Goal Congruence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transfer Pricing Under Idle versus Full Capacity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "International and Multinational Transfer Pricing Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Relevant Costs for Short Term Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Relevant and Avoidable Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Make or Buy and Outsourcing Decisions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Special Order Decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Keep or Drop a Product Line or Segment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constrained Resource and Scarce Resource Decisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Theory of Constraints and Throughput Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sell or Process Further Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Pricing Decisions and Profitability Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic Theory of Pricing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost Plus Pricing Approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Target Costing and Target Pricing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Value Based Pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Life Cycle Costing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kaizen Costing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Customer Profitability Analysis"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Product Mix and Profitability Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Capital Budgeting and Long Term Investment Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Time Value of Money Review"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Net Present Value Method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Internal Rate of Return Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Payback Period and Discounted Payback Period"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Accounting Rate of Return"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparing and Ranking Capital Investment Proposals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Capital Rationing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sensitivity and Risk Analysis in Capital Budgeting"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Real Options in Capital Investment Decisions"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Post Audit of Capital Projects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Inventory Management and the Theory of Constraints",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic Order Quantity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Just in Time Inventory Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lean Production Principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Theory of Constraints in Depth"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Drum Buffer Rope Scheduling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Backflush Costing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Strategic Performance Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Limitations of Purely Financial Performance Measures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Balanced Scorecard Framework and Its Four Perspectives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building Strategy Maps"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Performance Indicators"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nonfinancial Performance Measures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Benchmarking Practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Quality Costs and Lean Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Categories of Quality Costs (Prevention, Appraisal, Internal and External Failure)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Preparing and Interpreting Quality Cost Reports"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of Quality Trade Offs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Six Sigma Fundamentals for Cost Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lean Accounting Principles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Continuous Improvement and Kaizen Practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Financial Statement Analysis for Managers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Horizontal and Vertical Common Size Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liquidity Ratios"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Profitability Ratios"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Efficiency and Activity Ratios"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leverage and Solvency Ratios"
+        },
+        {
+          "item_index": 6,
+          "item_title": "DuPont Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Using Financial Analysis in Managerial Decision Making"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Strategic Cost Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Value Chain Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost Leadership and Differentiation Strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic Positioning and Cost Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Business Process Reengineering"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Outsourcing and Make or Buy Strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Competitor Cost Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Technology and Data Analytics in Management Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Enterprise Resource Planning Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data Analytics and Business Intelligence Tools"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Predictive and Prescriptive Analytics for Cost Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Automation, Robotics, and Artificial Intelligence in Accounting Processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Big Data Considerations for Managerial Decision Making"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dashboards and Real Time Performance Reporting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Risk Management and Internal Controls",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "COSO Internal Control Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "COSO Enterprise Risk Management Framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Designing Internal Control Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Fraud Triangle and Fraud Prevention"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Segregation of Duties"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sarbanes Oxley Implications for Management Accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Ethics, Sustainability, and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "IMA Statement of Ethical Professional Practice in Depth"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ethical Decision Making Frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Corporate Social Responsibility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Environmental, Social, and Governance Reporting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sustainability Accounting and the Triple Bottom Line"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Professional Certification Paths (CMA, CPA, CIA)"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Continuing Professional Education and Career Development"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "topic": "Corporate Finance",
+  "topic_slug": "corporate_finance",
+  "generated_at": "2026-09-11T19:06:23.541646",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Corporate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The corporation and other forms of business organization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Goals of the firm and shareholder value maximization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Agency theory and the separation of ownership and control"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The role of the financial manager"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Financial markets and intermediaries overview"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethics and fiduciary duty in financial decision making"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The corporate life cycle"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Financial Statement Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The balance sheet, income statement, and cash flow statement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Linking the three financial statements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Financial ratio analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "DuPont decomposition of return on equity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common size and trend analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality of earnings and accounting adjustments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pro forma financial statement forecasting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Corporate Taxation and Financial Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Corporate income tax fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tax shields and their effect on valuation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Depreciation methods and tax implications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Net operating losses and tax loss carryforwards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "International tax considerations for corporations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tax policy changes and their impact on financing decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Time Value of Money",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Present value and future value fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuing multiple and uneven cash flows"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Annuities and perpetuities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Growing annuities and growing perpetuities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Compounding frequency and effective annual rates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Loan amortization schedules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Risk, Return, and Asset Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Measuring historical and expected returns"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk, variance, and standard deviation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Diversification and portfolio risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Systematic versus unsystematic risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Capital Asset Pricing Model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The security market line and beta estimation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Multi factor models and arbitrage pricing theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Market efficiency and behavioral critiques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Valuation of Debt Securities",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bond terminology and cash flow structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bond pricing and yield to maturity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The term structure of interest rates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credit risk and bond ratings"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Duration and interest rate sensitivity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Convertible and callable bond features"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Valuation of Equity Securities",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dividend discount models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Free cash flow to equity and free cash flow to the firm models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Relative valuation using trading multiples"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sum of the parts valuation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Terminal value estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Reconciling valuation approaches"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Capital Budgeting and Investment Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying incremental cash flows"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Net present value and internal rate of return"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Payback period and profitability index"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Comparing mutually exclusive projects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital rationing decisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Replacement and expansion analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Inflation adjusted capital budgeting"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sensitivity, scenario, and break even analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Cost of Capital",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost of debt estimation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost of preferred stock"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of equity using CAPM and dividend growth approaches"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Weighted average cost of capital"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Divisional and project specific discount rates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Flotation costs and tax adjustments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Marginal cost of capital schedules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Capital Structure Theory and Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Modigliani Miller propositions without taxes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modigliani Miller propositions with taxes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trade off theory of capital structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pecking order theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Costs of financial distress"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agency costs of debt and equity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Signaling through financing choices"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Determinants of capital structure in practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Payout Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dividend irrelevance theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dividend signaling and clientele effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Share repurchases versus cash dividends"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stock dividends and stock splits"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Life cycle theory of payout policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Payout policy across industries and market conditions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Working Capital and Short Term Financial Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The cash conversion cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inventory management approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Accounts receivable and credit policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Accounts payable and trade credit management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Short term borrowing and lines of credit"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cash and marketable securities management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cash budgeting and forecasting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Financial Options and Corporate Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Option terminology and payoff diagrams"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Put call parity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Binomial option pricing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Black Scholes model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Employee stock options"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Warrants and convertible securities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Risk Management and Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Motivations for corporate risk management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forward and futures contracts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interest rate swaps and currency swaps"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hedging interest rate exposure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hedging foreign exchange exposure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hedging commodity price exposure"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Enterprise risk management frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Real Options and Strategic Investment Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Types of real options"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The option to expand or contract"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The option to abandon or delay"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decision tree analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Valuing flexibility in capital budgeting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategic net present value"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Corporate Financing and Capital Raising",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of long term financing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Initial public offering process and pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Seasoned equity offerings and rights issues"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Private placements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate bond issuance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bank loans and syndicated lending"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Leasing as a financing alternative"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Crowdfunding and alternative capital sources"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Mergers, Acquisitions, and Corporate Restructuring",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Strategic rationale for mergers and acquisitions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuing synergies and merger gains"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Accretion and dilution analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deal structuring and payment methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Takeover defenses and protective provisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Divestitures, spin offs, and carve outs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Leveraged buyouts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Post merger integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Corporate Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Board composition and structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Executive compensation design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Shareholder rights and proxy voting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Institutional investors and shareholder activism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Governance regulation and disclosure requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative corporate governance systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "International Corporate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foreign exchange markets and quotations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Interest rate parity and purchasing power parity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Multinational capital budgeting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cross border cost of capital estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Political and country risk analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International financing and capital structure decisions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Transfer pricing fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Private Equity and Venture Capital",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Private equity fund structures and lifecycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Leveraged buyout modeling fundamentals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Venture capital financing stages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Term sheets and deal structuring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Valuation methods in private markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Exit strategies and returns analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Financial Distress and Bankruptcy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Causes and early warning signs of distress"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Formal bankruptcy processes and reorganization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Out of court workouts and debt restructuring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Valuing distressed and financially troubled firms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Priority of claims and the absolute priority rule"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fresh start accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Behavioral Corporate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Managerial overconfidence and optimism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Behavioral influences on capital budgeting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Market timing in financing decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Behavioral explanations for merger activity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Heuristics and biases in financial decision making"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "ESG and Sustainable Corporate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ESG integration in corporate valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Green bonds and sustainability linked financing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Climate risk assessment in capital allocation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sustainability disclosure and reporting frameworks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stakeholder capitalism and double materiality"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Impact investing and blended finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Corporate Treasury and Liquidity Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Organization of the treasury function"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cash forecasting and liquidity planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bank relationship and account structure management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credit rating strategy and management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital allocation frameworks across competing uses"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Pension and employee benefit financial management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Financial Modeling and Valuation in Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building an integrated three statement model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Discounted cash flow modeling techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparable company analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Precedent transaction analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leveraged buyout modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Merger model construction"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Scenario and sensitivity analysis techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Model auditing and best practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Fintech, Digital Assets, and the Future of Corporate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital payments and real time settlement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Blockchain applications in corporate finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stablecoins and tokenized assets in treasury"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Artificial intelligence in financial planning and analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Machine learning for cash forecasting and credit risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Embedded finance and API driven banking"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Regulatory technology and compliance automation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Capstone Applied Corporate Finance Mastery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrated valuation and financing case studies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cross functional financial decision simulations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Professional certifications in corporate finance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building a corporate finance career roadmap"
+        }
+      ]
+    }
+  ]
+}

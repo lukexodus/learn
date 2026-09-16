@@ -1,0 +1,1179 @@
+{
+  "topic": "Social Psychology",
+  "topic_slug": "social_psychology",
+  "generated_at": "2026-09-10T19:06:14.636861",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and History of Social Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of social psychology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Relationship to sociology and personality psychology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Early crowd psychology: Triplett and Le Bon"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Floyd Allport and the founding of experimental social psychology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Kurt Lewin and field theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Gestalt tradition in social psychology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Post-war growth of obedience and conformity research"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The cognitive revolution and social cognition"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The person-situation debate"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Major theoretical paradigms in social psychology"
+        },
+        {
+          "item_index": 11,
+          "item_title": "History of the replication crisis"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Current trajectory of the discipline"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Research Methods in Social Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The scientific method in social psychology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hypothesis formation and operationalization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Correlational research designs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Experimental research designs and causal inference"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Independent and dependent variables"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Internal versus external validity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Laboratory experiments versus field experiments"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Survey methodology and self-report measures"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Implicit measures and the Implicit Association Test"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Priming paradigms in research"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Physiological and neuroscience measures"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Archival research and content analysis"
+        },
+        {
+          "item_index": 13,
+          "item_title": "Meta-analytic methods"
+        },
+        {
+          "item_index": 14,
+          "item_title": "Effect size, statistical power, and significance testing"
+        },
+        {
+          "item_index": 15,
+          "item_title": "Research ethics: consent, deception, and debriefing"
+        },
+        {
+          "item_index": 16,
+          "item_title": "Institutional review and ethical oversight"
+        },
+        {
+          "item_index": 17,
+          "item_title": "The replication crisis and questionable research practices"
+        },
+        {
+          "item_index": 18,
+          "item_title": "Open science: preregistration and registered reports"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Social Cognition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Schemas and scripts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dual-process models: automatic versus controlled processing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Availability heuristic"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Representativeness heuristic"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Anchoring and adjustment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Priming and construct accessibility"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Counterfactual thinking"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Confirmation bias and motivated reasoning"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Affect-as-information"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Embodied and grounded cognition"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Cognitive load and social judgment"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Thin-slicing and rapid judgments"
+        },
+        {
+          "item_index": 13,
+          "item_title": "Mindlessness versus mindful processing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Person Perception and Attribution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "First impressions and their durability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nonverbal behavior and its interpretation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Facial expression and universality research"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thin-slicing judgments of competence and personality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Heider's naive psychology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kelley's covariation model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Correspondent inference theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Fundamental attribution error"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Actor-observer asymmetry"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Self-serving attributional bias"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Cultural variation in attribution style"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Attribution processes in close relationships"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "The Social Self",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Self-concept and self-schemas"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sources and structure of self-esteem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Self-awareness theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self-discrepancy theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Self-verification theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Social comparison theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Self-enhancement and self-serving biases"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Self-presentation and impression management"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Self-monitoring as an individual difference"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Possible selves and future self-continuity"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Independent and interdependent self-construals"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Terror management theory"
+        },
+        {
+          "item_index": 13,
+          "item_title": "Self-affirmation theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Attitudes and Attitude Formation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining attitudes and the ABC model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Attitude formation through direct experience"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mere exposure effect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Classical and operant conditioning of attitudes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Social learning and attitude acquisition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Genetic and dispositional bases of attitudes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Implicit versus explicit attitudes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Attitude strength and accessibility"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Attitudinal ambivalence"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Measuring attitudes: explicit and implicit approaches"
+        },
+        {
+          "item_index": 11,
+          "item_title": "The attitude-behavior relationship"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Theory of planned behavior"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Persuasion and Attitude Change",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cognitive dissonance theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Self-perception theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Elaboration Likelihood Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Heuristic-Systematic Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Source, message, and audience factors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fear appeals in persuasion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Foot-in-the-door and door-in-the-face techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The low-ball technique"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Reactance theory and resistance to persuasion"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Inoculation theory"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Propaganda and mass persuasion"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Persuasion in advertising and marketing"
+        },
+        {
+          "item_index": 13,
+          "item_title": "Digital and algorithmic persuasion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Social Influence: Conformity, Compliance, and Obedience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asch's conformity paradigm"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Normative versus informational social influence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sherif's autokinetic effect studies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Situational and dispositional factors in conformity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Minority influence and social change"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Milgram's obedience studies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Situational determinants of obedience"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Cialdini's principles of compliance"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Descriptive versus injunctive social norms"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Cultural variation in conformity"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Deindividuation"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Moral disengagement in obedience contexts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Group Processes and Group Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining groups and group structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Group cohesion and its consequences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Social facilitation and evaluation apprehension"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social loafing and the free-rider effect"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Group polarization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Groupthink: antecedents and prevention"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Group decision-making processes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Transactive memory systems"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Social dilemmas: prisoner's dilemma and commons dilemmas"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Cooperation, competition, and trust"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Crowd behavior and collective action"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Leadership and Power",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Trait approaches to leadership"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Situational and contingency theories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transformational and charismatic leadership"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gender and leadership"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bases and types of social power"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cognitive and behavioral effects of holding power"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Status and hierarchy in groups"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Corruption of power and ethical failure"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Followership and obedience to leaders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Prejudice, Stereotyping, and Discrimination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Distinguishing prejudice, stereotypes, and discrimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Social identity theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Self-categorization theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social, cognitive, and motivational origins of prejudice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Realistic conflict theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stereotype content model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Implicit bias and its measurement"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Stereotype threat"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Aversive racism and modern prejudice"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Ambivalent sexism"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Microaggressions"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Dehumanization"
+        },
+        {
+          "item_index": 13,
+          "item_title": "System justification theory"
+        },
+        {
+          "item_index": 14,
+          "item_title": "Intersectionality in prejudice research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Intergroup Relations and Conflict Reduction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Allport's intergroup contact theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conditions for effective intergroup contact"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The jigsaw classroom"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common ingroup identity model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Superordinate goals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Perspective-taking and empathy interventions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Structural versus individual-level interventions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Post-conflict reconciliation processes"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Measuring prejudice-reduction outcomes"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Limits and backlash of contact interventions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Aggression and Violence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and operationalizing aggression"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Biological and evolutionary bases of aggression"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Frustration-aggression hypothesis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social learning theory of aggression"
+        },
+        {
+          "item_index": 5,
+          "item_title": "General Aggression Model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Excitation transfer theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Situational triggers: heat, alcohol, provocation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Media violence and video game effects"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The weapons effect"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Intimate partner violence"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Displaced aggression and scapegoating"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Interventions to reduce aggression"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Moral Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Social intuitionist model of moral judgment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Moral reasoning versus moral emotion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dual-process theories of moral judgment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Moral foundations theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Moral licensing and moral cleansing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Moral disengagement mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Moral hypocrisy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Moral identity and behavior"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Cultural variation in moral judgment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Prosocial Behavior and Altruism",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining prosocial behavior and altruism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kin selection and reciprocal altruism"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Empathy-altruism hypothesis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Negative-state relief model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Arousal: cost-reward model of helping"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bystander effect"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Latane and Darley's decision model of helping"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Diffusion of responsibility"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Pluralistic ignorance"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Norm of reciprocity and social responsibility norm"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Situational and dispositional predictors of helping"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Volunteering and sustained prosocial engagement"
+        },
+        {
+          "item_index": 13,
+          "item_title": "Cross-cultural variation in helping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Interpersonal Attraction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Proximity and the mere exposure effect"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Similarity and the matching hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Physical attractiveness and the halo effect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reciprocity of liking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Evolutionary perspectives on mate preferences"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Misattribution of arousal in attraction"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Online and algorithm-mediated attraction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Close Relationships and Intimacy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Attachment theory in adult relationships"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sternberg's triangular theory of love"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Passionate versus companionate love"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social exchange theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Equity theory in relationships"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Investment model of commitment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Relationship maintenance strategies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Communication patterns and conflict resolution"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Stages of relationship dissolution"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Loneliness and relationship quality"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Technology and modern relationship formation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Emotion and Affect in Social Context",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basic emotion theory and universality debates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Appraisal theories of emotion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Emotional contagion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Affect-as-information and mood-congruent judgment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Emotion regulation in social contexts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Collective and group-based emotion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Guilt and shame as social emotions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Envy and schadenfreude"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Emotional intelligence in social interaction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Culture and Social Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Individualism versus collectivism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cross-cultural replications of classic findings"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cultural variation in self-construal"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Honor cultures and aggression"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cultural neuroscience approaches"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Acculturation and cultural identity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The WEIRD samples problem"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Globalization and cultural change"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Evolutionary Social Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Evolutionary theory applied to social behavior"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sexual selection and mate preferences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Kin selection and inclusive fitness"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reciprocal altruism and cooperation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Evolutionary mismatch in modern environments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Status, dominance, and coalition psychology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Critiques of evolutionary social psychology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Social Neuroscience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Methods: fMRI, EEG, and psychophysiology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Neural correlates of social cognition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The social brain hypothesis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Neuroscience of empathy and theory of mind"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neuroscience of prejudice and intergroup bias"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Neuroscience of social rejection and social pain"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hormones and social behavior: oxytocin, testosterone, cortisol"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Applied Social Psychology: Law, Health, and Environment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Eyewitness testimony and memory accuracy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "False confessions and interrogation psychology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Jury decision-making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social psychological approaches to stress and coping"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Social support and health outcomes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Health behavior change and persuasion campaigns"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pro-environmental behavior and conservation psychology"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Social norms interventions for health and sustainability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Applied Social Psychology: Organizations, Politics, and Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Organizational behavior and workplace dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Diversity, equity, and inclusion interventions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Political psychology and ideology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Voting behavior and political persuasion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Social psychology of misinformation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Social media use and psychological well-being"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Online disinhibition and cyberbehavior"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Algorithmic curation and polarization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Contemporary Issues and Future Directions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Causes and reforms following the replication crisis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Open science and preregistration practices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Big data and computational social science"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Integration with behavioral economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Positive psychology intersections"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diversifying samples beyond WEIRD populations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Interdisciplinary integration with genetics and neuroscience"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Ethical challenges of persuasion technology and surveillance"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Emerging theoretical integrations and unresolved debates"
+        }
+      ]
+    }
+  ]
+}

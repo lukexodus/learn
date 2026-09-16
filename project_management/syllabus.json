@@ -1,0 +1,1335 @@
+{
+  "topic": "Project Management",
+  "topic_slug": "project_management",
+  "generated_at": "2026-09-11T14:02:17.641621",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "What Is a Project versus Ongoing Operations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Project, Program, and Portfolio Distinctions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Project Life Cycle Phases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Role and Responsibilities of the Project Manager"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Project Success Criteria and Constraints"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Triple Constraint and Iron Triangle"
+        },
+        {
+          "item_index": 7,
+          "item_title": "History and Evolution of Project Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Project Management Methodologies Overview",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Predictive and Waterfall Approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agile and Adaptive Approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Iterative and Incremental Approaches"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hybrid Methodology Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selecting a Methodology for Project Context"
+        },
+        {
+          "item_index": 6,
+          "item_title": "PMI, Axelos, IPMA, and Other Standards Bodies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Organizational Structures and Project Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functional Organizational Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Matrix Organizational Structure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Projectized Organizational Structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Process Assets and Environmental Factors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Project Governance Frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sponsor, Steering Committee, and PMO Roles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Project Integration Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Developing the Project Charter"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Developing the Project Management Plan"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Directing and Managing Project Work"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Project Knowledge"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monitoring and Controlling Project Work"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Performing Integrated Change Control"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Closing the Project or Phase"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Project Scope Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Scope Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Collecting Requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Defining Project Scope"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Creating the Work Breakdown Structure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Validating Scope"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Controlling Scope"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Scope Creep and Gold Plating"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Project Schedule Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Schedule Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Defining and Sequencing Activities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Estimating Activity Durations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Developing the Project Schedule"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Critical Path Method"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Critical Chain Method"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Gantt Charts and Network Diagrams"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Controlling the Schedule"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Project Cost Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Cost Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Estimating Costs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Determining the Budget"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost Baseline and Funding Requirements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Earned Value Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Controlling Costs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Life Cycle Costing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Project Quality Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Quality Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost of Quality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Quality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Controlling Quality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality Tools and Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Continuous Improvement Concepts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Project Resource Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Resource Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Estimating Activity Resources"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Acquiring Resources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Team Development and Performance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Controlling Resources"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resource Leveling and Smoothing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Project Communications Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Communications Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Communication Models and Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Communications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monitoring Communications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Status Reporting Formats and Cadences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Project Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Risk Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying Risks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Qualitative Risk Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quantitative Risk Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Planning Risk Responses"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Implementing Risk Responses"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Monitoring Risks"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Risk Registers and Risk Breakdown Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Project Procurement Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning Procurement Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contract Types and Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Conducting Procurements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Controlling Procurements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vendor and Supplier Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Make or Buy Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Project Stakeholder Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Stakeholders"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stakeholder Analysis and Mapping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Planning Stakeholder Engagement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Stakeholder Engagement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monitoring Stakeholder Engagement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "PMBOK 7 Principles and Performance Domains",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Twelve Project Management Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stakeholder Performance Domain"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Team Performance Domain"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Development Approach and Life Cycle Domain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Planning Performance Domain"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Project Work Performance Domain"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Delivery Performance Domain"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Measurement Performance Domain"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Uncertainty Performance Domain"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Tailoring the Project Approach"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Project Initiation and Business Case Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying and Selecting Projects"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a Business Case"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Feasibility Studies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost Benefit Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Defining High Level Requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Securing Project Approval and Funding"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Project Planning in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Assembling the Project Management Plan"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Establishing Baselines and Subsidiary Plans"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Milestone Planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dependency Mapping"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contingency and Buffer Planning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Running an Effective Project Kickoff"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Project Execution and Delivery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Coordinating Cross Functional Teams"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managing Day to Day Delivery"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Vendors During Execution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Issue Management and Escalation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deliverable Quality Assurance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Monitoring, Control, and Reporting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Performance Measurement Baselines"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Variance Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Status Reports and Dashboards"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Change Request Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corrective and Preventive Actions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Project Closure and Transition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Administrative and Contract Closure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conducting Lessons Learned Sessions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Handover and Transition to Operations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Final Reporting and Archiving"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Releasing and Recognizing the Team"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Agile Foundations and Mindset",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Agile Manifesto and Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agile versus Waterfall Thinking"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Servant Leadership in Agile"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self Organizing Teams"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adaptive Planning Concepts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Scrum Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Product Owner, Scrum Master, and Developer Roles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sprint Planning, Daily Scrum, Review, and Retrospective"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Product Backlog, Sprint Backlog, and Increment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Writing and Refining User Stories"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Story Points and Estimation Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sprint Metrics and Burndown Charts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Kanban Method",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Visualizing Workflow with Kanban Boards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Limiting Work in Progress"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Flow and Cumulative Flow Diagrams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Kanban Cadences and Classes of Service"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Kanban Compared to Scrum"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Lean Project Management and Extreme Programming",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lean Principles and Waste Elimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Value Stream Mapping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Extreme Programming Practices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Test Driven Development for Project Managers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuous Integration and Delivery Concepts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Scaling Agile Across the Enterprise",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scaled Agile Framework (SAFe)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Large Scale Scrum (LeSS)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nexus Framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Scrum at Scale"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Disciplined Agile"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Choosing a Scaling Approach"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Hybrid Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Blending Predictive and Adaptive Approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hybrid Governance Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tailoring Frameworks to Project Context"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common Hybrid Patterns by Industry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "PRINCE2 Methodology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "PRINCE2 Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "PRINCE2 Themes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "PRINCE2 Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Management Products and Roles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "PRINCE2 Agile"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tailoring PRINCE2 to the Project Environment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Six Sigma and Process Improvement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DMAIC Methodology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Six Sigma Belts and Roles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Statistical Process Control Basics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Root Cause Analysis Tools"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Integrating Six Sigma with Project Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Leadership for Project Managers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Leadership Styles and Situational Leadership"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Servant Leadership and Coaching"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Motivating Project Teams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decision Making Under Uncertainty"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building Trust and Credibility"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethics and Professional Responsibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Building and Developing Project Teams",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Team Formation Stages from Forming to Adjourning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Virtual and Distributed Team Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cross Cultural Team Dynamics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Delegation and Empowerment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Performance Feedback and Recognition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Communication and Negotiation Skills",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Facilitating Effective Meetings"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Active Listening and Clear Communication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Negotiation Strategies and Tactics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Influencing Without Authority"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Presenting to Executives and Sponsors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Conflict Resolution and Emotional Intelligence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of Project Conflict"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conflict Resolution Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Emotional Intelligence Fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Navigating Difficult Conversations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Managing Team Stress and Burnout"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Project Management Software and Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gantt Chart and Scheduling Tools"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agile and Kanban Board Platforms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Enterprise Platforms Including Jira, Asana, Monday, and ClickUp"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Microsoft Project and Portfolio Tools"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Collaboration and Documentation Tools"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Choosing and Implementing a Tool Stack"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "AI and Automation in Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "AI Assisted Scheduling and Forecasting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predictive Risk Analytics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Automated Status Reporting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Generative AI for Planning and Documentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "AI Powered Resource Optimization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Governance and Limitations of AI in Projects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Data Driven Project Management and Metrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Key Performance Indicators for Projects"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dashboards and Real Time Reporting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Forecasting Metrics and Trend Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Data Quality and Decision Making"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a Metrics Driven Culture"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Program Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Program versus Project Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Program Life Cycle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Program Governance and Benefits Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Interdependencies Across Projects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Program Risk and Stakeholder Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Portfolio Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Portfolio Governance and Strategy Alignment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Portfolio Prioritization Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Balancing the Portfolio"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Portfolio Performance Reporting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capacity and Demand Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Project Management Office (PMO)",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supportive, Controlling, and Directive PMO Types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Core PMO Functions and Services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Establishing and Maturing a PMO"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Project Management Maturity Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Standardizing Templates and Processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Organizational Change Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Kotter's Change Model and the ADKAR Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managing Resistance to Change"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Communication Planning for Change"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sustaining Change After Go Live"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Integrating Change Management with Project Delivery"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Business Analysis for Project Managers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Requirements Elicitation Techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Business Process Modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "User Stories and Use Cases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Requirements Traceability"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gap Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Benefits Realization and Value Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Expected Benefits"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Benefits Realization Planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Value Management Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Post Implementation Reviews"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Measuring Return on Investment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Sustainability and ESG in Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sustainable Project Management Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental Impact Assessment in Projects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Social and Governance Considerations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Green Project Management Standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reporting on Sustainability Outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "IT and Software Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Software Development Life Cycle Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managing Technical Debt"
+        },
+        {
+          "item_index": 3,
+          "item_title": "DevOps and Project Management Integration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Release and Deployment Planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Managing IT Infrastructure Projects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Construction and Engineering Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Construction Project Life Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Engineering Procurement and Construction Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building Information Modeling (BIM)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Safety and Regulatory Compliance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Managing Subcontractors and Site Logistics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Marketing, Creative, and Event Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Campaign and Content Project Planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Creative Review and Approval Workflows"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Event Planning and Logistics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Freelancers and Agencies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Measuring Marketing Project Return on Investment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Certifications and Professional Credentials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Project Management Professional (PMP)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Certified Associate in Project Management (CAPM)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "PRINCE2 Foundation and Practitioner"
+        },
+        {
+          "item_index": 4,
+          "item_title": "PMI Agile Certified Practitioner and Other Agile Certifications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Six Sigma Belt Certifications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Google Project Management Certificate"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Choosing the Right Certification Path"
+        }
+      ]
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "Career Development and Capstone Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building a Project Management Portfolio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cross Industry Case Study Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Simulated End to End Capstone Project"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Networking and Professional Communities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuing Education and Staying Current"
+        }
+      ]
+    }
+  ]
+}

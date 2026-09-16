@@ -1,0 +1,903 @@
+{
+  "topic": "Organizational Psychology",
+  "topic_slug": "organizational_psychology",
+  "generated_at": "2026-09-10T19:10:55.844276",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and History of Organizational Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins and Evolution of Industrial-Organizational Psychology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Industrial Psychology, Organizational Psychology, and Organizational Behavior Compared"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Major Theoretical Perspectives and Schools of Thought"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Scientist-Practitioner Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional Associations, Journals, and Practice Standards"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Related Disciplines in Human Resource Management, Sociology, and Economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ethics and Professional Standards in Applied Practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Research Methods and Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quantitative Research Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Qualitative and Mixed Methods Research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Survey Design and Administration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Psychometric Reliability and Validity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multivariate Statistics for Organizational Research"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Meta-Analysis and Utility Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Field Experiments and Quasi-Experimental Design"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Research Ethics and Data Privacy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Individual Differences at Work",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Personality Models and the Big Five"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dark Triad Traits in the Workplace"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cognitive Ability and General Mental Ability"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Emotional Intelligence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core Self-Evaluations and Locus of Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Values, Interests, and Vocational Fit"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Person-Environment Fit Theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Perception, Cognition, and Judgment in Organizations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Social Perception and Impression Formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Attribution Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cognitive Biases in Organizational Judgment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stereotyping and Implicit Bias at Work"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Self-Concept and Self-Efficacy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Organizational Sensemaking"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Work Motivation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Need-Based Theories of Motivation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expectancy Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Equity Theory and Organizational Justice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Goal-Setting Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Self-Determination Theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Job Characteristics Model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Generational and Lifespan Perspectives on Motivation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Job Attitudes and Workplace Affect",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Job Satisfaction Theory and Measurement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organizational Commitment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Employee Engagement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Emotions and Moods at Work"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Affective Events Theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Psychological Contracts"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Organizational Citizenship Behavior"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Counterproductive Work Behavior"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Employee Turnover and Retention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Job Analysis and Work Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Job Analysis Methods and Techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Competency Modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Job Enrichment and Job Characteristics Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Job Crafting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Person-Job Fit"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Human Factors and Ergonomics Fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Recruitment and Personnel Selection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Recruitment Strategy and Employer Branding"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Realistic Job Previews"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Selection Interviews, Tests, and Assessment Centers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Validity, Reliability, and Adverse Impact"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cognitive Ability and Personality Testing in Selection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structured Interviewing Techniques"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Biodata and Situational Judgment Tests"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Legal Issues in Employee Selection"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Onboarding and Organizational Socialization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Training and Employee Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Training Needs Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Instructional Design and the ADDIE Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Adult Learning Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Training Evaluation and the Kirkpatrick Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transfer of Training"
+        },
+        {
+          "item_index": 6,
+          "item_title": "E-Learning and Technology-Based Training"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mentoring and Coaching"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Leadership Development Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Performance Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Performance Appraisal Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Criterion Theory and Performance Dimensions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rater Biases and Rating Errors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "360-Degree Feedback"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Goal Alignment and Performance Management Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Feedback Delivery and Developmental Coaching"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Compensation and Reward Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Compensation Theory and Pay Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Job Evaluation and Internal Equity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pay-for-Performance Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Benefits and Total Rewards Strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Recognition Programs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Executive Compensation Issues"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Leadership",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Trait and Behavioral Theories of Leadership"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contingency and Situational Leadership Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transformational and Transactional Leadership"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leader-Member Exchange Theory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Authentic and Servant Leadership"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Shared and Distributed Leadership"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Destructive and Toxic Leadership"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Leadership Emergence and Development"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Followership"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Power, Politics, and Influence",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bases and Sources of Power"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organizational Politics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Influence Tactics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Impression Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coalition Building"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethical Use of Power"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Group Dynamics and Team Effectiveness",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Group Formation and Development Stages"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Team Composition and Diversity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Team Roles and Process"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Loafing and Process Losses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shared Mental Models and Team Cognition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Virtual and Hybrid Team Dynamics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Measuring Team Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Communication in Organizations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Communication Models and Channels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Formal and Informal Communication Networks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nonverbal Communication at Work"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Listening"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Digital Collaboration Technology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Crisis Communication"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Decision Making and Organizational Problem Solving",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rational Decision-Making Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bounded Rationality and Heuristics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Group Decision-Making Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Groupthink and Group Polarization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Creativity and Innovation in Organizations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethical Decision-Making Frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Conflict Management and Negotiation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and Types of Organizational Conflict"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conflict Resolution Styles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Negotiation Strategies and Tactics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mediation and Third-Party Intervention"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Workplace Bullying and Harassment Dynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Organizational Culture and Climate",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Models and Definitions of Organizational Culture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Culture Assessment and Measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Subcultures and Culture Change"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Climate Research"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Psychological Safety"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Person-Organization Fit"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Organizational Structure and Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical Organizational Design Theories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contingency Theory of Organizations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bureaucratic, Matrix, and Network Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Centralization and Formalization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "High-Performance Work Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Organizational Life Cycle"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Organizational Development and Change Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planned Change Theories of Lewin and Kotter"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organizational Diagnosis Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sociotechnical Systems Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Team-Building Interventions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Resistance to Change"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Large-Scale Organizational Transformation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Appreciative Inquiry"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Change Agent and Consulting Role"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Occupational Health and Workplace Well-Being",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Job Demands-Resources and Job Demand-Control Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Burnout and Its Prevention"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Positive Organizational Behavior and Psychological Capital"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Work-Life Balance and Boundary Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Workplace Safety and Accident Prevention"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resilience and Recovery from Work"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Diversity, Equity, and Inclusion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of Diversity in Organizations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Discrimination and Bias in the Workplace"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inclusive Leadership Practices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing a Multicultural Workforce"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Age and Generational Diversity in the Workforce"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Disability and Accessibility Inclusion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Measuring Diversity, Equity, and Inclusion Outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Employment Law, Fairness, and Ethics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Employment Law Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organizational Justice and Its Dimensions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Whistleblowing and Ethical Climate"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Harassment Policy and Prevention"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Employee Rights and Workplace Privacy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Cross-Cultural and Global Organizational Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hofstede's Cultural Dimensions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The GLOBE Study of Leadership and Culture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Expatriate Adjustment and Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cross-Cultural Leadership"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global Talent Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Careers and Talent Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Career Development Theories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Career Anchors and Career Stages"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Succession Planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High-Potential Identification Programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Retirement and Career Transitions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Technology, AI, and the Future of Work",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Algorithmic Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Artificial Intelligence in Recruitment and Selection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Remote and Hybrid Work Research"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Gig Economy and Non-Standard Work Arrangements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Automation and Job Displacement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Human-AI Collaboration at Work"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "People Analytics and Applied Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "HR Metrics and Analytics Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predictive Workforce Analytics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Visualization and Dashboards for HR"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ethical Issues in People Analytics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Consulting Practice and Capstone Integration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Entering and Contracting with Client Organizations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organizational Diagnosis Frameworks in Practice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Case Study Analysis Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Program Evaluation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building an Applied Portfolio"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capstone Project Integrating Theory and Practice"
+        }
+      ]
+    }
+  ]
+}

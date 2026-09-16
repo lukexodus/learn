@@ -1,0 +1,1153 @@
+{
+  "topic": "Electrical Grid Engineering",
+  "topic_slug": "electrical_grid_engineering",
+  "generated_at": "2026-09-13T07:37:28.473428",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of AC Power and Circuit Analysis for Grid Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Phasor Representation of AC Quantities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Complex Power: Real, Reactive, and Apparent Power"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Power Factor and Power Factor Correction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Balanced Three-Phase Circuit Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Unbalanced Three-Phase System Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Per-Unit System and Base Value Selection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Symmetrical Components Theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Structure and Organization of Electric Power Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Generation-Transmission-Distribution Hierarchy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Standard Voltage Levels and System Classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interconnections, Balancing Authorities, and Control Areas"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Single-Line Diagram Conventions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Load Characteristics and Demand Curves"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Load Forecasting Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Synchronous Machines and Generation Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Synchronous Generator Construction and Operating Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Generator Equivalent Circuit and Phasor Diagram Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Salient-Pole versus Cylindrical-Rotor Machine Behavior"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Excitation Systems and Automatic Voltage Regulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Governor Systems and Speed-Droop Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Generator Capability Curves and Operating Limits"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Prime Mover Characteristics Across Generation Types"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Power Transformers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Transformer Equivalent Circuits and Per-Unit Modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Three-Phase Transformer Connections and Vector Groups"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Autotransformers and Phase-Shifting Transformers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "On-Load Tap Changers and Voltage Control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transformer Losses, Efficiency, and Thermal Loading"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transformer Testing, Protection, and Condition Monitoring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Transmission Line Electrical Parameters and Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Series Resistance and Inductance of Transmission Lines"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Shunt Capacitance and Conductance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short-Line, Medium-Line, and Long-Line Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "ABCD Parameters and Two-Port Representation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Surge Impedance Loading and Reactive Compensation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Traveling Waves and Surge Phenomena"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Transmission Line Mechanical and Physical Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conductor Types and Selection Criteria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sag-Tension Calculations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Insulator Types and Selection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transmission Tower and Structure Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overhead versus Underground Transmission Tradeoffs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Underground Cable Construction and Thermal Rating"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Corona Effects and Electromagnetic Field Considerations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Right-of-Way Acquisition and Environmental Permitting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Distribution System Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Radial, Loop, and Networked Distribution Topologies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Distribution Substation Design Principles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Distribution Transformers and Secondary Networks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Voltage Regulators and Capacitor Bank Placement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Distribution Feeder Protection: Fuses, Reclosers, and Sectionalizers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distribution Automation and Feeder Reconfiguration"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Distribution System Loss Reduction Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Power Flow (Load Flow) Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bus Classification: Slack, PV, and PQ Buses"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bus Admittance Matrix Formulation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gauss-Seidel Load Flow Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Newton-Raphson Load Flow Method"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fast Decoupled Load Flow"
+        },
+        {
+          "item_index": 6,
+          "item_title": "DC Power Flow Approximation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contingency Analysis and N-1 Screening"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Symmetrical Fault Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Per-Unit Short-Circuit Calculation Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Three-Phase Symmetrical Fault Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thevenin Equivalent Fault Calculations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Zbus Method for Fault Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fault Current Contribution from Generators and Motors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Circuit Breaker Interrupting and Momentary Ratings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Unsymmetrical Fault Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Symmetrical Component Sequence Networks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Single Line-to-Ground Fault Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Line-to-Line Fault Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Double Line-to-Ground Fault Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Open-Conductor Fault Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sequence Network Interconnection by Fault Type"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Power System Protection Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Protection Philosophy: Selectivity, Sensitivity, Speed, and Reliability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Protection Zones and Overlapping Coverage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Instrument Transformers for Protection Applications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Overcurrent and Time-Overcurrent Relay Coordination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Directional Overcurrent Protection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Protection of Power System Apparatus",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Generator Protection Schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transformer Differential Protection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transmission Line Distance Protection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Busbar Differential Protection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Motor Protection Fundamentals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Numerical and Digital Relay Architecture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Protection Coordination Studies and Relay Setting Calculation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Wide-Area and Adaptive Protection Schemes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Power System Stability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Swing Equation and Rotor Dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Equal Area Criterion for Transient Stability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transient Stability Simulation Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Small-Signal Stability and Eigenvalue Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Power System Stabilizer Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Voltage Stability and Voltage Collapse Mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Frequency Stability Fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Inertia, Frequency Response, and Inverter-Dominant Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rotational Inertia and Rate of Change of Frequency"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Declining System Inertia from Inverter-Based Resource Penetration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Synchronous Condensers and Inertia Augmentation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Synthetic and Virtual Inertia from Inverter Control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Frequency Response Services and Reserve Requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transient Interaction Between Synchronous Generators and IBRs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Power System Control and Operations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Automatic Generation Control and Load-Frequency Control"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Economic Dispatch"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Unit Commitment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Optimal Power Flow Formulations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "State Estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interchange Scheduling and Tie-Line Bias Control"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Energy Management System Architecture"
+        },
+        {
+          "item_index": 8,
+          "item_title": "SCADA Architecture and Communication Protocols"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Reactive Power Compensation and Voltage Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Shunt Capacitor and Reactor Banks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Static VAR Compensator (SVC) Technology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "STATCOM Technology and Control"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Series Compensation for Voltage Support"
+        },
+        {
+          "item_index": 5,
+          "item_title": "System-Wide Voltage Control Coordination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Power Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Harmonic Sources and Harmonic Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Voltage Sags, Swells, and Interruptions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Voltage Flicker and Its Sources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Power Quality Standards and Monitoring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Harmonic Filtering and Active Conditioning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Grounding, Insulation Coordination, and Lightning Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "System Grounding Methods and Neutral Treatment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Substation and Equipment Grounding Grid Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Insulation Coordination Principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Surge Arrester Selection and Application"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lightning Performance of Transmission Lines"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Switching Surge Analysis and Mitigation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "High-Voltage Direct Current (HVDC) Transmission",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "HVAC versus HVDC Transmission Economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Line-Commutated Converter (LCC) HVDC Technology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Voltage-Source Converter (VSC) HVDC Technology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multi-Terminal HVDC and DC Grid Concepts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Submarine Cable and Long-Distance Bulk Transmission"
+        },
+        {
+          "item_index": 6,
+          "item_title": "HVDC for Offshore Wind Integration"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Asynchronous Interconnections and Back-to-Back HVDC"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Flexible AC Transmission Systems (FACTS)",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FACTS Device Classification and Applications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Thyristor-Controlled Series Compensation (TCSC)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Static Synchronous Series Compensator (SSSC)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Unified Power Flow Controller (UPFC)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "FACTS for Oscillation Damping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Substation Design and High-Voltage Equipment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Substation Bus Configuration Types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Circuit Breaker Technologies and Interrupting Media"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Disconnect Switches and Isolation Equipment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gas-Insulated Switchgear"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Instrument Transformers and Metering Equipment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Substation Automation and Protection Integration"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Digital Substations and the IEC 61850 Standard"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Renewable Generation Integration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wind Turbine Generator Technologies and Configurations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Doubly-Fed Induction Generators and Full-Converter Wind Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Solar Photovoltaic System Architecture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Grid-Tied Inverter Fundamentals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Grid Codes for Renewable Interconnection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Low-Voltage and Fault Ride-Through Requirements"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Wind and Solar Forecasting for Grid Operations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Curtailment and Renewable Variability Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Inverter-Based Resources and Grid-Forming Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Grid-Following versus Grid-Forming Inverter Control"
+        },
+        {
+          "item_index": 2,
+          "item_title": "IEEE Std 2800-2022 Interconnection Requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Negative-Sequence Current Control During Asymmetrical Faults"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Short-Circuit Strength in IBR-Dominant Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fault Current Limiting and Virtual Impedance Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Grid-Forming Inverter Test and Verification Procedures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Energy Storage Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Battery Energy Storage System Architecture and Chemistries"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pumped Hydro and Mechanical Storage Technologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Storage Applications: Arbitrage, Regulation, and Capacity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Storage Interconnection and Interoperability Standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hybrid Generation-Storage Resource Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Smart Grid Technologies and Grid Modernization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Advanced Metering Infrastructure (AMI)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Phasor Measurement Units and Wide-Area Monitoring Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Distribution Management System Functions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distributed Energy Resource Management Systems (DERMS)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Virtual Power Plants and DER Aggregation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "FERC Order 2222 and Wholesale Market Participation of DERs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "IEEE 1547 and IEEE P2030.14 Interoperability Standards"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Demand Response and Demand-Side Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Microgrids and Distributed Generation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Microgrid Architectures and Control Hierarchies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Grid-Connected and Islanded Operating Modes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Seamless Transition and Resynchronization Control"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Black Start Capability from Distributed Resources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Community Microgrids and Resilience Hubs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Data Analytics, AI, and Digitalization in Grid Operations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Predictive Maintenance and Asset Health Analytics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Machine Learning for Load and Renewable Forecasting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Digital Twins of Grid Infrastructure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common Information Model and Grid Data Interoperability"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Anomaly Detection and Situational Awareness Tools"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Grid-Enhancing Technologies and Advanced Transmission Operation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dynamic Line Rating"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Advanced Power Flow Control Devices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transmission Topology Optimization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High-Temperature Low-Sag Conductor Reconductoring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "FERC Order 881 and Ambient-Adjusted Ratings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Electric Vehicle Integration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "EV Charging Infrastructure Classes and Grid Interfaces"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managed and Smart Charging Strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vehicle-to-Grid and Bidirectional Power Flow"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distribution Planning for EV Load Growth"
+        },
+        {
+          "item_index": 5,
+          "item_title": "EV Fleet and Depot Charging Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Large Loads, Data Centers, and Grid Capacity Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Data Center and Hyperscale Load Characteristics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Large-Load Interconnection Processes and Queue Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Flexible and Curtailable Large-Load Interconnection Service"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Behind-the-Meter Generation and Co-Location Strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Computational Load Classification and Reliability Treatment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Power System Economics and Electricity Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Regulated versus Restructured Market Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Locational Marginal Pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ancillary Services Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity Markets and Resource Adequacy Mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transmission Pricing and Cost Allocation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Demand Response Program Design and Valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Transmission and Resource Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Generation Expansion Planning Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transmission Expansion Planning Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long-Term Regional Transmission Planning and FERC Order 1920"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interregional Transmission Coordination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reliability-Based Planning Criteria (N-1, N-1-1)"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resource Adequacy Assessment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Power System Reliability Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reliability Indices: SAIDI, SAIFI, CAIDI, and MAIFI"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Probabilistic Reliability Assessment Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Loss-of-Load Probability and Loss-of-Load Expectation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bulk Power System Reliability Standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reliability Coordinator Functions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Grid Resilience and Extreme Event Preparedness",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Extreme Weather Hardening Strategies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wildfire Mitigation and Public Safety Power Shutoffs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Storm Hardening and Undergrounding Tradeoffs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cascading Failure Mechanisms and Prevention"
+        },
+        {
+          "item_index": 5,
+          "item_title": "System Restoration and Black Start Procedures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate Adaptation Planning for Grid Infrastructure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Grid Cybersecurity and Critical Infrastructure Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "NERC CIP Standards Framework Overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electronic Security Perimeters and Access Control"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supply Chain Risk Management for Grid Vendors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Internal Network Security Monitoring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ICS/SCADA and Operational Technology Security Principles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Physical Security of Critical Facilities"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cybersecurity Incident Reporting and Response"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Regulatory Framework and Industry Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Regulatory Bodies: FERC, NERC, and State Public Utility Commissions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regional Transmission Organizations and Independent System Operators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Grid Interconnection Standards and Codes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Renewable Portfolio Standards and Clean Energy Policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "International Grid Codes and Regulatory Frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Power System Modeling, Simulation, and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Power System Simulation Software Landscape"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electromagnetic Transient versus RMS/Phasor-Domain Simulation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Model Validation and Benchmarking Practices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Standards Bodies and Codes of Practice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional Licensure Pathways for Power Engineers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Case Study: 1965 Northeast Blackout"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Case Study: 2003 Northeast Blackout"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Case Study: 2016 South Australia Blackout"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Case Study: 2021 Texas Winter Storm Uri"
+        }
+      ]
+    }
+  ]
+}

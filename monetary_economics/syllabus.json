@@ -1,0 +1,895 @@
+{
+  "topic": "Monetary Economics",
+  "topic_slug": "monetary_economics",
+  "generated_at": "2026-09-10T01:39:31.461523",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Functions of Money",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functions of money: medium of exchange, unit of account, store of value"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Origins and evolution of money"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Commodity money, representative money, and fiat money"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The coincidence of wants and the case against barter"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Liquidity and the moneyness spectrum"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Legal tender laws and the state theory of money"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Monetary Aggregates and Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Narrow money: M0 and the monetary base"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Broad money aggregates: M1, M2, M3"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Constructing and revising monetary statistics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Financial innovation and aggregate measurement problems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Divisia monetary aggregates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross-country comparison of monetary aggregates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Demand for Money",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical quantity-theoretic demand for money"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Keynesian liquidity preference theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transactions, precautionary, and speculative motives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Baumol-Tobin inventory-theoretic model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tobin's portfolio balance approach"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Friedman's restatement of the quantity theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Empirical estimation and stability of money demand"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Money Supply and the Banking System",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "High-powered money and the monetary base"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fractional reserve banking and deposit creation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The money multiplier model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Central bank balance sheet mechanics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reserves, excess reserves, and interbank markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Endogenous versus exogenous money supply debates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Interest Rates and the Term Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nominal and real interest rates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wicksell's natural rate of interest and the cumulative process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The term structure of interest rates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The expectations hypothesis and term premia"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The yield curve as a business cycle indicator"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Central bank policy rates and the yield curve"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Microfoundations of Monetary Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Money-in-the-utility-function models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cash-in-advance constraint models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Overlapping generations models of money"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Search-theoretic models of money and the Kiyotaki-Wright framework"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The optimum quantity of money and the Friedman rule"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiat money value and rational bubbles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Classical and Neoclassical Monetary Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The equation of exchange and the quantity theory of money"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Fisher equation and real versus nominal interest rates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Classical dichotomy and monetary neutrality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Say's Law and classical monetary equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Pigou effect and real balance effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Neutrality and superneutrality of money"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Keynesian Monetary Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Liquidity preference and the speculative demand for money"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The IS-LM model of goods and money markets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monetary policy transmission in the IS-LM framework"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The liquidity trap"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Keynesian critique of monetary neutrality"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Hicksian synthesis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Monetarism",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Friedman's modern quantity theory framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The natural rate of unemployment hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Permanent income hypothesis and money demand"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rules versus discretion in monetary policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monetarist critique of Keynesian activism"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Great Depression as a monetary phenomenon"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "New Classical Macroeconomics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rational expectations hypothesis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The policy ineffectiveness proposition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Lucas critique of policy evaluation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Real business cycle theory and monetary neutrality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Time inconsistency and the credibility problem"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Barro-Gordon model of inflation bias"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "New Keynesian Monetary Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nominal price and wage rigidities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Menu cost models of price stickiness"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Calvo pricing and staggered contracts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The New Keynesian Phillips curve"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The three-equation New Keynesian model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dynamic stochastic general equilibrium models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Inflation Theory and Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Demand-pull and cost-push inflation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Phillips curve and its historical evolution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The expectations-augmented Phillips curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Adaptive versus rational inflation expectations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Inflation persistence and hysteresis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hyperinflation: causes and historical case studies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Deflation and debt-deflation dynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Central Banking Institutions and Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and evolution of central banks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Central bank mandates and objectives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Central bank independence: theory and evidence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Governance, accountability, and transparency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Central bank communication strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative central banking across major economies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Instruments of Monetary Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Open market operations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Discount window and standing lending facilities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reserve requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interest rate corridors and floor systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Policy rate setting and the overnight rate"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Monetary Policy Frameworks and Rules",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Monetary targeting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inflation targeting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Exchange rate targeting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nominal GDP targeting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Taylor rule and interest rate feedback rules"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Commitment, discretion, and rule-based policy design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Monetary Policy Transmission Mechanisms",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interest rate channel"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bank lending and credit channels"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Balance sheet and financial accelerator channel"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Exchange rate channel"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asset price and wealth channel"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Expectations and signaling channel"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Unconventional Monetary Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The zero lower bound problem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quantitative easing and large-scale asset purchases"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Forward guidance strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Negative interest rate policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Yield curve control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Credit easing and targeted lending programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Banking, Financial Intermediation, and Regulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of financial intermediation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Diamond-Dybvig model of bank runs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deposit insurance and moral hazard"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The shadow banking system"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bank capital regulation and the Basel frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Macroprudential regulation and systemic risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Financial Crises and the Lender of Last Resort",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical patterns of financial crises and panics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Minsky's financial instability hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lender of last resort doctrine"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monetary policy response to the 2008 global financial crisis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sovereign debt crises and monetary policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Financial stability as a central bank objective"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "International Monetary Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Balance of payments accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Mundell-Fleming model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The policy trilemma and the impossible trinity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capital mobility and monetary policy autonomy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Currency crises and speculative attacks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Global liquidity and international policy spillovers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Exchange Rate Determination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purchasing power parity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Covered and uncovered interest rate parity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monetary approach to exchange rate determination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Dornbusch overshooting model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fixed, floating, and managed exchange rate regimes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Monetary Policy in Emerging and Developing Economies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fear of floating and exchange rate management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital flow management and macroprudential tools"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dollarization and currency substitution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monetary transmission in shallow financial markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Commodity price shocks and monetary policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sudden stops and balance sheet effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "International Monetary Systems and History",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The classical gold standard"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The interwar monetary experience"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Bretton Woods system"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The post-Bretton Woods floating rate era"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Currency unions and the Eurozone experience"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dollarization and currency boards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Monetary History",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History of commodity money and coinage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Free banking eras and private currency issuance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Currency School versus Banking School debate"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Founding of major central banks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Historical hyperinflations: Weimar Germany, Hungary, Zimbabwe"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Monetary reforms and regime transitions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Fiscal-Monetary Interactions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The government budget constraint and seigniorage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The fiscal theory of the price level"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monetary financing versus debt financing of deficits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Central bank independence and fiscal dominance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public debt sustainability analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Heterodox and Alternative Monetary Theories",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Post-Keynesian endogenous money theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modern Monetary Theory: core claims and critiques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Austrian theory of money and the business cycle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Circuit theory of money and credit"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chartalism and the state theory of money revisited"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Digital Currencies and the Future of Money",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cryptocurrencies and blockchain-based money"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stablecoins and their monetary implications"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Central bank digital currencies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Implications of digital money for monetary policy transmission"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Payment system innovation and financial inclusion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Empirical Methods in Monetary Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vector autoregression models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identification of monetary policy shocks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structural VARs and sign restrictions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bayesian estimation of DSGE models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Calibration versus estimation of structural models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "High-frequency identification and event-study methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Local projections for impulse response estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Monetary Policy and Macroeconomic Outcomes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Monetary policy and unemployment dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monetary policy and long-run economic growth"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monetary policy and income and wealth inequality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asset price bubbles and monetary policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monetary policy and exchange rate volatility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Research Frontiers in Monetary Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Heterogeneous agent New Keynesian models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monetary policy at the effective lower bound"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Climate change and monetary policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monetary-fiscal policy coordination in crises"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral approaches to monetary economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Network models of financial contagion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "topic": "Critical Path Method (CPM) & Earned Value Management (EVM)",
+  "topic_slug": "critical_path_method_cpm_earned_value_management_evm",
+  "generated_at": "2026-09-14T19:23:23.240026",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Project Scheduling and Cost Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Project life cycle and phases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Role of schedule and cost management in project success"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Overview of PMBOK knowledge areas for time and cost"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Scope, schedule, and cost baseline concepts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stakeholder roles in schedule and cost governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Work Breakdown Structure and Project Definition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "WBS principles and decomposition rules"
+        },
+        {
+          "item_index": 2,
+          "item_title": "WBS dictionary development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Work packages versus planning packages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Organizational Breakdown Structure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Responsibility Assignment Matrix and RACI charts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Introduction to Critical Path Method",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and origins of CPM"
+        },
+        {
+          "item_index": 2,
+          "item_title": "CPM compared to PERT and Gantt charts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deterministic versus probabilistic scheduling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Industries and applications of CPM"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core CPM terminology and definitions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Network Diagramming Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Precedence Diagramming Method"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Arrow Diagramming Method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Activity on Node versus Activity on Arrow"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Constructing a project network diagram"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common network diagramming errors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Activity Sequencing and Dependencies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Finish to start, start to start, finish to finish, and start to finish relationships"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mandatory, discretionary, and external dependencies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Leads and lags"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Milestones in network logic"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Schedule constraints and imposed dates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Activity Duration and Cost Estimating",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Analogous estimating"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Parametric estimating"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Three point estimating and the PERT formula"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bottom up versus top down estimating"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Estimating contingency and reserves"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "CPM Forward and Backward Pass Calculations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Early start and early finish calculation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Late start and late finish calculation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Forward pass methodology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Backward pass methodology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Manual network calculation practice problems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Float Analysis and Critical Path Identification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Total float calculation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Free float calculation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Identifying the critical path"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Near critical and multiple critical paths"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Negative float and its implications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Schedule Risk Analysis and Probabilistic Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Probability distributions for activity durations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monte Carlo simulation fundamentals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Schedule risk drivers and sensitivity analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Confidence levels and P50 P80 completion dates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Joint schedule and cost risk analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Schedule Compression and Optimization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crashing techniques and cost time tradeoffs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fast tracking and associated risks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "What if scenario analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Balancing compression against risk and quality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Schedule optimization algorithms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Resource Management in CPM Scheduling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Resource loading and allocation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Resource leveling techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resource smoothing versus resource leveling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Resource constrained versus time constrained scheduling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multi project resource contention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Critical Chain Project Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of Constraints applied to scheduling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Project, feeding, and resource buffers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Buffer sizing methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Critical chain versus critical path comparison"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Implementing CCPM in practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Schedule Baseline Management and Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Establishing the schedule baseline"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Baseline change control processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Progress measurement and status updates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Schedule variance identification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Re baselining criteria and governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Schedule Quality Assessment and Health Checks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DCMA 14 point schedule assessment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Logic checks and dangling activity detection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Constraint and lag audits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Schedule margin and contingency review"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuous schedule improvement practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Introduction to Earned Value Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and origins of EVM"
+        },
+        {
+          "item_index": 2,
+          "item_title": "From C SCSC to modern EVM standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Purpose and benefits of EVM"
+        },
+        {
+          "item_index": 4,
+          "item_title": "EVM compared to traditional cost tracking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overview of EVM guiding standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "EVM Planning Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrating the WBS with control accounts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Performance Measurement Baseline development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Control account plans and work packages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Methods of earning value including fixed formula, percent complete, milestone, level of effort, and apportioned effort"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Time phasing the budget"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Management reserve versus contingency reserve"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Core EVM Metrics and Formulas",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planned Value"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Earned Value"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Actual Cost"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Budget at Completion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost Variance and Schedule Variance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cost Performance Index and Schedule Performance Index"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Variance Analysis in EVM",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interpreting cost and schedule variances"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Variance thresholds and reporting triggers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Root cause analysis for variances"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Corrective action planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Variance analysis reports"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Forecasting and Estimate at Completion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Estimate at Completion formulas and scenarios"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Estimate to Complete"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Variance at Completion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "To Complete Performance Index"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Independent estimate at completion techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Earned Schedule Method",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Limitations of traditional schedule variance in time units"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Earned Schedule calculation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Time based Schedule Performance Index"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Independent estimate at completion for time"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applying earned schedule to forecasting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "EVM Reporting and Performance Reviews",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "S curve development and interpretation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contract Performance Reports"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Integrated Baseline Reviews"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Management by exception principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Communicating EVM data to stakeholders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "EVM Systems Compliance and Standards",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ANSI EIA 748 EVMS guidelines overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Standard for Earned Value Management ANSI PMI 19 006"
+        },
+        {
+          "item_index": 3,
+          "item_title": "EVMS validation and surveillance reviews"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Over Target Baseline and Over Target Schedule"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common EVMS compliance pitfalls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Integrating CPM and EVM",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrated Master Schedule development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Integrated Master Plan structure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Linking schedule activities to cost accounts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Schedule cost integration challenges"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Joint confidence level analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Scheduling and EVM Software Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Oracle Primavera P6 fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Microsoft Project and Project Online"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deltek Cobra and Acumen Fuse"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spreadsheet based EVM tracking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "AI driven schedule optimization and risk forecasting platforms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data integration between scheduling and cost systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Industry Specific Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Construction industry scheduling and cost control"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aerospace and defense program management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "IT and software development project tracking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Government contracting requirements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparing industry practices and adaptations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Claims, Delay Analysis, and Forensic Scheduling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Delay analysis methodologies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Time impact analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "As planned versus as built comparisons"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Concurrent delay concepts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Using CPM and EVM data in dispute resolution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Agile and Hybrid Approaches to Schedule and Cost Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Applying EVM in Agile environments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hybrid scheduling approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Velocity and burn down versus earned value"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rolling wave planning and progressive elaboration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Blending predictive and adaptive methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Professional Certification and Career Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "PMI Scheduling Professional certification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "AACE International certifications including CCP, PSP, and EVP"
+        },
+        {
+          "item_index": 3,
+          "item_title": "PMP exam content on schedule and cost management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building a career in planning and project controls"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuing education and professional resources"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Capstone Practice and Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Worked CPM network diagram examples"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Worked EVM calculation exercises"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common scheduling and cost control pitfalls"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Real world case study analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Final mastery assessment and practice scenarios"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "topic": "Behavioral Economics",
+  "topic_slug": "behavioral_economics",
+  "generated_at": "2026-09-11T00:06:56.791273",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Intellectual History of Behavioral Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Homo Economicus Model and Its Assumptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adam Smith and the Psychological Roots of Classical Economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Herbert Simon and the Concept of Bounded Rationality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Cognitive Revolution and the Psychology-Economics Divide"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Kahneman and Tversky and the Heuristics and Biases Program"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Richard Thaler and the Founding of Modern Behavioral Economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nobel Laureates and Landmark Contributions to the Field"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Scope, Methods, and Boundaries of Behavioral Economics as a Discipline"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Bounded Rationality and Dual-Process Models of Thinking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded Rationality and Satisficing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "System 1 and System 2 Thinking"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Automatic versus Controlled Cognitive Processing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cognitive Load and the Quality of Decisions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ego Depletion and Self-Regulatory Resources"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Intuition versus Deliberation in Economic Choice"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bounded Willpower and Bounded Self-Interest"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Heuristics and Biases in Judgment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Representativeness Heuristic"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Availability Heuristic"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Anchoring and Insufficient Adjustment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Base Rate Neglect"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Conjunction Fallacy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overconfidence and Miscalibration"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hindsight Bias"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Illusion of Control"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The Gambler's Fallacy and the Hot Hand Fallacy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Prospect Theory and Choice Under Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Expected Utility Theory as the Classical Benchmark"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Allais Paradox and the Ellsberg Paradox"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prospect Theory and the Shape of the Value Function"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Loss Aversion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Probability Weighting and the Fourfold Pattern of Risk Attitudes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Certainty Effect and the Reflection Effect"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ambiguity Aversion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Prospect Theory in Insurance, Gambling, and Labor Supply Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Time Preferences and Intertemporal Choice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Exponential Discounting and the Discounted Utility Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hyperbolic and Quasi-Hyperbolic Discounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Present Bias"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sophisticated versus Naive Time-Inconsistent Agents"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Self-Control Problems and Commitment Devices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Procrastination"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Projection Bias and Mispredicted Future Utility"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Intertemporal Choice in Savings, Health, and Addiction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Mental Accounting and the Psychology of Money",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mental Accounting Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fungibility Violations and Budgeting Rules"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Sunk Cost Fallacy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Endowment Effect"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Status Quo Bias and Default Effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Payment Decoupling and the Pain of Paying"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Windfall Gains and the House Money Effect"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Reference Dependence, Framing, and Choice Architecture Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Framing Effects in Decision-Making"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reference Points and Adaptation Level Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gain-Loss Framing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Attribute Framing and Goal Framing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Decoy Effects and Asymmetric Dominance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Choice Overload and the Paradox of Choice"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Order Effects, Primacy, and Recency in Choice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Social Preferences, Fairness, and Reciprocity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Altruism and Other-Regarding Preferences"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inequity Aversion Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Ultimatum Game"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Dictator Game"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Trust Game and Reciprocity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Public Goods Games and Free-Riding"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Fairness Norms in Pricing and Market Transactions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Warm-Glow Giving and Prosocial Behavior"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Behavioral Game Theory and Strategic Interaction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Level-k and Cognitive Hierarchy Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quantal Response Equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reinforcement and Belief-Based Learning in Games"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cooperation and Reputation in Repeated Games"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Focal Points and Coordination Problems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Theory of Mind in Strategic Settings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Herding and Informational Cascades"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Emotion and Affect in Decision-Making",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Affect Heuristic"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regret Theory and Anticipated Regret"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Disappointment Aversion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Visceral Factors and the Hot-Cold Empathy Gap"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Somatic Markers and Emotion in Choice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fear, Anxiety, and Risk Perception"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Incidental Mood and Its Effects on Choice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Beliefs, Learning, and Biased Information Processing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Confirmation Bias and Motivated Belief Updating"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Attribution Bias"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Law of Small Numbers and Sample Size Neglect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Belief Persistence and Underreaction to News"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Information Avoidance and Willful Ignorance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Motivated Skepticism and Selective Scrutiny of Evidence"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Correlation Neglect and Redundant Information"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Nudging and the Design of Choice Environments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Libertarian Paternalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Concept of a Nudge"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Default Options and Opt-Out Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The MINDSPACE Framework"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The EAST Framework"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sludge and Frictions in Choice Architecture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Dark Patterns and Manipulative Design"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Boosts as an Alternative to Nudges"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Ethics and Autonomy in Choice Architecture"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Neuroeconomics and the Biological Basis of Decision-Making",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neural Correlates of Value and Reward"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dopamine and Reward Prediction Error"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Neuroimaging Methods in Economic Decision-Making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Neural Basis of Risk and Ambiguity Processing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Neuroscience of Self-Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Evolutionary and Biological Origins of Heuristics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hormones, Stress, and Financial Risk-Taking"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Genoeconomics and Individual Differences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Behavioral Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Limits to Arbitrage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Market Anomalies and the Equity Premium Puzzle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Overreaction and Underreaction to Information"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Herding Behavior in Financial Markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Disposition Effect"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Investor Overconfidence and Excessive Trading"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Portfolio Theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Asset Price Bubbles and Behavioral Explanations of Crises"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Household Finance and Retirement Savings Behavior"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Behavioral Labor Economics and Organizational Behavior",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reference-Dependent Preferences in Labor Supply"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fairness, Wage Rigidity, and Gift-Exchange Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Effort and Reciprocity in the Workplace"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Behavioral Aspects of Job Search and Unemployment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Procrastination in Retirement Plan Enrollment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overconfidence in Career and Promotion Decisions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Approaches to Team Incentives and Motivation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Behavioral Public Economics and Policy Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Behavioral Welfare Economics and the Concept of Internalities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sin Taxes and Corrective Policy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Automatic Enrollment and Retirement Policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Behavioral Insights in Tax Compliance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consumer Choice in Insurance and Complex Markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Randomized Controlled Trials in Policy Evaluation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Approaches to Regulation and Disclosure"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Nudge Units and Government Behavioral Insights Teams"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Behavioral Development Economics and Poverty",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Psychology of Scarcity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Poverty Traps and Present Bias"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behavioral Barriers to Savings and Credit Access"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Norms and Collective Action in Development"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral Explanations for Underinvestment in Health and Education"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Field Experiments in Developing Economies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Design of Cash Transfer and Aid Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Behavioral Industrial Organization and Consumer Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Pricing Psychology and Anchored Price Perception"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Shrouded Attributes and Add-On Pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Scarcity and Urgency Tactics in Marketing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Proof and Word-of-Mouth Effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Product Bundling and the Decoy Effect"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Subscription Design and Automatic Renewal"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contract Design and the Exploitation of Present-Biased Consumers"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Firm Competition and Consumer Biases in Equilibrium"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Health, Environmental, and Sustainability Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Behavioral Interventions in Health Behavior Change"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Present Bias and Health Decision-Making"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Green Nudges and Pro-Environmental Behavior"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Comparison Feedback in Energy Consumption"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vaccination, Public Health Messaging, and Compliance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Food Choice Architecture and Nutrition"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral Approaches to Climate Policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Digital Behavioral Economics, AI, and Algorithmic Choice Architecture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital Nudging and Interface Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gamification and Technology-Driven Behavior Change"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Attention Economy and Engagement Design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Personalized and Algorithmic Nudging"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral Biases in AI and Large Language Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "AI as a Tool for Behavioral and Experimental Research"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Dark Patterns in Digital Platforms and Apps"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Ethics and Governance of AI-Driven Behavioral Influence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Cross-Cultural and Identity-Based Behavioral Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cultural Variation in Cognitive Biases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identity Economics and Self-Image"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Social Identity and Group-Based Decision-Making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gender Differences in Risk-Taking and Competition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Language, Framing, and Cross-Cultural Risk Communication"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Institutional Context and the Generalizability of Behavioral Findings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The WEIRD Samples Problem in Behavioral Research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Experimental and Empirical Methods in Behavioral Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Laboratory Experiment Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Field Experiments and Natural Experiments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incentive Compatibility and Induced Value Theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Survey-Based Preference Elicitation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structural Estimation of Behavioral Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "External Validity and Generalizability"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pre-Registration and Open Science Practices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Critiques, the Replication Crisis, and the Future of the Field",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Critiques from Neoclassical Economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ecological Rationality and the Gigerenzer Critique"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Replication Crisis in Behavioral Science"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Paternalism Debate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Publication Bias and Effect Size Inflation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Integrating Behavioral Insights into Macroeconomics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Emerging Frontiers in Behavioral Governance and Adaptive Policy"
+        }
+      ]
+    }
+  ]
+}

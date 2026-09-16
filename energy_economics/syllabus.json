@@ -1,0 +1,1123 @@
+{
+  "topic": "Energy Economics",
+  "topic_slug": "energy_economics",
+  "generated_at": "2026-09-06T20:41:57.953200",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Energy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining energy economics as a discipline"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Energy as a factor of production and final good"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Units and conversions across energy carriers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Energy density, heat content, and quality differences"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Primary vs secondary vs final energy distinctions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Historical evolution of energy systems and transitions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Energy intensity and decoupling from GDP growth"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The energy-economy-environment nexus"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Key institutions: IEA, EIA, OPEC, IRENA, World Bank"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Microeconomic Foundations for Energy Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supply and demand fundamentals applied to energy markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Price elasticity of energy demand and supply"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Consumer theory and energy service demand"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Producer theory, cost curves, and marginal cost of extraction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Market structures: competition, monopoly, oligopoly in energy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Externalities and market failure in energy systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Public goods and common-pool resource problems"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Welfare economics and consumer/producer surplus in energy markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Exhaustible Resource Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hotelling's rule and the theory of optimal depletion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Resource rent and scarcity rent concepts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Backstop technologies and price ceilings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reserves, resources, and the economics of exploration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Extraction cost curves and the order of resource use"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Empirical tests and critiques of Hotelling's rule"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Peak oil theory and its economic implications"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Intergenerational equity in resource depletion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Renewable and Non-Depletable Resource Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Renewable resource dynamics and sustainable yield concepts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Learning curves and cost decline in renewable technologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intermittency economics and capacity value"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land use and siting economics for renewables"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Grid integration costs of variable renewable energy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Storage economics and value stacking"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Levelized cost of energy methodology and limitations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Energy Demand Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Residential energy demand modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Industrial energy demand and process substitution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transportation energy demand and fuel switching"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Commercial and service-sector energy demand"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Income and price elasticities across sectors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Energy efficiency gap and the rebound effect"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Behavioral economics of energy consumption decisions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Demand forecasting methods and models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Oil Market Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crude oil classification and quality differentials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Upstream economics: exploration, development, production costs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "OPEC and OPEC+ as a cartel: theory and behavior"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Non-OPEC supply response and shale oil economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Oil price formation and benchmark pricing (Brent, WTI, Dubai)"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Oil futures, spot markets, and financialization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Refining economics and crack spreads"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Oil price shocks and macroeconomic transmission"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Strategic petroleum reserves and supply security"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Natural Gas Market Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Natural gas value chain: upstream, midstream, downstream"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pipeline economics and regional market segmentation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "LNG economics and the globalization of gas markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gas pricing mechanisms: oil-indexation vs hub-based pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shale gas revolution and its market impacts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gas storage economics and seasonal price dynamics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Take-or-pay contracts and long-term contracting structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Coal Market Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Coal classification and quality grades"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coal mining economics and cost structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermal coal vs metallurgical coal markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Coal transportation and logistics economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coal's role in electricity generation economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Coal industry decline and structural transition economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Stranded assets in coal-dependent economies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Electricity Economics and Market Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electricity as a unique commodity: non-storability and instantaneity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Generation cost structures and merit order dispatch"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vertically integrated vs unbundled electricity industry structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wholesale electricity market design: pools and bilateral markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Locational marginal pricing and transmission constraints"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capacity markets and resource adequacy mechanisms"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ancillary services markets"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Retail competition and default service design"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Transmission and distribution economics as natural monopolies"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Rate-of-return vs incentive/price-cap regulation"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Grid reliability economics and value of lost load"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Nuclear Energy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nuclear power plant cost structure and capital intensity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Construction risk and cost overrun history"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fuel cycle economics and enrichment costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decommissioning and waste management cost provisions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nuclear liability regimes and insurance economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Small modular reactor economics and prospects"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nuclear's role in low-carbon electricity portfolios"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Energy Investment and Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capital budgeting for energy projects and discounted cash flow"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk assessment in energy project finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of capital differences across energy technologies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Project finance structures for large energy infrastructure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Power purchase agreements and offtake risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Real options theory applied to energy investment timing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Green bonds and sustainable finance instruments"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Energy sector equity and debt market dynamics"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Stranded asset risk and transition finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Energy Price Volatility and Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of energy price volatility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Energy derivatives: futures, options, and swaps"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hedging strategies for producers and consumers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Value-at-risk and portfolio risk metrics in energy trading"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Speculation vs fundamentals debate in energy markets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Energy trading firm business models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Energy and Macroeconomics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Energy price shocks and inflation transmission"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Energy dependence and trade balance effects"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resource curse and Dutch disease dynamics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Energy exporters vs importers: differing macro exposures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sovereign wealth funds and resource revenue management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Energy subsidies and fiscal policy implications"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Energy poverty and macroeconomic development linkages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Environmental Economics of Energy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Externalities from energy production and combustion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Social cost of carbon and other pollutants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pigouvian taxation applied to energy externalities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cap-and-trade systems and emissions trading design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Command-and-control vs market-based environmental regulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Life-cycle assessment of energy sources"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Co-pollutants and local environmental health economics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmental justice dimensions of energy systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Climate Change and Energy Policy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrated assessment models linking energy, economy, and climate"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Carbon pricing design: taxes vs cap-and-trade comparison"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Carbon border adjustment mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nationally determined contributions and energy sector implications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Net-zero pathway economics and marginal abatement cost curves"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Carbon capture, utilization, and storage economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Climate finance mechanisms and international transfers"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Distributional impacts of climate and energy policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Energy Efficiency Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theoretical foundations of the energy efficiency gap"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost-effectiveness analysis of efficiency programs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building codes and appliance standards economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Utility-run demand-side management programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy service companies and performance contracting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Split incentive problems in efficiency investment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Rebound effects and net energy savings estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Renewable Energy Policy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Feed-in tariffs and feed-in premium design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Renewable portfolio standards and tradable certificates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Auction and competitive bidding mechanisms for renewables"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tax credits and accelerated depreciation incentives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Net metering and distributed generation compensation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Policy support degression and market maturation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cross-country comparison of renewable support schemes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Energy Subsidies and Market Distortions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Typology of energy subsidies: production, consumption, tax expenditure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fossil fuel subsidy estimation methodologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Political economy of subsidy persistence and reform resistance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Subsidy reform case studies and sequencing strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Distributional incidence of energy subsidies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Renewable energy subsidies and infant industry arguments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Energy Security Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and measuring energy security"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Import dependence and diversification strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic reserves and emergency response mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geopolitical risk pricing in energy markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Critical minerals supply chains for energy technologies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cybersecurity economics of energy infrastructure"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Energy security versus decarbonization trade-offs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Energy Poverty and Development Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining and measuring energy poverty and access"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electrification economics in developing countries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Off-grid and mini-grid business models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Clean cooking fuel transition economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy access and human development linkages"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International development finance for energy access"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Just transition frameworks for energy-dependent communities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Electric Vehicles and Transportation Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Total cost of ownership analysis for electric vehicles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Battery cost trajectories and supply chain economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Charging infrastructure investment economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vehicle-to-grid economics and demand response potential"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fuel economy standards and their economic effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Alternative fuels: hydrogen, biofuels, and synthetic fuels economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Modal shift economics and transportation decarbonization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Hydrogen Economy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hydrogen production pathways and cost comparison"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Green hydrogen cost curve and electrolyzer economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hydrogen transport, storage, and infrastructure economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "End-use applications and competitiveness by sector"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hydrogen policy support mechanisms and demand creation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International hydrogen trade economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Distributed Energy Resources and Digitalization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Distributed generation economics and grid defection risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Demand response program design and valuation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behind-the-meter storage economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Smart grid investment and digitalization economics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Peer-to-peer energy trading and blockchain applications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aggregators and virtual power plant business models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Data analytics and AI applications in energy markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Energy Sector Regulation and Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for regulating natural monopolies in energy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regulatory institutions and independence design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incentive regulation: price caps, revenue caps, and performance-based ratemaking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Market power mitigation in restructured markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-subsidization and tariff design principles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulatory capture and political economy of energy regulation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "International regulatory harmonization and cross-border markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Energy Trade and Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparative advantage and energy trade patterns"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Energy corridors and transit country economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sanctions and their effects on energy markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regional energy market integration case studies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy diplomacy and bilateral resource agreements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Shifting geopolitics of the energy transition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Quantitative Methods in Energy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Econometric modeling of energy demand and supply"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Time series methods for energy price analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Computable general equilibrium models of energy systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Energy system optimization and capacity expansion modeling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Input-output analysis for energy and emissions accounting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scenario analysis and sensitivity testing techniques"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cost-benefit analysis applied to energy projects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Energy Data, Statistics, and Reporting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Major energy data sources and statistical conventions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "National energy balances and accounting frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reserve reporting standards and classification systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Emissions inventories and measurement, reporting, verification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate energy and climate disclosure frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data quality challenges in energy statistics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Sectoral Decarbonization Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Power sector decarbonization pathways and costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Industrial decarbonization: steel, cement, and chemicals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building sector electrification and heat pump economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hard-to-abate sectors and residual emissions strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Carbon offset markets and their economic role"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Circular economy approaches to energy-intensive materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Energy Economics of Emerging and Frontier Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Energy sector reform and privatization experiences"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Utility financial viability and cost recovery challenges"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Currency risk and energy infrastructure financing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regional power pools and cross-border trade in developing regions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leapfrogging potential in emerging market energy systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multilateral development bank roles in energy financing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Corporate Strategy and Business Models in Energy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vertical integration strategies of energy majors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Diversification and portfolio strategy across energy value chains"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mergers, acquisitions, and asset divestiture patterns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Utility business model evolution under decarbonization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy service and platform business models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corporate risk management and hedging strategy design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "History of Energy Transitions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wood to coal transition and the industrial revolution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coal to oil transition in the twentieth century"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rise of natural gas and the dash for gas"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nuclear power expansion and subsequent stagnation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contemporary transition toward renewables and electrification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lessons from historical transitions for current policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Frontiers and Emerging Topics in Energy Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Long-duration energy storage economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Small modular and advanced nuclear reactor economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Direct air capture and negative emissions economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geothermal energy economics and enhanced geothermal systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Space-based and novel renewable energy concepts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Artificial intelligence's growing electricity demand and market effects"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Critical minerals economics for the energy transition"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Degrowth and post-growth perspectives on energy economics"
+        }
+      ]
+    }
+  ]
+}

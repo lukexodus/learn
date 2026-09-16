@@ -1,0 +1,795 @@
+{
+  "topic": "Healthcare Economics",
+  "topic_slug": "healthcare_economics",
+  "generated_at": "2026-09-08T01:14:57.349351",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Health Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scope and definition of health economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Arrow's uncertainty and the welfare economics of medical care"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Why health care markets differ from standard markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Positive versus normative analysis in health policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Welfare economics and market efficiency"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Externalities and public goods in health care"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Equity-efficiency tradeoffs in health policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "The Demand for Health",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Health as human capital: the Grossman model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determinants of health beyond medical care"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Investment versus consumption motives for health"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Depreciation of health capital over the life cycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Education, income, and health production"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economics of aging and health capital decline"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Demand for Health Care Services",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Derived demand for medical care"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Price elasticity of demand for medical services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Income elasticity of demand for health care"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Time costs and the full price of care"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The RAND Health Insurance Experiment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Oregon Health Insurance Experiment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Demand for preventive versus curative care"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Supply of Medical Care",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Production functions in health care delivery"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost functions and economies of scale and scope"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short-run versus long-run supply responses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Input substitution among health care providers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Market structure and competition among providers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Physician Markets and Agency",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The physician as imperfect agent"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supplier-induced demand theory and evidence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Target income hypothesis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Physician payment methods and behavioral responses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Physician licensure and scope-of-practice regulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Geographic variation in practice patterns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Hospital Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Objectives of nonprofit versus for-profit hospitals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hospital cost structures and economies of scale"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hospital competition and the medical arms race"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Certificate-of-need regulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hospital mergers, consolidation, and market power"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Antitrust and competition policy across health care markets"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cost-shifting hypothesis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Health Care Labor Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nursing labor market economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Physician workforce planning and shortages"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wage determination in health professions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Immigration and the health care workforce"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Scope-of-practice expansion for advanced practice clinicians"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Information Problems in Health Care",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asymmetric information between patients and providers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Principal-agent problems in the clinical encounter"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Credence goods and quality uncertainty"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Signaling and screening in health care markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Defensive medicine and malpractice liability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Foundations of Health Insurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Risk aversion and the demand for insurance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk pooling and the law of large numbers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Expected utility theory and insurance choice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Optimal insurance contract design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deductibles, coinsurance, and stop-loss provisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Market Failures in Health Insurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ex ante and ex post moral hazard"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adverse selection and the lemons problem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rothschild-Stiglitz separating equilibrium"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Community rating versus experience rating"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk adjustment and risk corridors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Insurance market unraveling and death spirals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Health Insurance Design and Managed Care",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "HMO, PPO, and point-of-service plan structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Utilization review and prior authorization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Provider network design and narrow networks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consumer-directed health plans and health savings accounts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Value-based insurance design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Employer-sponsored insurance economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Provider Payment and Reimbursement Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fee-for-service payment and volume incentives"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capitation and provider risk-bearing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prospective payment and diagnosis-related groups"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pay-for-performance and value-based purchasing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bundled payments and episode-based care"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Accountable care organizations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Chronic disease management payment models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Pharmaceutical and Biotechnology Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economics of drug research and development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Patent protection and market exclusivity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Generic and biosimilar entry and competition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pharmaceutical pricing and reference pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pharmacy benefit managers and rebates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International drug price comparisons"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Orphan drugs and rare disease economics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Direct-to-consumer pharmaceutical advertising"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Health Technology Assessment and Economic Evaluation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost-effectiveness analysis fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost-utility analysis and the incremental cost-effectiveness ratio"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost-benefit analysis and willingness to pay"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decision trees and Markov modeling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Budget impact analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sensitivity and uncertainty analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Value of information analysis"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Health technology assessment agencies and their role"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Measuring Health Outcomes and Value",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quality-adjusted life years"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Disability-adjusted life years"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Health-related quality of life instruments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Value of a statistical life"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Burden of disease measurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Patient-reported outcome measures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Long-Term Care Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Demand for long-term care services"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Informal caregiving and opportunity costs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long-term care insurance market failures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nursing home industry structure and regulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Home and community-based care economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Public Health Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Externalities in infectious disease control"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Economics of vaccination and herd immunity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Prevention versus treatment resource allocation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sin taxes on tobacco, alcohol, and sugar-sweetened beverages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental health economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economics of mental health and substance use treatment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Economic evaluation of public health interventions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Behavioral Economics of Health",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Time-inconsistent preferences and health behaviors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Present bias and procrastination in preventive care"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nudges and default options in health policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Framing effects in insurance plan choice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Commitment devices for health behavior change"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Health Disparities and Distributive Justice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Socioeconomic determinants of health disparities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Racial and geographic inequities in access to care"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Frameworks for health equity in economic analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distributive justice theories in health resource allocation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Equity weighting in economic evaluation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Comparative Health Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Beveridge model of national health services"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bismarck model of social health insurance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "National health insurance model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Out-of-pocket dominant systems in low-income countries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Single-payer versus multi-payer system design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Case studies in national health system design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Health Care Financing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tax-financed health care systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Social health insurance contributions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Private voluntary health insurance financing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Out-of-pocket payments and catastrophic health expenditure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pooling and purchasing functions in financing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Universal health coverage financing strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "United States Health Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Medicare program structure and economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Medicaid program structure and state variation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Affordable Care Act and health insurance exchanges"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Individual and employer insurance mandates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Medicare Advantage and managed competition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Medicare Part D and prescription drug coverage"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Policy debates over single-payer reform"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Research Methods in Health Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Instrumental variables in health economics research"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Difference-in-differences designs for policy evaluation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regression discontinuity in health policy contexts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Panel data methods and fixed effects models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Natural experiments in health economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Selection bias and endogeneity concerns"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common health economics data sources"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Global and Development Health Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Health and economic development linkages"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Foreign aid financing for global health"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Health system strengthening in low- and middle-income countries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Universal health coverage in developing economies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global health governance and multilateral institutions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Emerging Frontiers in Health Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economics of telehealth and digital health"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Precision medicine and personalized care economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Artificial intelligence applications in health care delivery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Value-based care transformation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Financing social determinants of health interventions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Pandemic preparedness and health system resilience"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Applied Practice and Capstone Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Writing a health policy brief"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a cost-effectiveness model from scratch"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Critiquing published health economics studies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Health system reform case study analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Communicating economic evidence to policymakers"
+        }
+      ]
+    }
+  ]
+}

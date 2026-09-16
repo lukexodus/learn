@@ -1,0 +1,1343 @@
+{
+  "topic": "Financial Economics",
+  "topic_slug": "financial_economics",
+  "generated_at": "2026-09-08T01:30:43.736975",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Mathematical Foundations for Financial Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Linear algebra for portfolio and factor models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unconstrained and constrained optimization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lagrange multipliers and Kuhn-Tucker conditions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Convexity and concavity in economic models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Difference and differential equations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fixed-point theorems and equilibrium existence"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Numerical methods for financial problems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Probability and Stochastic Processes for Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Probability spaces and random variables"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Key probability distributions used in finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Conditional expectation and filtrations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Martingales and Markov processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Brownian motion and Wiener processes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Poisson processes and jump processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Introduction to stochastic differential equations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Statistical and Econometric Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ordinary least squares and regression diagnostics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Maximum likelihood estimation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Generalized method of moments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hypothesis testing and statistical inference"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Time series models and unit roots"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cointegration and vector autoregressions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Panel data methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Bootstrap and resampling techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Microeconomic Foundations of Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Consumer theory and utility maximization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "General equilibrium theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Welfare economics and Pareto efficiency"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Game theory and Nash equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adverse selection and moral hazard"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Signaling and screening models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contract theory fundamentals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Choice Under Uncertainty",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Expected utility theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Von Neumann-Morgenstern axioms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Absolute and relative risk aversion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stochastic dominance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "State-preference theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ambiguity aversion and non-expected utility models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Modern Portfolio Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mean-variance analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The efficient frontier"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Diversification and the covariance structure of returns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Two-fund separation theorem"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital allocation line and capital market line"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Portfolio optimization with constraints"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Estimation error in mean-variance inputs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Dynamic and Multi-Period Portfolio Choice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Merton's intertemporal portfolio problem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dynamic programming in portfolio choice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lifecycle investing and human capital"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Portfolio choice with time-varying investment opportunities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Background risk and portfolio decisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International portfolio diversification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Capital Asset Pricing Model and Equilibrium Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Derivation of the CAPM"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Security market line and systematic risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Zero-beta CAPM"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Empirical tests of the CAPM"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Roll's critique of CAPM tests"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International extensions of the CAPM"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Arbitrage Pricing Theory and Factor Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The no-arbitrage principle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ross's Arbitrage Pricing Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Single-factor and multi-factor models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fama-French three-factor and five-factor models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Momentum, quality, and other empirical factors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Factor investing and smart beta strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Consumption-Based Asset Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The consumption Euler equation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The equity premium puzzle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The risk-free rate puzzle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Habit formation models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Long-run risk models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rare disaster and tail risk models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "The Stochastic Discount Factor Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and properties of the stochastic discount factor"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The pricing kernel and no-arbitrage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hansen-Jagannathan bounds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "GMM estimation of asset pricing models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Recovering the discount factor from derivative prices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "General Equilibrium and Incomplete Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Arrow-Debreu equilibrium"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Radner equilibrium under uncertainty"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Market completeness and asset span"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rational expectations equilibrium"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Heterogeneous-agent asset pricing models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Market Efficiency",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Weak, semi-strong, and strong form efficiency"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The random walk hypothesis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The joint hypothesis problem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Event study methodology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Insider trading and information disclosure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Cross-Sectional Return Predictability and Anomalies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The value and growth anomaly"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The size effect"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Momentum and long-term reversal"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The low-volatility anomaly"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Accruals and quality-related anomalies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data mining and multiple-testing concerns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Time-Series Return Predictability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dividend yield and return forecasting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predictive regressions and their statistical pitfalls"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Business-cycle variation in expected returns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Variance decomposition of stock prices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The long-horizon predictability debate"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Empirical Methods in Asset Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fama-MacBeth cross-sectional regressions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "GMM-based tests of asset pricing models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Portfolio sorts and characteristic-based tests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Model comparison and specification testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Correcting for data snooping and multiple hypotheses"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Bond Pricing and Yield Curve Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bond pricing mechanics and yield measures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Duration and convexity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Spot rates, forward rates, and the yield curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Theories of the yield curve shape"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bond portfolio immunization strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Forwards, Futures, and Swaps",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Forward and futures contract mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost-of-carry and no-arbitrage pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hedging strategies using futures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Currency and commodity forward pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interest rate and currency swap valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Option Pricing Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Option payoff structures and put-call parity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The binomial option pricing model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Black-Scholes-Merton model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Option Greeks and risk sensitivities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Implied volatility and the volatility smile"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Continuous-Time Finance and Stochastic Calculus",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ito's lemma and stochastic integration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Girsanov's theorem and change of measure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Risk-neutral valuation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Feynman-Kac formula"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Jump-diffusion processes in asset pricing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Term Structure Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Vasicek model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Cox-Ingersoll-Ross model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Affine term structure models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Heath-Jarrow-Morton framework"
+        },
+        {
+          "item_index": 5,
+          "item_title": "No-arbitrage versus equilibrium term structure models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Credit Risk and Corporate Debt",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structural models of corporate default"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reduced-form credit risk models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Determinants of credit spreads"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credit default swaps and credit derivatives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate bond market microstructure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Advanced Derivatives and Exotic Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Path-dependent exotic options"
+        },
+        {
+          "item_index": 2,
+          "item_title": "American option pricing methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stochastic volatility models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Local volatility models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Variance swaps and volatility derivatives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Fixed Income Derivatives and Structured Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interest rate caps, floors, and swaptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mortgage-backed securities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Collateralized debt obligations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Securitization mechanics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structured credit products"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Capital Structure Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Modigliani-Miller propositions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The trade-off theory of capital structure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The pecking order theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agency costs of debt and equity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Dynamic capital structure models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Payout Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The dividend irrelevance theorem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dividend signaling theories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Share repurchases versus dividends"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Clientele effects and tax considerations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The life-cycle theory of payout policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Corporate Investment and Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Net present value and capital budgeting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Real options in corporate investment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Discounted cash flow valuation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Relative valuation and trading multiples"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Estimating the cost of capital"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Information, Agency, and Corporate Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The separation of ownership and control"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Information asymmetry in corporate finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Executive compensation design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Corporate governance mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shareholder activism and monitoring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Mergers, Acquisitions, and Corporate Restructuring",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Motives for mergers and acquisitions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuation methods in M&A transactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deal financing and structuring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Takeover defenses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate bankruptcy and restructuring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Market Microstructure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Order types and trading mechanisms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bid-ask spread decomposition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inventory models of market making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Information-based models of trading"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price impact and liquidity measurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "High-frequency and algorithmic trading"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Behavioral Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Heuristics and cognitive biases in decision-making"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Prospect theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Overconfidence and mental accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Herding and social dynamics in markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral explanations of asset pricing anomalies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Limits to Arbitrage and Financial Frictions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Noise trader risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Funding constraints and margin requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Short-sale constraints"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Slow-moving capital"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Liquidity spirals and fire sales"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Household Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Household portfolio choice in practice"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Financial literacy and decision-making"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mortgage and household debt decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Retirement savings and defined-contribution plans"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consumer credit markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Financial Intermediation and Banking",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The theory of financial intermediation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bank balance sheet management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Maturity transformation and bank runs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Shadow banking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Payment systems and clearing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Value at risk and expected shortfall"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Market risk measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Credit risk management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Operational risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Enterprise risk management frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Financial Regulation and Systemic Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for financial regulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital adequacy and the Basel framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Macroprudential regulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Too-big-to-fail and moral hazard"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulatory arbitrage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Financial Crises and Contagion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical financial crises and panics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bank run models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Contagion and interconnectedness"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sovereign debt crises"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lender-of-last-resort policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Macro-Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asset pricing in production economies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Financial accelerator models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intermediary asset pricing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The term structure and the macroeconomy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Credit cycles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "International Finance and Exchange Rate Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purchasing power parity and interest rate parity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exchange rate determination models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Currency risk and hedging"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International capital flows"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Currency crises"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Monetary Policy and Asset Prices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Monetary policy transmission to asset prices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Central bank balance sheets and quantitative easing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The term structure and monetary policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inflation and asset returns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monetary policy and financial stability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Alternative Investments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Private equity and venture capital"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hedge fund strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fund structures, fees, and performance measurement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Illiquidity premia"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Manager selection and due diligence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Real Estate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Real estate valuation methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mortgage markets and mortgage-backed securities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "REITs and public real estate markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Risk and return characteristics of real estate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Housing markets and macroeconomic linkages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Commodities and Natural Resource Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Commodity futures pricing and the theory of storage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Convenience yield, backwardation, and contango"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Commodity risk premia"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Energy markets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Agricultural and metals markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Machine Learning and Big Data in Asset Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supervised learning methods in return prediction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "LASSO, ridge, and elastic net regularization methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tree-based methods and ensemble learning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Neural networks and deep learning in finance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Natural language processing and text-based signals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overfitting, validation, and model risk in financial machine learning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Financial Technology, Blockchain, and Digital Assets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Blockchain architecture and consensus mechanisms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Smart contracts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cryptocurrency valuation frameworks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decentralized exchanges and automated market makers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stablecoins and central bank digital currencies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "DeFi lending, borrowing, and protocol risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "Sustainable, ESG, and Climate Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ESG integration in investment decisions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Green and sustainability-linked bonds"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Climate transition and physical risk pricing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon markets and carbon pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Impact investing and blended finance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate scenario analysis and stress testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 47,
+      "chapter_title": "Financial History",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The history of financial markets and instruments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Historical asset price bubbles and crashes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The evolution of monetary systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The history of financial regulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lessons from historical financial crises"
+        }
+      ]
+    },
+    {
+      "chapter_index": 48,
+      "chapter_title": "Research Methods and Academic Practice in Financial Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Formulating research questions in financial economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Literature review and identifying research gaps"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Empirical identification strategies in finance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Working with financial databases"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Academic writing and publishing in finance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Replication and reproducibility in financial research"
+        }
+      ]
+    }
+  ]
+}

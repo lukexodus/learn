@@ -1,0 +1,713 @@
+{
+  "topic": "Agriculture Economics",
+  "topic_slug": "agriculture_economics",
+  "generated_at": "2026-09-06T11:47:16.491881",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Economic Reasoning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scarcity, choice, and opportunity cost"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positive versus normative economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Economic systems and resource allocation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The role of agriculture in economic development"
+        },
+        {
+          "item_index": 5,
+          "item_title": "History of agricultural economic thought"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Microeconomic Theory for Agriculture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Consumer theory and utility maximization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Theory of the firm and production functions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost curves and short-run versus long-run decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Market structures: perfect competition, monopoly, oligopoly, monopsony"
+        },
+        {
+          "item_index": 5,
+          "item_title": "General equilibrium and welfare economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Mathematical and Statistical Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Calculus for optimization problems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Linear algebra and matrix methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Probability theory and distributions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Descriptive statistics and inference"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Introduction to econometrics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regression analysis fundamentals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Time series methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Panel data methods"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Spatial econometrics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Production Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Production functions and factor productivity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Input-output relationships and elasticities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost minimization and profit maximization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economies of scale and scope in farming"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Technical efficiency and productivity measurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Risk in agricultural production"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Multi-product farm decision making"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Farm Management and Decision Making",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Farm business planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Enterprise budgeting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capital budgeting and investment analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Farm financial statements and analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Whole-farm planning and linear programming"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Machinery and equipment economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Land tenure and leasing arrangements"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Succession and estate planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Agricultural Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of agricultural credit"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Time value of money and capital investment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Farm balance sheets and cash flow analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credit analysis and lending institutions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leverage and capital structure decisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agricultural insurance and crop insurance programs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cooperative finance structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Risk and Uncertainty in Agriculture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of agricultural risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expected utility theory and risk preferences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Risk management strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Futures and options markets for hedging"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Crop insurance design and moral hazard"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Weather derivatives and climate risk instruments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Portfolio diversification in farm enterprises"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Agricultural Marketing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Marketing functions and channels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Price discovery mechanisms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Futures, forward contracts, and options"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Market structure and price transmission"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vertical coordination and contracting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cooperative marketing organizations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Branding and value-added marketing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "International commodity marketing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Price Analysis and Forecasting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supply and demand estimation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Price elasticity and cross-elasticity analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Commodity price behavior and volatility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spatial price relationships and market integration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Price forecasting methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Basis analysis and hedging strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Agricultural Policy Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationale for government intervention in agriculture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Price support and income support programs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supply control and production quotas"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Direct payments and decoupled support"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Agricultural policy in the United States"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common Agricultural Policy of the European Union"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Policy analysis using welfare economics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Political economy of agricultural policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "International Agricultural Trade",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of comparative advantage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Trade models and gains from trade"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tariffs, quotas, and non-tariff barriers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "World Trade Organization agriculture agreements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regional trade agreements and agriculture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Exchange rates and agricultural competitiveness"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Food security and trade policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Agricultural Development Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structural transformation and agriculture's role"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Green Revolution and technology adoption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Smallholder agriculture and dualistic economies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land reform and tenure systems in developing countries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rural credit and microfinance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Agricultural extension and information diffusion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Gender and agricultural development"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Poverty, food security, and nutrition linkages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Natural Resource and Environmental Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Property rights and externalities in agriculture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Water economics and irrigation management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Soil conservation and land degradation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agricultural pollution and nonpoint source externalities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ecosystem services valuation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Climate change adaptation and mitigation in agriculture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Carbon markets and payments for ecosystem services"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sustainable agriculture economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Agribusiness Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Agribusiness organizational structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supply chain management in food systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic management for agribusiness firms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Marketing management and consumer behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Human resource management in agribusiness"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cooperative business models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mergers, acquisitions, and industry consolidation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Food Economics and Consumer Behavior",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Food demand theory and Engel curves"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nutrition economics and dietary choice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Food safety economics and regulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Food industry structure and vertical integration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consumer preferences for quality attributes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Food labeling and information economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Obesity and public health economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Agricultural Technology and Innovation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Technology adoption and diffusion models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agricultural research and development economics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intellectual property rights in agriculture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Precision agriculture and digital technologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Biotechnology and genetically modified crops"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economics of agricultural mechanization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Innovation systems and public-private partnerships"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Land Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Land markets and land valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Land use decisions and rent theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Urban-rural land use conflicts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Land fragmentation and consolidation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Zoning and land use regulation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Farmland preservation policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Agricultural Labor Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Farm labor markets and wage determination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Migrant and seasonal agricultural labor"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Labor-saving technology and displacement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Labor regulation and farm worker welfare"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Household labor allocation in family farms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Cooperative Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theory of agricultural cooperatives"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cooperative governance and member relations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cooperative financing and capital structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "New generation cooperatives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cooperative performance evaluation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Research Methods in Agricultural Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Survey design and data collection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Experimental and quasi-experimental methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Randomized controlled trials in agricultural economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Impact evaluation techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structural and reduced-form modeling approaches"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data sources: farm surveys, census, and remote sensing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Writing and presenting agricultural economics research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Applied and Emerging Topics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Agricultural value chains and globalization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contract farming and vertical integration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Big data and machine learning in agricultural economics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Blockchain applications in food supply chains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Alternative proteins and food system disruption"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Urban agriculture and local food systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bioeconomy and biofuel policy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Pandemic and disease shock impacts on agricultural markets"
+        }
+      ]
+    }
+  ]
+}

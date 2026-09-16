@@ -1,0 +1,747 @@
+{
+  "topic": "Industrial Economics",
+  "topic_slug": "industrial_economics",
+  "generated_at": "2026-09-07T13:24:17.197589",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Industrial Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of industrial economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Historical evolution of the field"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Structure-Conduct-Performance paradigm"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Harvard School versus Chicago School perspectives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The New Empirical Industrial Organization approach"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Links between industrial economics, strategy, and policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Theory of the Firm and Its Boundaries",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Neoclassical theory of the firm"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coase and the transaction cost origins of the firm"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Williamson's transaction cost economics and asset specificity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Property rights theory of firm boundaries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Principal-agent problems and managerial incentives"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Make-or-buy decisions and vertical integration choices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Market Structure and Measuring Concentration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The spectrum of market structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Concentration ratios and the Herfindahl-Hirschman Index"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Defining relevant product and geographic markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Economies of scale, scope, and minimum efficient scale"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sutton's endogenous sunk costs and the bounds approach"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Limitations of structural measures as performance predictors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Monopoly Power and Welfare",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and persistence of monopoly power"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deadweight loss and the welfare cost of monopoly"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Natural monopoly conditions and cost subadditivity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Lerner Index as a measure of market power"
+        },
+        {
+          "item_index": 5,
+          "item_title": "X-inefficiency and rent-seeking under monopoly"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Game Theory Toolkit for Industrial Organization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Simultaneous-move games and Nash equilibrium"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sequential games and subgame perfection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Repeated games, discounting, and the folk theorem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trigger strategies and grim punishment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Incomplete information and Bayesian games"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Oligopoly Quantity Competition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Cournot model of quantity setting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative statics and the effect of firm numbers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Stackelberg leader-follower extension"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity constraints and conjectural variations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Welfare comparison of Cournot outcomes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Oligopoly Price Competition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Bertrand model of price competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Bertrand paradox and its resolutions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Price competition with capacity constraints and Edgeworth cycles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Price competition with differentiated products"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reconciling Cournot and Bertrand through capacity precommitment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Collusion, Cartels, and Tacit Coordination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conditions favoring successful collusion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Repeated interaction and cartel sustainability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Facilitating practices and information exchange"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cartel detection, leniency programs, and destabilization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Historical and contemporary cartel case studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Product Differentiation and Spatial Competition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Horizontal versus vertical product differentiation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Hotelling linear city model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Salop circular city model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vertical differentiation and endogenous quality choice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Product proliferation as an entry-deterring strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Price Discrimination and Nonlinear Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "First-degree price discrimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Second-degree price discrimination and self-selecting menus"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Third-degree price discrimination across market segments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Two-part tariffs and quantity discounts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bundling and tying strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Peak-load pricing under demand fluctuations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Durable Goods and Intertemporal Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The durable goods monopoly problem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Coase conjecture and time-inconsistent pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Planned obsolescence and durability choices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leasing versus selling as a commitment device"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Secondary markets and their effect on new goods pricing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Entry, Exit, Deterrence, and Contestability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sunk costs as structural barriers to entry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Limit pricing and signaling to deter entry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capacity expansion as a strategic entry deterrent"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Raising rivals' costs as an exclusionary strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Predatory pricing strategies and legal standards"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contestable markets theory and hit-and-run entry"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Exit barriers and industry shakeout dynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Research, Development, Patents, and Innovation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Market structure and incentives to innovate"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Patent races and preemptive innovation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Schumpeterian creative destruction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Patent design, breadth, and licensing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Research joint ventures and cooperative innovation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diffusion of innovation across an industry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Advertising, Signaling, and Consumer Information",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Informative versus persuasive theories of advertising"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Advertising as a signal of unobserved quality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Search costs and equilibrium price dispersion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Advertising intensity and market structure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consumer information and welfare implications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Vertical Relations and Vertical Restraints",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rationales for vertical integration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Double marginalization in successive monopoly"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Resale price maintenance and its welfare effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Exclusive dealing and territorial exclusivity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Franchising as a vertical control mechanism"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bilateral bargaining between upstream and downstream firms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Network Effects, Platforms, and Two-Sided Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Direct and indirect network externalities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Critical mass and adoption dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Two-sided market theory and cross-group pricing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Platform pricing structures and the pricing seesaw"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Switching costs, multi-homing, and consumer lock-in"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Standards wars and compatibility decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Auctions and Market Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Auction formats: English, Dutch, first-price, and second-price"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The revenue equivalence theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Private value versus common value auctions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The winner's curse and bidder strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spectrum and procurement auction design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Matching markets and stable allocation mechanisms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Dynamic Oligopoly and Industry Evolution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Markov perfect equilibrium in dynamic industry models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Ericson-Pakes framework of industry dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Firm entry, investment, and exit over time"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Learning curves and dynamic cost advantages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Industry life cycles and shakeout patterns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Antitrust and Competition Law Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical origins and goals of antitrust policy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The US statutory framework of Sherman, Clayton, and FTC Acts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The EU competition law framework and Articles 101 and 102"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monopolization and abuse of dominance standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Per se illegality versus the rule of reason"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparative competition policy across jurisdictions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Private enforcement and treble damages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Merger Analysis and Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Horizontal merger guidelines and market share screens"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unilateral effects in differentiated product mergers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Coordinated effects and heightened collusion risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vertical merger theories of harm and foreclosure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Merger simulation and upward pricing pressure tests"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Efficiency defenses and structural remedies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Regulation of Natural Monopoly and Public Utilities",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rate-of-return regulation and the Averch-Johnson effect"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Price cap and incentive regulation schemes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regulatory capture theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Access pricing in network industries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deregulation case studies in telecoms, airlines, and utilities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Empirical Methods in Industrial Organization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structural versus reduced-form estimation approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Logit and nested logit demand estimation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Berry-Levinsohn-Pakes random coefficients approach"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Estimating production and cost functions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structural estimation of conduct and market power"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Natural experiments and instrumental variables in industry studies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Digital Markets, Algorithms, and Modern Competition Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Market power debates around dominant digital platforms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data as a competitive asset and barrier to entry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Algorithmic pricing and the risk of tacit collusion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self-learning pricing algorithms and enforcement responses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gatekeeper regulation and the EU Digital Markets Act"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Killer acquisitions and nascent competitor theories of harm"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Behavioral Industrial Organization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bounded rationality in firm pricing and strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Consumer biases and exploitation of shrouded attributes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behavioral explanations for loyalty programs and switching frictions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Framing effects and reference-dependent demand"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Implications of behavioral biases for competition policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "International and Comparative Industrial Organization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Trade policy interactions with domestic market structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Strategic trade policy and export subsidies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Multinational enterprises and foreign direct investment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global value chains and industrial organization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-country comparisons of competition policy regimes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Applied Case Studies and Capstone Synthesis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Airline industry competition and hub-and-spoke pricing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pharmaceutical patents and generic entry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Banking and financial services market structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Big Tech monopolization cases in search, mobile, and social platforms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Energy and utilities market restructuring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Synthesizing theory and evidence into an original research proposal"
+        }
+      ]
+    }
+  ]
+}
