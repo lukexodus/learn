@@ -1,0 +1,923 @@
+{
+  "topic": "Asset Lifecycle Management",
+  "topic_slug": "asset_lifecycle_management",
+  "generated_at": "2026-09-15T11:15:17.266136",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Core Concepts of Asset Lifecycle Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining an Asset across Physical, Financial, and Digital Classes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Asset Life Cycle as Concept versus Asset Lifecycle Management as Practice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparing the Four-Stage, Five-Stage, and Seven-Stage Lifecycle Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total Cost of Ownership as the Unifying Principle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Value Realization and Line of Sight to Organizational Objectives"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distinguishing Asset Lifecycle Management from Maintenance Management and Facilities Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "The ISO 55000 Family and Global Asset Management Standards",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ISO 55000 Terminology, Scope, and Guiding Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ISO 55001 Requirements for an Asset Management System"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ISO 55002 Implementation Guidance and Common Certification Pitfalls"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Strategic Asset Management Plan and Its Role in the Standard"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ISO 55010 and the Alignment of Financial and Non-Financial Functions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "ISO 55011, ISO 55012, and ISO 55013 as Extensions of the Family"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Legacy of PAS 55 and the GFMAM Competency Framework"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Asset Classification and the Asset Register",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building a Formal Asset Classification Scheme"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Asset Hierarchies and Functional Location Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Designing and Populating a Master Asset Register"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asset Identification, Tagging, and Naming Conventions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asset Criticality Classification and Risk Ranking"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ghost Assets, Data Quality, and Register Reconciliation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Strategic Planning and Asset Management Policy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Developing an Organizational Asset Management Policy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aligning Asset Strategy with Organizational Objectives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long-Term Capital Planning and Investment Prioritization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Demand Forecasting and Capacity Planning for Assets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Make, Buy, or Lease Analysis and Sourcing Strategy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building the Business Case for Asset Investment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Asset Acquisition and Procurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Needs Assessment and Requirements Definition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Procurement Methods including Competitive Bidding, RFP, RFQ, and Sole Source"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vendor Evaluation, Selection, and Due Diligence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Contract Negotiation and Terms for Asset Purchases"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital Lease versus Operating Lease Decisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Warranty Structures and Service Level Agreements at Acquisition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Asset Deployment and Commissioning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Receiving Inspection and Acceptance Testing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Installation, Configuration, and Site Preparation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Asset Tagging and Registration into the System of Record"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Commissioning Procedures and Handover to Operations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Baseline Documentation and As-Built Records"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Training and Knowledge Transfer for New Assets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Asset Operations and Performance Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Standard Operating Procedures for Asset Utilization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Monitoring Asset Utilization and Capacity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Measuring Asset Performance through OEE, Availability, MTBF, and MTTR"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Role of Asset Performance Management Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Condition Monitoring Fundamentals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Benchmarking Asset Performance against Peer Organizations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Maintenance Strategy and Reliability Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparing Reactive, Preventive, Predictive, and Prescriptive Maintenance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reliability-Centered Maintenance Methodology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Failure Mode, Effects, and Criticality Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total Productive Maintenance Principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Root Cause Analysis for Recurring Failures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Spare Parts and MRO Inventory Strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Predictive Maintenance and Condition-Based Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vibration Analysis and Thermography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Oil Analysis and Lubrication Programs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "IoT Sensors and Real-Time Condition Monitoring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Machine Learning Models for Failure Prediction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Remaining Useful Life Estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building the Business Case for Predictive Maintenance Adoption"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Enterprise Asset Management and CMMS Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comparing CMMS, EAM, and APM Scope and Selection Criteria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Work Order Management and Maintenance Workflow Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Preventive Maintenance Scheduling within EAM Platforms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leading EAM and CMMS Platforms and Selection Considerations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Systems Integration across EAM, ERP, SCADA, and IoT Platforms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mobile Asset Management and Field Technician Enablement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Asset Tracking and Identification Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Barcode and QR Code Asset Tracking"
+        },
+        {
+          "item_index": 2,
+          "item_title": "RFID Systems across Passive, Active, and Hybrid Approaches"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bluetooth Low Energy Beacons and Indoor Positioning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "GPS and Telematics for Mobile and Field Assets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selecting the Right Tracking Technology by Use Case"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Physical Inventory Audits and Cycle Counting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Digital Twins and Emerging Asset Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital Twin Concepts and Architecture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a Digital Twin from Asset and Sensor Data"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Simulation and What-If Scenario Modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Artificial Intelligence and Machine Learning across the Asset Lifecycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Generative AI for Maintenance Documentation and Diagnostics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Blockchain for Asset Provenance and Chain of Custody"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Fixed Asset Accounting Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capitalization Criteria and Materiality Thresholds"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Depreciation Methods including Straight-Line, Declining Balance, and Units of Production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Componentization and Component Depreciation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asset Impairment under GAAP and IFRS"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asset Retirement Obligations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Asset Valuation Approaches through Cost, Market, and Income Methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Fixed Asset Register and Subledger Reconciliation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Financial Reporting Standards and Lease Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "GAAP and ASC 360 Fixed Asset Requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "IFRS Requirements under IAS 16 and IAS 36"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reconciling GAAP and IFRS Treatment Differences"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lease Accounting under ASC 842 and IFRS 16"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tax Depreciation under MACRS and Jurisdictional Variations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Audit Readiness and Internal Controls for Fixed Assets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Life Cycle Costing and Investment Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Life Cycle Cost Modeling Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Net Present Value and Discounted Cash Flow for Asset Decisions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Total Cost of Ownership Calculation across Asset Classes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Repair or Replace Decision Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sensitivity Analysis and Risk-Adjusted Investment Decisions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital Budgeting and Multi-Year Asset Investment Plans"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Asset Risk Management and Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asset Risk Identification and Criticality-Based Prioritization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk-Based Decision Making Frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Business Continuity and Asset Redundancy Planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Insurance and Asset Value Protection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulatory Compliance Frameworks across Industries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Internal Audit and Asset Management System Assurance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Organizational Structure, People, and Competency",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asset Management Roles and Organizational Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ISO 55012 and Competency Frameworks for Asset Managers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building Cross-Functional Asset Governance Committees"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Change Management for Asset Management Program Rollouts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leadership Culture and Asset Management Maturity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Training Programs and Knowledge Retention Strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Asset Management Maturity and Continuous Improvement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asset Management Maturity Models and Self-Assessment Tools"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gap Analysis against ISO 55001 Requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Setting and Cascading Asset Management Objectives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Management Review and Continual Improvement Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Benchmarking and Industry Best Practice Adoption"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Preparing for Certification and External Audit"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "IT Asset Management Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining IT Assets across Hardware, Software, Cloud, and Data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The ISO/IEC 19770 Standard Family"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Hardware Asset Management Lifecycle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Software Asset Management Lifecycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Configuration Management Databases and IT Asset Data Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "ITAM Organizational Placement and Stakeholder Relationships"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Software Asset Management and License Compliance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Software Entitlement Models and License Types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "License Optimization and True-Up Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Preparing for Software Audits and Vendor Negotiation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Software Identification Tags and License Metering Tools"
+        },
+        {
+          "item_index": 5,
+          "item_title": "SaaS and Subscription Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Open Source Software Governance and License Risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Cloud and Modern IT Asset Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cloud Asset Inventory across IaaS, PaaS, and SaaS"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FinOps and Cloud Cost Optimization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Shadow IT Discovery and Governance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Container and Ephemeral Asset Tracking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "API and Microservice Asset Inventories"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Security Asset Management and Vulnerability Correlation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "IT Asset Lifecycle Operations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Procurement and Vendor Management for IT Assets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deployment, Imaging, and Configuration Standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "IT Asset Refresh Cycles and Technology Roadmapping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "IT Service Management Integration and the Help Desk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mobile Device Management and BYOD Asset Policy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Selecting and Implementing an ITAM Tool"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "IT Asset Disposition and Data Security",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Data Sanitization Standards under NIST 800-88 and DoD 5220.22-M"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Physical Destruction through Degaussing, Shredding, and Cryptographic Erasure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chain of Custody Documentation and Certificates of Destruction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "R2v3 and e-Stewards Certification Standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Value Recovery through Resale, Remarketing, and Component Harvesting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulatory Compliance in Disposition under HIPAA, GLBA, and GDPR"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "IT Asset Management Certifications and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The IAITAM Certification Suite Overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Certified Hardware Asset Management Professional (CHAMP)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Certified Software Asset Manager (CSAM)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Certified IT Asset Manager (CITAM)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Certified IT Asset Disposition (CITAD)"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Certified Asset Management Security Expert (CAMSE)"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building an ITAM Career Path and Continuing Education Plan"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Infrastructure and Public Sector Asset Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "GASB 34 and Governmental Capital Asset Reporting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Modified Approach versus Standard Depreciation for Infrastructure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pavement, Bridge, and Utility Network Asset Management Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asset Management Planning for Local Government Units"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Grant-Funded and Donated Infrastructure Asset Accounting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Community Engagement and Levels of Service in Public Asset Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Industry-Specific Applications of Asset Lifecycle Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Manufacturing and Industrial Equipment Asset Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Healthcare and Biomedical Equipment Asset Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Utilities and Energy Sector Asset Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transportation and Fleet Asset Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Real Estate and Facilities Asset Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Higher Education and Institutional Asset Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Sustainability and the Circular Economy in Asset Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Circular Economy Principles Applied to Asset Lifecycles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Extending Asset Life through Refurbishment and Remanufacturing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Environmental, Social, and Governance Reporting for Assets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon Footprint and Life Cycle Assessment of Assets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sustainable Procurement Criteria"
+        },
+        {
+          "item_index": 6,
+          "item_title": "E-Waste Reduction and Responsible Recycling Programs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Right to Repair Legislation and Its Impact on Maintenance Strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Digital Asset Management as a Related Discipline",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital Asset Management Systems and Scope"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Metadata, Taxonomy, and Rights Management for Digital Assets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Distinguishing Digital Asset Management from Physical and IT Asset Lifecycle Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Content Lifecycle and Version Control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Integrating Digital Asset Management with Marketing and Creative Operations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data Assets and Information Governance under ISO 55013"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Data, Analytics, and Reporting for Asset Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asset Data Architecture and Master Data Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building Asset Management Dashboards and Scorecards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common Asset KPIs and How to Calculate Them"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Integrating Data across EAM, ERP, and Financial Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Predictive Analytics for Capital Planning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data Governance and Asset Data Quality Assurance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Building and Leading an Asset Lifecycle Management Program",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conducting an Organizational Asset Management Assessment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Designing an Asset Management Implementation Roadmap"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Selecting and Deploying an Asset Management Technology Stack"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Change Management and Stakeholder Buy-In for Program Launch"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Measuring Program ROI and Value Realization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Career Paths and Professional Development in Asset Management"
+        }
+      ]
+    }
+  ]
+}

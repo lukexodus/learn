@@ -1,0 +1,855 @@
+{
+  "topic": "Corporate Valuation & DCF Mastery",
+  "topic_slug": "corporate_valuation_dcf_mastery",
+  "generated_at": "2026-09-16T04:26:17.743651",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Corporate Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Purpose and Contexts of Valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Intrinsic Value versus Relative Value versus Market Price"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Enterprise Value and Equity Value Core Definitions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Time Value of Money and Present Value Mechanics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk, Return, and the Risk-Return Tradeoff"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Return on Invested Capital and Value Creation Fundamentals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Overview of the Income, Market, and Asset Approaches to Valuation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Market Efficiency and Its Implications for Valuation"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Valuation Standards, Bias, and Professional Ethics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Financial Statement Foundations for Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Income Statement Through a Valuation Lens"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Balance Sheet Through a Valuation Lens"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Cash Flow Statement Through a Valuation Lens"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Linking the Three Financial Statements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Revenue Recognition and Its Valuation Implications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Operating Lease Capitalization Under ASC 842 and IFRS 16"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Stock-Based Compensation Accounting and Valuation Treatment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Normalizing and Analyzing Historical Financials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying and Adjusting for Non-Recurring Items"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quality of Earnings Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Margin and Profitability Ratio Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Liquidity and Solvency Ratio Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Efficiency and Working Capital Ratio Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Historical Trend and Common-Size Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Peer Benchmarking of Historical Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Forecasting Financial Performance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Top-Down versus Bottom-Up Revenue Forecasting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Operating Expense and Margin Forecasting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Working Capital Forecasting Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capital Expenditure and Depreciation Schedules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Debt Schedules and Circular Interest Expense"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Modeling Net Operating Loss Carryforwards and Cash Taxes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building an Integrated Three-Statement Model"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Forecast Assumptions Documentation and Governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Free Cash Flow Construction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Unlevered Free Cash Flow (FCFF) Derivation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Levered Free Cash Flow (FCFE) Derivation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reconciling Net Income to Free Cash Flow"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Choosing Between FCFF and FCFE"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Treatment of Stock-Based Compensation in Free Cash Flow"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Treatment of Capitalized Leases in Free Cash Flow"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common Free Cash Flow Calculation Errors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Cost of Equity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Capital Asset Pricing Model (CAPM)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk-Free Rate Selection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Equity Risk Premium Estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Beta Estimation and Regression Betas"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Levering and Unlevering Beta"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bottom-Up Beta from Comparable Companies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Size Premium and Company-Specific Risk Adjustments"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Fama-French, Arbitrage Pricing Theory, and Build-Up Models"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Country Risk Premium for Emerging Market Valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Cost of Debt and Capital Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost of Debt from Yield to Maturity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synthetic Credit Rating Approach to Cost of Debt"
+        },
+        {
+          "item_index": 3,
+          "item_title": "After-Tax Cost of Debt and Marginal Tax Rate Selection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Target versus Current Capital Structure Weights"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Market Value versus Book Value Weights"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Weighted Average Cost of Capital (WACC) Assembly"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Circularity Between WACC and Enterprise Value"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Core DCF Model Architecture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structuring the Explicit Forecast Period"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determining an Appropriate Forecast Horizon"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Matching Free Cash Flow Type to the Appropriate Discount Rate"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mid-Year Convention versus Year-End Discounting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Discount Factor Mechanics and Period Timing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stub Period and Valuation Date Adjustments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Terminal Value",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gordon Growth Perpetuity Method"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exit Multiple Method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Selecting a Sustainable Long-Term Growth Rate"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reasonableness-Checking Terminal Value Assumptions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Implied Multiple and Implied Growth Rate Cross-Checks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Terminal Value Sensitivity and Weight in Total Value"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "From Enterprise Value to Equity Value",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Enterprise-to-Equity Value Bridge"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Treatment of Cash and Non-Operating Assets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Treatment of Debt and Debt-Like Items"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Treatment of Minority and Noncontrolling Interest"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Treatment of Preferred Stock and Convertible Securities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diluted Share Count and the Treasury Stock Method"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Deriving Implied Value Per Share"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Advanced DCF Methodologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Multi-Stage Growth Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dividend Discount Model as an Alternative Income Approach"
+        },
+        {
+          "item_index": 3,
+          "item_title": "DCF for High-Growth and Early-Stage Companies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "DCF for Cyclical Companies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adjusted Present Value (APV) Method"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economic Value Added and Residual Income Models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Real Options in Corporate Valuation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Probability-Weighted and Scenario-Based DCF"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Monte Carlo Simulation and Quantitative Risk Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Monte Carlo Simulation in Valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Defining Probability Distributions for Key Drivers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Correlation Between Simulated Variables"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interpreting Simulation Output Distributions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Simulation Tools and Implementation Approaches"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Sensitivity, Scenario, and Driver Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "One-Way and Two-Way Sensitivity Tables"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Base, Upside, and Downside Scenario Construction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tornado Charts and Key Value Driver Identification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Break-Even and Threshold Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reverse DCF and Market-Implied Expectations Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Relative Valuation and Trading Comparables",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Relative Valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Selecting a Comparable Company Peer Set"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Core Trading Multiples Including EV/EBITDA and EV/Revenue"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Equity Multiples Including P/E, P/B, and PEG"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Calendarization and Multiple Normalization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Industry-Specific and Sector-Specific Multiples"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Strengths, Weaknesses, and Misuses of Comparable Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Precedent Transaction Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Selecting Comparable Precedent Transactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Calculating and Interpreting Deal Multiples"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Control Premium Estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Synergy Adjustments in Transaction Multiples"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Data Sources and Limitations of Transaction Comparables"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Valuation Synthesis and Communication",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Triangulating Value Across Methodologies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a Football Field Valuation Chart"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Weighting Valuation Methods by Context"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Presenting a Valuation Range to Stakeholders"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Documenting Key Assumptions and Judgment Calls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Valuation Discounts and Premiums",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Control Premium versus Minority Discount"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Discount for Lack of Marketability (DLOM)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Discount for Lack of Control (DLOC)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Person and Concentration Discounts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Conglomerate and Complexity Discounts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Valuing Private Companies and Early-Stage Ventures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Adjustments for Private Company Valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Venture Capital Method for Startups"
+        },
+        {
+          "item_index": 3,
+          "item_title": "First Chicago Scenario-Weighted Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Normalizing Owner Compensation and Related-Party Items"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Illiquidity and Marketability Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Sector-Specific Valuation Approaches",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Valuing Banks and Financial Institutions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuing Insurance Companies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Valuing Real Estate and REITs Using NAV, FFO, and AFFO"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Valuing Natural Resource and Commodity Companies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Valuing Technology and Subscription-Based Businesses"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Valuing Holding Companies via Sum-of-the-Parts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Cross-Border and Multi-Currency Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Currency Selection and Consistency in DCF"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Real versus Nominal Cash Flow Modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Country and Sovereign Risk Premiums"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Purchasing Power Parity and Exchange Rate Forecasting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Repatriation and Cross-Border Tax Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Distressed and Special Situation Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Valuing Companies with Going-Concern Uncertainty"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liquidation Value Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Valuation Implications of Financial Distress and Restructuring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Option-Based Models for Highly Levered Firms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fresh-Start Accounting and Post-Restructuring Valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Contemporary and Emerging Valuation Challenges",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Valuing Intangible-Asset-Intensive and Platform Businesses"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ESG Factors and Sustainability-Linked Valuation Adjustments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Valuing Artificial Intelligence and Data-Driven Companies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Valuation Under Shifting Interest Rate and Inflation Regimes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Network Effects and Winner-Take-Most Dynamics in Valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "M&A-Driven Valuation Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Accretion and Dilution Analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Revenue and Cost Synergy Quantification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Purchase Price Allocation Fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Contribution Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Merger Consequences and Pro Forma Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Leveraged Buyout (LBO) Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "LBO Model Structure and Sources and Uses"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Debt Capacity and Financing Structure Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Returns Analysis Using IRR and Multiple of Invested Capital"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Using LBO Analysis as a Valuation Floor"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Management Rollover and Equity Incentive Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Financial Model Building and Excel Mastery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Valuation Model Architecture and Best Practices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managing Circular References in Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dynamic Formula Design and Flexibility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Model Auditing and Error-Checking Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Formatting and Presentation Standards for Financial Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Judgment, Bias, and Professional Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common Cognitive Biases in Valuation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sanity-Checking and Cross-Validating Valuation Outputs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Communicating Uncertainty and Assumptions to Decision-Makers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Independence, Disclosure, and Valuation Ethics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Legal and Regulatory Contexts for Valuation Opinions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Applied Mastery Through Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Full DCF Case Study on a Mature Stable-Growth Company"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Full DCF Case Study on a High-Growth Technology Company"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Full DCF Case Study on a Cyclical or Commodity Company"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Full Case Study on Cross-Border Multinational Valuation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Full Case Study on M&A Valuation and Deal Structuring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Full Case Study on Distressed Company Valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Data Sources, Tools, and Continuing Mastery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Market Data Platforms for Valuation Inputs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Damodaran Data Sets and Academic Resources"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Industry Research and Equity Research Reports"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Valuation Software and Modeling Tools"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Staying Current with Valuation Theory and Market Conditions"
+        }
+      ]
+    }
+  ]
+}

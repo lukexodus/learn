@@ -1,0 +1,1065 @@
+{
+  "topic": "Supply Chain Geopolitics",
+  "topic_slug": "supply_chain_geopolitics",
+  "generated_at": "2026-09-15T13:12:24.138135",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and Core Vocabulary of Supply Chain Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining supply chain geopolitics as a field of study"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Geopolitics versus geoeconomics as distinct concepts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Globalization, deglobalization, and slowbalization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supply chains, value chains, and production networks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chokepoints, concentration risk, and single points of failure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Weaponized interdependence and networked coercion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Multipolarity and the fragmentation of the global economy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Why supply chains became a national security concern"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Core vocabulary overview: tariffs, sanctions, export controls, and industrial policy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Historical Evolution of Global Trade and Production",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mercantilism and colonial trade networks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Smoot Hawley Tariff and interwar protectionism as a cautionary precedent"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bretton Woods and the postwar liberal trade order"
+        },
+        {
+          "item_index": 4,
+          "item_title": "GATT, the Uruguay Round, and the founding of the WTO"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cold War trade controls, COCOM, and the Toshiba Kongsberg incident"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The container revolution and the rise of just in time logistics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "China's WTO accession and the offshoring boom"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The 2008 financial crisis and early cracks in hyperglobalization"
+        },
+        {
+          "item_index": 9,
+          "item_title": "COVID nineteen as a supply chain inflection point"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Russia's invasion of Ukraine and the weaponization of trade"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Theoretical Frameworks for Analyzing Supply Chain Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Realism and the primacy of state power in trade relations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liberal institutionalism and the theory of complex interdependence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "International political economy as an analytical lens"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hegemonic stability theory and the role of a dominant power"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Dependency theory and core periphery supply relationships"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Global value chain governance theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Blackwill and Harris and the modern framework for geoeconomics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "David Baldwin and the theory of economic statecraft"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Farrell and Newman's theory of weaponized interdependence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Great Power Competition and the Global Order",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The US China strategic rivalry as the central axis of supply chain geopolitics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Thucydides Trap and power transition theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Technology competition as the new terrain of great power rivalry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Alliance architecture: the G7, the Quad, and AUKUS"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Global South and strategic non alignment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "BRICS expansion and alternative economic architectures"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Russia's pivot to Asia and sanctioned state trade networks"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Middle powers and hedging strategies between blocs"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Multinational corporations and hyperscalers as geopolitical actors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "International Institutions and Global Trade Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The World Trade Organization and its dispute settlement crisis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The IMF and World Bank in an era of geoeconomic competition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The G7 and G20 as coordination forums"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The OECD and international regulatory coordination"
+        },
+        {
+          "item_index": 5,
+          "item_title": "UNCTAD and Global South trade advocacy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The European Union as a supranational trade actor"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Minilateral groupings: IPEF and the Minerals Security Partnership"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The crisis of multilateralism and the rise of ad hoc coalitions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Trade Blocs and Preferential Agreements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The USMCA and North American production integration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The EU single market and customs union"
+        },
+        {
+          "item_index": 3,
+          "item_title": "RCEP and the Asia Pacific trade architecture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The CPTPP and high standard trade rules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The African Continental Free Trade Area"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mercosur and Latin American integration efforts"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Rules of origin as a geopolitical and economic instrument"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Exclusion from trade agreements as a geopolitical signal"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "The Economic Statecraft Toolkit",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tariffs as a geopolitical instrument"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Export controls and dual use technology restrictions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Financial sanctions and their transmission mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Secondary sanctions and extraterritorial enforcement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Inbound investment screening and national security review"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Outbound investment screening and technology transfer limits"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Industrial subsidies as a tool of strategic competition"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Positive economic statecraft: incentives, aid, and partnership offers"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Measuring the effectiveness of economic coercion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Export Controls and the Semiconductor Chip War",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The architecture of US export control law: the BIS and the EAR"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Entity List and its role in restricting technology access"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Foreign Direct Product Rule and its extraterritorial reach"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Validated End User status and licensing exceptions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The evolution of chip export controls from 2022 to the present"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The semiconductor supply chain: design, fabrication, and packaging"
+        },
+        {
+          "item_index": 7,
+          "item_title": "TSMC, ASML, and single points of failure in chip production"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Taiwan factor and the Silicon Shield concept"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Allied coordination among the Netherlands, Japan, and South Korea"
+        },
+        {
+          "item_index": 10,
+          "item_title": "China's semiconductor self sufficiency drive and SMIC"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Critical Minerals and Rare Earth Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining critical and strategic minerals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "China's dominance in rare earth processing and refining"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lithium, cobalt, nickel, and copper in the battery supply chain"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Democratic Republic of Congo and cobalt mining risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "China's export controls on rare earths, gallium, and germanium"
+        },
+        {
+          "item_index": 6,
+          "item_title": "National stockpiling strategies and strategic reserves"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mining, midstream processing, and the refining bottleneck"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Recycling and urban mining as supply diversification"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Deep sea mining and emerging extraction frontiers"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Allied minerals partnerships and co investment frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Energy Geopolitics and Supply Security",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Oil markets and the role of OPEC plus"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Natural gas, LNG, and pipeline politics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Russia's use of energy exports as a geopolitical lever"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Strait of Hormuz and global oil transit risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The renewable energy supply chain: solar panels, wind turbines, and batteries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Critical mineral dependencies in the clean energy transition"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nuclear fuel supply chains and uranium enrichment"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Energy security strategies of import dependent states"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Grid infrastructure and cross border electricity interconnection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Maritime Chokepoints and Shipping Lane Security",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The eight major global shipping chokepoints"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Strait of Malacca and Indo Pacific energy flows"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Strait of Hormuz and oil transit risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Suez Canal and the Bab el Mandeb Strait"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Red Sea shipping crisis and attacks on commercial vessels"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Panama Canal and the impact of drought on transit capacity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Taiwan Strait as a chokepoint for global electronics trade"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Flag of convenience shipping and the sanctioned shadow fleet"
+        },
+        {
+          "item_index": 9,
+          "item_title": "War risk insurance and the cost of maritime security"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Rerouting economics and the Cape of Good Hope alternative"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Global Logistics and Transportation Infrastructure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Port ownership, control, and strategic port investment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rail freight corridors and Eurasian land bridges"
+        },
+        {
+          "item_index": 3,
+          "item_title": "China's Belt and Road Initiative and infrastructure diplomacy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The China Europe rail network as an alternative trade route"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Air cargo networks and high value supply chains"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Special economic zones and free trade ports"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Customs modernization and digital trade facilitation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Arctic shipping routes and the impact of ice melt on trade geography"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Reshoring, Nearshoring, and Friend-shoring",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining reshoring, nearshoring, and friend shoring"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The China plus one diversification strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mexico and the USMCA nearshoring boom"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vietnam, India, and the migration of Southeast Asian manufacturing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Labor, infrastructure, and skills constraints on reshoring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Measuring reshoring through job and investment data"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The limits of full supply chain relocation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Corporate diversification case studies: Apple, Foxconn, and Dell"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Industrial Policy and the Subsidy Race",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The return of industrial policy after decades of trade liberalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The US CHIPS and Science Act"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Inflation Reduction Act and clean energy incentives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The European Chips Act and EU industrial strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "China's Made in China 2025 and state directed development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "China's Dual Circulation strategy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Subsidy competition and the risk of a global subsidy race"
+        },
+        {
+          "item_index": 8,
+          "item_title": "WTO subsidy rules and the challenge of enforcement"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Assessing industrial policy outcomes and unintended consequences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Food, Agriculture, and Water Security",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Global grain trade and export concentration risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Black Sea Grain Initiative and its collapse"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fertilizer supply chains: potash, phosphate, and nitrogen"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Export bans and the weaponization of food trade"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Climate variability and agricultural supply shocks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Food security in import dependent regions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Water scarcity as a supply chain and geopolitical risk"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Food as an instrument of hybrid warfare and political leverage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Pharmaceutical and Medical Supply Chain Security",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Active pharmaceutical ingredient concentration in China and India"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Generic drug supply chains and vulnerability to disruption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vaccine nationalism and lessons from the COVID nineteen pandemic"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Medical device and personal protective equipment supply chains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stockpiling strategies for critical medicines"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Onshoring initiatives for pharmaceutical manufacturing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "International health supply coordination and the WHO"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Digital Infrastructure, Data, and Technology Supply Chains",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Submarine cables and the physical backbone of the internet"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hyperscaler ownership concentration in subsea infrastructure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data localization and digital sovereignty policies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cloud computing infrastructure as a strategic asset"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The global telecommunications equipment market and the Huawei 5G dispute"
+        },
+        {
+          "item_index": 6,
+          "item_title": "AI compute supply chains and data center geopolitics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cybersecurity risk in extended digital supply chains"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The splinternet and competing digital governance models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Defense-Industrial Base and Dual-Use Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The structure of national defense industrial bases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dual use technology and the blurred line between civilian and military goods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Munitions production capacity and lessons from the Ukraine war"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Allied defense industrial cooperation and co production agreements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Space supply chains and satellite manufacturing dependencies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quantum computing and emerging dual use technology races"
+        },
+        {
+          "item_index": 7,
+          "item_title": "International arms export control regimes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Forced Labor, Human Rights, and Ethical Sourcing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Forced labor risk in global supply chains"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Uyghur Forced Labor Prevention Act and its rebuttable presumption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The EU Forced Labor Regulation and corporate due diligence mandates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conflict minerals and the Democratic Republic of Congo"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate human rights due diligence frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supply chain transparency legislation and disclosure requirements"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Balancing ethical sourcing with supply chain resilience goals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Financial Infrastructure and Monetary Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "SWIFT and the architecture of global payments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Financial sanctions and exclusion from payment systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "De dollarization debates and alternative payment systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Central bank digital currencies and cross border settlement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sanctions evasion networks and shadow financial channels"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sovereign wealth funds and strategic state investment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Trade finance and its role in enabling global commerce"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Regional Supply Chain Profiles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The United States: reindustrialization and strategic dependencies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "China: the world's factory and its evolving trade strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The European Union: strategic autonomy and de risking policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Japan and South Korea as allied technology manufacturing hubs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "India and the Production Linked Incentive scheme"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Southeast Asia and ASEAN as a manufacturing alternative"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Gulf states and economic diversification strategies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Sub Saharan Africa's role in critical mineral supply chains"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Latin America and the nearshoring opportunity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Corporate Strategy, Risk Management, and Resilience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supply chain risk management as a discipline"
+        },
+        {
+          "item_index": 2,
+          "item_title": "N tier supplier mapping and visibility tools"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Scenario planning and stress testing supply networks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diversification versus redundancy as resilience strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supplier watchlist screening and sanctions compliance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Enterprise risk management frameworks for geopolitical risk"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building a geopolitical risk function within a corporation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Insurance, hedging, and financial instruments for geopolitical risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Geopolitical Risk Analysis and Intelligence Tradecraft",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structured analytic techniques for geopolitical forecasting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Open source intelligence methods for supply chain monitoring"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Early warning indicators and signal detection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geopolitical risk indices and rating methodologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wargaming and red teaming for supply chain scenarios"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building and briefing a geopolitical risk assessment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Institutions and sources for ongoing geopolitical intelligence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Legal, Regulatory, and Trade Compliance Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Incoterms and international shipping liability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rules of origin and customs valuation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Export control classification and licensing procedures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sanctions compliance programs and OFAC requirements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Investment screening regimes: CFIUS and its international equivalents"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The EU Carbon Border Adjustment Mechanism"
+        },
+        {
+          "item_index": 7,
+          "item_title": "WTO dispute settlement mechanics and its current paralysis"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Anti corruption law and supply chain due diligence obligations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Landmark Case Studies in Supply Chain Disruption",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The COVID nineteen pandemic and the global supply chain collapse"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Ever Given grounding and the Suez Canal blockage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The US China trade war and tariff escalation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Russia's invasion of Ukraine and the reordering of European energy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The 2025 rare earth export controls and their global ripple effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Red Sea shipping crisis and its impact on global trade routes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Japan's 2011 earthquake and the fragility of just in time manufacturing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The 2021 Texas winter storm and semiconductor production disruption"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Emerging Frontiers and the Future of Supply Chain Geopolitics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Artificial intelligence as both a supply chain risk and a resilience tool"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Climate change adaptation and supply chain relocation pressures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Arctic geopolitics and the opening of new trade routes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Space based supply chains and asteroid mining prospects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Autonomous shipping and drone logistics as emerging resilience tools"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scenario planning for a fragmented global trading system"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Technology sovereignty and the pursuit of self sufficient supply chains"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Applying and Advancing Supply Chain Geopolitics Expertise",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Career paths in supply chain geopolitics and risk consulting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Key institutions, think tanks, and research centers in the field"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Essential publications, journals, and ongoing reading practice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building a personal geopolitical monitoring system"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional certifications and academic programs in the field"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Professional communities and networks in trade and geopolitics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Translating geopolitical analysis into executive decision making"
+        }
+      ]
+    }
+  ]
+}

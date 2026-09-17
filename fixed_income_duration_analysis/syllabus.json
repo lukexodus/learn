@@ -1,0 +1,571 @@
+{
+  "topic": "Fixed Income & Duration Analysis",
+  "topic_slug": "fixed_income_duration_analysis",
+  "generated_at": "2026-09-16T23:07:09.592408",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Fixed Income Securities",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "What Defines a Fixed Income Instrument"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fixed Income Market Structure and Participants"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Primary Issuance and Secondary Trading"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sovereign Municipal Corporate and Agency Issuers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bond Market Terminology and Conventions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Role of Fixed Income in Asset Allocation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Bond Structural Features and Cash Flows",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bond Indentures and Covenants"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coupon Structures Fixed Floating and Zero Coupon"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Par Premium and Discount Bonds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Callable Putable and Convertible Features"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Amortizing Bonds and Sinking Funds"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Day Count Conventions and Accrued Interest"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Time Value of Money for Fixed Income",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Present Value and Future Value Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Compounding Frequency and Rate Conversions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Discount Factors and Zero Coupon Rates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spot Rates versus Forward Rates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constructing a Discount Curve"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Bond Pricing and Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Standard Bond Pricing Formula"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Clean Price versus Dirty Price"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Valuation Using the Spot Curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Arbitrage Free Valuation Principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pricing Floating Rate Notes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Introduction to Valuing Embedded Options"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Yield Measures and Return Conventions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Current Yield and Coupon Yield"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Yield to Maturity Calculation and Interpretation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Yield to Call Yield to Put and Yield to Worst"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bond Equivalent Yield and Effective Annual Yield"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Total Return and Horizon Return Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Limitations of Yield to Maturity as a Risk Measure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "The Term Structure of Interest Rates",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Par Curve Spot Curve and Forward Curve Relationships"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bootstrapping the Spot Rate Curve"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Expectations Theory of the Term Structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Liquidity Preference and Segmented Markets Theories"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Yield Curve Shapes and Macroeconomic Signals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Curve Fitting Nelson Siegel and Spline Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Macaulay and Modified Duration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Price Yield Relationship"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Macaulay Duration Derivation and Interpretation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Modified Duration and Price Sensitivity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dollar Duration and DV01"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Duration of a Bond Portfolio"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Duration Drift Over Time"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Effective Duration and Advanced Duration Measures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Effective Duration for Option Embedded Bonds"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Duration of Zero Coupon and Floating Rate Bonds"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Empirical Duration versus Analytical Duration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Rate Duration and Partial Durations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Duration Decomposition Across the Curve"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Convexity and Higher Order Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Convexity Concept and Geometric Intuition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Calculating Bond Convexity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Positive versus Negative Convexity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Combining Duration and Convexity for Price Estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Convexity of Bonds with Embedded Options"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Interest Rate Risk Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources and Types of Interest Rate Risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Parallel and Non Parallel Yield Curve Shifts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reinvestment Risk versus Price Risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Duration Gap Analysis for Institutions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Value at Risk for Fixed Income Portfolios"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scenario and Stress Testing Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Immunization and Asset Liability Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical Immunization Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Duration Matching Strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cash Flow Matching and Dedicated Portfolios"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Contingent Immunization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rebalancing Immunized Portfolios"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Asset Liability Management for Pensions Insurers and Banks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Fixed Income Portfolio Management Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Passive versus Active Management Approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bullet Barbell and Ladder Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Riding the Yield Curve Strategy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sector Rotation and Credit Barbell Strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Benchmark Selection and Tracking Error"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Total Return Portfolio Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Credit Risk and Spread Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Credit Ratings and Rating Agency Methodology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Components of Credit Spread"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nominal Spread Z Spread and Option Adjusted Spread"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Default Probability and Recovery Rate Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Credit Curve Construction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Spread Duration and Credit Sensitivity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Securitized and Structured Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mortgage Backed Securities Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Prepayment Risk and Prepayment Modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Collateralized Mortgage Obligation Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asset Backed Securities Overview"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Effective Duration and Negative Convexity in Mortgage Backed Securities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Interest Rate Derivatives and Hedging",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interest Rate Futures and Futures Based Hedging"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Interest Rate Swaps and the Swap Curve"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Forward Rate Agreements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Caps Floors and Swaptions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hedging Portfolio Duration with Derivatives"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Basis Risk in Interest Rate Hedges"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Quantitative Term Structure Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Short Rate Models Vasicek and Cox Ingersoll Ross"
+        },
+        {
+          "item_index": 2,
+          "item_title": "No Arbitrage Models Ho Lee and Hull White"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Binomial and Trinomial Interest Rate Trees"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monte Carlo Simulation for Fixed Income"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Model Calibration and Validation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Macroeconomic and Policy Drivers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Central Bank Policy and the Interest Rate Cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inflation Expectations and Real versus Nominal Rates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monetary Policy Transmission to the Yield Curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fiscal Policy and Sovereign Issuance Trends"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reading Economic Indicators for Fixed Income Positioning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Global and Inflation Linked Fixed Income",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "International Fixed Income Market Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Currency Risk in Cross Border Bond Investing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sovereign Risk and Emerging Market Debt"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inflation Linked Bonds and Real Yield Duration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross Currency Duration and Hedged Returns"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Regulatory and Market Infrastructure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bond Market Regulatory Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Interest Rate Risk in the Banking Book under Basel"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fair Value and Amortized Cost Accounting for Bonds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Clearing Settlement and Custody Processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ESG and Sustainable Fixed Income Instruments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Applied Duration Analysis and Capstone Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building a Duration Matched Portfolio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Analyzing Historical Yield Curve Regime Shifts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Duration Exposure in Rising Rate Environments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Structuring an Immunized Pension Liability Portfolio"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Designing a Fixed Income Risk and Duration Dashboard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "topic": "Crisis & Reputation Management",
+  "topic_slug": "crisis_reputation_management",
+  "generated_at": "2026-09-15T13:13:23.707651",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Crisis and Reputation Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Crisis, Issue, Risk, and Reputation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Historical Evolution of the Discipline"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reputation as a Strategic and Financial Asset"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Crisis Lifecycle: Pre-Crisis, Crisis, Post-Crisis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Typologies of Organizational Crises"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Crisis Management vs Crisis Communication vs Reputation Management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reputation Risk Management as a Discipline"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Roles of Communicators, Legal, Executives, and Boards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Core Theories and Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Situational Crisis Communication Theory (SCCT)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Image Restoration and Image Repair Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Crisis and Emergency Risk Communication (CERC) Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Contingency Theory of Accommodation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Social Mediated Crisis Communication (SMCC) Model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rhetorical Arena Theory"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The IDEA Model and Integrated Crisis Mapping"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Attribution Theory and Responsibility Assessment"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Stakeholder Theory and Stakeholder Salience"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Corporate Apologia and Apology Rhetoric"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Comparing and Integrating Crisis Frameworks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Risk and Issues Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Issues Management Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Environmental and Horizon Scanning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vulnerability Audits and Risk Mapping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Integrating Reputation Risk into Enterprise Risk Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Early Warning Systems and Signal Detection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building a Crisis-Resilient Organizational Culture"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Scenario Planning for Emerging Risks"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Prioritizing Issues by Likelihood and Impact"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Crisis Preparedness and Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Components of a Crisis Communication Plan"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Crisis Management Team Structure and Governance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incident Command Systems for Communications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spokesperson Selection and Media Training"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Message Mapping and Key Message Architecture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Holding Statements and Dark Site Preparation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Tabletop Exercises and Crisis Simulations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Vendor, Agency, and Legal Counsel Relationships"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Scenario-Specific Crisis Playbooks"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Budgeting and Resourcing for Crisis Response"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Stakeholder and Audience Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mapping Internal Stakeholders"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mapping External Stakeholders"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stakeholder Salience: Power, Legitimacy, Urgency"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Segmenting and Tailoring Crisis Messages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Engaging Activists, NGOs, and Advocacy Groups"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross-Cultural and Multinational Stakeholder Dynamics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Stakeholder Ecosystem and Network Mapping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Media Relations During Crisis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fundamentals of Crisis Media Relations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Preparing for and Running Press Conferences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Handling Hostile and Adversarial Interviews"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Attribution Norms: On the Record, Off the Record, Background"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Managing Journalist Relationships Under Pressure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International and Cross-Border Media Considerations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Embargoes, Exclusives, and Leak Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Digital and Social Media Crisis Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Real-Time Social Listening and Monitoring"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Platform-Specific Crisis Dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Viral Misinformation and Rapid Response Protocols"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Community Management During an Active Crisis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Working with Influencers and Creators in Crisis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Meme Culture and Crisis Amplification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Algorithmic Amplification and Platform Policy Impacts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Strategic Silence Approach and Its Risks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Online Reputation Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Search Engine Reputation Management Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Branded SERP Audits and Negative Asset Mapping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Content Displacement and Suppression Strategy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Review Ecosystem Management and Response Workflows"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Knowledge Graph and Entity Authority Building"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wikipedia and Public Profile Management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Answer Engine and Generative Engine Optimization"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Digital Footprint Audits for Executives and Individuals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Artificial Intelligence and Synthetic Media Threats",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Generative AI and the Disinformation Landscape"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deepfake Fraud and Executive Impersonation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deepfake Detection and Forensic Verification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multi-Channel and Multi-Factor Verification Protocols"
+        },
+        {
+          "item_index": 5,
+          "item_title": "AI-Generated Fake Reviews and Astroturfing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulatory Responses to AI-Generated Content"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Hallucinated and Inaccurate AI-Generated Claims"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Ethical Use of AI in Crisis Response"
+        },
+        {
+          "item_index": 9,
+          "item_title": "AI-Assisted Monitoring and Drafting Tools"
+        },
+        {
+          "item_index": 10,
+          "item_title": "War-Gaming AI-Era Crisis Scenarios"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Legal, Regulatory, and Ethical Dimensions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Working with Legal Counsel During a Crisis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Attorney-Client Privilege vs Transparency Tensions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Litigation Public Relations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regulatory Disclosure Obligations by Sector"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Breach Disclosure Timelines and Regulatory Filings"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Whistleblower Situations and Internal Reporting"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Defamation and Libel Considerations in Response"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Ethical Decision-Making Frameworks in Crisis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Specialized Crisis Types",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Product Recalls and Consumer Safety Crises"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data Breaches and Cybersecurity Incidents"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ransomware and Extortion Incidents"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Executive Misconduct and Leadership Crises"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Workplace Harassment, Discrimination, and Violence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Financial and Accounting Scandals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Natural Disasters and Business Continuity"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Mergers, Acquisitions, and Restructuring Crises"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Supply Chain and Operational Disruptions"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Geopolitical and Cross-Border Crises"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Reputation, Politics, and Polarization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Brands, Politics, and Stakeholder Expectations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Politically Motivated Boycotts and Buycotts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Executive Political Positioning Risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Boycott Response Typologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Navigating Culture-War Crises"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deciding Whether and When to Take a Public Stand"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Polarized Internal Workforces"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "ESG, Sustainability, and Governance Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ESG as a Reputation Driver"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Greenwashing and Misleading Sustainability Claims"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ESG Disclosure Regulation and Compliance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Social Washing and Human Rights Risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Governance Failures and Board-Level Reputation Risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Communicating Genuine Sustainability Progress"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Internal Communication During Crisis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Employee Communication Strategy in a Crisis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Leadership Visibility and Internal Trust-Building"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Internal Rumor and Speculation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Union and Labor Relations Considerations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Remote and Distributed Workforce Crisis Communication"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aligning Internal and External Messaging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Financial and Investor Relations Crisis Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Investor Relations Fundamentals During Crisis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Earnings Calls and Analyst Communication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing Market and Stock Price Reactions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rating Agency and Lender Communication"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coordinating Investor Relations, Legal, and Communications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Crisis Leadership and Decision-Making",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Leadership Psychology Under Pressure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Decision-Making Frameworks in High-Uncertainty Events"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Delegation, Authority, and Escalation Paths"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Crisis Fatigue and Team Burnout"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Values-Based and Ethical Leadership in Crisis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Board-Level Crisis Governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Measurement and Evaluation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reputation Metrics and Index Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Media Sentiment and Share of Voice Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stakeholder Intelligence and Continuous Measurement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Post-Crisis Audits and After-Action Reviews"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Measuring Return on Reputation Investment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Benchmarking Against Peers and Industry Norms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Post-Crisis Recovery and Reputation Rebuilding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Post-Crisis Communication Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Frameworks for Rebuilding Stakeholder Trust"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long-Term Reputation Repair Campaigns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Corporate Social Responsibility as a Recovery Tool"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Organizational Learning and Policy Change"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Monitoring Long-Term Reputation Recovery"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Sector-Specific Crisis Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Corporate and Private-Sector Applications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Government and Public-Sector Crisis Communication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nonprofit and NGO Reputation Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Healthcare and Public Health Crisis Communication"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Higher Education Crisis Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sports, Entertainment, and Celebrity Reputation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Personal and Executive Reputation Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Tools, Technology, and Vendor Landscape",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Media and Social Monitoring Platforms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reputation and Brand Tracking Platforms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stakeholder Intelligence Platforms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Crisis Simulation and Training Software"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selecting and Managing Crisis Vendors and Agencies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Case Study Methodology and Historical Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Frameworks for Analyzing Historical Crises"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comparative Case Study Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Learning from Crisis Failures and Successes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building a Personal Case Study Library"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applying Precedent to Novel Crisis Scenarios"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Professional Practice and Career Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Professional Certifications and Accreditation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Agency versus In-House Career Paths"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building a Crisis Consulting Practice"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Professional Associations and Continuing Education"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a Personal Crisis Response Portfolio"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ongoing Skill Development in a Changing Field"
+        }
+      ]
+    }
+  ]
+}
