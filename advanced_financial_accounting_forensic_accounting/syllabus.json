@@ -1,0 +1,1841 @@
+{
+  "topic": "Advanced Financial Accounting & Forensic Accounting",
+  "topic_slug": "advanced_financial_accounting_forensic_accounting",
+  "generated_at": "2026-09-16T03:35:58.007842",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Conceptual Framework, Standard-Setting, and Professional Literature",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Objectives of financial reporting and qualitative characteristics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Recognition, measurement, and disclosure concepts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "GAAP hierarchy and the FASB Accounting Standards Codification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "IASB Conceptual Framework and IFRS structure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Standard-setting process and SEC rulemaking authority"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethics and professional responsibility in financial reporting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Business Combinations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Acquisition method under ASC 805 and IFRS 3"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying the acquirer and the acquisition date"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Recognizing and measuring identifiable assets and liabilities assumed"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Goodwill recognition and bargain purchase gains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contingent consideration and acquisition-related costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Step acquisitions and changes in ownership interest"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Consolidated Financial Statements: Acquisition Date",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Consolidation theories and the entity concept"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Consolidation worksheet mechanics at acquisition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fair value allocation of identifiable net assets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Noncontrolling interest measurement at acquisition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Push-down accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Consolidated Financial Statements: Subsequent to Acquisition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Equity method accounting for the parent's investment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Amortization of acquisition-date fair value adjustments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Consolidation worksheet procedures in subsequent periods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consolidated statement of cash flows"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consolidated income tax provision considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Intercompany Transactions and Eliminations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Intercompany inventory transfers upstream and downstream"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Intercompany fixed asset and depreciable asset transfers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intercompany bond holdings and constructive retirement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intercompany services, leases, and management fees"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Unrealized profit elimination and deferred tax effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Noncontrolling Interests and Complex Ownership Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Measurement and presentation of noncontrolling interests"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Changes in parent ownership percentage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Multi-level and reciprocal ownership structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Consolidated earnings per share with noncontrolling interests"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Subsidiary preferred stock considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Variable Interest Entities and Off-Balance-Sheet Arrangements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "VIE identification criteria under ASC 810"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determining the primary beneficiary"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Consolidation and disclosure of VIEs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Securitization structures and special purpose entities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Off-balance-sheet financing arrangements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Foreign Currency Transactions and Translation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foreign currency transaction accounting and remeasurement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Functional currency determination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Current rate method versus temporal method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cumulative translation adjustment and other comprehensive income"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Highly inflationary economies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hedging foreign currency exposures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Derivatives and Hedge Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying and classifying derivative instruments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fair value hedge accounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cash flow hedge accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Net investment hedges"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hedge effectiveness assessment and documentation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Embedded derivatives and bifurcation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Partnership Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Partnership formation and capital account maintenance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Allocation of profits, losses, and special allocations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Admission and withdrawal of partners"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Partnership dissolution and liquidation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Schedule of safe payments and installment liquidation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Governmental Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fund accounting structure and fund types"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Modified accrual versus full accrual basis of accounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Government-wide financial statements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Budgetary accounting and encumbrances"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Annual Comprehensive Financial Report structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "GASB standards and the financial reporting model"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Not-for-Profit Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Net asset classification with and without donor restrictions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contribution recognition and conditional promises to give"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Statement of activities and functional expense reporting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Endowments and split-interest agreements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Healthcare and higher education reporting issues"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Segment Reporting and Interim Financial Reporting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Operating segment identification and the management approach"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Segment disclosure requirements and aggregation criteria"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chief operating decision maker and segment expense disclosures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interim reporting principles and the integral view"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Seasonal and discrete items in interim periods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "SEC Reporting and Regulatory Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "SEC reporting requirements for Forms 10-K, 10-Q, and 8-K"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regulation S-X and Regulation S-K requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Management's Discussion and Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Non-GAAP financial measures and Regulation G"
+        },
+        {
+          "item_index": 5,
+          "item_title": "XBRL tagging and structured data reporting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Advanced Revenue Recognition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Five-step revenue recognition model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying performance obligations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Variable consideration and constraints"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Principal versus agent considerations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Licensing, royalties, and long-term contracts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contract costs and contract modifications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Advanced Lease Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lease classification criteria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lessee accounting for right-of-use assets and lease liabilities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lessor accounting for sales-type, direct financing, and operating leases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sale-leaseback transactions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lease modifications and remeasurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sublease accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Advanced Income Tax Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Deferred tax asset and liability recognition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuation allowances and realizability assessments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Uncertain tax positions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intraperiod tax allocation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Accounting for changes in tax law"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multinational and cross-border tax considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Earnings per Share and Complex Capital Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basic earnings per share computation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Diluted earnings per share and the treasury stock method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Convertible securities and the if-converted method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Contingently issuable shares"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Options, warrants, and participating securities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Share-Based Compensation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of equity-based and liability-based awards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Grant-date fair value measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Vesting conditions and expense recognition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Modifications, cancellations, and settlements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Employee stock purchase plans and nonemployee awards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Bankruptcy, Reorganization, and Liquidation Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Statement of affairs and liquidation basis accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Chapter 7 liquidation proceedings"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chapter 11 reorganization accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fresh-start reporting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trustee accounting and creditor claim priority"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Digital Assets and Cryptocurrency Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scope and measurement of crypto asset holdings"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fair value measurement and disclosure of digital assets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Accounting for digital asset transfers and custody arrangements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stablecoin classification considerations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Distinguishing digital asset, security, and commodity treatment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Fair Value Measurement Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fair value hierarchy and input levels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuation techniques for Level 2 and Level 3 inputs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fair value disclosures and sensitivity analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Impairment testing using fair value measurements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Business enterprise versus asset-level fair value applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Specialized Industry Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Insurance contract accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Extractive industries and agriculture accounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Real estate and construction contract accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Financial institution and banking industry accounting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Government grant recognition for business entities"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Software cost capitalization and cloud computing arrangements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "IFRS and Global Convergence Issues",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Key differences between US GAAP and IFRS"
+        },
+        {
+          "item_index": 2,
+          "item_title": "First-time adoption of IFRS"
+        },
+        {
+          "item_index": 3,
+          "item_title": "IFRS for small and medium-sized entities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Convergence history and remaining divergence areas"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reconciliation and dual-reporting considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Advanced Financial Statement Analysis and Earnings Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quality of earnings assessment techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Non-GAAP measures and adjusted earnings analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Disaggregated expense disclosures and analytical use"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Off-balance-sheet exposure identification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common-size and trend analysis for complex entities"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Introduction to Forensic Accounting and Fraud Examination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of forensic accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forensic accounting versus auditing versus fraud examination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "History and evolution of the fraud examination profession"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Career paths in corporate, public practice, and government"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overview of professional organizations and the CFE credential"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Fraud Theory, Criminology, and the Psychology of Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The fraud triangle: pressure, opportunity, and rationalization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The fraud diamond and extended fraud models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cressey's theory and Sutherland's differential association"
+        },
+        {
+          "item_index": 4,
+          "item_title": "White-collar crime typologies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Behavioral red flags of fraud perpetrators"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Fundamental Accounting Concepts for Fraud Examiners",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Financial statement structure and the accounting cycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Internal control frameworks and the COSO model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Books, records, and source document integrity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common manipulations affecting each financial statement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applying accounting knowledge to detect anomalies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Financial Statement Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Revenue recognition fraud schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Asset and inventory overstatement schemes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Understated liabilities and expenses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Improper and misleading disclosures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Earnings management versus fraudulent reporting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Management override of internal controls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Asset Misappropriation: Cash and Fraudulent Disbursements",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cash larceny and skimming schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Billing schemes and shell company fraud"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Payroll and expense reimbursement schemes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Check tampering schemes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Register disbursement schemes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Asset Misappropriation: Inventory, Assets, and Other Schemes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Inventory theft and concealment methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Misuse and misappropriation of noncash assets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Larceny of company property"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fixed asset misappropriation schemes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Physical and perpetual inventory control weaknesses"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Corruption Schemes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bribery and kickback schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Illegal gratuities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Economic extortion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conflicts of interest"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bid-rigging and vendor collusion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Identity Theft, Data Theft, and Consumer Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identity theft methods and detection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data breach and data theft schemes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Consumer scams and confidence schemes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Elder financial exploitation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mass-marketing and investment fraud targeting consumers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Cyberfraud and Cybercrime",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Business email compromise and phishing schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ransomware and extortion-based cybercrime"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Account takeover and payment redirection fraud"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dark web marketplaces and cyber-enabled fraud"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cybersecurity fundamentals for forensic accountants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Money Laundering and Terrorist Financing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stages of money laundering: placement, layering, integration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bank Secrecy Act and anti-money laundering regulations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Suspicious activity reports and currency transaction reports"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trade-based money laundering"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Terrorist financing methods and detection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Securities Fraud and Payment Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Market manipulation and insider trading schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ponzi and pyramid schemes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Broker-dealer and investment adviser fraud"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Check, card, and wire payment fraud"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Real-time and peer-to-peer payment fraud"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Financial Institution Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Loan fraud and credit application fraud"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deposit and account fraud"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Embezzlement within financial institutions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regulatory examination and reporting obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bank fraud statutes and enforcement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Insurance Fraud and Health Care Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Insurance claims fraud schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Premium and application fraud"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Health care billing and coding fraud"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Medicare and Medicaid fraud schemes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Insurance fraud investigation techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Tax Fraud and Bankruptcy Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Individual and corporate tax evasion schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Payroll tax fraud"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fraudulent transfers and concealment of assets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bankruptcy fraud and abuse of the bankruptcy process"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coordination between tax and fraud investigations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Public-Sector, Government, and Procurement Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Procurement and contract fraud schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bid-rigging in government contracting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Grant fraud and misuse of public funds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Political and public corruption schemes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Oversight mechanisms in government fraud prevention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Planning and Managing a Fraud Examination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Predication and case initiation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Developing a fraud examination plan"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fraud theory approach and hypothesis testing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing examination teams and resources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Coordinating with legal counsel and stakeholders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Evidence Principles, Collection, and Chain of Custody",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Types and sources of evidence in fraud examinations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Chain of custody requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Document examination and authentication"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Admissibility standards for evidence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Preserving evidentiary integrity throughout an investigation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Digital Evidence, Computer Forensics, and E-Discovery",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital evidence identification and preservation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data acquisition and imaging techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Email, metadata, and mobile device forensics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "E-discovery process and litigation holds"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chain of custody for digital evidence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Forensic Data Analysis and Analytical Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Benford's Law and digital analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Data mining and anomaly detection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ratio and trend analysis for fraud detection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Continuous monitoring and transaction testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Visualization techniques for forensic findings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Tracing Illicit Transactions and Asset Tracing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Net worth method"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expenditure and source-and-application-of-funds methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bank record reconstruction and analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tracing funds through shell entities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-border asset tracing challenges"
+        }
+      ]
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "Information Sources and Investigative Research",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Public records and open-source research"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Corporate registries and beneficial ownership research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Subpoenas and third-party record requests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Database and commercial information sources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Verifying and corroborating investigative findings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 47,
+      "chapter_title": "Interview Theory and Application",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cognitive interview techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Behavioral analysis and deception detection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structuring the fraud examination interview"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Admission-seeking interview techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Legal and ethical considerations in interviewing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 48,
+      "chapter_title": "Covert Operations and Surveillance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Planning and authorizing covert investigative techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Physical and electronic surveillance methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Undercover operations considerations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Legal limits on covert investigative activity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Documenting covert investigation findings"
+        }
+      ]
+    },
+    {
+      "chapter_index": 49,
+      "chapter_title": "Legal Systems and the Law Related to Fraud",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Overview of civil and criminal legal systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Elements of fraud under civil and criminal law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rules of evidence and discovery"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Search and seizure and constitutional considerations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "International legal cooperation in fraud cases"
+        }
+      ]
+    },
+    {
+      "chapter_index": 50,
+      "chapter_title": "Criminal Prosecutions and Non-Criminal Legal Actions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Criminal referral and prosecution process"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Civil litigation and recovery actions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Employment actions and internal discipline"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regulatory and administrative proceedings"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Parallel proceedings considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 51,
+      "chapter_title": "Reporting Findings and Testimony",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structuring the fraud examination report"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Documenting findings objectively and defensibly"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Expert witness qualification standards"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deposition preparation and testimony"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Communicating findings to non-financial audiences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 52,
+      "chapter_title": "Fraud Risk Assessment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fraud risk assessment frameworks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying fraud risk factors by business process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "COSO fraud risk management principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Prioritizing and documenting fraud risks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Linking fraud risk assessment to control testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 53,
+      "chapter_title": "Fraud Prevention Programs and Internal Controls",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Designing internal controls to prevent and detect fraud"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Segregation of duties and authorization controls"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Whistleblower programs and reporting hotlines"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Employee screening and code of conduct programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vendor and third-party due diligence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 54,
+      "chapter_title": "Fraud Risk Management and Corporate Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Enterprise fraud risk management programs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Role of the board and audit committee"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Governance structures for fraud oversight"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fraud risk management guide implementation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monitoring and continuous improvement of anti-fraud programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 55,
+      "chapter_title": "Auditors' Responsibilities for Fraud Detection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "External auditor responsibilities under professional standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Internal audit's role in fraud detection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "PCAOB and AICPA standards related to fraud"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Communicating fraud findings to those charged with governance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Limitations of audits in detecting fraud"
+        }
+      ]
+    },
+    {
+      "chapter_index": 56,
+      "chapter_title": "Ethics for Fraud Examiners and Forensic Accountants",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Professional code of ethics for fraud examiners"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Independence, objectivity, and confidentiality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Competence and due professional care"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conflicts of interest in forensic engagements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional skepticism in fraud examinations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 57,
+      "chapter_title": "Understanding Organizational and Financial Crime",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Organizational culture and fraud risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Management override and tone at the top"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Systemic and organized financial crime"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Industry-specific financial crime patterns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Global perspectives on occupational fraud"
+        }
+      ]
+    },
+    {
+      "chapter_index": 58,
+      "chapter_title": "Litigation Support and Expert Witness Services",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Engagement letters and scope of forensic engagements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Litigation support workplan development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Working with legal counsel throughout litigation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rebuttal analysis and opposing expert critique"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Settlement and mediation support"
+        }
+      ]
+    },
+    {
+      "chapter_index": 59,
+      "chapter_title": "Economic Damages and Lost Profits Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lost profits and business interruption calculations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "But-for analysis and causation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mitigation and offsetting benefits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Present value and discounting of damages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Commercial damages in contract and tort disputes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 60,
+      "chapter_title": "Business Valuation for Forensic Purposes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Income, market, and asset-based valuation approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuation in shareholder and partnership disputes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Discounts for lack of marketability and control"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Standards of value in litigation contexts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Valuation report writing for litigation support"
+        }
+      ]
+    },
+    {
+      "chapter_index": 61,
+      "chapter_title": "Matrimonial and Family Law Forensic Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Marital asset tracing and characterization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Income determination for support calculations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Business valuation in divorce proceedings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hidden asset and lifestyle analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Working with family law attorneys"
+        }
+      ]
+    },
+    {
+      "chapter_index": 62,
+      "chapter_title": "Bankruptcy and Insolvency Forensic Investigations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fraudulent transfer and preference analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solvency and insolvency analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Forensic accounting in Ponzi scheme unwinding"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trustee and receiver investigative engagements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Creditor recovery analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 63,
+      "chapter_title": "Construction Claims and Contract Fraud Investigation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Construction cost overrun and claims analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Change order and contract fraud schemes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Delay and disruption damages analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Progress billing fraud"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Surety and performance bond claims"
+        }
+      ]
+    },
+    {
+      "chapter_index": 64,
+      "chapter_title": "Anti-Bribery and Anti-Corruption Compliance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Foreign Corrupt Practices Act provisions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "UK Bribery Act and other global anti-corruption regimes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Anti-corruption compliance program design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Third-party and agent due diligence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Internal investigations of corruption allegations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 65,
+      "chapter_title": "Blockchain, Cryptocurrency, and Digital Asset Forensics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Blockchain fundamentals for investigators"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cryptocurrency transaction tracing techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wallet analysis and exchange cooperation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decentralized finance fraud schemes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulatory frameworks for digital asset investigations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 66,
+      "chapter_title": "Artificial Intelligence and Advanced Analytics in Fraud Detection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Machine learning applications in fraud detection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predictive risk scoring and anomaly detection models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Explainable AI and defensibility of findings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Continuous forensic monitoring systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Limitations, bias, and validation of AI-based tools"
+        }
+      ]
+    },
+    {
+      "chapter_index": 67,
+      "chapter_title": "Behavioral Forensics and Continuous Fraud Monitoring",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Behavioral forensics as a discipline"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Integrating psychology with forensic accounting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building continuous monitoring programs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Human factors in fraud detection systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Combining technology with professional judgment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 68,
+      "chapter_title": "Professional Certification, Standards, and Career Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "CFE, CPA, and CFF credential pathways"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Continuing professional education requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building a career in forensic accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Professional organizations and industry resources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Specialization tracks within forensic accounting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 69,
+      "chapter_title": "Capstone Fraud Examination and Integrated Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Comprehensive fraud examination simulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Integrating advanced accounting and forensic techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cross-border and multi-scheme case analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Presenting findings to a mock board or tribunal"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reflective practice and lessons-learned review"
+        }
+      ]
+    }
+  ]
+}

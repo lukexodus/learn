@@ -1,0 +1,1253 @@
+{
+  "topic": "Advanced Statistics & Econometrics",
+  "topic_slug": "advanced_statistics_econometrics",
+  "generated_at": "2026-09-17T09:41:43.583479",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Mathematical Foundations for Statistics and Econometrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vector spaces and linear independence"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Matrix algebra and rank"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Eigenvalues, eigenvectors, and quadratic forms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Matrix decompositions and their applications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Matrix calculus and optimization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Convex analysis and constrained optimization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Real analysis and limit concepts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Measure-theoretic preliminaries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Probability Theory Foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sample spaces, events, and probability axioms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conditional probability and Bayes theorem"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Random variables and probability distributions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Expectation, variance, and moment generating functions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Joint, marginal, and conditional distributions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Independence and dependence structures"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common discrete and continuous distributions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Transformations of random variables"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Advanced Probability Theory and Asymptotics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Measure-theoretic probability and sigma-algebras"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conditional expectation as a projection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Modes of stochastic convergence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Laws of large numbers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Central limit theorems and their variants"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The delta method and continuous mapping theorem"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Stochastic order notation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Empirical process theory"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Extreme value theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Statistical Estimation Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Point estimation and sufficiency"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exponential family distributions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cramer-Rao lower bound and efficiency"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Method of moments estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Maximum likelihood estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "M-estimation and Z-estimation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Robust estimation and influence functions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Shrinkage estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Likelihood-Based Inference",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The likelihood function and score equations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fisher information and asymptotic variance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Profile and concentrated likelihood"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quasi-maximum likelihood estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sandwich variance estimation under misspecification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Information criteria for model selection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Hypothesis Testing and Interval Estimation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Neyman-Pearson framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Likelihood ratio, Wald, and Lagrange multiplier tests"
+        },
+        {
+          "item_index": 3,
+          "item_title": "p-values and statistical significance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multiple testing corrections and false discovery rate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Confidence intervals and confidence sets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nonparametric and permutation tests"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Power analysis and sample size determination"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Analysis of variance and experimental design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Bayesian Statistical Inference",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Prior distributions and conjugate families"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Posterior distributions and credible intervals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hierarchical and multilevel Bayesian models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gibbs sampling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Metropolis-Hastings algorithms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Variational inference"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bayesian model comparison and Bayes factors"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Bayesian nonparametric methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Resampling, Bootstrap, and Simulation Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nonparametric bootstrap"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Parametric bootstrap"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Block bootstrap for dependent data"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Jackknife estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Permutation and randomization inference"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Monte Carlo experiment design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Simulated method of moments"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Indirect inference"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "The Classical Linear Regression Model",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gauss-Markov assumptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ordinary least squares derivation and properties"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Frisch-Waugh-Lovell theorem"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Goodness of fit measures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multicollinearity diagnostics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Omitted variable bias"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Measurement error and attenuation bias"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Functional form specification testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Generalized Least Squares and Robust Inference",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Heteroskedasticity detection and testing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Weighted least squares"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Feasible generalized least squares"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Autocorrelation and Newey-West standard errors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Heteroskedasticity- and autocorrelation-consistent covariance estimators"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Clustered standard errors"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bootstrap inference for regression models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Endogeneity and Instrumental Variables",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of endogeneity in regression models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Simultaneity and reverse causality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Instrumental variables estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Two-stage least squares"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Weak instrument diagnostics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overidentification testing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Control function approaches"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Local average treatment effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Generalized Method of Moments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Moment conditions and identification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "GMM estimator derivation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Efficient GMM and optimal weighting matrices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Overidentifying restrictions testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The continuous updating estimator"
+        },
+        {
+          "item_index": 6,
+          "item_title": "GMM in time series and panel contexts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Discrete Choice Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Latent variable framework for binary choice"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Logit and probit models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Marginal effects and interpretation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multinomial and conditional logit models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ordered logit and probit models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nested logit and independence of irrelevant alternatives"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mixed logit and random parameters models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Limited Dependent Variable and Censored Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Censoring and truncation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Tobit model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Truncated regression models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Two-part and hurdle models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sample selection and the Heckman correction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Bivariate and multivariate probit models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Count Data and Duration Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Poisson regression"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Overdispersion and the negative binomial model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Zero-inflated count models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hazard functions and survival analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Parametric duration models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Cox proportional hazards model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Competing risks models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Quantile Regression",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conditional quantile functions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Estimation of quantile regression models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inference for quantile regression"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quantile treatment effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Panel and instrumental variable quantile regression"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Sample Selection and Treatment Effect Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Selection bias in observational data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Roy model of selection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Control function methods for treatment effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Switching regression models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Marginal treatment effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Static Panel Data Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Panel data structure and notation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pooled OLS and its limitations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fixed effects estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Random effects estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Hausman specification test"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Clustered and panel-robust inference"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Unbalanced panels and attrition"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Dynamic Panel Data Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dynamic panel bias"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Anderson-Hsiao estimator"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Arellano-Bond difference GMM"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Blundell-Bond system GMM"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Panel unit root tests"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Panel cointegration methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nonlinear panel data models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Univariate Time Series Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stationarity and weak dependence"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Autocorrelation and partial autocorrelation functions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Autoregressive models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Moving average models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ARMA and ARIMA modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Model identification, estimation, and diagnostics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Seasonal adjustment and decomposition"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Forecasting with univariate models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Unit Roots, Cointegration, and Spurious Regression",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Random walks and unit root processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The augmented Dickey-Fuller test"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Phillips-Perron and KPSS tests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spurious regression"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Engle-Granger two-step cointegration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Johansen cointegration procedure"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Vector error correction models"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Structural break testing"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Long memory and fractionally integrated processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Vector Autoregression and Structural VAR",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "VAR model specification and estimation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lag length selection and stability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Granger causality testing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Impulse response functions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Forecast error variance decomposition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structural VAR identification schemes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sign restrictions for identification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Local projections"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Volatility Modeling and ARCH/GARCH",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stylized facts of financial time series"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The ARCH model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The GARCH model and extensions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Asymmetric volatility models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multivariate GARCH models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stochastic volatility models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Realized volatility estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "State-Space Models and Regime-Switching",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "State-space representation of time series"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Kalman filter"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Kalman smoother"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Maximum likelihood estimation via the Kalman filter"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Markov-switching models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Time-varying parameter models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Causal Inference Foundations and Potential Outcomes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Rubin causal model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The stable unit treatment value assumption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Randomized controlled trials"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Average treatment effects and heterogeneity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Identification assumptions: ignorability and overlap"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Internal versus external validity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Quasi-Experimental Research Designs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Natural experiments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Regression discontinuity design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Difference-in-differences estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Parallel trends and its violations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Staggered treatment timing and modern estimators"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Event-study designs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Synthetic control methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Matching, Weighting, and Propensity Score Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Propensity score estimation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Matching methods and covariate balance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inverse probability weighting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Doubly robust estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regression adjustment for treatment effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Causal Machine Learning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Double and debiased machine learning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Neyman orthogonality and cross-fitting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Causal forests and generalized random forests"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Heterogeneous treatment effect estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Targeted maximum likelihood estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Policy learning and treatment assignment rules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Nonparametric and Semiparametric Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Kernel density estimation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bandwidth selection methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nonparametric regression"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Series and sieve estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Partially linear models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Single-index models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Additive models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "High-Dimensional Statistics and Regularization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ridge regression"
+        },
+        {
+          "item_index": 2,
+          "item_title": "LASSO and variable selection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Elastic net and adaptive LASSO"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Post-selection inference"
+        },
+        {
+          "item_index": 5,
+          "item_title": "High-dimensional covariance estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Factor-augmented regression"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Machine Learning for Econometrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cross-validation and model selection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Decision trees and random forests"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gradient boosting methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Support vector machines"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Neural networks and deep learning fundamentals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Prediction versus causal inference tradeoffs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Interpretability of machine learning models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Structural Econometrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identification in structural models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural versus reduced-form estimation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structural demand estimation (BLP method)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dynamic discrete choice models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Structural models of auctions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Calibration methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Simulation-based structural estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Multivariate Statistical Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principal component analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Factor analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cluster analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Discriminant analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Canonical correlation analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multivariate analysis of variance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Spatial and Network Econometrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spatial weight matrices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tests for spatial autocorrelation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Spatial lag and spatial error models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spatial panel data models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geographically weighted regression"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Peer effects and social interactions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Network formation and econometrics of networks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Financial Econometrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Asset return characteristics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The capital asset pricing model and factor models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tests of market efficiency"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Event study methodology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Value at risk and expected shortfall"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Market microstructure and high-frequency data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Applied Macroeconometrics and Forecasting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Business cycle measurement and analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bayesian VAR models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dynamic stochastic general equilibrium model estimation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Forecast evaluation criteria"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Combining and averaging forecasts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nowcasting methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Research Design, Reproducibility, and Communication",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Designing credible empirical research"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pre-registration and pre-analysis plans"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Replication and robustness checks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Statistical software for econometrics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reproducible data workflows"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Communicating quantitative results"
+        }
+      ]
+    }
+  ]
+}

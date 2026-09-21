@@ -1,0 +1,937 @@
+{
+  "topic": "Lean Manufacturing & The Toyota Production System (TPS)",
+  "topic_slug": "lean_manufacturing_the_toyota_production_system_tps",
+  "generated_at": "2026-09-18T17:05:36.627239",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Origins and Historical Foundations of TPS",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Japanese craftsmanship traditions and the concept of monozukuri"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sakichi Toyoda and the automatic loom"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The birth of Jidoka from the Toyoda loom"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Kiichiro Toyoda and the origins of just in time thinking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Taiichi Ohno and the development of TPS at Toyota"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Shigeo Shingo's contributions to SMED and poka yoke"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Post war Japan resource constraints and their influence on TPS"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Studying Ford's mass production system and the American supermarket model"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Eiji Toyoda and the formalization of the Toyota management system"
+        },
+        {
+          "item_index": 10,
+          "item_title": "From TPS to the global Lean Manufacturing movement"
+        },
+        {
+          "item_index": 11,
+          "item_title": "The Machine That Changed the World and the MIT International Motor Vehicle Program"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Masaaki Imai and the global spread of Kaizen practice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Core Philosophy and the Toyota Way",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The House of TPS model and its structural metaphor"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The two pillars of Just in Time and Jidoka"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Long term philosophy as the foundation of decision making"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The origin and structure of the Toyota Way 2001 document"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuous improvement as a guiding pillar of the Toyota Way"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Respect for people as a guiding pillar of the Toyota Way"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Liker's fourteen management principles overview"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Safety, Quality, Delivery, Cost, and Morale as an operating priority framework"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Toyota Business Practices as a structured thinking framework"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Defining Lean versus TPS in terminology, scope, and origin"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Waste, Value, and the Vocabulary of Lean",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining value from the customer's perspective"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Value added, non value added, and necessary non value added work"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Muda and the seven classical wastes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The eighth waste of underutilized human talent and creativity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mura as unevenness in process and demand"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Muri as overburden on people and equipment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The interrelationship between muda, mura, and muri"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Identifying hidden waste in indirect, administrative, and knowledge work"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Value Stream Mapping and Process Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purpose and scope of value stream mapping"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Value stream mapping symbols and conventions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Conducting a current state map"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Calculating takt time, cycle time, and lead time"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Process cycle efficiency and the value added ratio"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building a future state map and identifying kaizen bursts"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Distinguishing material flow from information flow"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Door to door versus extended, end to end value stream analysis"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Facilitating a value stream mapping workshop"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Just in Time Production and Pull Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Push versus pull production philosophy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The supermarket concept and its origins"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Principles of pull based replenishment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "One piece flow and continuous flow design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Distinguishing buffer stock, safety stock, and strategic stock"
+        },
+        {
+          "item_index": 6,
+          "item_title": "FIFO lanes and sequenced pull"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Synchronizing upstream and downstream processes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Practical constraints on achieving true flow"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Kanban Systems in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Kanban card types of production, withdrawal, and signal kanban"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kanban rules and operating principles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Calculating the number of kanban cards required"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electronic kanban versus card based kanban"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Two bin and other visual replenishment systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Kanban post design and card circulation logic"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Troubleshooting common kanban system failures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Production Leveling and Flow Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Heijunka as the concept and purpose of production leveling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building and operating a heijunka box"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mixed model sequencing techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cellular manufacturing and U shaped cell design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chaku chaku line concepts and load load lines"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi process handling and operator mobility"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Line balancing and yamazumi charts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Karakuri devices and low cost mechanical automation"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Designing layouts that minimize transport and motion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Jidoka and Built In Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Autonomation as automation with a human touch"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tracing Jidoka's origin to the automatic loom"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stopping the line at the point of abnormality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Andon system design and escalation protocols"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Separating human work from machine work"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fixed position stop systems on moving lines"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Source inspection versus successive process inspection"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Building quality in versus inspecting quality in"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Standardized Work",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The three elements of takt time, work sequence, and standard work in process"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Standardized work combination tables"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Standardized work charts and job breakdown sheets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Standardized work as the baseline for kaizen"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Updating standards after improvement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Standardized work versus rigid work instructions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Training operators to follow and improve standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Workplace Organization and Visual Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "5S methodology of sort, set in order, shine, standardize, and sustain"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conducting and auditing 5S implementation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Visual controls versus visual displays"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Andon boards and real time performance visualization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Obeya war room design and use"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gemba walks and their purpose and practice"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Management by sight and abnormality detection"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Color coding, shadow boards, and floor marking conventions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Kaizen and Scientific Problem Solving",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The kaizen mindset and philosophy of continuous small steps"
+        },
+        {
+          "item_index": 2,
+          "item_title": "PDCA as the Plan Do Check Act cycle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "SDCA versus PDCA"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Kaizen events and rapid improvement workshops"
+        },
+        {
+          "item_index": 5,
+          "item_title": "A3 thinking and the A3 report structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Five Whys root cause analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ishikawa fishbone diagrams"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Genchi Genbutsu as going to see for yourself"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Toyota's structured eight step problem solving process"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Distinguishing kaizen, kaikaku, and kakushin"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Toyota Kata and Coaching for Improvement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Improvement Kata's four step pattern"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Establishing a challenge and target condition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Grasping the current condition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conducting PDCA experiments toward the target condition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Coaching Kata and its five core questions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Second coach development and mentoring chains"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Building organization wide scientific thinking habits"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Kata practice routines and storyboards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Quick Changeover and Equipment Reliability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "SMED and the Single Minute Exchange of Die methodology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Distinguishing internal and external setup elements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Converting internal setup steps to external setup"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Streamlining and standardizing remaining setup steps"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Total Productive Maintenance overview and its pillars"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Autonomous maintenance performed by operators"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Planned and predictive maintenance"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Calculating Overall Equipment Effectiveness (OEE)"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The six big equipment losses"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Early equipment management and maintenance prevention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Quality Systems and Poka Yoke",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Poka yoke concepts and classification of error proofing devices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contact, fixed value, and motion step poka yoke methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Designing poka yoke into processes and products"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Statistical process control fundamentals in a lean context"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality circles and frontline quality ownership"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Total Quality Management's relationship to TPS"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hansei as structured reflection on failure"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Yokoten as horizontal deployment of lessons learned"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "People Development and Toyota's Human Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Respect for people as an operating principle rather than a slogan"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Training Within Industry and the Job Instruction module"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Training Within Industry and the Job Methods module"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Training Within Industry and the Job Relations module"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nemawashi as building consensus before deciding"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Teian employee suggestion systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Jishuken as self study and management led kaizen"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Shojinka and flexible, multi skilled workforce design"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The sensei and deshi learning relationship"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Safety as a precondition for sustainable improvement"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Building a true learning organization culture"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Leadership, Management Systems, and Hoshin Kanri",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hoshin Kanri as strategy and policy deployment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The catchball process for aligning goals across levels"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building and using an X matrix"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Defining and cascading True North metrics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Leader standard work"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Daily management and tiered huddle systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Servant leadership in the Toyota model"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Toyota's approach to management accountability and follow up"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Lean Metrics and Performance Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Choosing meaningful metrics over vanity metrics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tracking lead time, cycle time, and throughput"
+        },
+        {
+          "item_index": 3,
+          "item_title": "First time through rate and rolled throughput yield"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Work in process levels and inventory turns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overall labor effectiveness"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Designing visual performance boards and tiered metrics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Lean accounting fundamentals"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Avoiding metric driven dysfunction"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Lean Supply Chain and Supplier Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supplier partnership philosophy versus arm's length sourcing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The keiretsu model and its modern adaptations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Extending kanban and pull systems to suppliers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Milk runs and synchronized logistics routing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Point of use storage and delivery design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Joint kaizen and supplier development programs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Balancing just in time efficiency with supply risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Leading and Sustaining a Lean Transformation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common phases of a lean transformation roadmap"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Common reasons lean implementations fail"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Change management principles for lean adoption"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building an internal kaizen promotion office"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sustaining gains through audits and layered standard work"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lean maturity models and organizational self assessment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Recognizing and avoiding tool only, imitation lean"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Adapting TPS principles across different national and organizational cultures"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Lessons from Toyota's own setbacks and recalls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Lean Beyond Manufacturing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lean in administrative and office processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lean in healthcare delivery"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lean in software development and IT operations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lean product and process development principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Set based concurrent engineering in product design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lean construction principles"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Lean in retail and service operations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Adapting TPS tools to low volume, high mix environments"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Complementary and Adjacent Methodologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lean Six Sigma integration and the belt certification structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The DMAIC framework of define, measure, analyze, improve, and control"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparing PDCA and DMAIC problem solving cycles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Theory of Constraints and its relationship to lean thinking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Agile and Scrum parallels with lean principles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lean Startup and the build measure learn loop"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Kanban Method in knowledge work versus manufacturing kanban"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Modern and Emerging Frontiers in Lean",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital Lean and Lean 4.0 as the convergence with Industry 4.0"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Industrial Internet of Things and real time andon systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Digital twins and simulation for lean process design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Data analytics, artificial intelligence, and predictive quality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The just in time versus just in case resilience debate"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sustainability and green lean manufacturing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Supply chain risk, reshoring, and adapting lean strategy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Connected workers and augmented reality on the shop floor"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Mastery, Assessment, and the Continuing Journey",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Shingo Model's guiding principles, systems, tools, and results"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The three insights of organizational excellence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Shingo Prize assessment and recognition levels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lean certification paths and professional bodies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a personal kaizen practice"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Conducting gemba visits and benchmarking other organizations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Using simulations and exercises to internalize lean concepts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Teaching and coaching others as a path to mastery"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Staying current through communities, conferences, and publications"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Capstone practice of leading an end to end kaizen initiative"
+        }
+      ]
+    }
+  ]
+}

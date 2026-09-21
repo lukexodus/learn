@@ -1,0 +1,837 @@
+{
+  "topic": "Semiconductor Advanced Packaging & Heterogeneous Integration",
+  "topic_slug": "semiconductor_advanced_packaging_heterogeneous_integration",
+  "generated_at": "2026-09-17T16:30:58.708138",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations: Semiconductor Devices, Materials, and Electrical, Thermal, and Mechanical Principles",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Semiconductor band theory and carrier transport fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "CMOS device structure and scaling trends"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Materials science of metals, polymers, ceramics, and glass used in packaging"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electrical fundamentals: resistance, capacitance, and inductance in interconnects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thermal engineering fundamentals: conduction, convection, and radiation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mechanical engineering fundamentals: stress, strain, and CTE mismatch"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reliability physics fundamentals: failure modes and acceleration factors"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Front-end-of-line and back-end-of-line process overview"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "History and Evolution of IC Packaging",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Through-hole and early package formats: DIP and PGA"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Surface-mount technology and leadframe packages"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wire bonding era and ball grid array packages"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rise of flip chip and controlled collapse chip connection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Moore's Law scaling limits and the shift to heterogeneous integration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "From ITRS to IRDS and the origins of the Heterogeneous Integration Roadmap"
+        },
+        {
+          "item_index": 7,
+          "item_title": "More Moore versus More than Moore paradigms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Packaging Fundamentals and Interconnect Hierarchy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Package interconnect level taxonomy from die to board"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Die attach materials and processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wire bonding: ball bonding and wedge bonding techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leadframe and laminate substrate package families"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Molding compounds and encapsulation processes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Package marking, singulation, and final test flow"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common package form factors: QFN, BGA, LGA, and CSP"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Flip Chip and Bump Interconnect Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "C4 solder bump metallurgy and evolution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Copper pillar bump technology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Under-bump metallization design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Flip chip assembly and thermocompression bonding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Underfill processes: capillary, molded, and no-flow underfill"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Flip chip electrical and thermo-mechanical reliability"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bump pitch scaling trends and physical limits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Wafer-Level and Panel-Level Packaging",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fan-in wafer-level chip-scale packaging"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fan-out wafer-level packaging principles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Redistribution layer design and fabrication"
+        },
+        {
+          "item_index": 4,
+          "item_title": "eWLB and InFO process flows"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Die shift, warpage, and known-good-die placement accuracy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Panel-level packaging rationale and rectangular-panel economics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "TSMC CoPoS and emerging panel-based packaging platforms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Through-Silicon Via Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "TSV formation approaches: via-first, via-middle, and via-last"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deep reactive ion etching and the Bosch process for TSV"
+        },
+        {
+          "item_index": 3,
+          "item_title": "TSV copper fill and void-free electroplating challenges"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wafer thinning, temporary bonding, and de-bonding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "TSV reveal and backside redistribution processing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "TSV electrical modeling and keep-out zone design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "TSV-induced stress and mechanical reliability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "2.5D Integration and Interposer Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Silicon interposer design and fabrication"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organic and RDL-based interposer alternatives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interposer routing and signal integrity considerations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "TSMC CoWoS family: CoWoS-S, CoWoS-L, and CoWoS-R"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Intel EMIB and EMIB-T embedded bridge architecture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Glass interposers and photonic-compatible substrates"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Alternative glass-based fan-out 2.5D platforms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "3D Die Stacking and Hybrid Bonding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wafer-to-wafer, die-to-wafer, and die-to-die bonding flows"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Copper-to-copper hybrid bonding mechanics and dielectric bonding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hybrid bond pitch scaling roadmap and overlay and alignment control"
+        },
+        {
+          "item_index": 4,
+          "item_title": "TSMC SoIC and Intel Foveros and Foveros Direct platforms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Foveros-R and Foveros-B variant architectures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermocompression versus hybrid bonding trade-offs"
+        },
+        {
+          "item_index": 7,
+          "item_title": "3D stacking implications for thermal and power delivery design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Chiplets and Modular System Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Chiplet architecture philosophy and die disaggregation economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Universal Chiplet Interconnect Express protocol stack"
+        },
+        {
+          "item_index": 3,
+          "item_title": "UCIe specification evolution from 1.0 through 3.0"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bunch of Wires and other die-to-die interconnect standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chiplet ecosystem interoperability and compliance testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi-vendor chiplet sourcing and third-party IP integration"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Chiplet security, provenance, and supply chain assurance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Advanced Substrate Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Organic substrate materials: BT resin and Ajinomoto build-up film"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Substrate fine-line and fine-space scaling and semi-additive processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ceramic and low-temperature co-fired ceramic substrates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Coreless and embedded-trace substrate architectures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Glass core substrate technology and through-glass via formation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Glass substrate defect modes: cracking, metallization, and warpage control"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Embedded passive and active components in substrates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Materials Science for Advanced Packaging",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mold compound formulation and filler engineering"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Underfill and capillary flow material design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Die attach film and adhesive materials"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Low-k and ultra-low-k dielectric interaction with package stress"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interconnect metallurgy: copper, solder alloys, and intermetallics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermal interface materials: greases, gels, metals, and phase-change materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Emerging thermal materials: liquid metal, graphene, and diamond"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Electrical Design and Signal Integrity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Signal integrity fundamentals for package interconnects"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Power delivery network design and impedance modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Electromagnetic interference and crosstalk mitigation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High-speed SerDes channel design through package and interposer"
+        },
+        {
+          "item_index": 5,
+          "item_title": "S-parameter extraction and IBIS and IBIS-AMI modeling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Chip-package-board co-design methodology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Backside power delivery network integration with packaging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Thermal Management and Cooling Architectures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Thermal simulation and compact thermal modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heat spreaders, lids, and vapor chamber integration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Direct-to-chip and immersion liquid cooling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Embedded microfluidic and microchannel cooling for 3D stacks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thermal via design and thermal-electrical co-design in dense stacks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lidless package designs for high-TDP AI accelerators"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Vertical hotspot management in stacked-die systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Reliability Engineering and Failure Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reliability test standards: temperature cycling, HAST, and thermal shock"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electromigration and time-dependent dielectric breakdown"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Delamination, cracking, and warpage-driven failure modes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Moisture sensitivity levels and popcorn cracking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Board-level drop and vibration reliability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Failure analysis techniques: cross-sectioning, X-ray, and acoustic microscopy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Accelerated life testing and Weibull reliability modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Design for Test and Known-Good-Die Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wafer-level test architecture and probe card technology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Known Good Die and good-enough-die economic trade-offs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Built-in self-test for chiplets and stacked memory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Boundary scan and IEEE 1838 test access for 3D-ICs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Burn-in strategies for pre-stack and post-stack dies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Composite yield modeling for multi-die heterogeneous systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Post-stack and final system-level test flows"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "EDA Tools and Co-Design Methodology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Package design and layout tool ecosystems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "3D-IC floorplanning and physical implementation flows"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Finite element analysis for thermal and mechanical simulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Chip-package-system electrical co-simulation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Design rule checking for advanced package structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi-die system assembly and verification flows"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Digital twin approaches to package-level design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Assembly Equipment and Manufacturing Processes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Pick-and-place and die-bonding equipment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Thermocompression and hybrid bonding tool architectures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wafer thinning, grinding, and handling systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dicing technologies: blade, stealth laser, and plasma dicing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Molding and encapsulation equipment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cleanroom process integration and contamination control"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Metrology and inline inspection for advanced packages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Memory Integration and High-Bandwidth Memory Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "HBM architecture: base-die and core-die stacking"
+        },
+        {
+          "item_index": 2,
+          "item_title": "HBM generational roadmap: HBM3E, HBM4, HBM4E, and HBM5"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Microbump versus hybrid-bonded memory stacking trade-offs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "JEDEC standardization and stack-height limit evolution"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Memory-on-logic and near-memory integration architectures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Processing-in-memory and memory-logic convergence concepts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Heterogeneous System Architectures and Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Multi-die AI accelerator architecture case studies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "CPU-GPU-memory co-packaging strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "RF and mmWave heterogeneous integration and antenna-in-package design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "MEMS and sensor integration into advanced packages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Automotive and industrial packaging requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Data center and networking system-in-package design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Photonic Integration and Co-Packaged Optics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Silicon photonics fundamentals and photonic integrated circuits"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Co-packaged optics system architecture and optical engine design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Switch ASIC co-packaging platforms such as TSMC COUPE"
+        },
+        {
+          "item_index": 4,
+          "item_title": "MicroLED-based optical interconnect alternatives to laser-based CPO"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fiber-to-chip coupling: V-groove, detachable, and fiber array approaches"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Laser integration, laser supply chain, and thermal control for photonic packages"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Electronic-photonic co-integration and PIC-EIC interface design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Standards, Roadmaps, and Industry Ecosystem",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "IEEE Electronics Packaging Society and JEDEC standards landscape"
+        },
+        {
+          "item_index": 2,
+          "item_title": "SEMI equipment and materials standards for advanced packaging"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Heterogeneous Integration Roadmap structure and technical working groups"
+        },
+        {
+          "item_index": 4,
+          "item_title": "UCIe Consortium governance and chiplet ecosystem membership"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Foundry advanced packaging platform comparison"
+        },
+        {
+          "item_index": 6,
+          "item_title": "OSAT landscape and outsourced assembly and test providers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Academic and government research initiatives in heterogeneous integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Supply Chain, Economics, and Business Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Advanced packaging cost modeling and yield economics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Foundry and OSAT capacity allocation dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Make-versus-buy decisions in chiplet sourcing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Geopolitics of semiconductor packaging and regional incentive programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Environmental regulations and compliance: RoHS, REACH, and conflict minerals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Package-level IP protection, provenance, and counterfeit mitigation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Technology adoption curves and roadmap forecasting methodology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Emerging and Frontier Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Glass substrate commercialization pathway and remaining bottlenecks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sub-micron and sub-200-nanometer hybrid bonding pitch scaling frontiers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monolithic 3D integration and CMOS 2.0 convergence concepts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Convergence of backside power delivery with 3D packaging architectures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Packaging challenges for neuromorphic and quantum computing systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sustainability, recyclability, and circular-economy considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Practical Skills and Hands-On Learning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reading and interpreting package datasheets and outline drawings"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Package cross-sectioning and physical failure analysis practice"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermal and electrical simulation software workflows"
+        },
+        {
+          "item_index": 4,
+          "item_title": "X-ray and acoustic microscopy image interpretation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Literature review methodology using ECTC, IMAPS, and IEEE EPS proceedings"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contributing to open standards and consortium working groups"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Capstone and Mastery Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Designing a 2.5D interposer-based multi-die system"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Architecting a chiplet-based SoC using UCIe interconnect"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermal-electrical-mechanical co-design project for a 3D stack"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Comparative teardown analysis of a commercial AI accelerator package"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Technology roadmap and trend-forecasting research project"
+        }
+      ]
+    }
+  ]
+}

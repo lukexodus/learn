@@ -1,0 +1,1291 @@
+{
+  "topic": "Precision Metrology & Quality Control",
+  "topic_slug": "precision_metrology_quality_control",
+  "generated_at": "2026-09-18T17:01:40.686453",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of metrology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Legal, scientific, and industrial metrology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The International System of Units"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Base and derived quantities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Direct, indirect, absolute, and comparative measurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Accuracy, precision, resolution, and sensitivity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Repeatability and reproducibility"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Systematic, random, and gross errors"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Elements of a measurement system"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Measurement Standards and Traceability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hierarchy of measurement standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Primary, secondary, and working standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "National metrology institutes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Metrological traceability chains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interlaboratory comparisons and proficiency testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Calibration versus verification versus validation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Line standards and end standards"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Wavelength standard of length"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Measurement Uncertainty and Error Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of measurement error"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Guide to the Expression of Uncertainty in Measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Type A uncertainty evaluation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Type B uncertainty evaluation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Combined and expanded uncertainty"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Uncertainty budgets"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Coverage factors and confidence levels"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Reporting measurement results with uncertainty"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Linear and Dimensional Measuring Instruments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vernier calipers and vernier scales"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Outside, inside, and depth micrometers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Height gauges and depth gauges"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Slip gauges and gauge blocks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Dial indicators and dial test indicators"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Feeler gauges and wire gauges"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Telescopic and small hole gauges"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Precision steel rules and calibrated scales"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Angular Measurement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Angle gauge blocks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sine bars and sine centers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bevel protractors and universal bevel protractors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Clinometers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Angle dekkor"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Autocollimators"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Rotary and indexing tables"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Circular division and polygon testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Comparators and Limit Gauging",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mechanical comparators"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Optical comparators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Electrical and electronic comparators"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pneumatic comparators"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selection criteria for comparators"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Plug, ring, and snap limit gauges"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Taylor's principle of gauge design"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Receiver and progressive gauge design"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Wear allowance in gauge design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Surface Texture Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Roughness, waviness, and lay"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Profile parameters Ra, Rq, Rz, and Rt"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Areal surface texture parameters"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stylus based profilometry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Noncontact optical profilometry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cutoff length and filtering"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Surface texture measurement standards"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Surface finish comparison specimens"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Geometric Dimensioning and Tolerancing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and purpose of GD&T"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dimensioning and tolerancing standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Geometric characteristic symbols"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rule 1 and Rule 2"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Datums and the datum reference frame"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Material condition modifiers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Form tolerances"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Orientation tolerances"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Location tolerances"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Runout tolerances"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Profile tolerances"
+        },
+        {
+          "item_index": 12,
+          "item_title": "Virtual condition and bonus tolerance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Tolerance Analysis and Stack Up",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Worst case tolerance stacking"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Statistical tolerance stack up"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Root sum square method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tolerance charts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Functional gauging concepts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tolerance allocation and process capability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Screw Thread and Gear Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Screw thread terminology and elements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Thread plug and ring gauges"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Three wire method for pitch diameter"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thread profile projection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gear terminology and tooth elements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gear tooth thickness measurement"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Base tangent span measurement"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Involute and lead profile checking"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Gear measuring machines"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Coordinate Measuring Machines",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bridge, gantry, cantilever, and arm CMM architectures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Touch trigger, scanning, and optical probing systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "CMM part programming"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Datum setup and alignment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "CMM calibration and performance verification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Volumetric error compensation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Portable measuring arms"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Laser trackers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Optical and Noncontact Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Optical profile projectors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vision measuring systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structured light 3D scanning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Laser triangulation scanning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Photogrammetry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Industrial computed tomography"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Machine vision for dimensional inspection"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Interferometry and Laser Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of optical interferometry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Laser interferometers for length measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Optical flats and fringe interpretation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "White light and phase shifting interferometry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Laser calibration of machine tool axes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Frequency stabilized lasers as length references"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Nanometrology and Semiconductor Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Scanning probe microscopy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scanning electron microscopy for dimensional metrology"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nanoscale calibration standards"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Semiconductor overlay and critical dimension metrology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Dimensional metrology of microelectromechanical systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Machine Tool and Volumetric Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Geometric, thermal, and dynamic error sources"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Positional and straightness error measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Squareness and angular error measurement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spindle error analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Volumetric error mapping and compensation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ballbar testing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Thermal error compensation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Machine tool acceptance testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Mechanical, Thermal, and Environmental Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mass metrology and weighing instruments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Force measurement and load cells"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Torque measurement and calibration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pressure measurement and calibration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vibration and acceleration measurement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hardness testing methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Temperature scales and fixed points"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Thermocouples and resistance thermometers"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Environmental control in precision measurement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Nondestructive Testing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Visual inspection methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Liquid penetrant testing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Magnetic particle testing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ultrasonic testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Radiographic testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Eddy current testing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Selecting NDT methods by application"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Calibration Systems and Laboratory Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Calibration program planning and intervals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Calibration procedures and records"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Out of tolerance handling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Calibration and asset management software"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ISO/IEC 17025 accreditation requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Method validation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Internal audits of calibration systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Statistical Fundamentals for Quality Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Descriptive statistics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Probability distributions for quality data"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data types and measurement scales"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sampling distributions and the central limit theorem"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Confidence intervals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hypothesis testing basics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Statistical Process Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common cause and special cause variation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rational subgrouping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Variable control charts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Attribute control charts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Control chart interpretation rules"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Pre control charts and short run SPC"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Process and Performance Capability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Process capability studies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Process capability indices Cp and Cpk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Process performance indices Pp and Ppk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capability analysis for non normal distributions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Specification limits versus control limits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Measurement System Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bias, linearity, and stability studies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gauge repeatability and reproducibility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Crossed and nested Gauge R&R studies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Attribute agreement analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Acceptance criteria for measurement systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Acceptance Sampling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sampling versus one hundred percent inspection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lot formation and sampling plan structure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Operating characteristic curves"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Acceptable quality level concepts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Single, double, and multiple sampling plans"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Standard sampling plan systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Variables sampling plans"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Design of Experiments",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DOE terminology and planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Full factorial designs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fractional factorial designs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Main effects and interaction effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Response surface methodology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Taguchi methods overview"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Quality Management Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quality management principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ISO 9001 structure and requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quality manuals, procedures, and records"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Document and data control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corrective and preventive action"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Management review"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cost of quality"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Quality Philosophy, Leadership, and Supplier Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Evolution of quality management thought"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quality pioneers and their philosophies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quality leadership principles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supplier quality management and development"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supplier audits and scorecards"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Customer relations and voice of the customer"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Quality training program design"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Barriers to quality improvement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Quality Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Risk management terminology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk based thinking in ISO 9001"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Risk assessment techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Risk treatment and control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk monitoring and mitigation planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Product and Process Design for Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of quality characteristics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Design inputs and design review"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Design for manufacturability and assembly"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Design verification and validation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Process validation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Predictive and preventive maintenance planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Total Quality Management and Continuous Improvement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "TQM philosophy and principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kaizen and continuous improvement culture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "PDCA cycle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quality circles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Seven basic quality control tools"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Seven quality management and planning tools"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hoshin Kanri policy deployment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Lean Manufacturing and Six Sigma",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lean principles and waste elimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Value stream mapping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "5S workplace organization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Kanban and pull systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Poka yoke mistake proofing techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Six Sigma DMAIC methodology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Lean Six Sigma belt structure"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Overall equipment effectiveness"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Root Cause Analysis and Failure Prevention",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Five whys analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cause and effect diagrams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Failure mode and effects analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fault tree analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Eight discipline problem solving methodology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Reliability Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reliability terminology and metrics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The bathtub curve and failure distributions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Weibull analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reliability testing methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Maintainability and availability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Field data and warranty analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Inspection Planning and Nonconforming Material Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Inspection planning strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "First article inspection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "In process and final inspection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Receiving and incoming inspection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Material identification and traceability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Material segregation and classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nonconforming material handling"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Material review board process"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Automotive and Aerospace Quality Core Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Advanced product quality planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Production part approval process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Control plans"
+        },
+        {
+          "item_index": 4,
+          "item_title": "IATF 16949 requirements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "AS9100 aerospace quality requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "ISO 13485 medical device quality overview"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Quality Auditing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Types of quality audits"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Audit planning and checklist development"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Audit execution and evidence gathering"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nonconformance classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Audit reporting and follow up"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Digital and Smart Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Inline and automated inspection systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Closed loop quality feedback to production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Artificial intelligence in dimensional inspection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Digital twin integration with metrology data"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Metrology data management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Metrology for additive manufacturing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Quality and Metrology Software Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "CAD based inspection and model based definition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "GD&T authoring and analysis software"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Statistical software for SPC and capability analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Laboratory information management systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Enterprise quality management software"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Reverse engineering from scan data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Professional Practice and Career Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quality and metrology certification paths"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Metrology technician career progression"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Continuing education in quality engineering"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Professional ethics in inspection and quality work"
+        }
+      ]
+    }
+  ]
+}

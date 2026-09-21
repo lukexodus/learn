@@ -1,0 +1,879 @@
+{
+  "topic": "Manufacturing Process Classifications",
+  "topic_slug": "manufacturing_process_classifications",
+  "generated_at": "2026-09-19T03:29:19.809906",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Manufacturing Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining manufacturing and the scope of a manufacturing process"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Purpose and practical value of classifying processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Manufacturing technology versus process technology versus production technology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inputs, transformations, and outputs in a generic process model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geometry, material, and property change as classification lenses"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overview of major classification traditions in the field"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Core vocabulary and terminology for describing processes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Scope and limits of classification systems across industries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Historical Evolution of Process Taxonomies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Craft-era categorization of making processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Industrial Revolution and systematic process description"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Early twentieth-century machining and forming taxonomies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Development of the DIN 8580 standard"
+        },
+        {
+          "item_index": 5,
+          "item_title": "American Welding Society taxonomic tradition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emergence of additive manufacturing as a classification challenge"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Convergence toward joint international standards"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Trends currently reshaping classification systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Comparing Major Classification Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DIN 8580 six-main-group system overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Groover processing-versus-assembly framework overview"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Kalpakjian materials-and-process-family framework overview"
+        },
+        {
+          "item_index": 4,
+          "item_title": "DeGarmo shaping-machining-joining-finishing framework overview"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ASTM and ISO process-family standards overview"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Points of agreement across classification systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Points of divergence and terminology conflicts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Choosing a classification lens for a given purpose"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Classification by Mechanism of Material and Shape Change",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mass-conserving processes defined"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mass-reducing and subtractive processes defined"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mass-adding and additive processes defined"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Formative, subtractive, and additive as a master taxonomy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Primary versus secondary manufacturing process distinction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Property-changing processes without shape change"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Surface-changing processes without bulk shape change"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Joining as a multi-part, mass-conserving category"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Classification by State of Starting Material",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Liquid and molten starting-material processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solid bulk starting-material processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Solid sheet, strip, and plate starting-material processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Particulate and powder starting-material processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fiber, filament, and continuous-strand starting-material processes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Vapor and gas-phase starting-material processes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Semi-solid and slurry starting-material states"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Linking starting-material state to process-family choice"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Classification by Material System",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ferrous metal process classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nonferrous metal process classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermoplastic polymer process classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thermoset polymer process classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Traditional ceramic process classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Advanced and engineering ceramic process classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Composite and matrix-reinforcement process classification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Glass and amorphous-material process classification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "The DIN 8580 Standard in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Urformen: primary shaping from formless material"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Umformen: forming while conserving mass and cohesion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trennen: separating and material-removal operations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fügen: joining of two or more workpieces"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Beschichten: coating and surface-layer application"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stoffeigenschaft ändern: changing material properties"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Subgroup and process-variant structure within each main group"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applying DIN 8580 to classify an unfamiliar process"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Casting and Solidification Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Expendable-mold versus permanent-mold classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classification by pouring method: gravity, pressure, centrifugal"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sand-casting family and variants"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Investment and lost-pattern casting family"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Die-casting and permanent-mold family"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Continuous and semi-continuous casting classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Classification by achievable accuracy and surface finish"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Casting classification by production-volume suitability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Particulate and Powder-Based Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Powder metallurgy process family overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pressing and sintering classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Alternative powder-consolidation technique classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Powder-based ceramic process classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cermet and composite powder-process classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Classification by powder feedstock characteristics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Classification by densification mechanism"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Bulk Deformation Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hot, warm, and cold working classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Compressive deformation process family"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tensile and drawing-based deformation process family"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rolling process classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Forging process classification by die type"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Extrusion process classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Wire, rod, and tube drawing classification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Classification by strain path and deformation-zone geometry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Sheet Metal Forming Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Shearing operation classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bending operation classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deep drawing and cup-forming classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stretch forming and stretching-dominant classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Press-working and die-set classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Incremental and flexible sheet-forming classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sheet versus bulk forming distinctions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Conventional Machining Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Single-point cutting-tool process classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Multi-point cutting-tool process classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Turning-based process classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Milling-based process classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hole-making process classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Classification by relative tool-workpiece motion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Classification by chip-formation mechanism"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Machine-tool classification by process family"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Abrasive Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Grinding process classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Honing, lapping, and superfinishing classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bonded, coated, and loose-abrasive classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Classification by abrasive material and grain characteristics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Classification by achievable surface finish and tolerance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Boundaries between abrasive and conventional machining"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Nonconventional and Advanced Machining Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification by energy source: mechanical, thermal, electrochemical, chemical"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mechanical-energy nonconventional process family"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermal and electrothermal nonconventional process family"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electrochemical nonconventional process family"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chemical nonconventional process family"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hybrid nonconventional process combinations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Classification by material-removal mechanism versus cutting"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Linking process classification to material and geometry constraints"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Joining and Assembly Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "AWS three-category joining framework overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fusion-welding process classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Solid-state welding process classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Brazing and soldering classification by capillary action"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Adhesive bonding process classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mechanical fastening: permanent versus removable"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Classification by heat input and metallurgical effect"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Classification by joint geometry and accessibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Property-Enhancing Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Heat-treatment classification by mechanism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Annealing-family process classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hardening and quenching classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tempering and stress-relief classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Surface-hardening versus through-hardening classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermochemical treatment classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Mechanical property-enhancement classification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Surface Processing and Coating Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cleaning and surface-preparation classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mechanical surface-treatment classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chemical and electrochemical surface-treatment classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Physical vapor deposition classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chemical vapor deposition classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electroplating and electroless coating classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Organic and conversion-coating classification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Classification by coating purpose: protective, decorative, functional"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Polymer, Ceramic, and Composite Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Polymer melt-based shaping-process classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Polymer solid-phase and forming-process classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Elastomer and rubber process classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ceramic forming-process classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ceramic firing and densification classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Open-mold versus closed-mold composite-process classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Continuous composite-process classification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Classification challenges unique to non-metallic materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Additive Manufacturing Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ISO and ASTM 52900 seven-category framework overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vat photopolymerization classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Powder bed fusion classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Material extrusion classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Material jetting classification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Binder jetting classification"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sheet lamination classification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Directed energy deposition classification"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Classification by feedstock form and energy source"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Boundary cases outside the seven categories"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Hybrid, Micro-Scale, and Emerging Process Classification",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hybrid manufacturing: combined additive-subtractive classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Micro-manufacturing process classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nano-scale fabrication process classification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sustainable and low-impact process classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Classification of digitally monitored and Industry 4.0 processes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Classification challenges posed by unclassified novel processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Classification by Production Context and Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Job-shop, batch, and mass-production classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Discrete versus continuous manufacturing classification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Classification by production quantity and product variety"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Net-shape, near-net-shape, and non-net-shape classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Classification by achievable tolerance and dimensional capability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Classification by capital intensity and tooling investment"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Classification by cycle time and production rate"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Classification-Driven Process Selection Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Material-process compatibility matrices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Process-selection charts by shape and feature complexity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ashby-style material and process selection charts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Design-for-manufacturing use of classification systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost-volume relationships across process classes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decision-tree approaches to process-family selection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Inferring likely process families from part features and geometry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Standards, Nomenclature, and Digital Classification Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ISO manufacturing-process vocabulary standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ASTM process-classification standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "National and regional standard variations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Digital and database-oriented process taxonomies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Machine-readable classification for CAD and CAM systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Classification systems in enterprise and PLM databases"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Harmonization efforts across competing standards"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Applied Mastery and Synthesis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classifying real-world components by inferred process history"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a personal master taxonomy across all systems studied"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparative case studies across classification frameworks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Common classification errors and misconceptions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Practice assigning unfamiliar processes to correct categories"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capstone synthesis: a comprehensive process-classification map"
+        }
+      ]
+    }
+  ]
+}

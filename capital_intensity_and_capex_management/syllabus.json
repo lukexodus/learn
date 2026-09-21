@@ -1,0 +1,555 @@
+{
+  "topic": "Capital Intensity and Capex Management",
+  "topic_slug": "capital_intensity_and_capex_management",
+  "generated_at": "2026-09-17T21:16:13.398136",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Capital Intensity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining capital intensity and its economic significance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital intensity ratio: formula and interpretation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capital-intensive versus labor-intensive business models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distinguishing fixed capital intensity from working capital intensity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital intensity's relationship to operating leverage and fixed costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital intensity across the business lifecycle"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Capital Expenditure Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of capital expenditures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capex versus operating expenditure distinction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Accounting capitalization criteria and thresholds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tangible versus intangible capital expenditures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capex recognition under GAAP and IFRS"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capitalized interest and borrowing costs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Classifying Capital Expenditures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Maintenance capex versus growth capex"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expansion capex and capacity addition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Replacement capex and asset lifecycle"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Regulatory and compliance-driven capex"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Discretionary versus non-discretionary capex"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Strategic capex and competitive positioning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Financial Statement Impact of Capex",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capex treatment on the cash flow statement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Balance sheet effects: PP&E and asset base growth"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Income statement effects through depreciation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capex versus free cash flow reconciliation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Deferred tax effects of capital investment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capex disclosure requirements and footnotes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Depreciation, Amortization and Asset Accounting",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Depreciation methods: straight-line, declining balance, units of production"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Useful life estimation and residual value assumptions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Componentization of fixed assets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Impairment testing and asset write-downs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asset retirement obligations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Depreciation as a proxy for maintenance capex"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Capital Intensity Metrics and Ratios",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capex to revenue ratio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capex to depreciation ratio"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fixed asset turnover ratio"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total asset turnover ratio"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capex to operating cash flow ratio"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Free cash flow conversion and capital intensity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Incremental capital output ratio"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Capital Budgeting Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Net present value analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Internal rate of return and its limitations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Modified internal rate of return"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Payback period and discounted payback period"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Profitability index"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Accounting rate of return"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Comparing and reconciling capital budgeting methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Cost of Capital and Investment Hurdle Rates",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Weighted average cost of capital construction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost of equity estimation via CAPM"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of debt and after-tax adjustments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Project-specific versus company-wide hurdle rates"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk-adjusted discount rates by division or geography"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Real versus nominal discount rates in capital budgeting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Capex Forecasting and Financial Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building a capex schedule and roll-forward"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Linking capex to revenue growth and capacity utilization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Maintenance capex estimation techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Scenario and sensitivity analysis for capex plans"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Integrating capex into three-statement models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capex intensity benchmarking against peers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Capital Allocation Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capital allocation frameworks and priorities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Organic growth investment versus mergers and acquisitions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capex versus dividends and share buybacks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Portfolio approach to capital project selection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital rationing and project ranking"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Zero-based capital budgeting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Return on Invested Capital and Value Creation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ROIC calculation and components"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Economic value added and residual income"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Spread between ROIC and cost of capital"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capital intensity's effect on shareholder returns"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Asset-light business model transformations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital efficiency benchmarking across industries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Industry Perspectives on Capital Intensity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capital intensity in utilities and infrastructure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital intensity in telecommunications networks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capital intensity in oil, gas and mining"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capital intensity in manufacturing and industrials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital intensity in technology, software and data centers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital intensity in airlines, shipping and transportation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Capital intensity in real estate and REITs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Risk Management in Capital Investment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Real options analysis in capital projects"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Managing construction and execution risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Technological obsolescence risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stranded asset risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Currency and inflation risk in multi-year capex"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contingency planning and post-investment audits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Capex in Equity Research and Valuation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capex assumptions in discounted cash flow models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Normalizing capex for valuation multiples"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capex intensity as a quality-of-earnings signal"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Analyzing management capex guidance and capital markets days"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capex trends as leading indicators of future growth"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Comparing capex intensity across comparable companies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Financing Capital Expenditure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Debt financing structures for capital projects"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Equity financing and capital raises"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Project finance and off-balance-sheet structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leasing versus owning capital assets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Public-private partnerships for infrastructure capex"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Credit ratings and debt capacity constraints on capex"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Governance, Reporting and Communication of Capex",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capital expenditure approval processes and authorization limits"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Board and audit committee oversight of capital plans"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capex guidance in investor communications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "ESG and sustainability considerations in capital planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Post-completion audits and capital project reviews"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Key performance indicators for capital discipline"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Capital Expenditure in Mergers, Acquisitions and Private Equity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capex diligence in mergers and acquisitions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital intensity considerations in leveraged buyouts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capex normalization in EBITDA add-back adjustments"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deferred capex and underinvestment red flags"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital expenditure commitments in transaction agreements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Emerging Trends in Capital Intensity Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital transformation and shifting capex-to-opex models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cloud computing's effect on corporate capital intensity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Automation and robotics capex decisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Decarbonization capex and energy transition investment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capital intensity in the platform and asset-light economy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Artificial intelligence infrastructure and data center capex trends"
+        }
+      ]
+    }
+  ]
+}

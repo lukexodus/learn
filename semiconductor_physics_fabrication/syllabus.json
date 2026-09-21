@@ -1,0 +1,1395 @@
+{
+  "topic": "Semiconductor Physics & Fabrication",
+  "topic_slug": "semiconductor_physics_fabrication",
+  "generated_at": "2026-09-17T10:09:50.770707",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Mathematical Foundations for Semiconductor Physics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Linear algebra and eigenvalue problems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ordinary and partial differential equations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fourier and Laplace transforms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Complex variables and contour methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Probability, statistics, and random processes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Vector calculus and boundary value problems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Numerical methods for physical modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Classical Physics Prerequisites",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classical mechanics and Lagrangian formulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electromagnetism and Maxwell's equations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Electrostatics in dielectric media"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Thermodynamics and the laws of heat"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Classical statistical mechanics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wave motion and geometrical optics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Quantum Mechanics Essentials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wave particle duality and the de Broglie hypothesis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Schrodinger equation and wavefunctions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Particle in a box and quantum confinement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quantum tunneling through potential barriers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The quantum harmonic oscillator"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Atomic structure and electron orbitals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pauli exclusion principle and electron spin"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Time independent perturbation theory"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Density of states in quantum systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Crystal Structures and Bonding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crystal lattices and unit cells"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bravais lattices and crystal symmetry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Miller indices and crystallographic planes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diamond, zincblende, and wurtzite structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Covalent and ionic bonding in semiconductors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Point, line, and planar crystal defects"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reciprocal lattice and Brillouin zones"
+        },
+        {
+          "item_index": 8,
+          "item_title": "X ray diffraction and crystal characterization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Energy Band Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bloch's theorem and periodic potentials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Kronig Penney model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Formation of allowed and forbidden bands"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Direct versus indirect bandgap materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "E k diagrams and band structure calculations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Effective mass approximation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Holes as quasiparticles"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Bandgap engineering in alloy semiconductors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Carrier Statistics and Equilibrium",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Density of states in conduction and valence bands"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fermi Dirac distribution and the Fermi level"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intrinsic carrier concentration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Donor and acceptor doping"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Extrinsic carrier concentration and ionization"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Compensation and charge neutrality"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Temperature dependence of carrier concentration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Carrier Transport Phenomena",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Drift current and carrier mobility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scattering mechanisms and mobility limits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Diffusion current and Fick's law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Einstein relation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuity equations for carriers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "High field transport and velocity saturation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Hall effect and magnetotransport"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Generation, Recombination, and Carrier Lifetime",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Shockley Read Hall recombination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Radiative recombination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Auger recombination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carrier lifetime and diffusion length"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Surface recombination and passivation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trap assisted generation and recombination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Semiconductor Materials Landscape",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Silicon and germanium properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "III V compound semiconductors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Wide bandgap semiconductors: silicon carbide and gallium nitride"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ultra wide bandgap materials: gallium oxide and diamond"
+        },
+        {
+          "item_index": 5,
+          "item_title": "II VI compound semiconductors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Alloy systems and bandgap tuning"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Material selection criteria for devices"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Substrate and epitaxial compatibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "The p n Junction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Junction formation and the depletion approximation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Built in potential and band bending"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The ideal diode equation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Forward and reverse bias behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Junction breakdown: avalanche and Zener mechanisms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Junction and diffusion capacitance"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Heterojunctions and band offsets"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Non ideal diode effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Metal Semiconductor Contacts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Schottky barrier formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Schottky diode current voltage behavior"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ohmic contact formation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Specific contact resistivity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fermi level pinning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contact metallization schemes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "MOS Capacitor Physics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "MOS energy band diagrams"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Accumulation, depletion, and inversion regimes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Threshold voltage derivation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacitance voltage characteristics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Oxide charges and interface trap states"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Flat band voltage and work function differences"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "MOSFET Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "MOSFET structure and terminal behavior"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Linear and saturation region current equations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Threshold voltage and the body effect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transconductance and output conductance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Subthreshold conduction and leakage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "n channel and p channel device design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "CMOS inverter operation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Short Channel Effects and Device Scaling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Channel length modulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Drain induced barrier lowering"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Velocity saturation in short channels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hot carrier effects"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constant field and constant voltage scaling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Threshold voltage roll off"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Gate leakage and tunneling currents"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Bipolar Junction Transistors",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "BJT structure and operating regions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Minority carrier injection and transport"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Ebers Moll model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Current gain and base transport factor"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Early effect"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Frequency response and cutoff frequency"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Heterojunction bipolar transistors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Advanced Transistor Architectures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FinFET structure and multi gate control"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gate all around nanosheet transistors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Forksheet device architecture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Complementary FET vertical stacking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fully depleted silicon on insulator devices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tunnel FETs and steep slope devices"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Negative capacitance FETs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Semiconductor Manufacturing Overview",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "IDM, foundry, and fabless business models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Front end versus back end processing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The complete process flow from wafer to package"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cleanroom classifications and contamination control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wafer size standards and fab infrastructure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Process integration and design rules"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Crystal Growth and Wafer Preparation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purification from metallurgical to electronic grade silicon"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Czochralski crystal growth"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Float zone crystal growth"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ingot slicing, lapping, and polishing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Wafer specifications and defect metrics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Silicon on insulator wafer fabrication"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Compound semiconductor substrate growth"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Epitaxial Growth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vapor phase epitaxy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Molecular beam epitaxy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Metal organic chemical vapor deposition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Strained and relaxed epitaxial layers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selective epitaxial growth"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Defect control in heteroepitaxy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Thermal Oxidation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Oxide growth kinetics and the Deal Grove model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dry versus wet oxidation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Local oxidation of silicon"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Shallow trench isolation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Oxide quality and interface characterization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Diffusion and Ion Implantation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Diffusion theory and Fick's laws"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predeposition and drive in diffusion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ion implantation physics and range distribution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Channeling and implant damage"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rapid thermal annealing and dopant activation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Doping profile characterization techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Thin Film Deposition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Physical vapor deposition and evaporation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sputtering techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chemical vapor deposition variants"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Atomic layer deposition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Film nucleation and step coverage"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stress and adhesion in deposited films"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Photolithography Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Photoresist chemistry and tone"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exposure systems and resolution limits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Rayleigh criterion and numerical aperture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mask and reticle design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Alignment and overlay control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Resist processing steps and defects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Advanced and EUV Lithography",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Immersion lithography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Extreme ultraviolet lithography fundamentals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "High numerical aperture EUV systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Multi patterning techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Resolution enhancement and optical proximity correction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Phase shift masks"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Electron beam and maskless lithography"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Stochastic defects and pellicle technology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Etching Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wet chemical etching"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Plasma and dry etching fundamentals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reactive ion etching"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deep reactive ion etching and the Bosch process"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Etch selectivity, profile, and anisotropy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Atomic layer etching"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Chemical Mechanical Planarization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "CMP process mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Slurry chemistry and pad conditioning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Planarization for multilevel structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dishing, erosion, and defect control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Post CMP cleaning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "CMOS Process Integration Flow",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Well formation and isolation schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gate stack formation sequence"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Source and drain engineering"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self aligned silicide formation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contact and local interconnect formation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Full front end process flow walkthrough"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Gate Stack and High k Metal Gate Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gate oxide scaling limits and leakage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "High k dielectric materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Metal gate work function engineering"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gate first versus gate last integration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Interface layer control"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Strain and Mobility Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Mobility enhancement mechanisms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Embedded silicon germanium source and drain"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stress liners and contact etch stop layers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global versus local strain techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Channel material engineering for mobility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Back End of Line Interconnects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interconnect scaling challenges"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Copper dual damascene process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Low k and ultra low k dielectrics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diffusion barrier and seed layers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Electromigration and interconnect reliability"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Backside power delivery networks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Advanced Packaging and Heterogeneous Integration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wafer dicing and die preparation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wire bonding and flip chip assembly"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Through silicon via formation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "2.5D interposer packaging"
+        },
+        {
+          "item_index": 5,
+          "item_title": "3D die stacking and hybrid bonding"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Chiplet architectures and die to die interconnect standards"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Fan out wafer level packaging"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Known good die testing and yield economics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Metrology and Characterization Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Optical microscopy and scatterometry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scanning electron microscopy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transmission electron microscopy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Atomic force microscopy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "X ray diffraction and reflectometry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Secondary ion mass spectrometry"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ellipsometry for film measurement"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Electrical characterization methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Defect Inspection and Process Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defect classification and root cause sources"
+        },
+        {
+          "item_index": 2,
+          "item_title": "In line optical and e beam inspection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Overlay metrology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Critical dimension metrology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Statistical process control in fabs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Yield Modeling and Reliability Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Yield models and defect density statistics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Time dependent dielectric breakdown"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hot carrier injection degradation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bias temperature instability"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Electromigration reliability testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electrostatic discharge protection design"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Failure analysis techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Burn in and accelerated life testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Memory Device Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DRAM cell structure and operation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "SRAM cell design and stability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "NOR and NAND flash memory physics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Floating gate and charge trap mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "3D NAND architecture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emerging memories: MRAM, RRAM, and PCM"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ferroelectric memory and FeFET devices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Power Semiconductor Devices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Power MOSFET structure and operation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Insulated gate bipolar transistor physics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Silicon carbide and gallium nitride power device design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Superjunction device structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thermal management and packaging for power devices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Optoelectronic Devices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Light emitting diode physics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Laser diode operation and structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Photodetector and photodiode design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Solar cell physics and photovoltaic efficiency"
+        },
+        {
+          "item_index": 5,
+          "item_title": "CMOS and CCD image sensors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "RF and Analog Semiconductor Devices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "High frequency transistor design considerations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "High electron mobility transistors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Noise sources in semiconductor devices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Passive device integration: inductors and capacitors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "S parameters and impedance matching"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Analog IC design constraints from device physics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "MEMS and Sensor Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Surface micromachining techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bulk micromachining techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pressure and inertial sensor design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Microfluidic device fabrication"
+        },
+        {
+          "item_index": 5,
+          "item_title": "CMOS MEMS integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Technology Scaling and Industry Roadmaps",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical Moore's Law scaling trends"
+        },
+        {
+          "item_index": 2,
+          "item_title": "More Moore versus More than Moore paradigms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Technology node naming conventions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International roadmap for devices and systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economic limits of transistor scaling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Vertical scaling through 3D stacking"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "TCAD and Semiconductor Simulation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Process simulation fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Device simulation and drift diffusion models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Compact modeling for circuit simulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Design for manufacturability"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Simulation driven process optimization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Novel and Two Dimensional Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Graphene electronic properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transition metal dichalcogenide semiconductors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "2D material transistor integration challenges"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon nanotube transistors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "van der Waals heterostructures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Quantum and Neuromorphic Devices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quantum dot device physics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spintronics and spin based logic"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Semiconductor qubit fabrication"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Memristive devices and neuromorphic computing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cryogenic CMOS for quantum control"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Semiconductor Industry Economics and Supply Chain",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fab capital intensity and cost modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Foundry versus IDM business strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Global supply chain structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Equipment supplier ecosystem"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geopolitics of semiconductor manufacturing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sustainability and environmental impact in fabs"
+        }
+      ]
+    }
+  ]
+}

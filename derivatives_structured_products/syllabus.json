@@ -1,0 +1,1921 @@
+{
+  "topic": "Derivatives & Structured Products",
+  "topic_slug": "derivatives_structured_products",
+  "generated_at": "2026-09-16T17:05:13.147588",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Derivatives Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Economic Purpose of Derivatives"
+        },
+        {
+          "item_index": 2,
+          "item_title": "History and Evolution of Derivatives Markets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Exchange Traded versus Over the Counter Markets"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Market Participants Hedgers Speculators and Arbitrageurs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Underlying Asset Classes and Market Structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Derivatives Terminology and Contract Specifications"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Arbitrage Short Selling and No Arbitrage Pricing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Role of Derivatives in Modern Finance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Forwards and Futures Contracts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Forward Contract Mechanics and Payoff Profiles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Futures Contract Specifications and Standardization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pricing Forwards and Futures Under Cost of Carry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Convergence of Futures and Spot Prices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Margining Marking to Market and Settlement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hedging With Forwards and Futures"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Basis Risk and Cross Hedging"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Futures on Equity Indices Currencies and Rates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Swaps Markets and Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Interest Rate Swap Structure and Cash Flows"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Currency Swaps and Cross Currency Basis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Equity Swaps and Total Return Swaps"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Commodity and Asset Swaps"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Swap Valuation and Par Swap Rates"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Day Count Conventions and Compounding Methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Swap Curve Construction and Bootstrapping"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Overnight Index Swaps and Basis Swaps"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Options Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Call and Put Payoffs and Profit Diagrams"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Moneyness Intrinsic Value and Time Value"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Put Call Parity and Its Applications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "American European and Bermudan Exercise Styles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Option Market Conventions and Quoting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Factors Affecting Option Premiums"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Early Exercise of American Options"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Option Adjustments for Corporate Actions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Options Trading Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Covered Calls and Protective Puts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bull Bear and Calendar Spreads"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Straddles Strangles and Volatility Trades"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Collars and Risk Reversals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Butterfly and Condor Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ratio Spreads and Backspreads"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Synthetic Positions and Conversion Arbitrage"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Matching Strategies to Market Views"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Mathematical Foundations for Derivatives Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Probability Theory and Random Variables"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Normal and Lognormal Distributions in Finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Differential Equations for Finance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Linear Algebra and Matrix Methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Time Value of Money and Discounting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Numerical Optimization and Root Finding"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Statistical Estimation and Regression Methods"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Stochastic Calculus for Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Random Walks and Brownian Motion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Properties of Wiener Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ito's Lemma and Stochastic Differentiation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stochastic Differential Equations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geometric Brownian Motion"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Girsanov Theorem and Change of Measure"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Martingales and Filtrations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Feynman Kac Theorem and PDE Connections"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Binomial and Discrete Time Pricing Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "One Step and Multi Step Binomial Trees"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk Neutral Probabilities in Discrete Time"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pricing American Options on Trees"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trinomial Tree Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Convergence of Trees to Continuous Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dividend Adjustments in Tree Models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Implied Trees and Tree Calibration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Risk Neutral Valuation and Martingale Pricing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Fundamental Theorems of Asset Pricing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk Neutral Measures and Numeraires"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Change of Numeraire Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "State Prices and Arrow Debreu Securities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Market Completeness and Replication"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forward Measures and Annuity Measures"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pricing Kernels and Stochastic Discount Factors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "The Black Scholes Merton Model",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Assumptions of the Black Scholes Merton Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deriving the Black Scholes Partial Differential Equation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Black Scholes Formula for Calls and Puts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dividend Adjusted Black Scholes Pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Merton Model and Structural Credit Risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Limitations of the Black Scholes Model"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Extensions to Currency and Futures Options"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "The Greeks and Risk Sensitivities",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Delta and Directional Risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gamma and Convexity Risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Theta and Time Decay"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vega and Volatility Risk"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Rho and Interest Rate Sensitivity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Higher Order Greeks Vanna Volga and Charm"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Aggregating Greeks Across a Portfolio"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Using Greeks to Set Risk Limits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Hedging Strategies and Dynamic Replication",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Delta Hedging in Theory and Practice"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dynamic Replication of Option Payoffs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gamma Scalping and Rebalancing Frequency"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Static Replication of Exotic Payoffs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hedging Error and Transaction Costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Portfolio Insurance and Synthetic Puts"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cross Hedging and Proxy Hedging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Numerical Methods Finite Difference and Monte Carlo",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Explicit Implicit and Crank Nicolson Schemes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Finite Difference Grids and Boundary Conditions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monte Carlo Simulation for Derivatives Pricing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Variance Reduction Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quasi Random Sequences and Low Discrepancy Methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Least Squares Monte Carlo for American Options"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Model Calibration and Fitting Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Implied Volatility and the Volatility Surface",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Extracting Implied Volatility From Market Prices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Volatility Smile and Skew"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Term Structure of Implied Volatility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Volatility Surface Construction and Interpolation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sticky Strike Versus Sticky Delta Dynamics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Arbitrage Free Surface Conditions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Volatility Surface Calibration Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Local Volatility Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Dupire Equation and Local Volatility Function"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deriving Local Volatility From Implied Volatility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Calibrating Local Volatility Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Strengths and Weaknesses of Local Volatility"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Forward Volatility Dynamics Under Local Vol"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Applying Local Volatility to Exotic Pricing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Stochastic Volatility Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Heston Model and Its Properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Characteristic Function Pricing Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The SABR Model and Its Calibration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Combining Stochastic Volatility With Jumps"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Local Versus Stochastic Volatility Compared"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forward Smile and Cliquet Sensitivity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Jump Diffusion and Levy Process Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Merton Jump Diffusion Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Levy Processes in Finance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Variance Gamma and Normal Inverse Gaussian Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fourier and Characteristic Function Pricing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fat Tails and Jump Risk Premia"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Calibrating Jump Models to Market Data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Volatility and Variance Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Variance Swaps and Volatility Swaps"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Replicating Variance Swaps With Options"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The VIX Index and Volatility Futures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Volatility of Volatility Products"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Correlation Swaps and Dispersion Trading"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trading and Hedging Volatility Exposure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Path Independent Exotic Options",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Digital and Binary Options"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Compound Options"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chooser Options"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rainbow Best Of and Worst Of Options"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quanto and Composite Options"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forward Start Options"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Power and Leveraged Options"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Path Dependent and Barrier Options",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Barrier Option Types and Payoffs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Barrier Option Pricing and Static Replication"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Asian Options and Average Price Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lookback Options"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ladder and Shout Options"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Parisian and Double Barrier Options"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Numerical Pricing of Path Dependent Payoffs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Multi Asset Correlation and Basket Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Basket Options and Index Options"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Spread Options and Exchange Options"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Correlation Estimation and Correlation Risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Copula Methods for Multi Asset Payoffs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Worst Of and Best Of Basket Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dispersion Trading Strategies"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Quanto Correlation Adjustment Effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Structured Exotic and Cliquet Payoffs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cliquet and Ratchet Option Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Napoleon and Altiplano Payoffs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Autocall Trigger Mechanics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Snowball and Accumulator Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capped and Floored Cliquets"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forward Volatility Risk in Cliquets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Equity Derivatives Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Single Stock and Index Options Markets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Equity Swaps and Financing Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dividend Futures and Dividend Swaps"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Variance and Volatility Trading Desks"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stock Borrow Cost and Short Selling Mechanics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Exchange Traded Funds and Their Options"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Equity Index Futures and Program Trading"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Convertible Bonds Warrants and Contingent Capital",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Convertible Bond Structure and Terms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Convertible Bond Valuation Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Convertible Arbitrage Strategies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Warrants and Their Valuation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Contingent Convertible Bonds and Loss Absorption"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mandatory Convertibles and Exchangeables"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Real Options and Corporate Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Real Options Taxonomy Expansion Abandonment and Timing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Valuing Flexibility in Capital Budgeting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Natural Resource and Research Development Options"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Employee Stock Option Valuation and Expensing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Earnouts and Contingent Consideration as Options"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lattice Methods for Real Option Valuation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Interest Rate Derivatives Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Forward Rate Agreements and Rate Futures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Interest Rate Caps and Floors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Swaptions and Their Payoffs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interest Rate Collars"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Black Model for Rate Options"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Convexity Adjustments in Rate Derivatives"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Constant Maturity Swaps and CMS Products"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Short Rate and Term Structure Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Vasicek Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Cox Ingersoll Ross Model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Hull White Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Calibrating Short Rate Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mean Reversion and Curve Fitting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi Factor Short Rate Models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Practical Limitations of Short Rate Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "The HJM Framework and Market Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Heath Jarrow Morton Framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forward Rate Volatility Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The LIBOR Market Model and Its Successors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The SOFR Term Rate Market Model"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Calibrating to Caps Floors and Swaptions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Simulating Term Structure Models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Interest Rate Smile Modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Inflation and Real Rate Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Zero Coupon and Year on Year Inflation Swaps"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inflation Linked Bonds and Breakeven Rates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inflation Caps and Floors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Real Rate Curve Construction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Seasonality and Indexation Lag Effects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hedging Inflation Exposure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Benchmark Reform and Risk Free Rate Transition",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Transition From LIBOR to Risk Free Rates"
+        },
+        {
+          "item_index": 2,
+          "item_title": "SOFR SONIA ESTR and TONA Mechanics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Compounded in Arrears Versus Term Rate Conventions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Legacy Contract Fallback Language"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross Currency Basis After Benchmark Reform"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Remaining Benchmark Transition Risks"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Credit Derivatives Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Credit Default Swap Mechanics and Documentation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Default Probability and Hazard Rate Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Recovery Rates and Loss Given Default"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credit Spread Curves and the CDS Bond Basis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Credit Default Swaptions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Financing and Total Return Swaps on Credit Assets"
+        },
+        {
+          "item_index": 7,
+          "item_title": "ISDA Credit Event Determination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Portfolio Credit Derivatives and Correlation Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "CDS Indices and Index Tranches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Collateralized Debt Obligation Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Default Correlation and Copula Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Gaussian Copula and Its Critiques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Base Correlation and Tranche Pricing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nth to Default Baskets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Structured Credit and Securitization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Securitization Mechanics and Special Purpose Vehicles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Mortgage Backed Securities Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Asset Backed Securities and Collateral Pools"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Collateralized Loan Obligations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tranching Subordination and Credit Enhancement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Prepayment Risk and Modeling"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Synthetic Securitization and Significant Risk Transfer"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Foreign Exchange Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FX Forwards and Non Deliverable Forwards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FX Swaps and Cross Currency Swaps"
+        },
+        {
+          "item_index": 3,
+          "item_title": "FX Options and the Volatility Smile"
+        },
+        {
+          "item_index": 4,
+          "item_title": "FX Quanto and Composite Structuring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "FX Barrier and Digital Options"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Covered Interest Rate Parity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "FX Risk Management for Corporates"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Commodity Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Commodity Futures Curves Contango and Backwardation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Storage Cost and Convenience Yield"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Energy Derivatives Oil Gas and Power"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Agricultural and Metals Derivatives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Commodity Swaps and Structured Hedges"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Commodity Linked Notes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Structured Products Foundations and Payoff Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "What a Structured Product Is and How It Is Built"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Decomposing Notes Into Bond and Option Components"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Zero Coupon Bond Plus Option Structuring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Participation Rates and Payoff Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Funding Levels and Issuer Economics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structured Product Naming Conventions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Term Sheet Anatomy and Key Terms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Equity Linked Structured Products",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Autocallable Notes and Trigger Mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reverse Convertibles and Barrier Reverse Convertibles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Worst Of and Best Of Basket Notes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Athena Phoenix and Twin Win Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Buffer and Defined Outcome Notes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structured Payoffs Wrapped as Exchange Traded Funds"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Thematic and Custom Index Underlyings"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Accelerated Return and Leveraged Notes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Principal Protected and Capital at Risk Structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principal Protected Note Construction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capital at Risk Notes and Barrier Levels"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Participation Notes and Tracker Certificates"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Issuer Guarantee Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Trade Off Between Protection and Upside"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dynamic and CPPI Based Protection Strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Rate Linked Credit Linked and Hybrid Structured Notes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Range Accrual Notes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Callable and Steepener Notes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Credit Linked Notes and Default Linked Payoffs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hybrid Multi Asset Structured Notes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quantitative Investment Strategy Linked Notes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structured Deposits and Market Linked Certificates of Deposit"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Structuring Issuance and Product Lifecycle",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Primary Issuance Process and Documentation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Pricing and Hedging a New Structured Product"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Secondary Market Making and Liquidity Provision"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Early Redemption and Knock Out Events"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corporate Action and Lifecycle Event Handling"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Issuer Credit Risk in Structured Notes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Automated Structuring Platforms and Technology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Structured Products Distribution Suitability and Investor Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Target Market and Product Governance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Suitability and Appropriateness Assessments"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Key Information Documents and Disclosure Rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Complexity and Risk Rating of Structured Products"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross Border Distribution Considerations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Behavioral Aspects of Structured Product Demand"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Regulatory Scrutiny of Retail Structured Products"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Counterparty Credit Risk and XVA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Counterparty Exposure Measurement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Credit Valuation Adjustment CVA"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Debit Valuation Adjustment DVA"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Funding Valuation Adjustment FVA"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Margin and Capital Valuation Adjustments MVA and KVA"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wrong Way Risk"
+        },
+        {
+          "item_index": 7,
+          "item_title": "XVA Desk Organization and Hedging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Market Risk Measurement and Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Value at Risk Methodologies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Expected Shortfall and Tail Risk Measures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Historical Simulation and Monte Carlo VaR"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stress Testing and Scenario Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sensitivity Based Risk Frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Liquidity Risk in Derivatives Portfolios"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Risk Limit Setting and Governance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Model Risk Management and Validation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Model Development Governance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Independent Model Validation Standards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Backtesting and Benchmarking Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Model Risk Capital and Reserves"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Parameter Uncertainty and Calibration Risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Model Inventory and Ongoing Monitoring"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Derivatives Documentation and Legal Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The ISDA Master Agreement Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Credit Support Annexes and Collateral Terms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Netting and Close Out Provisions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Confirmations and Trade Documentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Master Confirmation Agreements for Structured Trades"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Legal Opinions and Enforceability"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Dispute Resolution in Derivatives Contracts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "Central Clearing Margining and Market Infrastructure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Central Counterparties and Clearing Mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Initial and Variation Margin Requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The ISDA Standard Initial Margin Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Uncleared Margin Rules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Trade Repositories and Reporting Obligations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Repo Securities Lending and Collateral Funding"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Evolving Settlement Cycles and Continuous Trading"
+        }
+      ]
+    },
+    {
+      "chapter_index": 47,
+      "chapter_title": "Derivatives Regulation and Capital Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dodd Frank Title VII Derivatives Provisions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The European Market Infrastructure Regulation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "MiFID II and Market Transparency Rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Basel Capital Framework for Trading Book Exposures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Fundamental Review of the Trading Book"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Basel III Endgame and Evolving Capital Requirements"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Extraterritoriality and Cross Border Overlap"
+        }
+      ]
+    },
+    {
+      "chapter_index": 48,
+      "chapter_title": "Accounting and Tax Treatment of Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fair Value Accounting for Derivatives"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hedge Accounting Under ASC 815 and IFRS 9"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Effectiveness Testing for Hedge Accounting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Embedded Derivatives and Bifurcation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tax Treatment of Derivative Instruments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Structured Product Tax Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 49,
+      "chapter_title": "Derivatives in Portfolio and Fund Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Portfolio Overlay Strategies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Tail Risk Hedging Programs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Liability Driven Investing With Swaps and Swaptions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Currency Overlay and Hedging Programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Volatility Arbitrage and Relative Value Strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Merger Arbitrage and Event Driven Derivatives Use"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managed Futures and Systematic Strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 50,
+      "chapter_title": "Computational Tools and Programming for Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Python for Quantitative Finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Open Source Pricing Libraries and Frameworks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building a Monte Carlo Pricing Engine"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building a Finite Difference Solver"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spreadsheet Based Structuring Tools"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Code Quality and Version Control for Quant Libraries"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Performance Optimization and Parallel Computing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 51,
+      "chapter_title": "Machine Learning and AI in Derivatives Markets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Machine Learning for Volatility Surface Calibration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Deep Learning Approaches to Option Pricing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deep Hedging and Reinforcement Learning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Natural Language Processing for Market Research"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Generative AI in Structuring and Client Communication"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Algorithmic Execution and Smart Order Routing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Model Risk and Explainability for AI Models"
+        }
+      ]
+    },
+    {
+      "chapter_index": 52,
+      "chapter_title": "Trading Market Making and Desk Operations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Market Making and Bid Ask Spread Setting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Flow Versus Exotic and Structured Desks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Position and Risk Limit Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Booking Models and Trade Lifecycle Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Profit and Loss Explain and Attribution"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Inventory Management and Risk Warehousing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Desk Level Governance and Controls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 53,
+      "chapter_title": "Digital Assets Crypto Derivatives and Tokenization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crypto Futures and Perpetual Swaps"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bitcoin and Ether Options Markets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tokenized Collateral and Digital Asset Margining"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distributed Ledger and Atomic Settlement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regulatory Frameworks for Digital Asset Derivatives"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decentralized Finance Derivatives Protocols"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Stablecoins and Their Role in Derivatives Markets"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Tokenized Structured Products"
+        }
+      ]
+    },
+    {
+      "chapter_index": 54,
+      "chapter_title": "ESG and Sustainability Linked Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sustainability Linked Swaps and Loans"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ESG Linked Structured Notes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Carbon and Emissions Derivatives"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Renewable Energy and Green Derivatives"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Greenwashing Risk in Sustainable Structuring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "ESG Data and Benchmark Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 55,
+      "chapter_title": "Insurance Linked Securities and Alternative Risk Transfer",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Catastrophe Bonds and Their Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Weather Derivatives and Index Based Triggers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Longevity and Mortality Swaps"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reinsurance Sidecars and Collateralized Reinsurance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Parametric Insurance Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Convergence of Insurance and Capital Markets"
+        }
+      ]
+    },
+    {
+      "chapter_index": 56,
+      "chapter_title": "Derivatives Disasters and Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Collapse of Long Term Capital Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Barings Bank and Unauthorized Trading Risk"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Orange County and Leveraged Inverse Floaters"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Metallgesellschaft and Hedging Gone Wrong"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Procter and Gamble Versus Bankers Trust"
+        },
+        {
+          "item_index": 6,
+          "item_title": "AIG Credit Default Swaps and the Financial Crisis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The JPMorgan London Whale Incident"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Archegos Capital and Total Return Swap Leverage"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Credit Suisse Contingent Convertible Writedown"
+        }
+      ]
+    },
+    {
+      "chapter_index": 57,
+      "chapter_title": "Capstone Projects and Synthesis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building an Option Pricing and Greeks Engine"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structuring and Pricing an Autocallable Note End to End"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Calibrating a Volatility Surface to Market Data"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Backtesting a Delta Hedging Strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Designing a Corporate Hedging Program"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Writing an Investment Case for a Structured Note"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Conducting a Post Mortem on a Historical Derivatives Failure"
+        }
+      ]
+    }
+  ]
+}

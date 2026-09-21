@@ -1,0 +1,661 @@
+{
+  "topic": "Logistics Modes & Incoterms",
+  "topic_slug": "logistics_modes_incoterms",
+  "generated_at": "2026-09-20T07:18:19.823118",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Logistics and Global Trade",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Logistics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Logistics Versus Supply Chain Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "History of Global Trade and the Rise of Containerization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Stakeholders in International Trade"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overview of Global Trade Flows and Trade Lanes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Core Logistics and Incoterms Terminology"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Ocean and Maritime Freight",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Containerized Shipping: FCL and LCL"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bulk Shipping: Dry Bulk and Liquid Bulk Carriers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Break Bulk and Project Cargo"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Container Types and Specifications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Shipping Lines, Alliances, and Vessel Sharing Agreements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ports, Terminals, and Port Operations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ocean Freight Rate Structures and Surcharges"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Bills of Lading and Sea Waybills"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Charter Parties: Voyage, Time, and Bareboat"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Transshipment and Feeder Services"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Air Freight",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Air Cargo Market Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "General, Charter, and Express Air Freight Services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Unit Load Devices and Aircraft Cargo Configurations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Air Waybills and Air Freight Documentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Chargeable Weight and Volumetric Weight Calculations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "IATA Regulations and Dangerous Goods Regulations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Airport Cargo Handling and Ground Operations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Air Freight Pricing and Surcharges"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Road and Trucking Freight",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Full Truckload and Less Than Truckload Freight"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cross Border Trucking and the TIR Carnet System"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trucking Regulations, Hours of Service, and Weight Limits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Road Freight Documentation and the CMR Consignment Note"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Drayage and Port Trucking Operations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Rail Freight",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Carload and Unit Train Operations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Intermodal Rail and Container on Flatcar Service"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rail Gauges and Cross Border Rail Networks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rail Freight Documentation and the CIM Consignment Note"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparing Rail Freight to Road and Sea Transport"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Inland Waterway and Pipeline Transport",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "River and Canal Barge Transport"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inland Waterway Networks and Infrastructure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pipeline Transport of Liquids and Gases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pipeline Capacity Allocation and Regulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Intermodal and Multimodal Transport",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Containerization as an Enabler of Intermodalism"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Multimodal Transport Operators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Combined Transport Documents and the FIATA FBL"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Synchromodality and Modal Shift Strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transload and Cross Dock Operations in Multimodal Chains"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Parcel, Courier, and Last Mile Logistics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Express and Small Parcel Carriers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ecommerce Fulfillment Logistics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Last Mile Delivery Models and Innovations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reverse Logistics and Returns Management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Urban Logistics and Micro Fulfillment Centers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Logistics Intermediaries and Service Providers",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Freight Forwarders: Roles and Functions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Non Vessel Operating Common Carriers (NVOCCs)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Customs Brokers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Third Party and Fourth Party Logistics Providers (3PL and 4PL)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Criteria for Selecting Logistics Service Providers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Warehousing and Distribution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Warehouse Types and Functions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Distribution Centers and Cross Docking"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Free Trade Zones and Bonded Warehouses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inventory Positioning and Network Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Warehouse Automation and Material Handling Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Introduction to Incoterms",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and Purpose of Incoterms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Role of the International Chamber of Commerce"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Evolution of Incoterms Editions from 1936 to 2020"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Four Incoterms Groups: E, F, C, and D"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Classification by Mode of Transport"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Ten Articles of Obligation Framework"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Incoterms and Their Relationship to the Sales Contract"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Incoterms 2020: Rules for Any Mode of Transport",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "EXW (Ex Works)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FCA (Free Carrier)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "CPT (Carriage Paid To)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "CIP (Carriage and Insurance Paid To)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "DAP (Delivered at Place)"
+        },
+        {
+          "item_index": 6,
+          "item_title": "DPU (Delivered at Place Unloaded)"
+        },
+        {
+          "item_index": 7,
+          "item_title": "DDP (Delivered Duty Paid)"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Incoterms 2020: Rules for Sea and Inland Waterway Transport",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FAS (Free Alongside Ship)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FOB (Free On Board)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "CFR (Cost and Freight)"
+        },
+        {
+          "item_index": 4,
+          "item_title": "CIF (Cost, Insurance and Freight)"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Why FOB and CIF Are Discouraged for Containerized Cargo"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Incoterms Application and Risk Allocation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Matching Incoterms to Mode of Transport"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transfer of Risk Versus Transfer of Cost"
+        },
+        {
+          "item_index": 3,
+          "item_title": "What Incoterms Do Not Cover"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Insurance Obligations Under CIF and CIP"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The FCA Bill of Lading Option for Documentary Credits"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common Incoterms Misapplications and Disputes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Incoterms Compared to Domestic Trade Terms"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Incoterms 2010 to 2020: Key Changes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "International Trade Documentation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Commercial Invoice and Packing List"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Certificate of Origin"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bills of Lading: Straight, Order, and Bearer Forms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sea Waybills and Non Negotiable Documents"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Air Waybills and Multimodal Transport Documents"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Letters of Credit and Documentary Collections"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cargo Insurance Certificates and Policies"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Dangerous Goods Declarations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Customs, Duties, and Trade Compliance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Harmonized System Classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Customs Valuation Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Duties, Tariffs, and Import Taxes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Free Trade Agreements and Rules of Origin"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Import and Export Licensing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Export Controls and Trade Sanctions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Authorized Economic Operator Programs"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Customs Clearance Procedures and Bonded Cargo"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Cargo Insurance and Carrier Liability",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Marine Cargo Insurance Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Institute Cargo Clauses A, B, and C"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sea Carrier Liability: Hague, Hague Visby, Hamburg, and Rotterdam Rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Air Carrier Liability and the Montreal Convention"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Road Carrier Liability and the CMR Convention"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rail Carrier Liability Under COTIF and the CIM Uniform Rules"
+        },
+        {
+          "item_index": 7,
+          "item_title": "General Average and Claims Handling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Freight Costing and Commercial Contracts",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Freight Rate Structures by Mode"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Surcharges: Fuel, Security, Peak Season, and Congestion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Charter Parties Versus Liner Service Agreements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Service Level Agreements with Carriers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Freight Tendering and Rate Negotiation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Total Landed Cost Calculation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Digitalization and Technology in Logistics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electronic Bills of Lading and the MLETR"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ICC Digital Trade Standards and Interoperability Rules"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Blockchain Applications in Trade Documentation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Digital Freight Booking and Forwarding Platforms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Artificial Intelligence in Freight Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Internet of Things and Real Time Cargo Visibility"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Transportation Management Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Sustainability and Modern Trade Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Green Logistics and Freight Carbon Accounting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "IMO Decarbonization Targets and Alternative Marine Fuels"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sustainable Aviation Fuel and Air Freight Emissions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nearshoring and Supply Chain Reconfiguration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Geopolitical Disruption and Trade Lane Risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supply Chain Resilience and Contingency Planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Practical Application and Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Selecting Incoterms for Common Trade Scenarios"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Costing a Multimodal Shipment End to End"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Case Studies in Incoterms Disputes and Misapplication"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Simulated Import and Export Shipment Walkthrough"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a Logistics Mode and Incoterm Decision Framework"
+        }
+      ]
+    }
+  ]
+}
