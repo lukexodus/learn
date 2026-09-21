@@ -11,6 +11,7 @@ Core theory and foundations:
 - `Economics/Core/macroeconomics`
 - `Economics/Core/behavioral_economics`
 - `Economics/Core/game_theory`
+- `Economics/Core/advanced_statistics_econometrics`
 
 Applied fields:
 
@@ -32,6 +33,11 @@ Applied fields:
 - `Finance_Capital_Markets/capital_structuring_syndication`
 - `Finance_Capital_Markets/project_finance_modeling`
 - `Finance_Capital_Markets/tax_equity_incentives`
+- `Finance_Capital_Markets/advanced_financial_accounting_forensic_accounting`
+- `Finance_Capital_Markets/capital_intensity_and_capex_management`
+- `Finance_Capital_Markets/corporate_valuation_dcf_mastery`
+- `Finance_Capital_Markets/derivatives_structured_products`
+- `Finance_Capital_Markets/fixed_income_duration_analysis`
 
 ## Business_Management
 
@@ -45,6 +51,7 @@ Applied fields:
 - `Business_Management/negotiation_theory`
 - `Business_Management/rhetoric_and_executive_communication`
 - `Business_Management/systems_thinking`
+- `Business_Management/crisis_reputation_management`
 
 ## Energy_Infrastructure_Engineering
 
@@ -53,6 +60,8 @@ Applied fields:
 - `Energy_Infrastructure_Engineering/regulatory_ratebasing_for_utilities`
 - `Energy_Infrastructure_Engineering/materials_science_civil_engineering_fundamentals`
 - `Energy_Infrastructure_Engineering/publicprivate_partnership_ppp_economics`
+- `Energy_Infrastructure_Engineering/asset_lifecycle_management`
+- `Energy_Infrastructure_Engineering/process_safety_management_psm`
 
 ## Law_Governance_Risk
 
@@ -61,6 +70,7 @@ Applied fields:
 - `Law_Governance_Risk/law_and_economics`
 - `Law_Governance_Risk/political_science`
 - `Law_Governance_Risk/geopolitical_risk_analysis`
+- `Law_Governance_Risk/diplomatic_leadership`
 
 ## Psychology_Human_Behavior
 
@@ -75,6 +85,22 @@ Applied fields:
 - `Environmental_Earth_Agricultural_Science/environmental_science`
 - `Environmental_Earth_Agricultural_Science/geospatial_environmental_science`
 - `Environmental_Earth_Agricultural_Science/agriculture`
+- `Environmental_Earth_Agricultural_Science/community_engagement_social_impact_assessment_sia`
+
+## Manufacturing_Engineering
+
+- `Manufacturing_Engineering/semiconductor_physics_fabrication`
+- `Manufacturing_Engineering/semiconductor_advanced_packaging_heterogeneous_integration`
+- `Manufacturing_Engineering/manufacturing_process_classifications`
+- `Manufacturing_Engineering/precision_metrology_quality_control`
+- `Manufacturing_Engineering/lean_manufacturing_the_toyota_production_system_tps`
+
+## Supply_Chain_Logistics
+
+- `Supply_Chain_Logistics/heavylift_specialized_logistics`
+- `Supply_Chain_Logistics/logistics_modes_incoterms`
+- `Supply_Chain_Logistics/supply_chain_architecture_tiered_structures`
+- `Supply_Chain_Logistics/supply_chain_geopolitics`
 
 ## Cross-Cutting Notes
 
@@ -90,3 +116,10 @@ Topics spanning multiple domains are placed in a single primary home:
 | regulatory_ratebasing_for_utilities | Energy_Infrastructure_Engineering | Law_Governance_Risk |
 | marketing_customer_psychology | Business_Management | Psychology_Human_Behavior |
 | organizational_psychology | Psychology_Human_Behavior | Business_Management |
+| supply_chain_geopolitics | Supply_Chain_Logistics | Law_Governance_Risk |
+| diplomatic_leadership | Law_Governance_Risk | Business_Management |
+| community_engagement_social_impact_assessment_sia | Environmental_Earth_Agricultural_Science | Business_Management |
+| asset_lifecycle_management | Energy_Infrastructure_Engineering | Business_Management |
+| process_safety_management_psm | Energy_Infrastructure_Engineering | Law_Governance_Risk |
+| advanced_statistics_econometrics | Economics/Core | Business_Management |
+| lean_manufacturing_the_toyota_production_system_tps | Manufacturing_Engineering | Business_Management |
