@@ -1,0 +1,1377 @@
+{
+  "topic": "Chemistry",
+  "topic_slug": "chemistry",
+  "generated_at": "2026-09-19T08:40:57.507987",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Matter and its classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The scientific method and measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Units, dimensional analysis, and significant figures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Physical and chemical properties of matter"
+        },
+        {
+          "item_index": 5,
+          "item_title": "History and philosophy of chemistry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Basic laboratory safety and equipment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Atomic Structure",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical development of atomic models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Subatomic particles and atomic composition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Isotopes and atomic mass"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electromagnetic radiation and atomic spectra"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quantum numbers and atomic orbitals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electron configurations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Periodic trends arising from atomic structure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Periodic Table and Periodicity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Development of the periodic table"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The periodic law and classification of elements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trends in atomic and ionic radius"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ionization energy and electron affinity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Electronegativity trends"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Metallic, nonmetallic, and metalloid character"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Chemical Bonding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ionic bonding and lattice energy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Covalent bonding and Lewis structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Naming ionic and covalent compounds"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bond polarity and electronegativity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Resonance structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Formal charge and oxidation states"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Metallic bonding"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Intermolecular versus intramolecular forces"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Molecular Geometry and Hybridization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "VSEPR theory and molecular shapes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predicting bond angles and geometry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Orbital hybridization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sigma and pi bonds"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Introduction to molecular orbital theory"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Molecular polarity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "States of Matter and Intermolecular Forces",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gas laws and kinetic molecular theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Real gases and deviations from ideal behavior"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Properties of liquids"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intermolecular forces"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Crystalline and amorphous solids"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Phase diagrams and phase transitions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Unit cells and crystal lattices"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Stoichiometry and Chemical Reactions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The mole concept and Avogadro's number"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Balancing chemical equations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Classifying types of chemical reactions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The activity series and predicting reactions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Limiting reagents and percent yield"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Empirical and molecular formulas"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reaction stoichiometry calculations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Solution stoichiometry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Chemical Thermodynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The first law of thermodynamics and enthalpy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Calorimetry and heat capacity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Hess's law and enthalpy of formation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Entropy and the second law of thermodynamics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gibbs free energy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Spontaneity and its relation to equilibrium"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Thermodynamics of phase changes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Chemical Kinetics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reaction rates and rate laws"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reaction order and integrated rate laws"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Collision theory and activation energy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Arrhenius equation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reaction mechanisms and the rate determining step"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Catalysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Introduction to enzyme kinetics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Chemical Equilibrium",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dynamic equilibrium and the equilibrium constant"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Le Chatelier's principle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Heterogeneous equilibria"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Relating Kc and Kp"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Equilibrium calculations using ICE tables"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Solubility product and precipitation equilibria"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Acid Base Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Arrhenius, Bronsted Lowry, and Lewis acid base theories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "pH, pOH, and the autoionization of water"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strong and weak acids and bases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Acid base titrations and indicators"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Buffers and buffer capacity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Polyprotic acids"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hydrolysis of salts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Solutions and Colligative Properties",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Units of concentration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solubility and the factors affecting it"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Henry's law and gas solubility"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Vapor pressure lowering and Raoult's law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Boiling point elevation and freezing point depression"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Osmotic pressure"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Colloids and suspensions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Electrochemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Oxidation reduction reactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Balancing redox equations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Galvanic cells"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Standard reduction potentials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Nernst equation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electrolysis and Faraday's laws"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Batteries and fuel cells"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Corrosion and its prevention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Nuclear Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nuclear structure and stability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Types of radioactive decay"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Half life and radiometric dating"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nuclear fission"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nuclear fusion"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Applications of nuclear chemistry in medicine and industry"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Radiation detection and safety"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Introduction to Organic Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Why carbon forms so many compounds"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Functional groups overview"
+        },
+        {
+          "item_index": 3,
+          "item_title": "IUPAC nomenclature rules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Structural and geometric isomerism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common drawing conventions for organic structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Degree of unsaturation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Hydrocarbons",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Alkane structure, nomenclature, and reactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Alkene structure, nomenclature, and addition reactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Alkyne structure, nomenclature, and reactions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cycloalkanes and ring strain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Aromatic hydrocarbons and the structure of benzene"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electrophilic aromatic substitution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Stereochemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Chirality and stereocenters"
+        },
+        {
+          "item_index": 2,
+          "item_title": "R and S nomenclature"
+        },
+        {
+          "item_index": 3,
+          "item_title": "E and Z nomenclature"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Enantiomers and diastereomers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Optical activity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Conformational analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Fischer and Newman projections"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Resolving racemic mixtures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Organic Reaction Mechanisms",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nucleophilic substitution reactions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Elimination reactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Electrophilic and nucleophilic addition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Radical reactions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overview of pericyclic reactions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stability of carbocations and carbanions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Curved arrow notation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Multistep synthesis and retrosynthetic analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Alcohols, Ethers, and Phenols",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nomenclature and physical properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synthesis of alcohols"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reactions of alcohols"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Synthesis and cleavage of ethers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Acidity and reactions of phenols"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thiols and sulfides"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Aldehydes and Ketones",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nomenclature and structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Nucleophilic addition reactions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Formation of acetals and imines"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Aldol condensation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Oxidation and reduction of carbonyl compounds"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Enolate chemistry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Carboxylic Acids and Their Derivatives",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nomenclature and acidity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synthesis of carboxylic acids"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Esters, amides, anhydrides, and acyl halides"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nucleophilic acyl substitution"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fischer esterification"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Decarboxylation reactions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Amines and Related Nitrogen Compounds",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nomenclature and basicity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synthesis of amines"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reactions of amines"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diazonium salts and their reactions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Introduction to amino acids"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nitrogen containing heterocycles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Spectroscopic Structure Determination",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ultraviolet and visible spectroscopy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Infrared spectroscopy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nuclear magnetic resonance spectroscopy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mass spectrometry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Combining spectral data to determine structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "X ray diffraction and crystallography"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Polymer Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Addition and condensation polymerization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Natural and synthetic polymers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Polymer structure and physical properties"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Biopolymers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Techniques for characterizing polymers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Applications and recycling of polymers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Main Group Inorganic Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hydrogen and the alkali metals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The alkaline earth metals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The boron and carbon groups"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The nitrogen and oxygen groups"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Halogens and noble gases"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Descriptive periodic trends across the main groups"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Transition Metal and Coordination Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electron configurations of transition metals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coordination compounds and ligand types"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Crystal field theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ligand field and molecular orbital approaches to bonding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Isomerism in coordination compounds"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Color and magnetism in metal complexes"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Catalytic roles of transition metals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Organometallic Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Types of metal to carbon bonding"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electron counting and the eighteen electron rule"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Oxidative addition and reductive elimination"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Migratory insertion and related steps"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Catalytic cycles in homogeneous catalysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Industrial applications of organometallic catalysts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Solid State and Materials Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crystal structures and atomic packing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Band theory and semiconductors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Point defects in solids"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ceramics and glasses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nanomaterials"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Superconductors"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Materials for energy storage and conversion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Quantum Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Wave particle duality and the Schrodinger equation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The particle in a box and simple quantum systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Atomic orbitals from quantum theory"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Molecular orbital theory in depth"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Computational methods for electronic structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Symmetry and group theory in chemistry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Statistical Mechanics and Advanced Thermodynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Boltzmann distribution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Partition functions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Statistical thermodynamics of gases"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deviations from ideal solution behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Phase equilibria in multicomponent systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Chemical potential"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Molecular Spectroscopy and Photochemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rotational spectroscopy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vibrational spectroscopy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Electronic spectroscopy of molecules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Photochemical reactions and photophysics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fluorescence and phosphorescence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lasers in chemical research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Surface Chemistry and Catalysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Adsorption and surface phenomena"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Heterogeneous catalysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Homogeneous catalysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Enzyme catalysis mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Colloidal surfaces"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Characterizing catalysts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Classical Analytical Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gravimetric analysis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Volumetric and titrimetric analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Acid base, redox, and complexometric titrations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Statistical treatment of experimental error"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sampling and sample preparation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality assurance in chemical analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Instrumental Analytical Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gas and liquid chromatography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Atomic absorption and emission spectroscopy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mass spectrometric techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electroanalytical methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thermal analysis methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Calibration and method validation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Biomolecules and Macromolecules",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Amino acids and protein structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Carbohydrate structure and function"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lipids and biological membranes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nucleic acids and genetic information"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vitamins and cofactors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Protein folding and structure determination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Metabolism and Enzymology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Enzyme structure and catalytic mechanisms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Michaelis Menten enzyme kinetics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Glycolysis and gluconeogenesis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The citric acid cycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Oxidative phosphorylation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lipid and amino acid metabolism"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Metabolic regulation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Environmental Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Atmospheric chemistry and air pollution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Water chemistry and treatment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Soil chemistry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Greenhouse gases and climate chemistry"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Basics of toxicology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Environmental remediation techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Medicinal and Pharmaceutical Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of drug design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structure activity relationships"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Basics of pharmacokinetics and pharmacodynamics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The drug discovery and development pipeline"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Natural products in drug discovery"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Combinatorial chemistry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Green and Sustainable Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of green chemistry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Atom economy and waste reduction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Renewable feedstocks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Green solvents and catalysts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Life cycle assessment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sustainable industrial processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Industrial and Process Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Haber process for ammonia synthesis"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Contact process for sulfuric acid production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Extraction and refining of metals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Petroleum refining and petrochemicals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Industrial polymer and materials production"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scaling chemical processes from laboratory to industrial production"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Nanochemistry and Supramolecular Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Molecular self assembly"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Molecular recognition and host guest chemistry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Synthesis and properties of nanoparticles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Quantum dots and nanoscale materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Applications of supramolecular chemistry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nanotechnology in medicine and industry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Computational Chemistry",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Molecular mechanics and force fields"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ab initio and density functional theory methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Molecular dynamics simulations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cheminformatics and molecular modeling software"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Computational approaches to drug design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Machine learning applications in chemistry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Laboratory Techniques and Scientific Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Common laboratory equipment and glassware"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Separation techniques such as distillation and extraction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Purification and recrystallization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Chemical hazard communication and safety practices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Keeping laboratory records"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Scientific writing and data presentation"
+        }
+      ]
+    }
+  ]
+}

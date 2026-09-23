@@ -1,0 +1,843 @@
+{
+  "topic": "Supplier Relationship Management (SRM) & Dual Sourcing",
+  "topic_slug": "supplier_relationship_management_srm_dual_sourcing",
+  "generated_at": "2026-09-21T20:04:48.010467",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Procurement and Supply Chain Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Role of Procurement in Organizational Strategy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Evolution From Purchasing to Strategic Sourcing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supply Chain Tiers and Network Structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total Cost of Ownership Fundamentals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Make-Versus-Buy Decision Frameworks"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Procurement Organizational Models"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Key Stakeholders in Sourcing Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Introduction to Supplier Relationship Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of SRM"
+        },
+        {
+          "item_index": 2,
+          "item_title": "SRM Versus Traditional Vendor Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Business Case and Value Proposition for SRM"
+        },
+        {
+          "item_index": 4,
+          "item_title": "SRM Maturity Model Stages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core Components of an SRM Framework"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aligning SRM Strategy With Corporate Objectives"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cross-Functional Stakeholders in SRM"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Supplier Segmentation and Portfolio Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Kraljic Portfolio Matrix Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supply Risk Versus Profit Impact Axes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic, Leverage, Bottleneck, and Routine Categories"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Segment-Specific Relationship Strategies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supplier Tiering and Criticality Assessment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Reviewing and Re-Segmenting Suppliers Over Time"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Communicating Segmentation Internally and to Suppliers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Sourcing Strategy Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Single Sourcing Rationale and Risk Profile"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dual Sourcing Rationale and Risk Profile"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Multi-Sourcing and Sole Sourcing Distinctions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Global Versus Regional Versus Local Sourcing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Category-Level Sourcing Strategy Development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sourcing Strategy Decision Frameworks"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Aligning Sourcing Strategy With Continuity Goals"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Dual Sourcing Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Purpose of Dual Sourcing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dual Sourcing Versus Backup Supplier Models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "When Dual Sourcing Is and Is Not Appropriate"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost-Benefit Analysis of Maintaining Two Sources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Primary and Secondary Supplier Allocation Models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Split Sourcing and Volume Allocation Ratios"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contingency Sourcing and Activation Triggers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Designing and Implementing a Dual Sourcing Program",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Candidate Categories for Dual Sourcing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Second Source Qualification Process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tooling, Capital, and Capacity Planning Across Sources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intellectual Property Protection Across Suppliers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Transition Planning From Single to Dual Source"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Switching Rules and Lead-Time Triggers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Avoiding Supplier Gaming and Collusion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Governance Model for Managing Two Active Suppliers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Dual Sourcing Risk and Supply Chain Resilience",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supply Chain Risk Category Taxonomy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Business Continuity Planning for Critical Components"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Balancing Resilience Benefits Against Redundancy Costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dual Sourcing Patterns in Semiconductors and Electronics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Natural Disaster and Force Majeure Contingencies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Currency and Cost Volatility Across Dual Sources"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Early-Warning and Disruption Monitoring Capability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Geopolitical and Trade Policy Considerations in Sourcing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tariff Exposure Assessment by Product Category"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reshoring, Nearshoring, and Friendshoring Strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regionalization Versus Globalization Trade-Offs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supplier Diversification Across Countries and Regions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Export Controls, Sanctions, and Trade Compliance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Leveraging Regional Trade Agreements"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Scenario Planning for Trade Policy Shifts"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Supplier Identification and Market Research",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supplier Discovery and Market Mapping"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Request for Information (RFI) Process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Preliminary Supplier Screening Criteria"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Financial Health and Viability Assessment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capability, Capacity, and Technology Assessment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Site Visits, Audits, and Certifications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Supplier Selection, RFx, and Negotiation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Request for Proposal (RFP) and Request for Quotation (RFQ) Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bid Evaluation Frameworks and Weighted Scoring"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Negotiation Planning and Tactics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total Cost and Value-Based Negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multi-Round and Reverse Auction Techniques"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Documenting Selection Rationale and Audit Trail"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Contract Management and Legal Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Contract Types and Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Service Level Agreements and Key Terms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pricing Mechanisms and Price Adjustment Clauses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intellectual Property and Confidentiality Clauses"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Liability, Indemnification, and Insurance Requirements"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Exit Clauses, Transition, and Termination Provisions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Contract Lifecycle Management Processes and Tools"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Supplier Onboarding and Integration",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Onboarding Process Design and Milestones"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Master Data Setup and System Integration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supplier Code of Conduct and Compliance Attestation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Communication Protocols and Relationship Kickoff"
+        },
+        {
+          "item_index": 5,
+          "item_title": "EDI and API Integration for Orders and Invoices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Early-Stage Performance Baseline Setting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Supplier Performance Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "KPI Design and Selection Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quality Metrics: Defect Rate, PPM, First-Pass Yield"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Delivery Metrics: On-Time-in-Full and Lead-Time Reliability"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost and Value Metrics: TCO and Savings Tracking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Weighted Supplier Scorecards and Rating Bands"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Performance Review Cadence and Governance Meetings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Corrective Action Plans and Improvement Processes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Supplier Ranking, Rationalization, and Exit Decisions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Relationship Governance and Collaboration Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Relationship Governance Structures and Tiers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Executive Sponsorship and Relationship Ownership"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Joint Business Planning Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Communication Cadences and Escalation Paths"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ISO 44001 Collaborative Relationship Lifecycle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Trust-Building and Conflict Resolution"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Managing Competitive Tension Between Dual Sources"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Supplier Development and Continuous Improvement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supplier Development Program Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capability-Building and Training Initiatives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Lean and Continuous Improvement With Suppliers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Joint Cost Reduction and Value Engineering Programs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supplier Innovation Pipelines and Co-Development"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Recognition and Incentive Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Supplier Risk Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Risk Identification and Assessment Frameworks"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Financial Risk Monitoring and Early-Warning Indicators"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Operational, Quality, and Capacity Risk"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cybersecurity and Data Risk in the Supply Base"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Concentration Risk and Single Points of Failure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Business Continuity and Contingency Planning"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Risk Monitoring Technology and Real-Time Alerting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Ethics, Compliance, and Sustainable Sourcing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supplier Code of Conduct and Ethical Sourcing Policy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Anti-Corruption and Conflict-of-Interest Controls"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Human Rights and Labor Standards Due Diligence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "ESG Criteria in Supplier Requirements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Scope 3 Emissions Measurement With Suppliers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Responsible Sourcing Certifications and Ratings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Supplier Diversity and Inclusion Programs"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Regulatory Disclosure and Reporting Obligations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Cost Management and Value Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Total Cost of Ownership Modeling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Should-Cost Modeling and Cost Breakdown Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Value Engineering and Value Analysis Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Price Indexation and Currency Hedging"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Category-Level Cost Management Strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Open-Book Costing and Cost Transparency"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Category Management Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Direct Versus Indirect Spend Categories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Strategic Category Planning Process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tailoring SRM Approach by Category Type"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Category Team Structures and Stakeholder Alignment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Spend-Under-Management Growth Strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Category-Specific Dual Sourcing Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Digital Tools and Source-to-Pay Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Source-to-Pay Platform Architecture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supplier Relationship Management Software Capabilities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Contract Lifecycle Management Tools"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supplier Portals and Collaboration Platforms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Master Data Management and Data Governance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supply Chain Visibility and Control Towers"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Data, Analytics, and AI in Supplier Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spend Analytics Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Predictive and Prescriptive Supplier Risk Analytics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "AI-Enabled Supplier Discovery and Evaluation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Generative and Agentic AI in Contracting and Negotiation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "AI-Based Fraud and Anomaly Detection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Explainability and Bias in AI-Driven Decisions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Human Oversight and Governance of AI Tools"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Organizational Design, Roles, and Change Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Centralized, Decentralized, and Hybrid Procurement Models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "SRM Roles, Responsibilities, and RACI Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Skills and Competency Frameworks for SRM Professionals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Change Management for SRM Program Adoption"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-Functional Stakeholder Alignment and Buy-In"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building an SRM Center of Excellence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Measuring and Communicating SRM Value",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Value Creation Frameworks for SRM Programs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ROI Measurement and Savings Tracking Methodologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reporting SRM Performance to Executive Leadership"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Benchmarking Against Industry Standards"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building the Business Case for SRM Investment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Industry Applications and Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Dual Sourcing in Electronics and Semiconductors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dual Sourcing in Automotive and Manufacturing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supply Resilience in Pharma and Medical Devices"
+        },
+        {
+          "item_index": 4,
+          "item_title": "SRM Transformation Case Studies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Crisis Response: Pandemic and Chip Shortage Lessons"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lessons From Supplier Relationship Failures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Capstone Application and Mastery Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Segmenting a Sample Category Portfolio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a Dual Sourcing Business Case"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Drafting a Supplier Scorecard and Governance Calendar"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Simulating a Disruption and Activating a Second Source"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Presenting an SRM Strategy Roadmap"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Certifications and Continuing Professional Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "CIPS Qualification Pathway"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ISM Certified Professional in Supply Management (CPSM)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ASCM Certified Supply Chain Professional (CSCP) and CPIM"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Industry Associations and Communities of Practice"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Recommended Frameworks and Reference Reading"
+        }
+      ]
+    }
+  ]
+}

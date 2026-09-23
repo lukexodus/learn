@@ -1,0 +1,1185 @@
+{
+  "topic": "Physics",
+  "topic_slug": "physics",
+  "generated_at": "2026-09-19T20:53:14.145614",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Mathematical Foundations for Physics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Vectors and Vector Algebra"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Coordinate Systems and Transformations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Differentiation and Integration for Physics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ordinary Differential Equations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Partial Differential Equations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Linear Algebra and Matrices"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Complex Numbers and Functions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Vector Calculus: Gradient, Divergence, and Curl"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Fourier Series and Transforms"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Probability and Statistics for Physics"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Dimensional Analysis and Units"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Kinematics and Newtonian Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Motion in One Dimension"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Motion in Two and Three Dimensions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Projectile Motion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Newton's Laws of Motion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Friction and Drag Forces"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Free Body Diagrams and Force Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Uniform Circular Motion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Non-Inertial Reference Frames"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Work, Energy, and Momentum",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Work and the Work-Energy Theorem"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kinetic and Potential Energy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Conservation of Mechanical Energy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Power"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Linear Momentum and Impulse"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Conservation of Linear Momentum"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Elastic and Inelastic Collisions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Center of Mass and Systems of Particles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Rotational Dynamics and Angular Momentum",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rotational Kinematics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Torque and Rotational Equilibrium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Moment of Inertia"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rotational Kinetic Energy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Angular Momentum and Its Conservation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Rolling Motion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Gyroscopic Precession"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Statics of Rigid Bodies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Oscillations and Simple Harmonic Motion",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Simple Harmonic Motion Fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Energy in Simple Harmonic Motion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Simple and Physical Pendulum"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Damped Oscillations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Driven Oscillations and Resonance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Coupled Oscillators"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Normal Modes of Vibration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Gravitation and Orbital Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Newton's Law of Universal Gravitation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gravitational Field and Potential Energy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Kepler's Laws of Planetary Motion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Orbital Mechanics and Satellite Motion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Escape Velocity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tidal Forces"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Three-Body Problem"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Lagrangian and Hamiltonian Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Generalized Coordinates and Constraints"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Principle of Least Action"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Euler-Lagrange Equation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Applications of Lagrangian Mechanics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Symmetries and Conservation Laws (Noether's Theorem)"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hamiltonian Formulation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hamilton's Equations of Motion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Phase Space and Liouville's Theorem"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Canonical Transformations"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Hamilton-Jacobi Theory"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Wave Phenomena and Acoustics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Mechanical Wave Equation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transverse and Longitudinal Waves"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Superposition and Interference of Waves"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Standing Waves and Harmonics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sound Waves and the Speed of Sound"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Doppler Effect"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Beats"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Acoustic Resonance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Fluid Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fluid Statics and Pressure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Buoyancy and Archimedes' Principle"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Continuity Equation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Bernoulli's Equation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Viscosity and Laminar Flow"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Turbulence"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Surface Tension and Capillarity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Thermodynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Temperature and Thermal Equilibrium"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Zeroth Law of Thermodynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Heat, Work, and Internal Energy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The First Law of Thermodynamics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thermodynamic Processes and Cycles"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Heat Engines and Efficiency"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Second Law of Thermodynamics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Entropy"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The Third Law of Thermodynamics"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Thermodynamic Potentials and Free Energy"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Phase Transitions and Phase Diagrams"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Statistical Mechanics and Kinetic Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Kinetic Theory of Gases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Maxwell-Boltzmann Distribution"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Microstates, Macrostates, and Entropy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Canonical Ensemble"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Grand Canonical Ensemble"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Partition Functions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bose-Einstein Statistics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Fermi-Dirac Statistics"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Blackbody Radiation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Electrostatics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electric Charge and Coulomb's Law"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Electric Field"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gauss's Law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electric Potential and Potential Energy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capacitance and Capacitors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dielectrics and Polarization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Conductors in Electrostatic Equilibrium"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Electric Circuits",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electric Current and Resistance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ohm's Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Kirchhoff's Circuit Laws"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Series and Parallel Circuits"
+        },
+        {
+          "item_index": 5,
+          "item_title": "RC Circuits and Transients"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electrical Power and Energy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Alternating Current and Impedance"
+        },
+        {
+          "item_index": 8,
+          "item_title": "RLC Circuits and Resonance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Magnetism and Magnetic Fields",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Magnetic Force on Moving Charges"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Motion of Charged Particles in Magnetic Fields"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Biot-Savart Law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ampere's Law"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Magnetic Fields of Current-Carrying Conductors"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Force on Current-Carrying Conductors"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Magnetic Properties of Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Electromagnetic Induction",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Faraday's Law of Induction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lenz's Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Motional EMF"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self-Inductance and Inductors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mutual Inductance"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Energy Stored in Magnetic Fields"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Transformers and Generators"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Maxwell's Equations and Electromagnetic Waves",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Displacement Current"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Maxwell's Equations in Integral and Differential Form"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Derivation of the Electromagnetic Wave Equation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Properties of Electromagnetic Waves"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Electromagnetic Spectrum"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Poynting Vector and Energy Flow"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Radiation Pressure"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Electromagnetic Waves in Matter"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Geometric Optics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reflection and Refraction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Snell's Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Total Internal Reflection"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Plane and Curved Mirrors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thin Lenses and the Lensmaker's Equation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Optical Instruments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Aberrations in Lenses and Mirrors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Wave and Physical Optics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Huygens' Principle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Young's Double-Slit Experiment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thin-Film Interference"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Diffraction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Diffraction Gratings and Resolving Power"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Polarization of Light"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Coherence and Interferometry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Special Relativity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Postulates of Special Relativity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Relativity of Simultaneity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Time Dilation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Length Contraction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Lorentz Transformation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Relativistic Velocity Addition"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Relativistic Momentum and Energy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Mass-Energy Equivalence"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Spacetime and Minkowski Diagrams"
+        },
+        {
+          "item_index": 10,
+          "item_title": "The Relativistic Doppler Effect"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Introduction to Quantum Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Blackbody Radiation and the Photoelectric Effect"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wave-Particle Duality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Bohr Model of the Atom"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The de Broglie Hypothesis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Heisenberg Uncertainty Principle"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Schrödinger Equation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Wavefunctions and Probability Interpretation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Particle in a Box"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Quantum Tunneling"
+        },
+        {
+          "item_index": 10,
+          "item_title": "The Quantum Harmonic Oscillator"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Quantum Mechanics: Advanced Formalism",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Operators and Observables"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Eigenvalues, Eigenstates, and Measurement"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Hydrogen Atom"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Orbital and Spin Angular Momentum"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Addition of Angular Momenta"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Identical Particles and the Pauli Exclusion Principle"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Time-Independent Perturbation Theory"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Time-Dependent Perturbation Theory"
+        },
+        {
+          "item_index": 9,
+          "item_title": "The Variational Method"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Quantum Entanglement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Atomic Physics and Spectra",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Atomic Structure and Electron Configuration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Atomic Spectra and Spectral Series"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fine and Hyperfine Structure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Zeeman Effect"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Stark Effect"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Selection Rules for Transitions"
+        },
+        {
+          "item_index": 7,
+          "item_title": "X-Ray Spectra and Moseley's Law"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Multi-Electron Atoms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Molecular Physics and Spectroscopy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Molecular Bonding: Ionic and Covalent"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Molecular Orbital Theory"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Born-Oppenheimer Approximation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Rotational Spectra of Molecules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vibrational Spectra of Molecules"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Raman Spectroscopy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Van der Waals Forces"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Nuclear Physics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nuclear Structure and Composition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Binding Energy and the Mass Defect"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nuclear Models: Liquid Drop and Shell Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Radioactive Decay and Half-Life"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nuclear Reactions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Nuclear Fission"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nuclear Fusion"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications of Nuclear Physics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Particle Physics and the Standard Model",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fundamental Particles and Forces"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quarks and Leptons"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Standard Model of Particle Physics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gauge Bosons and Force Carriers"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Higgs Mechanism"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Particle Accelerators and Detectors"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Conservation Laws and Symmetries in Particle Physics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Physics Beyond the Standard Model"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Condensed Matter Physics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crystal Structure and Bravais Lattices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bonding in Solids"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Band Theory of Solids"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conductors, Insulators, and Semiconductors"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Semiconductor Devices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Superconductivity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Magnetic Properties of Solids"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Phonons and Lattice Vibrations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "General Relativity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Equivalence Principle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Curved Spacetime and Riemannian Geometry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Einstein Field Equations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Schwarzschild Solution"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Black Holes and Event Horizons"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Gravitational Waves"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Experimental Tests of General Relativity"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Gravitational Lensing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Astrophysics and Stellar Evolution",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stellar Structure and Nuclear Fusion in Stars"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Hertzsprung-Russell Diagram"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stellar Life Cycles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "White Dwarfs, Neutron Stars, and Black Holes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supernovae"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Binary Star Systems"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Exoplanets and Planetary Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Cosmology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Big Bang Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Expanding Universe and Hubble's Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Cosmic Microwave Background"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Dark Matter"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Dark Energy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Galaxy Formation and Large-Scale Structure"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Fate of the Universe"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Nonlinear Dynamics and Chaos Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nonlinear Systems and Dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Phase Space and Attractors"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bifurcations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deterministic Chaos and Sensitivity to Initial Conditions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fractals in Physical Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Chaos in Physical and Natural Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Computational Methods in Physics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Numerical Methods for Physical Equations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Numerical Integration and Root-Finding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monte Carlo Methods"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Molecular Dynamics Simulations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Finite Difference and Finite Element Methods"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Computational Modeling of Physical Systems"
+        }
+      ]
+    }
+  ]
+}

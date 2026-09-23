@@ -1,0 +1,635 @@
+{
+  "topic": "Inventory Management & Safety Stock Calculus",
+  "topic_slug": "inventory_management_safety_stock_calculus",
+  "generated_at": "2026-09-21T09:51:41.956060",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of inventory management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and strategic role of inventory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Types of inventory across the value chain"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Independent versus dependent demand"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Push versus pull inventory systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Core inventory management objectives and trade-offs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Inventory management within the broader supply chain"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Inventory cost structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ordering and setup costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Holding and carrying costs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stockout and shortage costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capital and opportunity cost of inventory"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Obsolescence, spoilage, and shrinkage costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Total relevant cost modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Demand analysis and forecasting fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Qualitative versus quantitative forecasting approaches"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Moving average and weighted moving average models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Simple exponential smoothing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Trend adjusted and seasonal smoothing methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Regression based and causal forecasting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forecast accuracy metrics and bias detection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Forecasting intermittent and lumpy demand"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Demand variability and the coefficient of variation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Inventory classification and segmentation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ABC analysis and the Pareto principle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "XYZ analysis for demand variability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Combined ABC-XYZ segmentation matrix"
+        },
+        {
+          "item_index": 4,
+          "item_title": "SKU rationalization and assortment complexity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Differentiated inventory policies by item class"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Deterministic inventory models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Economic order quantity derivation and assumptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sensitivity analysis of the EOQ model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "EOQ with quantity discounts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "EOQ with planned backorders"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Economic production quantity for batch manufacturing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Discrete lot sizing and the Wagner-Whitin algorithm"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Joint replenishment and multi-item ordering"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Inventory control policy structures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Continuous review reorder point policy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Periodic review order-up-to policy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Min-max inventory policy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Base stock policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparing continuous and periodic review systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hybrid and two-bin systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Uncertainty in inventory systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sources of demand uncertainty"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sources of lead time uncertainty"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supply and yield uncertainty"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Probability distributions for modeling uncertainty"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Distinguishing measurable risk from true uncertainty"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Safety stock foundations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purpose and function of safety stock"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Safety stock and service level relationship"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost trade-off between overstock and stockout"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cycle service level versus fill rate versus ready rate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Setting differentiated service level targets by item class"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Core safety stock calculus",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Standard normal distribution and z-score selection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Standard deviation of demand during lead time"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Safety stock formula under constant lead time"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Safety stock formula under variable demand and variable lead time"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lead time demand variance decomposition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Worked numerical safety stock calculations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sensitivity of safety stock to service level changes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Advanced safety stock models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "King's method for combined demand and lead time variability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Non-normal demand distributions in safety stock modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Safety stock for slow-moving and intermittent demand"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The newsvendor model and the critical ratio"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Safety stock under supplier reliability constraints"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Simulation-based safety stock estimation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Reorder point calculation and lead time management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Full reorder point formula combining lead time demand and safety stock"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Components of total order lead time"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Impact of lead time variability on reorder point"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supplier lead time reliability assessment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lead time compression and pooling strategies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Multi-echelon and network inventory optimization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The bullwhip effect and its mitigation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk pooling and inventory centralization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Guaranteed service model for multi-echelon safety stock"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Stochastic service model for multi-echelon safety stock"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Echelon inventory and strategic safety stock placement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Distribution network design and inventory allocation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Dependent demand planning systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Material requirements planning fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bill of materials and master production schedule inputs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Netting logic and time-phased planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Distribution requirements planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Manufacturing resource planning integration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Lean and just-in-time inventory systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "JIT philosophy and waste elimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Kanban pull system mechanics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Kanban card sizing calculations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Heijunka and production leveling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Vendor-managed inventory and continuous replenishment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Inventory performance metrics and KPIs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Inventory turnover ratio"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Days of supply and days of inventory outstanding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gross margin return on inventory investment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fill rate and backorder rate tracking"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Carrying cost as a percentage of inventory value"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Inventory-to-sales ratio"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Inventory control, accuracy, and auditing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cycle counting methodologies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Physical inventory count procedures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Inventory record accuracy and reconciliation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Shrinkage and obsolescence management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Root cause analysis of inventory discrepancies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Technology and systems for inventory management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Role of ERP and warehouse management systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Barcode and RFID tracking technologies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Real-time inventory visibility and demand sensing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inventory optimization software platforms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Systems integration across forecasting, planning, and execution"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Data-driven and AI-enhanced inventory management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Machine learning approaches to demand forecasting"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Probabilistic and quantile-based forecasting for safety stock"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Digital twins for supply chain simulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Control towers and real-time exception management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reinforcement learning for dynamic inventory policies"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Financial and strategic dimensions of inventory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Inventory on the balance sheet and cost of capital"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cash conversion cycle and working capital impact"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Aligning inventory strategy with sales and operations planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Inventory strategy across the product lifecycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Total cost of ownership versus unit cost optimization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Industry applications and case studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Retail inventory management challenges"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Manufacturing and production inventory challenges"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Healthcare and pharmaceutical inventory management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spare parts and MRO inventory management"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Perishable and short-shelf-life inventory management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "End-to-end applied case problems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Formula reference and quick calculation guide",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "EOQ and EPQ formula summary"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reorder point and safety stock formula summary"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Service level and z-score lookup reference"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Forecast error formula summary"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Inventory KPI formula summary"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Capstone mastery and applied practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Integrated inventory policy design exercise"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building a complete safety stock and reorder point model"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common calculation errors and misconceptions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Validating an inventory policy against service level targets"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuous improvement and periodic policy review"
+        }
+      ]
+    }
+  ]
+}
