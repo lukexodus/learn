@@ -71,6 +71,7 @@ Applied fields:
 - `Law_Governance_Risk/political_science`
 - `Law_Governance_Risk/geopolitical_risk_analysis`
 - `Law_Governance_Risk/diplomatic_leadership`
+- `Law_Governance_Risk/intelligence_officer_training`
 
 ## Psychology_Human_Behavior
 
@@ -101,6 +102,13 @@ Applied fields:
 - `Supply_Chain_Logistics/logistics_modes_incoterms`
 - `Supply_Chain_Logistics/supply_chain_architecture_tiered_structures`
 - `Supply_Chain_Logistics/supply_chain_geopolitics`
+- `Supply_Chain_Logistics/inventory_management_safety_stock_calculus`
+- `Supply_Chain_Logistics/supplier_relationship_management_srm_dual_sourcing`
+
+## Natural_Sciences
+
+- `Natural_Sciences/chemistry`
+- `Natural_Sciences/physics`
 
 ## Cross-Cutting Notes
 
@@ -123,3 +131,8 @@ Topics spanning multiple domains are placed in a single primary home:
 | process_safety_management_psm | Energy_Infrastructure_Engineering | Law_Governance_Risk |
 | advanced_statistics_econometrics | Economics/Core | Business_Management |
 | lean_manufacturing_the_toyota_production_system_tps | Manufacturing_Engineering | Business_Management |
+| intelligence_officer_training | Law_Governance_Risk | Psychology_Human_Behavior |
+| chemistry | Natural_Sciences | Environmental_Earth_Agricultural_Science |
+| physics | Natural_Sciences | Energy_Infrastructure_Engineering |
+| inventory_management_safety_stock_calculus | Supply_Chain_Logistics | Business_Management |
+| supplier_relationship_management_srm_dual_sourcing | Supply_Chain_Logistics | Business_Management |
