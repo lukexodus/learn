@@ -26,6 +26,8 @@ Applied fields:
 - `Economics/Applied/healthcare_economics`
 - `Economics/Applied/energy_economics`
 - `Economics/Applied/agriculture_economics`
+- `Economics/Applied/public_finance_and_fiscal_statecraft`
+- `Economics/Applied/the_world_trade_organization`
 
 ## Finance_Capital_Markets
 
@@ -52,6 +54,7 @@ Applied fields:
 - `Business_Management/rhetoric_and_executive_communication`
 - `Business_Management/systems_thinking`
 - `Business_Management/crisis_reputation_management`
+- `Business_Management/fixed_vs_variable_cost_structure_operating_leverage`
 
 ## Energy_Infrastructure_Engineering
 
@@ -62,6 +65,7 @@ Applied fields:
 - `Energy_Infrastructure_Engineering/publicprivate_partnership_ppp_economics`
 - `Energy_Infrastructure_Engineering/asset_lifecycle_management`
 - `Energy_Infrastructure_Engineering/process_safety_management_psm`
+- `Energy_Infrastructure_Engineering/process_safety_management_psm_occupational_safety`
 
 ## Law_Governance_Risk
 
@@ -72,6 +76,9 @@ Applied fields:
 - `Law_Governance_Risk/geopolitical_risk_analysis`
 - `Law_Governance_Risk/diplomatic_leadership`
 - `Law_Governance_Risk/intelligence_officer_training`
+- `Law_Governance_Risk/diplomatic_practice_and_negotiation`
+- `Law_Governance_Risk/international_law`
+- `Law_Governance_Risk/conflict_systems_and_peace_engineering`
 
 ## Psychology_Human_Behavior
 
@@ -95,6 +102,12 @@ Applied fields:
 - `Manufacturing_Engineering/manufacturing_process_classifications`
 - `Manufacturing_Engineering/precision_metrology_quality_control`
 - `Manufacturing_Engineering/lean_manufacturing_the_toyota_production_system_tps`
+- `Manufacturing_Engineering/capacity_planning_the_learning_curve`
+- `Manufacturing_Engineering/failure_mode_and_effects_analysis_fmea`
+- `Manufacturing_Engineering/quality_management_systems_qms_iso_standards`
+- `Manufacturing_Engineering/root_cause_analysis_rca_the_5_whys`
+- `Manufacturing_Engineering/the_cost_of_quality_coq_the_110100_rule`
+- `Manufacturing_Engineering/materials_science_metallurgy`
 
 ## Supply_Chain_Logistics
 
@@ -136,3 +149,12 @@ Topics spanning multiple domains are placed in a single primary home:
 | physics | Natural_Sciences | Energy_Infrastructure_Engineering |
 | inventory_management_safety_stock_calculus | Supply_Chain_Logistics | Business_Management |
 | supplier_relationship_management_srm_dual_sourcing | Supply_Chain_Logistics | Business_Management |
+| capacity_planning_the_learning_curve | Manufacturing_Engineering | Business_Management |
+| materials_science_metallurgy | Manufacturing_Engineering | Energy_Infrastructure_Engineering |
+| process_safety_management_psm_occupational_safety | Energy_Infrastructure_Engineering | Manufacturing_Engineering |
+| public_finance_and_fiscal_statecraft | Economics/Applied | Law_Governance_Risk |
+| the_world_trade_organization | Economics/Applied | Law_Governance_Risk |
+| diplomatic_practice_and_negotiation | Law_Governance_Risk | Business_Management |
+| international_law | Law_Governance_Risk | Economics/Applied |
+| conflict_systems_and_peace_engineering | Law_Governance_Risk | Economics |
+| fixed_vs_variable_cost_structure_operating_leverage | Business_Management | Finance_Capital_Markets |
