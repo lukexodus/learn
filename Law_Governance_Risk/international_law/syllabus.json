@@ -1,0 +1,307 @@
+{
+  "topic": "International Law",
+  "topic_slug": "international_law",
+  "generated_at": "2026-09-25T04:24:32.117146",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Sources and Foundations of International Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Article 38(1) of the ICJ Statute and the formal enumeration of international law's sources"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Treaties as a source of law: the Vienna Convention on the Law of Treaties framework"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Customary international law: the state practice and opinio juris test"
+        },
+        {
+          "item_index": 4,
+          "item_title": "General principles of law recognized by civilized nations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Judicial decisions and the teachings of publicists as subsidiary means"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Jus cogens peremptory norms and obligations erga omnes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Subjects of International Law and Statehood",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Montevideo Convention criteria for statehood and contested recognition cases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Declaratory versus constitutive theories of state recognition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Contested statehood in practice: Kosovo, Taiwan, Palestine, and Somaliland"
+        },
+        {
+          "item_index": 4,
+          "item_title": "International legal personality of international organizations and the Reparation for Injuries advisory opinion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Individuals, corporations, and non-state actors as limited subjects of international law"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Self-determination as a legal principle and its tension with territorial integrity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Law of Treaties",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Treaty formation and consent to be bound under VCLT Articles 11 to 17"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Reservations and objections, and the Reservations to the Genocide Convention advisory opinion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Treaty interpretation under VCLT Articles 31 and 32 and the role of travaux préparatoires"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Pacta sunt servanda and the bar on invoking internal law to justify non-performance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Treaty invalidity, termination, and suspension under VCLT Articles 42 to 64"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Third states and treaties: the pacta tertiis principle and its exceptions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "State Responsibility and Sovereign Immunity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The ILC Articles on Responsibility of States for Internationally Wrongful Acts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Attribution of conduct to the state under ILC Articles 4 to 11"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Circumstances precluding wrongfulness: necessity, self-defense, countermeasures, and force majeure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reparation, restitution, and compensation in state responsibility claims"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sovereign immunity: the absolute versus restrictive theory and the commercial-activity exception"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diplomatic and consular immunity under the Vienna Conventions of 1961 and 1963"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "The Law of the Sea",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "UNCLOS maritime zones: baselines, the territorial sea, and the contiguous zone"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Exclusive Economic Zone regime and coastal state resource rights under UNCLOS"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The continental shelf, extended continental shelf claims, and the CLCS"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High seas freedoms and the international seabed Area as common heritage of mankind"
+        },
+        {
+          "item_index": 5,
+          "item_title": "UNCLOS Annex VII arbitration and the 2016 Philippines v. China South China Sea award"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The nine-dash line, historic rights claims, and feature classification in the West Philippine Sea and South China Sea dispute"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "International Humanitarian Law and the Law of Armed Conflict",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The four Geneva Conventions of 1949 and common Article 3"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Additional Protocols I and II and the international versus non-international armed conflict distinction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The principle of distinction between combatants and civilians"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The principles of proportionality and military necessity in the conduct of hostilities"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Means and methods of warfare under the Hague Regulations and weapons-specific prohibitions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Protection of prisoners of war and civilians under occupation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "International Human Rights Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Universal Declaration of Human Rights and its contested normative status"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The ICCPR and ICESCR as the twin covenants and the civil-political versus economic-social-cultural rights divide"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Regional human rights systems: the European, Inter-American, and African Courts of Human Rights"
+        },
+        {
+          "item_index": 4,
+          "item_title": "UN treaty-body reporting mechanisms and their enforcement limitations"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The UN Human Rights Council, Universal Periodic Review, and special procedures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "State reservations to human rights treaties and their effect on enforceability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "International Criminal Law",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Rome Statute and the four core crimes: genocide, crimes against humanity, war crimes, and aggression"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The complementarity principle and admissibility before the ICC"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ICC jurisdiction ratione personae, loci, and temporis, and the problem of non-signatory states"
+        },
+        {
+          "item_index": 4,
+          "item_title": "UN Security Council referral power under Rome Statute Article 13(b) and its politics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ad hoc and hybrid tribunals: the ICTY, ICTR, and the Special Court for Sierra Leone"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Modes of individual criminal responsibility: command responsibility and superior orders"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Dispute Settlement and Adjudication",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The ICJ's contentious jurisdiction: consent, compromissory clauses, and Article 36 optional declarations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The ICJ's advisory jurisdiction and its legal effect on requesting organs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Peaceful settlement methods under UN Charter Article 33"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Arbitration under the Permanent Court of Arbitration and UNCITRAL rules"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Specialized dispute settlement: the WTO Dispute Settlement Understanding and ICSID investor-state arbitration"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Provisional measures and enforcement of ICJ judgments under UN Charter Article 94"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Enforcement and Compliance Debates",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Austinian critique and the question of whether international law is law without a sovereign enforcer"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Chayes and Chayes' managerial model of treaty compliance"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reputation, reciprocity, and repeated-game theories of state compliance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Domestic incorporation of international law: monism, dualism, and self-executing treaties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "UN Security Council enforcement powers under Chapter VII and their selective application"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Countermeasures, sanctions, and non-judicial enforcement mechanisms in practice"
+        }
+      ]
+    }
+  ]
+}

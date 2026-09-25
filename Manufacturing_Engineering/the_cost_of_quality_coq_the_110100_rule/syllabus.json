@@ -1,0 +1,677 @@
+{
+  "topic": "The Cost of Quality (CoQ) & The 1-10-100 Rule",
+  "topic_slug": "the_cost_of_quality_coq_the_110100_rule",
+  "generated_at": "2026-09-22T21:19:15.399975",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Quality Management Thought",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Shift from Inspection to Prevention in Quality Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Walter Shewhart and Statistical Quality Control"
+        },
+        {
+          "item_index": 3,
+          "item_title": "W. Edwards Deming's Quality Philosophy and the 14 Points"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Joseph Juran and the Quality Trilogy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Armand Feigenbaum and Total Quality Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Philip Crosby and the Zero Defects Philosophy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Defining Quality: Conformance versus Fitness for Use"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Economic Case for Investing in Quality"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Introduction to Cost of Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Purpose of Cost of Quality"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost of Good Quality versus Cost of Poor Quality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Visible Costs versus Hidden Costs of Quality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Iceberg Model of Quality Costs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Hidden Factory Concept"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Why Organizations Measure the Cost of Quality"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Common Misconceptions About Quality Costs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Prevention, Appraisal, and Failure Framework",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins and Development of the PAF Model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Overview of the Four Quality Cost Categories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Conformance Costs versus Nonconformance Costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interrelationships Between the Four Cost Categories"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Strengths and Limitations of the PAF Model"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Prevention Costs in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Prevention Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quality Planning and Process Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Training and Workforce Education"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Supplier Quality Assurance and Evaluation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality Improvement Projects and Programs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Preventive Maintenance"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Design Reviews and New Product Quality Planning"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Quality System Development Costs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Appraisal Costs in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Appraisal Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Incoming and Receiving Inspection"
+        },
+        {
+          "item_index": 3,
+          "item_title": "In Process Inspection and Testing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Final Inspection and Product Testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Calibration and Maintenance of Test Equipment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality Audits and Assessments"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Supplier Verification and Vendor Surveys"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Internal Failure Costs in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of Internal Failure Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Scrap and Material Waste"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Rework and Repair"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reinspection and Retesting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Downtime and Delays Caused by Defects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Failure Analysis and Root Cause Investigation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Yield Loss and Downgrading"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "External Failure Costs in Depth",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Scope of External Failure Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Warranty Claims and Product Returns"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Customer Complaint Handling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Product Recalls and Field Service Costs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Liability Claims and Litigation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lost Sales and Customer Defection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Reputational and Brand Damage"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Opportunity Cost of Lost Customer Goodwill"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Measuring and Reporting Quality Costs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Methods for Collecting Quality Cost Data"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Designing a Quality Cost Reporting System"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Expressing Cost of Quality as a Percentage of Sales"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Benchmarking Quality Costs Across Industries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Activity Based Costing Applied to Quality"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cross Functional Collaboration in Cost Data Gathering"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pitfalls and Biases in Quality Cost Data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "The 1-10-100 Rule Explained",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origin and History of the 1-10-100 Rule"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Core Principle of Exponential Cost Escalation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Prevention Stage and the $1 Cost"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Correction and Detection Stage and the $10 Cost"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Failure Stage and the $100 Cost"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Illustrative Heuristic versus Literal Cost Multiplier"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Relationship Between the 1-10-100 Rule and the PAF Model"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "The 1-10-100 Rule in Manufacturing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defect Detection Timing Along the Production Line"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost Escalation from Design Through Shipment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Supplier Level Defect Prevention"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Poka Yoke and Error Proofing Techniques"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Manufacturing Rework and Scrap Case Examples"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "The 1-10-100 Rule in Software and IT",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost of Defects Across the Software Development Lifecycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost of Bugs Found in Requirements versus Testing versus Production"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Shift Left Testing Philosophy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Static Analysis and Code Review as Prevention"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Technical Debt as Deferred Quality Cost"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "The 1-10-100 Rule in Data Quality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Thomas Redman's Data Quality Formulation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost of Errors at the Point of Data Entry"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of Data Cleansing and Correction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost of Decisions Made on Flawed Data"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Data Governance as Prevention Investment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "The 1-10-100 Rule in Services and Other Industries",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Customer Service and Experience Applications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Healthcare and Patient Safety Applications"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Financial Services and Transaction Error Applications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Construction and Rework Cost Applications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supply Chain and Procurement Applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Alternative and Extended Cost of Quality Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Crosby's Cost of Quality versus Cost of Nonconformance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Process Cost Model, BS 6143 Part 1"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Comparing the PAF Model and the Process Cost Model"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intangible and Opportunity Cost Models"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Customer Lifetime Value Loss as a Quality Cost"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Strategic and Financial Analysis of Quality Costs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building the Business Case for Quality Investment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cost Benefit Analysis of Prevention Spending"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Traditional Optimal Quality Cost Curve"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Modern Zero Defects Cost Curve Debate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Break Even Analysis Between Prevention and Failure Costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Return on Quality Concept"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Juran's Gold in the Mine Concept"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Tools and Techniques for Reducing Quality Costs",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Root Cause Analysis and the Five Whys"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fishbone and Ishikawa Diagrams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Failure Mode and Effects Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Statistical Process Control"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Pareto Analysis of Quality Costs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Six Sigma DMAIC Methodology"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sigma Level and Cost of Poor Quality Correlation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Lean Manufacturing and Waste Elimination"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Quality Function Deployment"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Implementing a Cost of Quality Program",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Steps to Design a Quality Cost System"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Securing Leadership and Organizational Commitment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Assigning Ownership and Cross Functional Roles"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Establishing Quality Cost Categories and Accounts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building Quality Cost Dashboards and KPIs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Communicating Quality Costs to Executives"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sustaining a Continuous Improvement Culture"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Common Pitfalls and Criticisms",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Underreporting of Hidden and Indirect Costs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Overemphasis on Easily Measured Cost Categories"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gaming and Manipulation of Quality Metrics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Criticisms of the Optimal Quality Cost Curve"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Limitations of the 1-10-100 Rule as a Literal Model"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Organizational Resistance to Quality Costing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Cost of Quality in the Modern and Digital Era",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Predictive Quality and Machine Learning for Defect Prevention"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Real Time Quality Cost Analytics and Dashboards"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost of Quality in Industry 4.0 and Smart Manufacturing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Automation's Impact on Appraisal Costs"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Digital Twins for Prevention Stage Testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality Management System Software Platforms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Integrating Cost of Quality into Business Strategy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Linking Cost of Quality to the Balanced Scorecard"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quality Costs and Customer Satisfaction Metrics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quality Costs in Mergers, Acquisitions, and Supplier Contracts"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Aligning Cost of Quality with ISO 9001 Quality Management Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost of Quality as a Driver of Competitive Advantage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Certification, Career Pathways, and Mastery Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ASQ Certified Quality Engineer Body of Knowledge Overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ASQ Certified Manager of Quality and Organizational Excellence Overview"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Six Sigma Green Belt and Black Belt Coverage of Cost of Quality"
+        },
+        {
+          "item_index": 4,
+          "item_title": "ISO 9004 and ISO 10014 Guidance on Economic Benefits of Quality"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Campanella's Principles of Quality Costs Reference Framework"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Building a Cost of Quality Model for a Real Organization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Capstone Case Study: Diagnosing and Reducing Cost of Poor Quality"
+        }
+      ]
+    }
+  ]
+}

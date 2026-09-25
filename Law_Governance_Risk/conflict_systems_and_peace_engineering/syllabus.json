@@ -1,0 +1,355 @@
+{
+  "topic": "Conflict Systems and Peace Engineering",
+  "topic_slug": "conflict_systems_and_peace_engineering",
+  "generated_at": "2026-09-24T16:58:40.270033",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Systems Ontology of Conflict",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stock and flow modeling of grievance accumulation and depletion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Structural, proximate, and triggering cause taxonomy in conflict diagnosis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "System boundary specification and actor aggregation-level delineation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Micro, meso, and macro coupling models in conflict system analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Path dependency and lock-in mechanisms in conflict trajectories"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Causal Loop and Feedback-Loop Analysis of Escalation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reinforcing feedback loops in conflict escalation spirals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Balancing feedback loops and self-limiting conflict dynamics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Causal loop diagram construction for intergroup conflict systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Delay structures and overshoot effects in loop-driven escalation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tipping points, thresholds, and hysteresis in conflict state transitions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Loop dominance shifts across latent, escalation, and de-escalation phases"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Structural and Economic Drivers of Civil Conflict Onset",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Collier-Hoeffler greed and grievance framework in resource-conflict linkages"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fearon-Laitin state capacity and opportunity model of civil war onset"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stewart's horizontal inequality framework and group-based grievance formation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Resource curse mechanisms and rentier-state conflict pathways"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Youth bulge and opportunity-cost models of armed group recruitment"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ethnic fractionalization versus polarization indices as conflict predictors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Game-Theoretic Foundations of Cooperation and Defection in Conflict",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Jervis's security dilemma under offense-defense uncertainty"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fearon's commitment problem model of credible commitment failure"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Information asymmetry and costly signaling in crisis bargaining"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Repeated games and shadow-of-the-future stability conditions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bargaining failure and the inefficiency puzzle of war"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Issue indivisibility and its effect on negotiated settlement space"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Trust, Social Capital, and Intergroup Psychology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Putnam's social capital framework and its erosion under conflict exposure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Trust formation mechanisms in repeated intergroup interaction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Allport's intergroup contact theory and its scope conditions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Threat perception and security dilemma sensitivity at the individual level"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Identity entrepreneurship and elite manipulation of group boundaries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dehumanization and moral disengagement mechanisms in atrocity dynamics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Power Structures, Identity Mobilization, and Incentive Architectures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Power asymmetry effects on bargaining range and war likelihood"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ethnic outbidding and the political economy of identity mobilization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Patronage networks and war economies as incentive structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Spoiler dynamics and veto-player incentives against settlement"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Principal-agent problems in armed group command structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diaspora financing and external incentive distortion"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Power-Sharing and Federal Institutional Design for Durable Peace",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lijphart's consociational power-sharing and grand coalition design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Horowitz's centripetalism and integrative institutional incentives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Federalism, territorial autonomy, and self-governance arrangements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electoral system design trade-offs in divided societies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constitutional veto points and minority protection mechanisms"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sequencing and timing of power-sharing implementation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Security Guarantees and Transitional Justice Architectures",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Security sector reform as a credible commitment device"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Disarmament, demobilization, and reintegration program design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Third-party guarantees and peacekeeping as enforcement mechanisms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Truth commission design and mandate variation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Amnesty design and the peace-versus-justice trade-off"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hybrid and international tribunals versus domestic judicial capacity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Negotiation and Mediation Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Zartman's ripeness theory and mutually hurting stalemate conditions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Track I, Track II, and Track III diplomacy coordination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Single-text mediation and formula-based negotiation design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mediator leverage and the insider-outsider mediator debate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Multiparty negotiation architecture and coalition management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Pre-negotiation and confidence-building measure sequencing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Post-Conflict Reconstruction and Reconciliation Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sequencing peacebuilding through security-first versus parallel-track models"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Conflict-sensitive economic reconstruction programming"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reconciliation program design for intergroup trust rebuilding at scale"
+        },
+        {
+          "item_index": 4,
+          "item_title": "State-society relegitimation and institutional legitimacy rebuilding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Refugee return, land restitution, and property rights resolution"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Local ownership versus international trusteeship trade-offs in statebuilding"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Agent-Based Models of Civil Conflict Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Epstein's agent-based model of civil violence and rebellion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rebellion-repression parameter dynamics in agent-based simulations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Calibration and validation challenges in conflict agent-based models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Schelling's threshold model applied to ethnic sorting and violence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sensitivity analysis and parameter-space exploration in conflict simulations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Network and Evolutionary Models of Conflict and Cooperation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Network-theoretic models of conflict diffusion and contagion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Percolation and epidemic models of conflict spread across regions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Evolutionary game-theoretic models of cooperation emergence in spatial games"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self-organized criticality and power-law distributions in conflict onset"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Complex adaptive systems framing of peace as a dynamic equilibrium"
+        }
+      ]
+    }
+  ]
+}

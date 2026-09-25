@@ -1,0 +1,2215 @@
+{
+  "topic": "Materials Science & Metallurgy",
+  "topic_slug": "materials_science_metallurgy",
+  "generated_at": "2026-09-18T16:54:54.550492",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Materials Science and Engineering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and Evolution of Materials Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Classification of Materials: Metals, Ceramics, Polymers, Composites"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Structure Property Processing Performance Relationships"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Materials Science Tetrahedron"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Overview of Materials Selection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Role of Metallurgy within Materials Science"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Units, Standards, and Measurement in Materials Engineering"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Atomic Structure and Interatomic Bonding",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Atomic Structure and Electron Configuration"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Periodic Table Trends and Bonding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ionic Bonding"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Covalent Bonding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Metallic Bonding"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Van der Waals and Secondary Bonding"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bond Energy and Interatomic Forces"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Influence of Bonding Type on Material Properties"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Crystal Structures and Crystallography",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Unit Cells and Lattice Parameters"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Seven Crystal Systems and Fourteen Bravais Lattices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Metallic Crystal Structures: FCC, BCC, and HCP"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Miller Indices for Directions and Planes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Density Computations from Crystal Structure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Close Packed Structures and Coordination Number"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Polymorphism and Allotropy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Single Crystals versus Polycrystalline Materials"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Anisotropy in Crystalline Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Crystalline Defects and Imperfections",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Point Defects: Vacancies and Interstitials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Impurities and Solid Solutions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Line Defects: Edge and Screw Dislocations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Burgers Vector and Dislocation Motion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Planar Defects: Grain Boundaries and Twin Boundaries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stacking Faults and Phase Boundaries"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Volume Defects: Voids and Inclusions"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Defect Interactions and Their Effect on Properties"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Diffusion in Solids",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Diffusion Mechanisms: Vacancy and Interstitial"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ficks First and Second Laws"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Steady State and Non Steady State Diffusion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Factors Affecting Diffusion Rate"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Temperature Dependence and Arrhenius Behavior"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interdiffusion and Self Diffusion"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Diffusion in Ionic and Polymeric Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Industrial Applications of Diffusion: Carburizing and Doping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Thermodynamics of Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Laws of Thermodynamics in Materials Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gibbs Free Energy and Phase Stability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Enthalpy, Entropy, and Chemical Potential"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Solution Thermodynamics and Activity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Binary and Ternary Thermodynamic Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ellingham Diagrams"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Thermodynamics of Surfaces and Interfaces"
+        },
+        {
+          "item_index": 8,
+          "item_title": "CALPHAD Approach to Thermodynamic Modeling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Phase Diagrams and Phase Equilibria",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Phase Rule and Equilibrium Concepts"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unary and Binary Phase Diagrams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Isomorphous Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Eutectic Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Eutectoid and Peritectic Reactions"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Lever Rule and Phase Composition"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Ternary Phase Diagrams"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Iron Iron Carbide Phase Diagram"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Interpreting Microstructure from Phase Diagrams"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Phase Transformation Kinetics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nucleation and Growth Theory"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Homogeneous versus Heterogeneous Nucleation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Time Temperature Transformation Diagrams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Continuous Cooling Transformation Diagrams"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Diffusional versus Diffusionless Transformations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Martensitic Transformations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Precipitation and Age Hardening Kinetics"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Recovery, Recrystallization, and Grain Growth"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Solidification and Microstructure Formation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nucleation During Solidification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solidification of Pure Metals versus Alloys"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dendritic Growth and Solidification Morphology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Constitutional Supercooling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Segregation and Coring"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Solidification Defects: Porosity and Shrinkage"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Grain Refinement Techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Rapid Solidification Processing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Elastic Behavior and Mechanical Properties",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stress Strain Relationships"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Elastic Modulus and Hookes Law"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Poissons Ratio and Elastic Constants"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Anisotropic Elastic Behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Hardness and Its Correlation to Strength"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Toughness, Resilience, and Ductility"
+        },
+        {
+          "item_index": 7,
+          "item_title": "True Stress and True Strain"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Viscoelastic Behavior"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Plastic Deformation and Dislocation Theory",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Slip Systems and Critical Resolved Shear Stress"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Dislocation Glide and Climb"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Dislocation Multiplication and Frank Read Sources"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deformation by Twinning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Plastic Deformation of Single Crystals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Plastic Deformation of Polycrystalline Metals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Texture Development During Deformation"
+        },
+        {
+          "item_index": 8,
+          "item_title": "The Bauschinger Effect"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Strengthening and Hardening Mechanisms",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Grain Boundary Strengthening and the Hall Petch Relationship"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Solid Solution Strengthening"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strain Hardening and Cold Work"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Precipitation and Dispersion Strengthening"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Martensitic Strengthening"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Composite and Fiber Strengthening"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Recovery and Annealing After Cold Work"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Trade Offs Between Strength and Ductility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Fracture Mechanics and Toughness",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ductile versus Brittle Fracture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Griffith Theory of Fracture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stress Concentration and Notch Effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Linear Elastic Fracture Mechanics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fracture Toughness Testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Elastic Plastic Fracture Mechanics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Impact Testing and Ductile to Brittle Transition"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmentally Assisted Cracking"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Fatigue Behavior of Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fatigue Failure Mechanisms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "S N Curves and the Endurance Limit"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Crack Initiation and Propagation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Paris Law and Fatigue Crack Growth"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Factors Affecting Fatigue Life"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Low Cycle versus High Cycle Fatigue"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Fatigue Testing Methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Fatigue Life Improvement Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Creep and Time Dependent Deformation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Stages of the Creep Curve"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Creep Mechanisms: Diffusional and Dislocation"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stress and Temperature Dependence of Creep"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Creep Resistant Alloy Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Larson Miller Parameter"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Stress Rupture Testing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Superplasticity"
+        },
+        {
+          "item_index": 8,
+          "item_title": "High Temperature Materials for Creep Resistance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Mechanical Testing Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tensile Testing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hardness Testing: Brinell, Rockwell, and Vickers"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Impact Testing: Charpy and Izod"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fatigue Testing Procedures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Creep Testing Procedures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fracture Toughness Testing Standards"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nanoindentation Techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "In Situ and Non Standard Mechanical Testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "The Iron Carbon System and Steel Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Iron Iron Carbide Diagram in Detail"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Allotropy of Iron"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Classification of Steels by Carbon Content"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ferrite, Cementite, Pearlite, and Austenite"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Bainite Formation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Martensite Formation in Steel"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hardenability and the Jominy End Quench Test"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Effects of Alloying Elements on Steel"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Heat Treatment of Steels",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Annealing and Its Variants"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Normalizing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quenching Media and Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tempering and Its Effect on Microstructure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Case Hardening: Carburizing, Nitriding, and Carbonitriding"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Induction and Flame Hardening"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Austempering and Martempering"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Heat Treatment Defects and Troubleshooting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Cast Irons and Their Metallurgy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of Cast Irons"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Gray Cast Iron"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ductile and Nodular Cast Iron"
+        },
+        {
+          "item_index": 4,
+          "item_title": "White and Malleable Cast Iron"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Compacted Graphite Iron"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Austempered Ductile Iron"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Heat Treatment of Cast Irons"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications of Cast Irons"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Alloy and Specialty Steels",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Low Alloy Steels"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Stainless Steels: Austenitic, Ferritic, Martensitic, and Duplex"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tool and Die Steels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High Strength Low Alloy Steels"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Maraging Steels"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Advanced High Strength Steels for Automotive Use"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Steels for High Temperature Service"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Weldability of Alloy Steels"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Physical Metallurgy and Microstructure Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Grain Size Control and Measurement"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Microstructure Property Correlations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermomechanical Processing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Recrystallization Controlled Rolling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Texture and Anisotropy Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Second Phase Particles and Their Effects"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Microalloying Principles"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Microstructural Design for Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Nonferrous Metals and Alloys",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Aluminum and Its Alloys"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Copper and Copper Alloys"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Titanium and Titanium Alloys"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Nickel and Nickel Superalloys"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Magnesium Alloys"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Zinc and Zinc Alloys"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Precious and Refractory Metals"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Selection Criteria for Nonferrous Alloys"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Extractive Metallurgy and Mineral Processing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ore Beneficiation and Mineral Processing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Comminution, Flotation, and Concentration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pyrometallurgy Fundamentals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hydrometallurgy Fundamentals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Electrometallurgy and Electrowinning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Blast Furnace Ironmaking"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Steelmaking: Basic Oxygen and Electric Arc Processes"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Reduction and Smelting of Nonferrous Ores"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Secondary Metallurgy and Refining",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ladle Metallurgy and Refining"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Vacuum Degassing Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Deoxidation and Desulfurization"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Continuous Casting Fundamentals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ingot Casting and Its Defects"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Recycling of Metals and Scrap Processing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Slag Chemistry in Metallurgical Operations"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Quality Control in Metal Production"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Casting and Foundry Technology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Sand Casting and Mold Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Investment and Precision Casting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Die Casting Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Continuous and Centrifugal Casting"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Gating and Riser Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Casting Defects and Their Prevention"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Solidification Simulation for Casting"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Foundry Process Control"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Metal Forming Processes",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Rolling Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Forging Processes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Extrusion Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Wire and Tube Drawing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sheet Metal Forming"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Formability and Forming Limit Diagrams"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Hot Working versus Cold Working"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Forming Defects and Their Causes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 27,
+      "chapter_title": "Powder Metallurgy and Sintering",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Powder Production Methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Powder Characterization"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Compaction Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sintering Mechanisms and Stages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Metal Injection Molding"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hot Isostatic Pressing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Porosity Control in Powder Metallurgy Parts"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications of Powder Metallurgy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 28,
+      "chapter_title": "Welding, Brazing, and Joining Technologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Arc Welding Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Resistance and Solid State Welding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Brazing and Soldering"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Weld Metallurgy and the Heat Affected Zone"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Weldability of Metals and Alloys"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Welding Defects and Inspection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Residual Stress and Distortion in Welding"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Adhesive Bonding and Mechanical Fastening"
+        }
+      ]
+    },
+    {
+      "chapter_index": 29,
+      "chapter_title": "Additive Manufacturing of Metals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Overview of Metal Additive Manufacturing Processes"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Powder Bed Fusion: Selective Laser Melting and Electron Beam Melting"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Directed Energy Deposition"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Binder Jetting for Metals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Microstructure Evolution in Additive Manufacturing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Post Processing of Additively Manufactured Parts"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Defects and Qualification in Additive Manufacturing"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Design for Additive Manufacturing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 30,
+      "chapter_title": "Surface Engineering and Coatings",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Surface Hardening Techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Electroplating and Electroless Plating"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermal Spray Coatings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Physical and Chemical Vapor Deposition"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Anodizing and Conversion Coatings"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Diffusion Coatings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Laser Surface Treatment"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Surface Characterization and Adhesion Testing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 31,
+      "chapter_title": "Corrosion Science and Protection",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electrochemical Principles of Corrosion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Uniform, Galvanic, Pitting, and Crevice Corrosion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stress Corrosion Cracking and Hydrogen Embrittlement"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Intergranular and Erosion Corrosion"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Corrosion Behavior of Specific Metals and Alloys"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corrosion Testing and Monitoring"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Cathodic and Anodic Protection"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Corrosion Resistant Coatings and Inhibitors"
+        }
+      ]
+    },
+    {
+      "chapter_index": 32,
+      "chapter_title": "Wear, Friction, and Tribology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fundamentals of Friction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Adhesive and Abrasive Wear"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fatigue Wear and Fretting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Erosive and Corrosive Wear"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lubrication Regimes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Wear Resistant Materials and Coatings"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Tribological Testing Methods"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Tribology in Engineering Design"
+        }
+      ]
+    },
+    {
+      "chapter_index": 33,
+      "chapter_title": "Failure Analysis and Fractography",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Failure Analysis Methodology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fractographic Examination Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Root Cause Analysis of Component Failures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Case Studies in Engineering Failures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Material Defects Leading to Failure"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Failure Modes and Effects Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Forensic Metallurgy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Preventive Strategies Derived from Failure Data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 34,
+      "chapter_title": "Non Destructive Testing and Quality Assurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Visual and Liquid Penetrant Testing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Magnetic Particle Testing"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ultrasonic Testing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Radiographic Testing"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Eddy Current Testing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Acoustic Emission Testing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Quality Management Systems in Materials Production"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Statistical Process Control for Materials Quality"
+        }
+      ]
+    },
+    {
+      "chapter_index": 35,
+      "chapter_title": "Ceramic Materials and Processing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structure of Ceramic Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Traditional versus Advanced Ceramics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Ceramic Powder Processing"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sintering of Ceramics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mechanical Behavior of Ceramics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermal Properties of Ceramics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Refractories and Their Applications"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Technical and Structural Ceramics"
+        }
+      ]
+    },
+    {
+      "chapter_index": 36,
+      "chapter_title": "Glasses and Amorphous Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Glass Structure and Formation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Glass Transition Phenomena"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Glass Composition and Properties"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Glass Processing and Forming"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Strengthening of Glass"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Metallic Glasses and Amorphous Alloys"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Bulk Metallic Glasses"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications of Glasses and Amorphous Solids"
+        }
+      ]
+    },
+    {
+      "chapter_index": 37,
+      "chapter_title": "Polymeric Materials and Polymer Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Polymer Structure and Classification"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Polymerization Mechanisms"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Thermoplastics, Thermosets, and Elastomers"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Molecular Weight and Its Effect on Properties"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Crystallinity in Polymers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Mechanical Behavior of Polymers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Polymer Processing Techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Polymer Degradation and Additives"
+        }
+      ]
+    },
+    {
+      "chapter_index": 38,
+      "chapter_title": "Composite Materials and Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Classification of Composite Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fiber Reinforced Composites"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Particulate and Laminar Composites"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Matrix Materials for Composites"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Micromechanics of Composites"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Manufacturing of Composite Materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Interface and Interphase in Composites"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Damage and Failure in Composites"
+        }
+      ]
+    },
+    {
+      "chapter_index": 39,
+      "chapter_title": "Electronic and Semiconductor Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Electrical Conduction in Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Band Theory of Solids"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intrinsic and Extrinsic Semiconductors"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Semiconductor Device Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Doping and Junction Formation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Dielectric Materials and Insulators"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Superconducting Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Materials for Microelectronics and Packaging"
+        }
+      ]
+    },
+    {
+      "chapter_index": 40,
+      "chapter_title": "Magnetic Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins of Magnetism in Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Diamagnetism, Paramagnetism, and Ferromagnetism"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Magnetic Domains and Hysteresis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Soft and Hard Magnetic Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Ferrites and Their Applications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Magnetic Recording Materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Magnetostriction and Magnetocaloric Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Processing of Magnetic Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 41,
+      "chapter_title": "Optical and Photonic Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Optical Properties of Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Refraction, Reflection, and Absorption"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Luminescence and Photoluminescence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Optical Fibers and Waveguide Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Laser Materials"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Photonic Crystals"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Materials for Displays and Lighting"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Nonlinear Optical Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 42,
+      "chapter_title": "Smart, Functional, and Shape Memory Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Piezoelectric Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Shape Memory Alloys"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Magnetostrictive and Electrostrictive Materials"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Self Healing Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stimuli Responsive Polymers"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Actuator and Sensor Materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Thermoelectric Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications of Smart Materials in Engineering"
+        }
+      ]
+    },
+    {
+      "chapter_index": 43,
+      "chapter_title": "Biomaterials and Biomedical Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Biocompatibility Principles"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Metallic Biomaterials: Titanium, Stainless Steel, and Cobalt Chromium"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bioceramics and Bioactive Glasses"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Biodegradable and Resorbable Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Polymers in Medical Devices"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tissue Engineering Scaffolds"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Dental Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Regulatory Considerations for Biomaterials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 44,
+      "chapter_title": "Nanomaterials and Nanotechnology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Size Effects at the Nanoscale"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Synthesis of Nanomaterials: Top Down and Bottom Up"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Nanoparticles and Quantum Dots"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Carbon Nanotubes and Fullerenes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Nanocomposites"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Characterization of Nanomaterials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Nanostructured Metals and Alloys"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications and Safety of Nanomaterials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 45,
+      "chapter_title": "Energy Storage Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Battery Fundamentals and Electrochemistry"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lithium Ion Battery Materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Solid State Battery Materials"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sodium Ion and Post Lithium Battery Chemistries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Supercapacitor Materials"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Electrode and Electrolyte Materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Battery Degradation Mechanisms"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Recycling of Battery Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 46,
+      "chapter_title": "Fuel Cell, Hydrogen, and Photovoltaic Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fuel Cell Types and Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hydrogen Storage Materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Catalyst Materials for Energy Conversion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Silicon Photovoltaic Materials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Thin Film and Perovskite Solar Cells"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Materials for Solar Thermal Applications"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Materials for Wind Energy Applications"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Materials Challenges in Renewable Energy Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 47,
+      "chapter_title": "High Entropy Alloys and Advanced Metallic Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Concept and Design Principles of High Entropy Alloys"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Microstructure and Phase Formation in High Entropy Alloys"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mechanical Properties of High Entropy Alloys"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Refractory High Entropy Alloys"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Complex Concentrated Alloy Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Compositionally Complex Alloys"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Applications of High Entropy Alloys"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Computational Design of Multicomponent Alloys"
+        }
+      ]
+    },
+    {
+      "chapter_index": 48,
+      "chapter_title": "Two Dimensional and Layered Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Graphene Structure and Properties"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Transition Metal Dichalcogenides"
+        },
+        {
+          "item_index": 3,
+          "item_title": "MXenes and Layered Carbides"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Hexagonal Boron Nitride"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Synthesis of Two Dimensional Materials"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Heterostructures and van der Waals Materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Applications in Electronics and Energy"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Characterization of Two Dimensional Materials"
+        }
+      ]
+    },
+    {
+      "chapter_index": 49,
+      "chapter_title": "Metamaterials and Architected Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Concept of Architected and Cellular Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lattice Structures and Metamaterials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Mechanical Metamaterials: Auxetic and Negative Stiffness"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Electromagnetic and Acoustic Metamaterials"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Design and Fabrication of Architected Materials"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multifunctional Metamaterials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Topology Optimization for Architected Structures"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Applications in Aerospace and Defense"
+        }
+      ]
+    },
+    {
+      "chapter_index": 50,
+      "chapter_title": "Microscopy and Microstructural Characterization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Optical Microscopy and Metallography"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Sample Preparation for Microscopy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Scanning Electron Microscopy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transmission Electron Microscopy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Electron Backscatter Diffraction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Atomic Force Microscopy"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Image Analysis for Microstructure Quantification"
+        },
+        {
+          "item_index": 8,
+          "item_title": "In Situ Microscopy Techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 51,
+      "chapter_title": "X-Ray and Diffraction Based Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of X-Ray Diffraction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Braggs Law and Diffraction Patterns"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Phase Identification via X-Ray Diffraction"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Residual Stress Measurement by Diffraction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Texture Analysis via Diffraction"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Small Angle X-Ray Scattering"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Synchrotron and Neutron Diffraction Techniques"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Rietveld Refinement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 52,
+      "chapter_title": "Spectroscopic and Thermal Analysis Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "X-Ray Fluorescence Spectroscopy"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Energy Dispersive and Wavelength Dispersive Spectroscopy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Auger and X-Ray Photoelectron Spectroscopy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Raman and Infrared Spectroscopy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Differential Scanning Calorimetry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Thermogravimetric Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Dilatometry"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Mass Spectrometry for Materials Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 53,
+      "chapter_title": "Computational Materials Science and Modeling",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Atomistic Simulation: Density Functional Theory and Molecular Dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Phase Field Modeling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "CALPHAD Based Thermodynamic Simulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Finite Element Modeling of Materials Behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Monte Carlo Methods in Materials Science"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multiscale Modeling Approaches"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Crystal Plasticity Modeling"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Simulation of Manufacturing Processes"
+        }
+      ]
+    },
+    {
+      "chapter_index": 54,
+      "chapter_title": "Materials Informatics and Machine Learning in Materials Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Materials Data Infrastructure and Databases"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Machine Learning for Property Prediction"
+        },
+        {
+          "item_index": 3,
+          "item_title": "High Throughput Computational Screening"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Generative Models for Materials Discovery"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Data Driven Alloy Design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Digital Twins in Materials and Manufacturing"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Integrated Computational Materials Engineering"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Challenges in Materials Data Quality and Standardization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 55,
+      "chapter_title": "Materials Selection and Engineering Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Materials Selection Methodologies"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Ashby Charts and Performance Indices"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost and Availability Considerations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Failure Driven Materials Selection"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Materials Substitution Strategies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi Criteria Decision Making in Materials Selection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Case Studies in Materials Selection"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Design for Manufacturing and Assembly"
+        }
+      ]
+    },
+    {
+      "chapter_index": 56,
+      "chapter_title": "Sustainability, Recycling, and Circular Materials Economy",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Life Cycle Assessment of Materials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Embodied Energy and Carbon Footprint of Materials"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Recycling Technologies for Metals"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Recycling of Polymers and Composites"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Circular Economy Principles in Materials Engineering"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Green and Bio Based Materials"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Critical and Conflict Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Environmental Regulations in Materials Industries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 57,
+      "chapter_title": "Materials Standards, Codes, and Industrial Practice",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ASTM, ISO, and Other Materials Standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Materials Specifications and Certification"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Industrial Safety in Metallurgical Operations"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Materials Traceability and Documentation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality Certification Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regulatory Compliance in Materials Industries"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Codes for Pressure Vessels and Structural Materials"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Supply Chain Considerations in Materials Sourcing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 58,
+      "chapter_title": "Research Methods and Professional Development in Materials Science",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Literature Review and Scientific Writing in Materials Science"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Experimental Design in Materials Research"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Statistical Analysis of Materials Data"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Patents and Intellectual Property in Materials Innovation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional Certifications in Metallurgy and Materials"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Industry Sectors Employing Materials Engineers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Emerging Career Pathways in Materials Science"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Continuing Education and Lifelong Learning in the Field"
+        }
+      ]
+    }
+  ]
+}

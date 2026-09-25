@@ -1,0 +1,303 @@
+{
+  "topic": "Public Finance and Fiscal Statecraft",
+  "topic_slug": "public_finance_and_fiscal_statecraft",
+  "generated_at": "2026-09-24T17:59:24.502900",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Fiscal Institutions and the Architecture of Budgetary Authority",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The finance ministry and budget office as the core executive fiscal institution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The legislature's power of the purse and appropriations authority"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Central bank independence and the separation of fiscal and monetary authority"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The treasury single account and government cash management architecture"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fiscal rules, fiscal councils, and numerical constraints on budget authority"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supreme audit institutions as a fourth branch of fiscal accountability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "The Budget Cycle: Formulation, Authorization, Execution, and Audit",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Budget formulation and the medium-term macro-fiscal framework"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Development Budget Coordination Committee and macroeconomic assumption-setting in the Philippines"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Legislative authorization from budget message to enacted appropriations law"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Budget execution: allotment release, obligation, and disbursement stages"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Philippine shift to annual cash-based budgeting and the General Appropriations Act"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Ex-post audit and the Commission on Audit's role in Philippine budget accountability"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Taxation Systems and Tax Policy Design",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Tax base design across income, consumption, and wealth taxation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Efficiency versus equity tradeoffs in tax policy design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "VAT design and the debate over VAT versus income tax reliance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Tax expenditures, exemptions, and the erosion of the tax base"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Tax administration capacity, compliance costs, and the informal economy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "International tax competition and base erosion and profit shifting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Sovereign Debt Instruments and Bond Market Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Local-currency versus foreign-currency sovereign debt issuance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The sovereign yield curve and its construction across maturities"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Credit rating agency methodology and the determinants of sovereign ratings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Primary issuance mechanics: auctions, syndications, and benchmark bonds"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Debt management office functions and sovereign portfolio risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contingent liabilities, guarantees, and off-balance-sheet fiscal risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Debt Sustainability Analysis and Fiscal Space",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The debt dynamics equation: primary balance, growth, and interest-rate differentials"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The IMF Sovereign Risk and Debt Sustainability Framework for market-access countries"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The IMF-World Bank Debt Sustainability Framework for low-income countries"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Debt-to-GDP thresholds and their empirical and political limits"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stress testing, realism tools, and debt fan-charts in sustainability analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Fiscal space and its role in crisis prevention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Sovereign Default and Debt Restructuring Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical patterns of sovereign default and serial-defaulter dynamics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Paris Club mechanics for official bilateral debt restructuring"
+        },
+        {
+          "item_index": 3,
+          "item_title": "London Club and syndicated private-creditor coordination in restructuring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Collective action clauses and coordinated sovereign bond restructuring"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Holdout creditor litigation and the pari passu problem"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The G20 Common Framework for debt treatment beyond the Paris Club"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Debt Diplomacy and Geopolitical Lending",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Belt and Road Initiative lending structures and collateralized finance"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The \"debt-trap diplomacy\" thesis and its central claims"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Empirical pushback on debt-trap diplomacy: renegotiation and write-off patterns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Hambantota Port narrative and its contested evidentiary basis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Non-Paris Club creditor coordination in Zambia, Ghana, and Ethiopia"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Debt transparency initiatives and the problem of hidden bilateral debt"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Fiscal Federalism and Subnational Finance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Theories of fiscal decentralization and the assignment of taxing powers"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Revenue assignment versus expenditure assignment across levels of government"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Intergovernmental transfers and equalization grant design"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Philippine Local Government Code and the National Tax Allotment"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Mandanas-Garcia ruling and its fiscal implications for local government units"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Subnational borrowing rules and hard budget constraints"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Fiscal Crises and IMF Program Negotiation from the Borrower's Side",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Balance-of-payments crisis triggers and the decision to approach the Fund"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Drafting the Letter of Intent and Memorandum of Economic and Financial Policies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Negotiating conditionality: structural benchmarks versus performance criteria"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The political economy of fiscal adjustment under a borrower government"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sequencing program measures against domestic legislative and electoral constraints"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Program reviews, waivers, and the borrower's exit strategy from Fund support"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Practitioner Pathways in Fiscal Statecraft",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Career tracks across finance ministries, treasuries, and debt management offices"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Central bank and monetary-authority roles adjacent to fiscal policymaking"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Diplomatic and multilateral postings in sovereign debt and finance diplomacy"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Credentials, examinations, and professional bodies in public finance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Foundational journals, working-paper series, and data sources for practitioners"
+        }
+      ]
+    }
+  ]
+}

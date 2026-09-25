@@ -1,0 +1,605 @@
+{
+  "topic": "Capacity Planning & The Learning Curve",
+  "topic_slug": "capacity_planning_the_learning_curve",
+  "generated_at": "2026-09-24T02:35:27.847247",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Capacity Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and scope of capacity planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capacity planning within operations strategy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Strategic, tactical, and operational planning horizons"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Design capacity, effective capacity, and actual output"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capacity utilization and efficiency metrics"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The capacity-demand balancing problem"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Costs of excess and insufficient capacity"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Capacity as a competitive priority"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Capacity Measurement and Utilization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Units and methods of measuring capacity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Theoretical, rated, and sustainable capacity"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Best operating level and diminishing returns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity cushion and its strategic purpose"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Calculating capacity utilization rate"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Benchmarking capacity performance across facilities"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Overall equipment effectiveness (OEE)"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Capacity Planning Strategies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lead strategy for capacity expansion"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lag strategy for capacity expansion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Match strategy and incremental adjustment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Selecting a capacity strategy under demand volatility"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk, cost, and service-level trade-offs"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aggressive versus conservative capacity postures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Demand Forecasting for Capacity Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Qualitative forecasting techniques"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quantitative and time-series forecasting methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Causal and regression-based forecasting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Forecast error measurement and tracking signals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Demand variability and its capacity implications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Aggregate planning and its link to capacity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Linking sales and operations planning to capacity"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Capacity Planning in Production Planning Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Master production scheduling and its link to capacity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Rough-cut capacity planning (RCCP)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capacity requirements planning (CRP) within MRP"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Finite versus infinite capacity loading"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Input-output control and shop floor capacity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capacity leveling and load balancing techniques"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Financial and Economic Analysis of Capacity Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Break-even analysis for capacity investment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fixed versus variable cost structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost-volume-profit analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Net present value and capital budgeting for capacity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Decision trees under demand uncertainty"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Economies of scale and minimum efficient scale"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Diseconomies of scale and complexity costs"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Economies of scope across product lines"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Long-Term Capacity Expansion Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Facility location decisions and capacity"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Timing of capacity expansion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incremental expansion versus one large-step expansion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity planning for new product introduction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Modular and flexible capacity design"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Expansion planning under irreversible investment risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Short-Term and Medium-Term Capacity Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Overtime, subcontracting, and temporary labor"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Workforce scheduling and shift flexibility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Demand management through pricing and promotions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Reservation and appointment systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Yield and revenue management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Chase, level, and hybrid capacity plans"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Service capacity versus manufacturing capacity management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Queuing Theory and Waiting-Line Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Elements of a queuing system"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Arrival processes and service-time distributions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Single-server and multi-server queuing models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Little's Law and flow-time analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Utilization, waiting time, and queue length formulas"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Psychology of waiting and perceived capacity"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Simulation modeling of queuing systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Theory of Constraints and Bottleneck Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying bottlenecks in a process"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Drum-buffer-rope scheduling"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Throughput, inventory, and operating expense"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Elevating and exploiting constraints"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Continuous improvement through constraint management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Foundations of the Learning Curve",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Historical origins in aircraft manufacturing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Wright's observation and early formulations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Distinguishing the learning effect from the experience effect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sources of learning: labor, process, and technology"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Individual learning versus organizational learning"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Progress ratio and learning rate percentage"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Conditions that strengthen learning-curve effects"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Learning Curve Models and Mathematics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The power law cumulative average model"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The unit model (Crawford model)"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Log-linear formulation and log-log plotting"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Estimating learning rates from historical data"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Plateauing and limitations of log-linear models"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Alternative models: Stanford-B and S-curve formulations"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Forgetting curves and learning-curve regression"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Applying the Learning Curve in Operations",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Estimating labor-hours for future production units"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Learning curves in pricing and competitive bidding"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Workforce training and staffing implications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Adjusting capacity plans for productivity gains"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Learning curves in cost estimation and budgeting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Learning-curve effects on break-even timing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "The Experience Curve and Strategic Cost Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Boston Consulting Group experience curve concept"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Distinguishing the experience curve from the learning curve"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost leadership strategy built on experience effects"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Experience-curve-based pricing strategy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risks and criticisms of experience curve strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Organizational Learning and Knowledge Retention",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Learning-by-doing versus learning-by-using"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Knowledge transfer across teams and shifts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The forgetting curve and knowledge decay"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Automation's effect on learning-curve dynamics"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cross-training and workforce flexibility"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Documentation and organizational memory systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Integrating Capacity Planning with Learning Curve Effects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Ramp-up planning for new production lines"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Incorporating learning rates into capacity forecasts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Sensitivity analysis of capacity plans to learning assumptions"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Learning-curve effects in service capacity planning"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Balancing automation investment against learning-curve gains"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Capacity Planning in Modern IT and Cloud Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "IT infrastructure capacity planning fundamentals"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Cloud elasticity and auto-scaling strategies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Load testing and performance benchmarking"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity planning for distributed and microservice systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Site reliability engineering approaches to capacity"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cost-aware capacity optimization in the cloud"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Tools, Techniques, and Quantitative Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Spreadsheet modeling for capacity and learning curves"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Discrete-event simulation software"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ERP capacity planning modules"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Statistical regression for learning-rate estimation"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Linear programming for capacity allocation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capacity dashboards and utilization reporting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Industry Applications and Case Studies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capacity planning in automotive and aerospace manufacturing"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Capacity planning in healthcare service delivery"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Capacity planning in call centers and shared services"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Capacity planning in software and cloud-based services"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Historical learning-curve case studies in industrial production"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Lessons from capacity planning failures and demand mismatches"
+        }
+      ]
+    }
+  ]
+}

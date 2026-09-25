@@ -1,0 +1,503 @@
+{
+  "topic": "Fixed vs. Variable Cost Structure & Operating Leverage",
+  "topic_slug": "fixed_vs_variable_cost_structure_operating_leverage",
+  "generated_at": "2026-09-24T00:24:10.751779",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Cost Behavior",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Cost Classification by Behavior Function and Traceability"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fixed Cost Definition and Characteristics"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Variable Cost Definition and Characteristics"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Mixed and Semi Variable Cost Behavior"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Step Costs and Step Fixed versus Step Variable Behavior"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Relevant Range Concept"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Committed versus Discretionary Fixed Costs"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Short Run versus Long Run Cost Behavior"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Direct and Indirect Costs versus Fixed and Variable Costs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Cost Estimation and Separation Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Account Classification Method"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The High Low Method"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Limitations and Outlier Sensitivity of the High Low Method"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Scattergraph Method"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Simple Linear Regression for Cost Estimation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multiple Regression and Multiple Cost Drivers"
+        },
+        {
+          "item_index": 7,
+          "item_title": "The Engineering Estimation Method"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Evaluating Cost Estimates with R Squared and Standard Error"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Contribution Margin Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Contribution Margin Concept and Formula"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unit Contribution Margin versus Total Contribution Margin"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Contribution Margin Ratio"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Contribution Margin Income Statement Format"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Variable Costing versus Absorption Costing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Contribution Margin versus Gross Margin"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Cost Volume Profit Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "CVP Model Assumptions and Limitations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The CVP Equation and Profit Function"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Break Even Point in Units"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Break Even Point in Sales Dollars"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Constructing the CVP Graph and Break Even Chart"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi Product CVP and Weighted Average Contribution Margin"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sales Mix Shifts and Their Effect on Break Even"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Break Even and Target Profit Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Target Profit Analysis Before Tax"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Target Profit Analysis After Tax"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Margin of Safety in Units Dollars and Percentage"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sensitivity of Break Even to Price and Cost Changes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Break Even Analysis Under Step Fixed Costs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Operating Leverage Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Definition and Intuition of Operating Leverage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Degree of Operating Leverage Formula"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost Structure as a Driver of DOL Magnitude"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High Operating Leverage versus Low Operating Leverage Firms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "DOL Behavior Near the Break Even Point"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Interpreting DOL as a Percentage Change Multiplier"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Deriving and Interpreting the Degree of Operating Leverage",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Deriving DOL from Contribution Margin and Operating Income"
+        },
+        {
+          "item_index": 2,
+          "item_title": "An Elasticity Interpretation of DOL"
+        },
+        {
+          "item_index": 3,
+          "item_title": "DOL Decay as Sales Volume Grows"
+        },
+        {
+          "item_index": 4,
+          "item_title": "DOL Across the Business Cycle"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Comparing DOL Across Companies and Industries"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common Misinterpretations of Operating Leverage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Cost Structure and Business Risk",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Business Risk versus Financial Risk"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Operating Leverage as a Driver of Earnings Volatility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Cost Structure and Downside Risk in Downturns"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost Structure and Upside Potential in Expansions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Risk Return Tradeoff of High Fixed Cost Structures"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Financial and Combined Leverage",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Financial Leverage Definition and Mechanics"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Degree of Financial Leverage Formula"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Interaction Between Operating and Financial Leverage"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Degree of Combined Leverage Formula"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Decomposing Total Risk into Business and Financial Risk"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Capital Structure Implications of High Operating Leverage"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Cost Structure in Strategic and Operational Decisions",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capital Intensive versus Labor Intensive Cost Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Automation and Its Effect on the Fixed Variable Mix"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Outsourcing and Variabilizing Fixed Costs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Make or Buy Decisions and Cost Structure Impact"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Special Order Acceptance and Rejection Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Product Line and Segment Discontinuation Analysis"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Pricing Strategy Under Different Cost Structures"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Flexible Budgeting and Cost Structure"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Cost Structure Across Industries and Business Models",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Capital Intensive Manufacturing Cost Structures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Airline and Transportation Cost Structures"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Software as a Service and Digital Platform Cost Structures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Retail and Consumer Goods Cost Structures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional Services and Labor Intensive Cost Structures"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Cost Structure Evolution Across Startup Growth Stages"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Cost Structure in Financial Statement and Ratio Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Cost Structure from Published Income Statements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Common Size Income Statement Analysis for Cost Behavior"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Estimating Historical DOL from Financial Statement Data"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Using Cost Structure to Forecast Earnings Sensitivity"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost Structure Signals in Earnings Quality Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Forecasting Modeling and Sensitivity Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building CVP Models in Spreadsheets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building Operating Leverage Models in Spreadsheets"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Scenario Analysis for Demand and Cost Shocks"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monte Carlo Simulation of Cost Structure Outcomes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Stress Testing Profitability Under Volume Declines"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Sensitivity Tables and What If Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Valuation and Capital Markets Implications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Operating Leverage and Earnings Volatility Effects on Beta"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Unlevered versus Levered Beta and Operating Leverage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Operating Leverage Assumptions in Discounted Cash Flow Models"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Investor Interpretation of High Operating Leverage Companies"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost Structure Considerations in Equity Research"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Case Studies and Applied Problem Sets",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Airline Industry Cost Structure Case Study"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Software Company Operating Leverage Case Study"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Manufacturing versus Service Industry Comparative Case Study"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Retail Sector Margin Sensitivity Case Study"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Startup Cost Structure Transformation Case Study"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Multi Product Break Even Applied Problem Set"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Advanced and Emerging Topics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Real Options Theory and Operating Flexibility"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Behavioral Biases in Interpreting Cost Structure and Leverage"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Operating Leverage Under Demand Uncertainty"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Cost Structure Implications of Automation and Artificial Intelligence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sustainability and Compliance Driven Fixed Cost Considerations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Academic Research on Cross Industry Operating Leverage Patterns"
+        }
+      ]
+    }
+  ]
+}

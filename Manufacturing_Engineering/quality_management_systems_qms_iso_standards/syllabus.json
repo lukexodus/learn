@@ -1,0 +1,705 @@
+{
+  "topic": "Quality Management Systems (QMS) & ISO Standards",
+  "topic_slug": "quality_management_systems_qms_iso_standards",
+  "generated_at": "2026-09-22T16:30:41.967371",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Quality Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Quality Concepts and Terminology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Evolution of Quality Management from Inspection to Total Quality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quality Gurus Deming Juran Crosby Ishikawa and Taguchi"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Total Quality Management Principles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Seven Quality Management Principles of ISO 9000"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quality Award Frameworks Including Baldrige EFQM and the Deming Prize"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Quality as a Strategic Business Function"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Introduction to ISO and International Standardization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "History and Structure of the International Organization for Standardization"
+        },
+        {
+          "item_index": 2,
+          "item_title": "How ISO Standards Are Developed and Revised"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ISO Standard Numbering Codes and Terminology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Overview of the ISO Management System Standards Family"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The Harmonized Structure and Annex SL Framework"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Certification Accreditation and Conformity Assessment Explained"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The ISO 9000 Family of Standards",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ISO 9000 Fundamentals and Vocabulary"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ISO 9001 Requirements Structure Overview"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ISO 9004 Guidance for Sustained Organizational Success"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Evolution of ISO 9001 Editions from 1987 to 2015"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Key Changes Introduced in the ISO 9001 2026 Revision"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Planning the Transition from ISO 9001 2015 to ISO 9001 2026"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Context of the Organization",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Understanding the Organization and Its Context"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Understanding Needs and Expectations of Interested Parties"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Determining the Scope of the Quality Management System"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Quality Management System and Its Processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Process Approach and Process Interaction Mapping"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Leadership and Organizational Commitment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Leadership and Commitment Requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Establishing a Quality Policy"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Organizational Roles Responsibilities and Authorities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Customer Focus as a Leadership Responsibility"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building and Sustaining a Quality Culture"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Governance and Ethical Behavior in Quality Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Planning the Quality Management System",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Actions to Address Risks and Opportunities"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Risk Based Thinking Fundamentals"
+        },
+        {
+          "item_index": 3,
+          "item_title": "ISO 31000 Risk Management Guidelines and Their Role in QMS"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Setting Quality Objectives and Planning to Achieve Them"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Planning of Changes to the Quality Management System"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Supply Chain and Organizational Resilience Planning"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Support Processes for the QMS",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Resource Management Overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "People Competence and Awareness"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Infrastructure and Work Environment"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Monitoring and Measuring Resources"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Organizational Knowledge Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Internal and External Communication"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Operational Planning and Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Operational Planning and Control Requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Determining Requirements for Products and Services"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Design and Development Planning"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Design and Development Inputs Outputs and Controls"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Control of Externally Provided Processes Products and Services"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Production and Service Provision Controls"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Identification and Traceability"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Preservation of Products and Outputs"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Post Delivery Activities and Customer Support"
+        },
+        {
+          "item_index": 10,
+          "item_title": "Control of Changes and Release of Products and Services"
+        },
+        {
+          "item_index": 11,
+          "item_title": "Control of Nonconforming Outputs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Performance Evaluation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Monitoring Measurement Analysis and Evaluation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Customer Satisfaction Measurement Techniques"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Internal Audit Program Planning and Execution"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Management Review Process Inputs and Outputs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Improvement and Corrective Action",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Nonconformity Identification and Correction"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Root Cause Analysis for Corrective Action"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Continual Improvement Methodologies"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Preventive Action and Proactive Risk Mitigation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "QMS Documentation and Records",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quality Manual Development and Structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Writing Procedures and Work Instructions"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Document Control Processes"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Records Management and Retention"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Internal and External Auditing",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Audit Principles and Types of Audits"
+        },
+        {
+          "item_index": 2,
+          "item_title": "ISO 19011 Guidelines for Auditing Management Systems"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Planning and Scheduling an Audit Program"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Conducting Audit Interviews and Evidence Gathering"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Writing Audit Findings and Nonconformity Reports"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Auditor Competence Selection and Impartiality"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Quality Tools and Statistical Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Seven Basic Quality Tools"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Statistical Process Control and Control Charts"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Root Cause Analysis Techniques Including Five Whys and Fishbone Diagrams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Failure Mode and Effects Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Design of Experiments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Poka Yoke and Error Proofing Methods"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Benchmarking Techniques and Best Practice Analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Lean and Six Sigma Methodologies",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Lean Principles and Waste Elimination"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Value Stream Mapping"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Six Sigma DMAIC Methodology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Six Sigma Roles and Belt Certifications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Kaizen and Continuous Improvement Events"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Integrating Lean and Six Sigma with ISO Based QMS"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Cost of Quality and Quality Economics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Prevention Appraisal and Failure Cost Categories"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Calculating the Cost of Poor Quality"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Building a Quality Return on Investment Business Case"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Supplier and Supply Chain Quality Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Supplier Evaluation and Selection Criteria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Supplier Audits and Performance Monitoring"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Incoming Inspection and Acceptance Sampling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Managing Externally Provided Processes and Outsourcing Risk"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Calibration and Metrology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Fundamentals of Measurement and Metrology"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Measurement System Analysis and Gage Repeatability and Reproducibility"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Calibration Standards and Traceability"
+        },
+        {
+          "item_index": 4,
+          "item_title": "ISO IEC 17025 Requirements for Testing and Calibration Laboratories"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Equipment Maintenance and Control Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Industry Specific Management System Standards",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ISO 13485 Medical Devices Quality Management"
+        },
+        {
+          "item_index": 2,
+          "item_title": "IATF 16949 Automotive Quality Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "AS9100 Aerospace Quality Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "ISO 22000 Food Safety Management Systems"
+        },
+        {
+          "item_index": 5,
+          "item_title": "ISO IEC 27001 Information Security Management"
+        },
+        {
+          "item_index": 6,
+          "item_title": "ISO 45001 Occupational Health and Safety Management"
+        },
+        {
+          "item_index": 7,
+          "item_title": "ISO 14001 Environmental Management Systems"
+        },
+        {
+          "item_index": 8,
+          "item_title": "ISO 50001 Energy Management Systems"
+        },
+        {
+          "item_index": 9,
+          "item_title": "ISO 22301 Business Continuity Management"
+        },
+        {
+          "item_index": 10,
+          "item_title": "ISO IEC 42001 Artificial Intelligence Management Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Integrated Management Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Integrating Multiple ISO Standards"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Leveraging the Harmonized Structure for Integration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Benefits and Challenges of an Integrated Management System"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Developing an Integrated Management System Implementation Strategy"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "ISO Certification and Conformity Assessment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Gap Analysis and Certification Readiness Assessment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Selecting an Accredited Certification Body"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Stage 1 and Stage 2 Certification Audits"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Surveillance Audits and Recertification Cycles"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Managing Nonconformities During Certification Audits"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Transitioning Certification to a Revised Standard"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Regulatory and Legal Compliance in Quality Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Applicable Regulatory Requirements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Product Safety and Liability Considerations"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Compliance Obligations Across Regulated Industries"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Change Management and Organizational Behavior",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Change Management Principles for QMS Adoption"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Employee Engagement in Quality Initiatives"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Communication Strategies for Driving Quality Culture"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Overcoming Resistance to Quality System Change"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Digital Transformation and Quality 4.0",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Quality Management Software and eQMS Platforms"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Quality 4.0 and Industry 4.0 Integration"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Data Analytics and Predictive Quality Management"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Automation and Artificial Intelligence in Quality Processes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cybersecurity Considerations for Digital QMS Platforms"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "QMS Implementation Roadmap",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Project Planning for QMS Implementation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Phased Implementation Strategy and Milestones"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Common Implementation Pitfalls and How to Avoid Them"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Sustaining and Maturing the Quality Management System"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Professional Development and Career Pathways",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Overview of Quality Certifications Including CQE CQA and CMQ OE"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Lead Auditor Certification Pathways"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Six Sigma Belt Certification Levels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Professional Bodies Including ASQ IRCA and CQI"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a Continuing Education Plan in Quality Management"
+        }
+      ]
+    }
+  ]
+}

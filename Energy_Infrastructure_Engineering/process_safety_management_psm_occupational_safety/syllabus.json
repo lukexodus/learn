@@ -1,0 +1,735 @@
+{
+  "topic": "Process Safety Management (PSM) & Occupational Safety",
+  "topic_slug": "process_safety_management_psm_occupational_safety",
+  "generated_at": "2026-09-23T19:30:00.157970",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations of Process Safety and Occupational Safety",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Defining Process Safety versus Occupational Safety"
+        },
+        {
+          "item_index": 2,
+          "item_title": "History and Evolution of Industrial Safety"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Major Industrial Disasters and Their Influence on Regulation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Key Terminology and Concepts"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Roles and Responsibilities in a Safety Organization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Regulatory Framework and Standards",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "OSHA Process Safety Management Standard 29 CFR 1910.119"
+        },
+        {
+          "item_index": 2,
+          "item_title": "EPA Risk Management Program 40 CFR Part 68"
+        },
+        {
+          "item_index": 3,
+          "item_title": "OSHA General Industry Standards 29 CFR 1910"
+        },
+        {
+          "item_index": 4,
+          "item_title": "OSHA Construction Industry Standards 29 CFR 1926"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Seveso III Directive and European Regulations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "CCPS Risk Based Process Safety Framework"
+        },
+        {
+          "item_index": 7,
+          "item_title": "NFPA Codes and Standards Relevant to Safety"
+        },
+        {
+          "item_index": 8,
+          "item_title": "International and Regional Regulatory Variations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Occupational Health and Safety Management Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Plan Do Check Act Cycle in ISO 45001"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Policy Development and Leadership Commitment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Planning Objectives and Legal Requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Support Resources Competence and Communication"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Operational Planning and Control"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Performance Evaluation and Internal Audit"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Management Review and Continual Improvement"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Process Safety Information",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Chemical Hazard Data and Safety Data Sheets"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Process Technology Information"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Process Equipment Design and Engineering Standards"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Piping and Instrumentation Diagrams"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Maintaining and Updating Process Safety Information"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Managing Trade Secrets and Confidential Information"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Process Hazard Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Hazard and Operability Study HAZOP"
+        },
+        {
+          "item_index": 2,
+          "item_title": "What-If Analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Failure Mode and Effects Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Checklist and What-If Checklist Methods"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Selecting the Appropriate PHA Methodology"
+        },
+        {
+          "item_index": 6,
+          "item_title": "PHA Team Composition and Facilitation"
+        },
+        {
+          "item_index": 7,
+          "item_title": "PHA Revalidation and Update Cycles"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Risk Assessment and Quantitative Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Qualitative versus Quantitative Risk Assessment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Layers of Protection Analysis LOPA"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Bow-Tie Analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Fault Tree and Event Tree Analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Consequence Modeling and Dispersion Analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Quantitative Risk Assessment QRA"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Risk Matrices and Risk Ranking Criteria"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Inherently Safer Design and Engineering Controls",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Principles of Inherently Safer Design"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Hierarchy of Controls"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Pressure Relief and Flare Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Containment and Secondary Containment Design"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Fire and Gas Detection Systems"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Safety Instrumented Systems and SIL Determination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Operating Procedures and Safe Work Practices",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Developing and Documenting Standard Operating Procedures"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Job Hazard Analysis and Task Risk Assessment"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Permit to Work Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Lockout Tagout Procedures"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Confined Space Entry"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Hot Work and Fire Prevention Permits"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Line Breaking and Opening Process Equipment"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Excavation and Ground Disturbance Permits"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Training and Competency Assurance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Initial and Refresher Training Programs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Competency Assessment Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Training Documentation and Recordkeeping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Simulation and Scenario Based Training"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Mechanical Integrity",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Equipment Covered Under Mechanical Integrity Programs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Inspection and Testing Frequencies"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Risk Based Inspection Methodology"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Preventive and Predictive Maintenance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Quality Assurance for Equipment and Spare Parts"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Deficiency Correction and Equipment Deviation Management"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Management of Change",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Types of Change Requiring Review"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Temporary versus Permanent Changes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Technical Basis for Change Evaluation"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Updating Documentation After a Change"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Organizational and Personnel Change Considerations"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "Pre-Startup Safety Review",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Purpose and Timing of Pre-Startup Safety Review"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Verification of Construction Against Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Confirming Procedures and Training Are in Place"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Closing Out Pre-Startup Action Items"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Emergency Planning and Response",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Emergency Action Plans"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fire Prevention Planning"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Evacuation and Shelter in Place Procedures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Incident Command System"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Mutual Aid Agreements and External Coordination"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Community Right to Know and Public Communication"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Incident Investigation and Root Cause Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Near Miss and Incident Reporting Systems"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Investigation Team Formation and Scope"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Root Cause Analysis Techniques"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Five Whys and Fishbone Diagrams"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Timeline and Causal Factor Charting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Corrective Action Development and Tracking"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Sharing Lessons Learned Across an Organization"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Compliance Audits and Management Review",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Internal Audit Planning and Execution"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Third Party and Regulatory Audits"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Audit Finding Classification and Closure"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Management Review of Safety Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Employee Participation and Safety Culture",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Employee Participation Requirements Under PSM"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Building and Sustaining a Positive Safety Culture"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Behavior Based Safety Programs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Leadership Commitment and Visible Felt Leadership"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Just Culture and Non-Punitive Reporting"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Organizational and Cultural Influences on Safety Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Contractor Safety Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Contractor Prequalification and Selection"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Contractor Orientation and Site Specific Training"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Oversight of Contractor Work Activities"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Evaluating Contractor Safety Performance"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "Occupational Safety Fundamentals",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The OSHA General Duty Clause"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Walking and Working Surfaces"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fall Protection Programs"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Machine Guarding"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Electrical Safety and NFPA 70E"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Powered Industrial Trucks and Material Handling"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Hazard Communication and Chemical Safety",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Globally Harmonized System of Classification and Labelling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Safety Data Sheet Structure and Use"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Chemical Labeling Requirements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Employee Right to Know Training"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Industrial Hygiene and Exposure Control",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Recognizing Health Hazards in the Workplace"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Exposure Monitoring and Sampling Methods"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Permissible Exposure Limits and Threshold Limit Values"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Ventilation and Engineering Controls for Exposure"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Noise Exposure and Hearing Conservation"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Respiratory Protection Programs"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Personal Protective Equipment",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "PPE Hazard Assessment"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Selection of PPE by Hazard Type"
+        },
+        {
+          "item_index": 3,
+          "item_title": "PPE Training Fit Testing and Maintenance"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Limitations of PPE in a Hierarchy of Controls"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Ergonomics and Human Factors",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Identifying Ergonomic Risk Factors"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Workstation and Task Design"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Manual Material Handling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Human Error and Human Factors Engineering in Safety Systems"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Fire Protection and Combustible Materials",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Flammable and Combustible Liquid Storage and Handling"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Combustible Dust Hazard Management"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Fire Suppression and Detection Systems"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Life Safety Code Requirements"
+        }
+      ]
+    },
+    {
+      "chapter_index": 24,
+      "chapter_title": "Safety Performance Metrics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Leading and Lagging Indicators"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Process Safety Performance Metrics per API RP 754"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Occupational Injury and Illness Recordkeeping"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Benchmarking and Industry Comparisons"
+        }
+      ]
+    },
+    {
+      "chapter_index": 25,
+      "chapter_title": "Learning From Major Industrial Incidents",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Bhopal Gas Disaster"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Piper Alpha Platform Explosion"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Texas City Refinery Explosion"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Deepwater Horizon Blowout"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Flixborough Explosion"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Common Themes and Systemic Lessons Across Major Incidents"
+        }
+      ]
+    },
+    {
+      "chapter_index": 26,
+      "chapter_title": "Advanced and Emerging Topics in Safety Management",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Functional Safety and Safety Instrumented Systems Lifecycle"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Digitalization and Predictive Analytics in Process Safety"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Artificial Intelligence Applications in Safety Monitoring"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Process Safety Considerations in Energy Transition Industries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Integrating Sustainability and Safety Management"
+        }
+      ]
+    }
+  ]
+}

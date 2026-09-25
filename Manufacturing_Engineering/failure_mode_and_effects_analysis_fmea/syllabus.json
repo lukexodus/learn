@@ -1,0 +1,725 @@
+{
+  "topic": "Failure Mode and Effects Analysis (FMEA)",
+  "topic_slug": "failure_mode_and_effects_analysis_fmea",
+  "generated_at": "2026-09-23T02:46:08.749424",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Foundations and History of FMEA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Origins in military reliability engineering"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Application in the NASA Apollo program"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Adoption and spread across the automotive industry"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Evolution of FMEA standards over time"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reliability engineering context and goals"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Purpose and objectives of FMEA"
+        },
+        {
+          "item_index": 7,
+          "item_title": "FMEA compared with fault tree analysis HAZOP and 8D"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Core Concepts and Terminology",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Function and requirement definitions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Failure mode definition"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Failure effects local next level and end effect"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Failure causes and failure mechanisms"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Current prevention controls"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Current detection controls"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Severity occurrence and detection defined"
+        },
+        {
+          "item_index": 8,
+          "item_title": "Risk priority number overview"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "FMEA Standards and Frameworks",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "MIL STD 1629A foundations"
+        },
+        {
+          "item_index": 2,
+          "item_title": "SAE J1739 standard"
+        },
+        {
+          "item_index": 3,
+          "item_title": "AIAG fourth edition reference manual"
+        },
+        {
+          "item_index": 4,
+          "item_title": "AIAG VDA 2019 handbook"
+        },
+        {
+          "item_index": 5,
+          "item_title": "IEC 60812 international standard"
+        },
+        {
+          "item_index": 6,
+          "item_title": "ISO 9001 and IATF 16949 context"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Choosing the right standard for an industry"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "Types of FMEA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Concept FMEA"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Design FMEA"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Process FMEA"
+        },
+        {
+          "item_index": 4,
+          "item_title": "System FMEA"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Machinery and equipment FMEA"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Software FMEA"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Service FMEA"
+        },
+        {
+          "item_index": 8,
+          "item_title": "FMEA MSR for monitoring and system response"
+        },
+        {
+          "item_index": 9,
+          "item_title": "Healthcare failure mode effect analysis"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "Preparation and Planning",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Assembling a cross functional team"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Defining facilitator and team member roles"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Scoping the analysis and boundary diagrams"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Gathering historical and field failure data"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Reviewing lessons learned databases"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Setting timelines and session cadence"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Structure and Function Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Building system block diagrams"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Parameter diagrams and P diagrams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Decomposing systems into subsystems and components"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Interface analysis between elements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Function trees and functional decomposition"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Linking structure to function"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Design FMEA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "DFMEA process overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Identifying design functions and requirements"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Potential failure modes at each design level"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Linking failure modes to effects and causes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Design controls prevention and detection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Identifying special characteristics"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Linking DFMEA to design verification plans"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Process FMEA",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "PFMEA process overview"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Process flow diagrams as inputs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Process function and requirement identification"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Potential process failure modes"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Process effects and process causes"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Process controls prevention and detection"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Linking PFMEA to control plans"
+        },
+        {
+          "item_index": 8,
+          "item_title": "PFMEA and statistical process control"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Failure Mode Identification Techniques",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Structured brainstorming methods"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Fishbone and Ishikawa diagrams"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Five whys root cause technique"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Failure mode checklists and libraries"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Using fault tree analysis as a complement"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Learning from warranty and complaint data"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Severity Occurrence and Detection Ratings",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Severity rating scales and criteria"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Occurrence rating scales and criteria"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Detection rating scales and criteria"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Customizing rating tables for an organization"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common rating biases and inconsistencies"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Calibrating ratings across teams"
+        }
+      ]
+    },
+    {
+      "chapter_index": 11,
+      "chapter_title": "Risk Prioritization and Action Priority",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Calculating the risk priority number"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Limitations and criticisms of RPN"
+        },
+        {
+          "item_index": 3,
+          "item_title": "AIAG VDA action priority tables"
+        },
+        {
+          "item_index": 4,
+          "item_title": "High medium and low priority classification"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Risk matrices of severity versus occurrence"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Setting thresholds for required action"
+        }
+      ]
+    },
+    {
+      "chapter_index": 12,
+      "chapter_title": "The AIAG VDA Seven Step Method",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Step one planning and preparation"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Step two structure analysis"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Step three function analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Step four failure analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Step five risk analysis"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Step six optimization"
+        },
+        {
+          "item_index": 7,
+          "item_title": "Step seven results documentation"
+        }
+      ]
+    },
+    {
+      "chapter_index": 13,
+      "chapter_title": "Facilitation and Team Dynamics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Running effective FMEA workshops"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Avoiding groupthink in group ratings"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Managing disagreement on severity and occurrence"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Time management during sessions"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Common facilitation pitfalls"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Techniques for engaging quiet participants"
+        }
+      ]
+    },
+    {
+      "chapter_index": 14,
+      "chapter_title": "Recommended Actions and Risk Mitigation",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Types of recommended actions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Design changes versus process changes"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Poka yoke and error proofing integration"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Prioritizing actions by risk reduction"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Cost benefit analysis of mitigations"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Tracking and closing action items"
+        }
+      ]
+    },
+    {
+      "chapter_index": 15,
+      "chapter_title": "Documentation and Software Tools",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Standard FMEA worksheet structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Excel based FMEA templates"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Commercial FMEA software platforms"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Revision history and living document practices"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Sign off and approval workflows"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Linking FMEA records to other quality documents"
+        }
+      ]
+    },
+    {
+      "chapter_index": 16,
+      "chapter_title": "Integration with Quality and Reliability Systems",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "FMEA within advanced product quality planning"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Relationship to control plans"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Reliability metrics MTBF and MTTF"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Six Sigma and DMAIC integration"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Functional safety standards ISO 26262 and IEC 61508"
+        },
+        {
+          "item_index": 6,
+          "item_title": "FMEA within an overall quality management system"
+        }
+      ]
+    },
+    {
+      "chapter_index": 17,
+      "chapter_title": "Industry Specific FMEA Applications",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Automotive industry applications"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Aerospace industry applications"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Medical device applications and ISO 14971"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Semiconductor and electronics applications"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Software and IT systems applications"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Healthcare process improvement applications"
+        }
+      ]
+    },
+    {
+      "chapter_index": 18,
+      "chapter_title": "FMECA and Criticality Analysis",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Differences between FMEA and FMECA"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Constructing a criticality matrix"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Quantitative criticality analysis"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Combining severity and probability of occurrence"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Criticality analysis reporting"
+        }
+      ]
+    },
+    {
+      "chapter_index": 19,
+      "chapter_title": "Advanced and Quantitative Methods",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Reliability centered maintenance linkage"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Bayesian approaches to failure probability"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Monte Carlo simulation for risk modeling"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Combining FMEA with fault tree analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "System of systems and interface FMEA"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Emerging AI assisted failure identification"
+        }
+      ]
+    },
+    {
+      "chapter_index": 20,
+      "chapter_title": "Common Pitfalls and Anti Patterns",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Conducting FMEA too late in development"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Treating FMEA as a compliance checkbox"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Gaming or misusing the RPN score"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Copying prior FMEAs without genuine analysis"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Lack of genuine cross functional input"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Failing to close recommended actions"
+        }
+      ]
+    },
+    {
+      "chapter_index": 21,
+      "chapter_title": "Auditing Maturity and Continuous Improvement",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Auditing FMEA quality and completeness"
+        },
+        {
+          "item_index": 2,
+          "item_title": "FMEA maturity models"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Feeding field and warranty data back into FMEA"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Establishing lessons learned feedback loops"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Benchmarking FMEA practices across teams"
+        }
+      ]
+    },
+    {
+      "chapter_index": 22,
+      "chapter_title": "Certification and Professional Development",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "ASQ certified reliability engineer credential"
+        },
+        {
+          "item_index": 2,
+          "item_title": "AIAG training and certification programs"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Six Sigma belt certifications"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Recommended books and reference manuals"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Building a career path around FMEA expertise"
+        }
+      ]
+    },
+    {
+      "chapter_index": 23,
+      "chapter_title": "Case Studies and Practical Projects",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Worked DFMEA example walkthrough"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Worked PFMEA example walkthrough"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Retrospective FMEA analysis of real world product failures"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Building an FMEA template from scratch"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Capstone project a full FMEA on a sample system"
+        }
+      ]
+    }
+  ]
+}

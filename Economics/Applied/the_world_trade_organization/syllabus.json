@@ -1,0 +1,307 @@
+{
+  "topic": "The World Trade Organization",
+  "topic_slug": "the_world_trade_organization",
+  "generated_at": "2026-09-25T05:02:22.534749",
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Origins and Institutional Foundations: From GATT to the WTO",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "GATT 1947 and the failed International Trade Organization (Havana Charter)"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Uruguay Round (1986-1994) and the Marrakesh Agreement Establishing the WTO"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The WTO's institutional architecture: Ministerial Conference, General Council, and Secretariat"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The single undertaking principle and the shift from provisional to permanent treaty status"
+        },
+        {
+          "item_index": 5,
+          "item_title": "WTO accession protocols and the negotiation of new member commitments"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Annex structure of the WTO Agreement: Annexes 1 through 4"
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Core Principles of the Multilateral Trading System",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Most-favored-nation treatment under GATT Article I and its exceptions"
+        },
+        {
+          "item_index": 2,
+          "item_title": "National treatment under GATT Article III and de jure versus de facto discrimination"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Tariff bindings, schedules of concessions, and the principle of reciprocity"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Transparency and notification obligations under the WTO agreements"
+        },
+        {
+          "item_index": 5,
+          "item_title": "General and security exceptions under GATT Articles XX and XXI"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Regional trade agreements and the Article XXIV exception to non-discrimination"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "The Three Pillars: GATT 1994, GATS, and TRIPS",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "GATT 1994 and its incorporation of the Annex 1A goods agreements"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Agreement on Subsidies and Countervailing Measures and anti-dumping disciplines"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Sanitary and Phytosanitary Measures and Technical Barriers to Trade Agreements"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The General Agreement on Trade in Services: modes of supply and commitment scheduling"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The TRIPS Agreement: minimum standards for intellectual property protection"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Overlapping treaty coverage: adjudicating claims that span GATT, GATS, and TRIPS"
+        }
+      ]
+    },
+    {
+      "chapter_index": 4,
+      "chapter_title": "The Dispute Settlement Understanding: Structure and Mechanics",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Consultations, panel requests, and the terms of reference under DSU Articles 4 and 6"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Panel composition, working procedures, and the applicable standard of review"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The reversed consensus rule for adopting panel and Appellate Body reports"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Implementation and the \"reasonable period of time\" under DSU Article 21"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Compliance review under Article 21.5 and the sequencing controversy"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Retaliation and suspension of concessions under Article 22 arbitration"
+        }
+      ]
+    },
+    {
+      "chapter_index": 5,
+      "chapter_title": "The Appellate Body Crisis and Contemporary Enforcement Reality",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Appellate Body's original design as a standing four-member division system"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The United States' blockade of Appellate Body appointments since December 2019"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Consequences: \"appeals into the void\" and the loss of binding two-tier review"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Multi-Party Interim Appeal Arbitration Arrangement as a workaround mechanism"
+        },
+        {
+          "item_index": 5,
+          "item_title": "WTO dispute settlement reform negotiations toward a permanent successor"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Forum shopping and the rise of alternatives to WTO adjudication"
+        }
+      ]
+    },
+    {
+      "chapter_index": 6,
+      "chapter_title": "Negotiating Rounds and the Politics of Consensus",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Uruguay Round's unfinished built-in agenda and its legacy commitments"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Doha Development Agenda: launch, ambition, and the single undertaking trap"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The 2003 Cancún Ministerial collapse over agriculture and the Singapore issues"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The 2008 modalities collapse and the special safeguard mechanism dispute"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Post-Doha piecemeal outcomes: the Bali Trade Facilitation Agreement through MC14"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The turn to plurilateralism: Joint Statement Initiatives and the erosion of the single undertaking"
+        }
+      ]
+    },
+    {
+      "chapter_index": 7,
+      "chapter_title": "Special Regimes: Agriculture, Services, and Intellectual Property",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The Agreement on Agriculture: market access, domestic support boxes, and export competition"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Peace Clause and the public stockholding dispute over food security"
+        },
+        {
+          "item_index": 3,
+          "item_title": "The Agreement on Fisheries Subsidies and its 2025 entry into force"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The e-commerce moratorium on customs duties for electronic transmissions and its 2026 lapse"
+        },
+        {
+          "item_index": 5,
+          "item_title": "TRIPS flexibilities: the Doha Declaration on TRIPS and Public Health and compulsory licensing"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The Investment Facilitation for Development Agreement and the Services Domestic Regulation Reference Paper"
+        }
+      ]
+    },
+    {
+      "chapter_index": 8,
+      "chapter_title": "Special and Differential Treatment and the Development Dimension",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Special and differential treatment provisions across the WTO agreement architecture"
+        },
+        {
+          "item_index": 2,
+          "item_title": "The Enabling Clause and the Generalized System of Preferences"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Least-developed country exemptions, transition periods, and duty-free quota-free access"
+        },
+        {
+          "item_index": 4,
+          "item_title": "The Aid for Trade initiative and trade-related technical assistance"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The self-designation debate over developing-country status"
+        },
+        {
+          "item_index": 6,
+          "item_title": "LDC graduation and the phase-out of preferential treatment eligibility"
+        }
+      ]
+    },
+    {
+      "chapter_index": 9,
+      "chapter_title": "Legitimacy, Power, and Reform Debates",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "The \"trade and...\" critique: labor standards and environmental carve-outs"
+        },
+        {
+          "item_index": 2,
+          "item_title": "Developing-country bargaining power and the informal Green Room process"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Transparency and civil society access to dispute settlement proceedings"
+        },
+        {
+          "item_index": 4,
+          "item_title": "National security exceptions: Article XXI invocations and non-discrimination under strain"
+        },
+        {
+          "item_index": 5,
+          "item_title": "The single undertaking versus plurilateralism debate over institutional flexibility"
+        },
+        {
+          "item_index": 6,
+          "item_title": "The WTO reform work programme: decision-making, special and differential treatment, and the level playing field debate"
+        }
+      ]
+    },
+    {
+      "chapter_index": 10,
+      "chapter_title": "Practitioner Pathways in Multilateral Trade Governance",
+      "items": [
+        {
+          "item_index": 1,
+          "item_title": "Careers within the WTO Secretariat and its divisional structure"
+        },
+        {
+          "item_index": 2,
+          "item_title": "National trade ministry and Geneva permanent mission career tracks"
+        },
+        {
+          "item_index": 3,
+          "item_title": "Trade law practice: representing members and private parties before WTO panels"
+        },
+        {
+          "item_index": 4,
+          "item_title": "Academic and think tank research pathways in international trade law and policy"
+        },
+        {
+          "item_index": 5,
+          "item_title": "Professional credentialing: trade law LLMs and specialized negotiation training"
+        },
+        {
+          "item_index": 6,
+          "item_title": "Adjacent institutions: UNCTAD, regional development banks, and preferential trade bodies"
+        }
+      ]
+    }
+  ]
+}
